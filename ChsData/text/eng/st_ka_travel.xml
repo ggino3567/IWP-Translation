@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+    <string id="ka_travel_dialog_ask"><text>我需要一个靠得住的向导.你能安排吗? </text></string>
+    <string id="ka_travel_dialog_response"><text>没问题. 去哪儿? </text></string>
+    <string id="ka_travel_dialog_nevermind"><text>当我没说.</text></string>
+    <string id="ka_travel_dialog_accept"><text>成交.</text></string>
+    <string id="ka_travel_dialog_change"><text>其实, 我得去别的地方...</text></string>
+    <string id="ka_travel_dialog_deny"><text>太贵了.</text></string>
+    <string id="ka_travel_dialog_cost"><text>收你%c[255,255,165,0]%s卢布.公平买卖,童叟无欺!</text></string>
+    
+    <string id="ka_travel_dialog_zaton"><text>河湾-斯卡多夫斯克</text></string>
+    <string id="ka_travel_dialog_jupiter"><text>木星-亚尼夫车站</text></string>
+    <string id="ka_travel_dialog_yantar"><text>杨塔-科学家基地</text></string>
+    <string id="ka_travel_dialog_cordon"><text>封锁线-新手村</text></string>
+    <string id="ka_travel_dialog_bar"><text>辐射100酒吧</text></string>
+    <string id="ka_travel_dialog_warehouses"><text>军事仓库</text></string>
+    <string id="ka_travel_dialog_city"><text>死城-体育中心</text></string>
+    <string id="ka_travel_dialog_agroprom"><text>农业研究所</text></string>
+    <string id="ka_travel_dialog_swamp"><text>大沼泽-"晴空"基地</text></string>
+    <string id="ka_travel_dialog_darkvalley"><text>黑暗山谷-"强盗"基地</text></string>    
+</string_table>

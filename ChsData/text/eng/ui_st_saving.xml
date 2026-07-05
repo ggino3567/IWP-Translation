@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+
+	<string id="st_ui_save"><text>保存</text></string>
+	
+	<string id="st_ui_no_save_timer"><text>计时器处于激活状态, 你还不能%s. </text></string>
+	
+	<string id="st_ui_no_save_campfire"><text>你只能在点燃的营火附近%s. </text></string>
+	
+	<string id="st_ui_no_save_combat"><text>你无法在战斗期间%s. </text></string>
+	
+	<string id="st_ui_no_save_surge"><text>你无法在辐射风暴或精神风暴期间%s. </text></string>
+	
+	<string id="st_ui_no_save_bleed"><text>你无法在流血时%s. </text></string>
+	
+	<string id="st_ui_no_save_radiation"><text>你无法在受到辐射时%s. </text></string>
+	
+	<string id="st_ui_no_save_bleed_radiation"><text>你无法在流血或受到辐射时%s. </text></string>
+	
+	<string id="st_ui_no_save_injury_1"><text>你无法在遭受中度伤害时%s. </text></string>
+	
+	<string id="st_ui_no_save_injury_2"><text>你无法在遭受严重伤害时%s. </text></string>
+	
+	<string id="st_ui_no_save_injury_3"><text>你无法在遭受重伤时%s. </text></string>
+	
+	<string id="st_ui_no_save_injury_4"><text>你无法在遭受致命伤害时%s. </text></string>
+	
+	<string id="st_you_cant_save"><text>你只能在点燃的营火附近保存. </text></string>
+	
+    <string id="quicksave"><text>quicksave</text></string>
+    <string id="autosave"><text>autosave</text></string>
+    <string id="campfire_autosave"><text>campfire save</text></string>	
+	
+</string_table>

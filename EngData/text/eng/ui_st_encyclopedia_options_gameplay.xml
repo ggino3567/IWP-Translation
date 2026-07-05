@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	
+	<string id="encyclopedia_options_gameplay">
+		<text>Gameplay Settings</text>
+	</string>
+	
+	<string id="encyclopedia_options_gameplay_aoe_pickup_mode">
+		<text>Loot Autopickup</text>
+	</string>
+	<string id="encyclopedia_options_gameplay_aoe_pickup_mode_text">
+		<text>
+			The %c[0,153,255,255]“Loot Autopickup”%c[0,140,140,140] option allows picking up several items from the ground that are at a certain distance from the player.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nIf the option is enabled, the player can pick up several items at once with a single key press - just like in S.T.A.L.K.E.R. “Call of Pripyat”.\n
+			\nBy default, this option is disabled. It can be enabled in the gameplay settings menu.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_options_gameplay_artefact_degradation">
+		<text>Degrading Artifacts</text>
+	</string>
+	<string id="encyclopedia_options_gameplay_artefact_degradation_text">
+		<text>
+			The %c[0,153,255,255]“Degrading Artifacts”%c[0,140,140,140] option enables the gradual loss of artifact properties.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe option allows artifacts to lose their properties - the more intensely they are used, the faster they weaken. Now possessing the best artifacts is not the end of the hunt for them, but stimulates further searches. Finding these amazing anomalous formations becomes necessary to maintain your level of protection, rather than just providing a quick profit.\n
+			\nThis option can be enabled in the gameplay settings menu. By default, it is disabled.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_options_gameplay_delayed_repairs">
+		<text>Delayed Repairs</text>
+	</string>
+	<string id="encyclopedia_options_gameplay_delayed_repairs_text">
+		<text>
+			%c[0,153,255,255]Delayed Repairs%c[0,140,140,140] means you give the mechanic your equipment for a certain period, and collect the repaired items only after some time.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nIf the option is enabled, broken weapons, suits, and helmets you bring to the mechanic will be stored with him until all repair work is completed.\n
+			\nDuring a conversation with the mechanic, you can find out whether your equipment is ready, and if not, how much more time is required for the repair to be finished.\n
+			\nThis adds realism to the repair system and is suitable for players seeking a more realistic experience, as the work is no longer done instantly and encourages the use of repair and sewing kits.\n
+			\nThis option can be enabled in the gameplay settings menu. By default, it is disabled.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_options_gameplay_difficulty">
+		<text>Difficulty</text>
+	</string>
+	<string id="encyclopedia_options_gameplay_difficulty_text">
+		<text>
+			%c[0,153,255,255]Game Difficulty%c[0,140,140,140] is chosen in the settings.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe difficulty settings have been completely updated and changed because the confusing names and uncertainty about what they did to the game convinced us of the need for a fundamental overhaul.\n
+			\nThe gameplay is balanced with the “normal” difficulty level, which is the recommended choice for the first playthrough.\n
+			\nTwo other options allow the game to be made easier or harder, and a third increases the difficulty to the maximum, making the Zone utterly unforgiving to the protagonist.\n
+			\n%c[0,0,255,30]Features:%c[0,140,140,140]
+			\n%c[0,200,0,255]• %c[0,140,140,140]Choosing ammunition and weapons is crucial for survival.
+			\n%c[0,200,0,255]• %c[0,140,140,140]Bleeding is more dangerous than before.
+			\n%c[0,200,0,255]• %c[0,140,140,140]High difficulty levels are truly challenging and require skill.
+			\n%c[0,200,0,255]• %c[0,140,140,140]Low difficulty levels are now not tedious and are what they should be.
+			\n%c[0,200,0,255]• %c[0,140,140,140]Mutants are very dangerous and should be avoided.
+			\n%c[0,200,0,255]• %c[0,140,140,140]High-quality equipment does not guarantee invulnerability.
+		</text>
+	</string>	
+	
+	<string id="encyclopedia_options_gameplay_helicopter_patrols">
+		<text>Helicopter Patrol</text>
+	</string>
+	<string id="encyclopedia_options_gameplay_helicopter_patrols_text">
+		<text>
+			%c[0,153,255,255]Helicopter Patrol%c[0,140,140,140] allows a faction to use air support during combat.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nA faction with helicopters will have the ability to request air support when engaging hostile stalkers (including the player) and mutants.\n
+			\nDespite their intimidating appearance, helicopters can be easily shot down by damaging the tail rotor.\n
+			\nThe sound of the helicopter rotor can annoy many and can be turned off.\n
+			\nThis option can be turned off in the gameplay settings menu. By default, it is enabled.\n
+			\nLocations with air patrols:\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Agroprom\n%c[0,200,0,255]• %c[0,140,140,140]Cordon\n%c[0,200,0,255]• %c[0,140,140,140]Dark Valley\n%c[0,200,0,255]• %c[0,140,140,140]Swamps\n%c[0,200,0,255]• %c[0,140,140,140]Limansk
+		</text>
+	</string>
+	
+	<string id="encyclopedia_options_gameplay_localisation">
+		<text>Localization</text>
+	</string>
+	<string id="encyclopedia_options_gameplay_localisation_text">
+		<text>
+			%c[0,153,255,255]Localization%c[0,140,140,140] - game language selection.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe language can be changed only in the main menu using the special icons (you cannot change the language during gameplay).\n
+			\n%c[0,0,255,30]Supported languages:%c[0,140,140,140]
+			\n%c[0,200,0,255]• %c[0,140,140,140]English\n%c[0,200,0,255]• %c[0,140,140,140]Russian
+		</text>
+	</string>
+	
+	<string id="encyclopedia_options_gameplay_online_exclusion">
+		<text>Spawn Exclusion</text>
+	</string>
+	<string id="encyclopedia_options_gameplay_online_exclusion_text">
+		<text>
+			The %c[0,153,255,255]“Spawn Exclusion”%c[0,140,140,140] option creates an area around the protagonist preventing the spawn of mutants and other stalkers dangerously close to the player.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nDuring the exploration of locations, near their edges and transition points, you may be attacked by enemies arriving from other game levels. With spawn exclusion enabled, their appearance is delayed until you move a safe distance away.\n
+			\nNote that this system works only around the player. Any enemies that already exist in a specific place at this level will not disappear when you approach them in the location.\n
+			\nThe spawn exclusion radius can be adjusted using the game settings menu. By default, it is set to 50 meters.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_options_gameplay_population_factors">
+		<text>Population Factors</text>
+	</string>
+	<string id="encyclopedia_options_gameplay_population_factors_text">
+		<text>
+			%c[0,153,255,255]Population Factors%c[0,140,140,140] are coefficients of the number of stalkers and mutants existing in the Zone.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe coefficients for the number of stalkers and mutants can be adjusted independently of each other, allowing the player to decide how dangerous or calm the Zone should be without the need to modify game files.\n
+			\nNote that the effect is immediate only when starting a new game. During gameplay, changes take effect only after the existing stalkers and/or mutants die and are respawned in greater or lesser numbers.\n
+			\nThese coefficients can be adjusted in the game settings menu. By default, they are set to 0.5.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_options_gameplay_quicksave_count">
+		<text>Quick Saves</text>
+	</string>
+	<string id="encyclopedia_options_gameplay_quicksave_count_text">
+		<text>
+			%c[0,153,255,255]Quick Saves%c[0,140,140,140] have an important feature - their number can be more than one.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nIn a quick save, the file name will end with its ordinal number.\n
+			\nThis allows you to make several saves before they start to be replaced by others.\n
+			\nThis feature allows you to replay some less successful moments.\n
+			\nThe number of quick saves can be set in the game settings and by default is five.
+		</text>
+	</string>	
+	
+	<string id="encyclopedia_options_gameplay_radio_music">
+		<text>Radio Music</text>
+	</string>
+	<string id="encyclopedia_options_gameplay_radio_music_text">
+		<text>
+			%c[0,153,255,255]“Radio Music”%c[0,140,140,140] enables the playback of musical compositions on the radio in certain areas of the game world.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nIn some areas of the Zone, radio receivers are installed, each playing a set of musical tracks for the entertainment of stalkers.\n
+			\nThis option can be turned off in the gameplay settings menu. By default, it is enabled.\n
+			\nLocations in the Zone where radio receivers are operational:\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Agroprom: Agroprom Research Institute\n%c[0,200,0,255]• %c[0,140,140,140]Cordon: Sidorovich's bunker\n%c[0,200,0,255]• %c[0,140,140,140]Swamps: Clear Sky base\n%c[0,200,0,255]• %c[0,140,140,140]Dark Valley: Northern factory\n%c[0,200,0,255]• %c[0,140,140,140]Rostok: “100 Rads” bar\n%c[0,200,0,255]• %c[0,140,140,140]Red Forest: Forester's hut
+		</text>
+	</string>
+	
+</string_table>

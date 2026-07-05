@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="ui_hint_difficulty">
+		<text>Affects damage and survivability of the player, mutants and stalkers.\n \nDefault: %c[255,216,186,140]"Stalker"</text>
+	</string>
+	
+	<string id="ui_hint_hold_breath">
+		<text>Responsible for the mechanics of breath holding in scopes.\n \nThe key must be assigned in the control options.\n \nDefault: %c[255,216,186,140]"Enabled"</text>
+	</string>	
+	
+	<string id="ui_hint_suppression">
+		<text>The effect of bullets flying nearby.\n \nDefault: %c[255,216,186,140]"Enabled"</text>
+	</string>		
+	
+	<string id="ui_hint_important_save">
+		<text>Automatic saving during transitions between locations.\n \nDefault: %c[255,216,186,140]"Disabled"</text>
+	</string>	
+
+	<string id="ui_hint_show_tracers">
+		<text>Display tracers on bullets that have them.\n \nDefault: %c[255,216,186,140]"Enabled"</text>
+	</string>	
+
+	<string id="ui_hint_dead_body_collision">
+		<text>Physical handling of player collisions with the bodies of mutants and stalkers.\n \nDefault: %c[255,216,186,140]"Player"</text>
+	</string>	
+
+	<string id="ui_hint_cop_pickup_mode">
+		<text>Allows you to pick up several items from the ground at once, lying at a certain distance from the player.\n \nDefault: %c[255,216,186,140]"Disabled"</text>
+	</string>	
+
+	<string id="ui_hint_wallmarks">
+		<text>Display of wound marks on the bodies of mutants and stalkers.\n \nDefault: %c[255,216,186,140]"Enabled"</text>
+	</string>	
+
+	<string id="ui_hint_discord">
+		<text>Displays the status of the game in your Discord profile.\n \nDefault: %c[255,216,186,140]"Enabled"</text>
+	</string>	
+
+	<string id="ui_hint_tips">
+		<text>Includes character recognition: name, grouping, and relation to the player (when aiming at a character, if enabled).\n \nDefault: %c[255,216,186,140]"Enabled"</text>
+	</string>	
+
+	<string id="ui_hint_show_crosshair">
+		<text>Displays the crosshairs of the scope.\n \nDefault: %c[255,216,186,140]"Disabled"</text>
+	</string>	
+
+	<string id="ui_hint_dyn_crosshair">
+		<text>Switches the scope to dynamic mode (the crosshairs will change size depending on the player's actions).\n \nDefault: %c[255,216,186,140]"Enabled"</text>
+	</string>	
+
+	<string id="ui_hint_show_weapon">
+		<text>First-person display of hand models, weapons, and items.\n \nDefault: %c[255,216,186,140]"Enabled"</text>
+	</string>	
+
+	<string id="ui_hint_crosshair_distance">
+		<text>Shows the distance to the target or object at which the crosshairs are pointed.\n \nDefault: %c[255,216,186,140]"Disabled"</text>
+	</string>	
+	
+	<string id="ui_hint_update_loot_pick_soc">
+		<text>Refreshes inventory cells if you pick up or relocate items from corpses or crates.\n \nDefault: %c[255,216,186,140]"Enabled"</text>
+	</string>	
+
+	<string id="ui_hint_mode_crosshair">
+		<text>Allows you to select the behavior of the crosshair.\n \nDefault: %c[255,216,186,140]"Standard"</text>
+	</string>	
+
+	<string id="ui_hint_type_crosshair">
+		<text>Allows you to select the type of crosshair.\n \nDefault: %c[255,216,186,140]"Compact"</text>
+	</string>	
+
+	<string id="ui_hint_hud_draw">
+		<text>Displays basic information for the player (minimap, quick slots, ammo count and main character status information).\n \nDefault: %c[255,216,186,140]"Enabled"</text>
+	</string>	
+
+	<string id="ui_hint_debug_hud">
+		<text>Displays various debugging information about the gameplay (for modmakers only).\n \nDefault: %c[255,216,186,140]"Disabled"</text>
+	</string>	
+
+	<string id="ui_hint_localization_rus">
+		<text>Позволяет выбрать нужный вам язык (во время игрового процесса сменить язык нельзя).</text>
+	</string>
+	
+	<string id="ui_hint_localization_eng">
+		<text>Allows you to select the language you want (you cannot change the language during gameplay).</text>
+	</string>	
+
+	<string id="ui_hint_slot_hud">
+		<text>Displays artifact slots and information about current partners (on the main screen).\n \nDefault: %c[255,216,186,140]"Enabled"</text>
+	</string>	
+
+	<string id="ui_hint_actor_hit">
+		<text>The effect of negative influences on the player.\n \nDefault: %c[255,216,186,140]"Enabled"</text>
+	</string>	
+
+	<string id="ui_hint_actor_bleeding">
+		<text>The effect of bleeding or low health.\n \nDefault: %c[255,216,186,140]"Enabled"</text>
+	</string>	
+
+	<string id="ui_hint_show_enemy_health">
+		<text>Displays the amount of health the current opponent has.\n \nDefault: %c[255,216,186,140]"Enabled"</text>
+	</string>	
+
+	<string id="ui_hint_release_dropped_items">
+		<text>Over time, dropped items are removed from the world.\n \nDefault: %c[255,216,186,140]"Enabled"</text>
+	</string>	
+
+	<string id="ui_hint_radio_mod">
+		<text>Includes playing music on the radio at specific locations in the game world.\n \nDefault: %c[255,216,186,140]"Enabled"</text>
+	</string>	
+
+	<string id="ui_hint_mechanic_feature">
+		<text>This option is responsible for the repair time of items (repair is not instantaneous and directly depends on the condition of the item).\n \nDefault: %c[255,216,186,140]"Disabled"</text>
+	</string>	
+	
+	<string id="ui_hint_heli_engine_sound">
+		<text>The sound of helicopter blades.\n \nDefault: %c[255,216,186,140]"Enabled"</text>
+	</string>	
+
+	<string id="ui_hint_heli_spawn">
+		<text>Responsible for the appearance of helicopters in the Zone.\n \nDefault: %c[255,216,186,140]"Enabled"</text>
+	</string>	
+
+	<string id="ui_hint_dynamic_news">
+		<text>Displays messages about any news in the Zone.\n \nDefault: %c[255,216,186,140]"Enabled"</text>
+	</string>	
+
+	<string id="ui_hint_art_degrade">
+		<text>Over time, found artifacts will lose their properties if they are hung on a belt and used in any way (such as protecting the wearer from harmful effects).\n \nDefault: %c[255,216,186,140]"Disabled"</text>
+	</string>	
+
+	<string id="ui_hint_alife_mutant_pop">
+		<text>Mutant population ratio in Zone.\n \nDefault: %c[255,216,186,140]"0.5"</text>
+	</string>	
+
+	<string id="ui_hint_alife_stalker_pop">
+		<text>Stalker population ratio in the Zone.\n \nDefault: %c[255,216,186,140]"0.5"</text>
+	</string>	
+
+	<string id="ui_hint_excl_dist">
+		<text>The distance at which the spamming of mutants and other stalkers in dangerous proximity to the player is prevented.\n \nDefault: %c[255,216,186,140]"50"</text>
+	</string>	
+
+	<string id="ui_hint_quicksave_cnt">
+		<text>The number of quick saves a player can make.\n \nDefault: %c[255,216,186,140]"5"</text>
+	</string>	
+
+	<string id="ui_hint_char_portrait">
+		<text>An initial portrait of the protagonist.</text>
+	</string>	
+
+	<string id="ui_hint_outfit_portrait">
+		<text>Changes the original portrait accordingly to your character's current outfit.\n \nDefault: %c[255,216,186,140]"Enabled"</text>
+	</string>	
+
+	<string id="ui_hint_sim_on_all_levels">
+		<text>Includes simulation of life (A-life) throughout the Zone, not just in locations that are connected to the one where the player is at the moment (after enabling this option, the simulation of life becomes extremely unpredictable, strange or incorrect).\n \nThe changes will take effect after restarting the game or moving to another location.\n \nDefault: %c[255,216,186,140]"Disabled"</text>
+	</string>	
+
+	<string id="ui_hint_pdaoff">
+		<text>Disables the PDA screen if an "Emission" or "Psi-storm" begins (the screen will show errors and disturbances).\n \nDefault: %c[255,216,186,140]"Enabled"</text>
+	</string>	
+
+	<string id="ui_hint_pdaoff1">
+		<text>Disables the PDA screen if the player is in underground locations (the screen will show errors and disturbances).\n \nDefault: %c[255,216,186,140]"Enabled"</text>
+	</string>	
+	
+	<string id="ui_hint_fast_travel">
+		<text>Activates the ability to fast travel around via PDA using special icons (green house) that open as you explore game locations.\n \nThe changes will take effect after: restarting the game, restarting the level or moving to another location.\n \nDefault: %c[255,216,186,140]"Enabled"</text>
+	</string>	
+
+</string_table>

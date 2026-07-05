@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<!-- ASSAULT BANDIT BASE FOR SIDOROVICH TASK -->
+	<string id="esc_m_trader_task_1_name">
+		<text>Eliminate Bandit Camp for Sidorovich</text>
+	</string>
+	<string id="esc_m_trader_task_1_text">
+		<text>Stage an assault on the car park and eliminate the bandits that occupy the location.</text>
+	</string>
+	<string id="esc_m_trader_task_1_about">
+		<text>%c[ui_8]Bandits have taken up base in the old car park. These assholes mug or kill anyone who use the roads leading in and out of the camp. It is disrupting local activities for my clients and the stalkers who take refuge in camp. It's hurting business! I need you to "take care" of them. If you want, talk to Fanatic, he may be able to offer you assistance.\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="esc_m_trader_task_1_finish">
+		<text>Great work, stalker! You and I will be best of friends if you keep this up! Here is what I promised.</text>
+	</string>
+
+	<!-- ASSASSINATION FOR SIDOROVICH TASK -->
+	<string id="esc_m_trader_task_2_name">
+		<text>Kill stalker for Sidorovich</text>
+	</string>
+	<string id="esc_m_trader_task_2_text">
+		<text>Sidorovich contracted you to run a hit. Find and eliminate the target then return to Sidorovich for payment.</text>
+	</string>
+	<string id="esc_m_trader_task_2_about">
+		<text>%c[ui_8]I have a list of outstanding bounties and stalkers that need taken care of. Some of them can be the worst kind of scum or just poor fellow who was in the wrong place at the wrong time... But it should not bother you and I do not care what you are thinking about it. I just need you to take care about one of those and do the job quietly. What do you say?\n\n%c[255,255,165,0][This task involves killing a friendly or neutral stalker, which will result in a loss of reputation. Witnesses may disapprove and could attack the player]</text>
+	</string>
+	<string id="esc_m_trader_task_2_finish">
+		<text>Good, you got rid of that asshole! Here is what I promised.</text>
+	</string>
+
+	<!-- FIND ARTEFACT FOR SIDOROVICH TASK -->
+	<string id="esc_m_trader_task_3_name">
+		<text>Find the %s artefact for Sidorovich</text>
+	</string>
+	<string id="esc_m_trader_task_3_text">
+		<text>Sidorovich wants you to find the %s artefact for him.</text>
+	</string>
+	<string id="esc_m_trader_task_3_about">
+		<text>Artefact - that is business inside and outside the Zone. I want you to find an artefact for me. Are you interested?</text>
+	</string>
+	<string id="esc_m_trader_task_3_fetch_about">
+		<text>%c[ui_8]I'm looking for the %c[ui_orange]%s%c[ui_8] artefact. If you find one, bring it back to me, and I will pay you well.</text>
+	</string>
+	<string id="esc_m_trader_task_3_fetch_finish">
+		<text>Great job, stalker. Here's what I promised.</text>
+	</string>
+
+	<!-- ELIMINATE MUTANTS FOR VOLK TASK -->
+	<string id="esc_2_12_stalker_wolf_task_1_name">
+		<text>Hunt Mutants for Wolf</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_1_text">
+		<text>Wolf asked you to purge an area of all mutant threat in order to ensure the safety of rookie village; as well as the stalkers who pass through Cordon. Reach the location and eliminate all mutants around the area. Return to Wolf for payment after you job is complete.</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_1_about">
+		<text>%c[ui_8]Stalker, I need someone to who is a bit more experienced than the rookies for a task. Cordon is becoming a very dangerous place with all this rampant mutant breeding going on. I need you to hunt around an area that I will mark on your PDA. The job is to kill any mutants you see. If you do this for me, it will earn you some cash. So will you?\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="esc_2_12_stalker_wolf_task_1_finish">
+		<text>Thank you, the rookies will be much safer now because of you. Here is your payment.</text>
+	</string>
+
+	<!-- FIND LEVEL 1 TOOLS FOR MECHANIC TASK -->
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_name">
+		<text>Find %s for Xenotech</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_text">
+		<text>%s are required by Xenotech to install basic equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_about">
+		<text>I need a favour, man. A lot of stalkers come by here asking if I can tune their weapons a certain way but I can't. I just don't have the right tools. I would be able to perform upgrades on a greater variety of equipment if I can just get my hands on the right tools. Please, man, will you help me out?</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_fetch_about">
+		<text>%c[ui_8]I need a set of %c[ui_orange]%s%c[ui_8]. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_fetch_finish">
+		<text>Okay, yeah, this is exactly what I need. Here, I promised you payment; take it.</text>
+	</string>
+
+	<!-- FIND LEVEL 2 TOOLS FOR MECHANIC TASK -->
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_name">
+		<text>Find %s for Xenotech</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_text">
+		<text>%s are required by Xenotech to install advanced equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_about">
+		<text>My business is booming now, more and more stalkers come to me when they need their weapon fine-tuned. But I could really use more tools. You brought me a quality toolkit last time but I need an even higher quality set. If you are interested, I will tell you what I need.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_fetch_about">
+		<text>%c[ui_8]I need an %c[ui_orange]%s%c[ui_8]. If you can bring one back for me I will be grateful, I will even pay you for it.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_fetch_finish">
+		<text>Yes, yes! Here is some cash, you deserve it.</text>
+	</string>
+
+	<!-- FIND LEVEL 3 TOOLS FOR MECHANIC TASK -->
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_name">
+		<text>Find %s for Xenotech</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_text">
+		<text>%s are required by Xenotech to install expert equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_about">
+		<text>My business is booming now, more and more stalkers come to me when they need their weapon fine-tuned. But I could really use more tools. You brought me a quality toolkit last time but I need an even higher quality set. If you are interested, I will tell you what I need.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_fetch_about">
+		<text>%c[ui_8]I need an %c[ui_orange]%s%c[ui_8]. If you can bring one back for me I will be grateful, I will even pay you for it.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_fetch_finish">
+		<text>Yes, yes! Here is some cash, you deserve it.</text>
+	</string>
+
+	<!-- FIND WEAPON FOR MECHANIC TASK -->
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_4_name">
+		<text>Find %s for Xenotech</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_4_text">
+		<text>Xenotech asked for %s. It needs to be in good condition.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_4_about">
+		<text>I need a certain gun. If you are interested in the job, I will give you more details. What would you say?</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_4_fetch_about">
+		<text>%c[ui_8]I need a specific weapon. Right now, I'm looking for a %c[ui_orange]%s%c[ui_8] in good condition. I think it won't be hard for you to find. If it needs fixing, use a %c[ui_orange]gunsmith kit%c[ui_8] or you can bring it to me - I'll help, but not for free.</text>
+	</string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_4_fetch_finish">
+		<text>Great! Exactly what I need.</text>
+	</string>
+
+</string_table>

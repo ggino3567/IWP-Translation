@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="st_artefact_needed">
+		<text>Requires the artifact Gimlet or Compass</text>
+	</string>
+
+	<string id="st_artefact_broken">
+		<text>The artifact is discharged</text>
+	</string>	
+		
+	<string id="st_af_medusa_name">
+		<text>Jellyfish</text>
+	</string>
+	<string id="st_af_medusa_descr">
+		<text>This gravitational artefact attracts and absorbs radioactive particles, reducing the effects of radiation on the body. Very common in the Zone and is unofficially used outside the Zone for treating acute radiation sickness in exceptional circumstances.\n \n%c[0,1,255,255]•%c[default] Rank: 1</text>
+	</string>
+	<string id="st_af_vyvert_name">
+		<text>Wrenched</text>
+	</string>
+	<string id="st_af_vyvert_descr">
+		<text>This bizarrely-shaped artefact appears in places with increased gravitational activity. Acting as a kind of sponge that absorbs radioactive elements, this artefact provides protection from outside radiation as well as from radioactive particles that have already made their way into the body.\n \n%c[0,1,255,255]•%c[default] Rank: 2</text>
+	</string>
+	<string id="st_af_cristall_flower_name">
+		<text>Stone Flower</text>
+	</string>
+	<string id="st_af_cristall_flower_descr">
+		<text>This artefact is made up of a granite-like stone deformed by an extreme gravitational force, resulting in a crystallized formation that has not been explained by science to date. Can provide moderate protection against psi-emissions and is radioactive.\n \n%c[0,1,255,255]•%c[default] Rank: 1</text>
+	</string>
+	
+	<string id="st_af_night_star_name">
+		<text>Night Star</text>
+	</string>
+	<string id="st_af_night_star_descr">
+		<text>This glowing artefact can generate a local directed low-gravity field. Widely used by stalkers along with Gravi, a similar artefact, to increase maximum load. Emits radiation.\n \n%c[0,1,255,255]•%c[default] Rank: 1</text>
+	</string>
+	<string id="st_af_cocoon_name">
+		<text>Cocoon</text>
+	</string>
+	<string id="st_af_cocoon_descr">
+		<text>An artifact of gravitational nature. It significantly reduces the weight of the carried load, which is highly valued by stalkers.\n \n%c[0,1,255,255]•%c[default] Rank: 1</text>
+	</string>
+	<string id="st_af_gravi_name">
+		<text>Gravi</text>
+	</string>
+	<string id="st_af_gravi_descr">
+		<text>Gravi is formed from metallic substances exposed to prolonged gravitation. This makes it capable of sustaining an anti-gravitational field, and many stalkers use it to reduce the weight of their backpacks. Emits radiation.\n \n%c[0,1,255,255]•%c[default] Rank: 2</text>
+	</string>
+	<string id="st_af_cell_name">
+		<text>Cell</text>
+	</string>
+	<string id="st_af_cell_descr">
+		<text>The artifact generates a local gravitational field that significantly reduces the force of gravity. It is quite rare but can still be found in places of anomalous gravitational activity.\n \n%c[0,1,255,255]•%c[default] Rank: 3</text>
+	</string>
+	<string id="st_af_gold_fish_name">
+		<text>Goldfish</text>
+	</string>
+	<string id="st_af_gold_fish_descr">
+		<text>The result of an interaction between a large number of gravitational fields, Goldfish produces its own powerful internally directed gravitational field, which renders items within its range almost weightless. This artefact is most effective for reducing carried weight, which explains why it is always in great demand. Emits radiation.\n \n%c[0,1,255,255]•%c[default] Rank: 3</text>
+	</string>
+	
+	<string id="st_af_fountain_name">
+		<text>Fountain</text>
+	</string>
+	<string id="st_af_fountain_descr">
+		<text>Despite the absence of any obvious gravitational effects, "Fountain" prevents the movement of objects in a small area around it. According to one theory of scientists, this is due to the artifact generating an unknown field. Interestingly, the artifact's effect is more noticeable the faster a moving object is, which has led stalkers to use it as a protective element. Radioactive.\n \n%c[0,1,255,255]•%c[default] Rank: 2</text>
+	</string>
+	<string id="st_af_spaika_name">
+		<text>Spaika</text>
+	</string>
+	<string id="st_af_spaika_descr">
+		<text>Externally resembles a fossilized formation. It exhibits properties similar to the artifact "Fountain," but more pronounced, which makes it of special interest to scientists. Radioactive.\n \n%c[0,1,255,255]•%c[default] Rank: 3</text>
+	</string>
+	<string id="st_af_signet_name">
+		<text>Signet</text>
+	</string>
+	<string id="st_af_signet_descr">
+		<text>Stalkers also call this artifact "Amulet." Its properties include the ability to create a powerful, yet unstudied, field in a small radius that reduces the kinetic energy of any moving objects entering its area of effect. Radioactive.\n \n%c[0,1,255,255]•%c[default] Rank: 4</text>
+	</string>
+	<string id="st_af_repei_name">
+		<text>Repeinik</text>
+	</string>
+	<string id="st_af_repei_descr">
+		<text>Generated by anomalies of the gravitational type. It cannot be said that it possesses particularly valuable properties, but the absence of any harmful effects on the body makes it attractive to many stalkers.\n \n%c[0,1,255,255]•%c[default] Rank: 2</text>
+	</string>
+	<string id="st_af_bat_name">
+		<text>Bat</text>
+	</string>
+	<string id="st_af_bat_descr">
+		<text>An anomalous formation, similar in magnetic properties to metals of super-high density. However, it has a relatively low specific mass. Creates a fairly powerful gravitational field. Considered rare due to the difficulty of detection. Surprisingly, the artifact is completely non-radioactive.\n \n%c[0,1,255,255]•%c[default] Rank: 3</text>
+	</string>
+	<string id="st_af_sun_name">
+		<text>Sun</text>
+	</string>
+	<string id="st_af_sun_descr">
+		<text>A very rare formation of a symbiosis of gravitational and thermal anomalies. Presumably, it is an alloy of the artifacts "Sandstone" and "Gravi." Despite a number of useful characteristics, it is worth remembering that the "Sun" is an extremely radioactive artifact.\n \n%c[0,1,255,255]•%c[default] Rank: 3</text>
+	</string>
+	<string id="st_af_ear_name">
+		<text>Heart</text>
+	</string>
+	<string id="st_af_ear_descr">
+		<text>It's hard to say why this artifact got its name: because of its appearance or because of its excellent healing properties. But what is even more surprising is that the "Heart" has properties that are absolutely atypical for products of gravitational anomalies, which once again speaks to the fact that humans are still very far from understanding the mechanisms at work in the Zone.\n \n%c[0,1,255,255]•%c[default] Rank: 3</text>
+	</string>
+	<string id="st_af_chelust_name">
+		<text>Chain</text>
+	</string>
+	<string id="st_af_chelust_descr">
+		<text>A typical product of gravitational anomalies with typical properties. Does not protect against induced radiation, but does a good job of reducing the dose already received.\n \n%c[0,1,255,255]•%c[default] Rank: 3</text>
+	</string>
+	<string id="st_af_atom_name">
+		<text>Atom</text>
+	</string>
+	<string id="st_af_atom_descr">
+		<text>An anomalous formation of rare beauty. It looks more like a model of a planet with four satellites arranged on one orbit along the central symmetry. However, besides its unusual appearance, it also has a whole range of invaluable characteristics. Extremely radioactive.\n \n%c[0,1,255,255]•%c[default] Rank: 4</text>
+	</string>
+
+	
+	<string id="st_af_lighthouse_name">
+		<text>Lighthouse</text>
+	</string>
+	<string id="st_af_lighthouse_descr">
+		<text>A super-dense mass of substance. When exposed to a radioactive environment, it can emit a cloud of colorless gas with strong neutralizing properties. However, careless handling of this artifact can lead to serious health consequences and even death.\n \n%c[0,1,255,255]•%c[default] Rank: 4</text>
+	</string>
+	
+	<string id="st_af_cristall_name">
+		<text>Crystal</text>
+	</string>
+	<string id="st_af_cristall_descr">
+		<text>This artefact is formed in anomalous zones with intense thermal activity. Actively consumes excessive heat, remaining cool to the touch throughout. Emits radiation.\n \n%c[0,1,255,255]•%c[default] Rank: 1</text>
+	</string>
+	<string id="st_af_fireball_name">
+		<text>Fireball</text>
+	</string>
+	<string id="st_af_fireball_descr">
+		<text>Even though Fireball is a thermal artefact, it can be handled without fear of being burned. This artefact is valued for its ability to maintain a temperature of 75 degrees Fahrenheit within a small radius, virtually regardless of its surroundings. Emits radiation.\n \n%c[0,1,255,255]•%c[default] Rank: 2</text>
+	</string>
+	<string id="st_af_fire_loop_name">
+		<text>Fire Loop</text>
+	</string>
+	<string id="st_af_fire_loop_descr">
+		<text>The necessary condition for generating this artifact is the influence and close proximity of a thermal anomaly. Its ability to lower the temperature in a small radius makes it a good thermal protection element.\n \n%c[0,1,255,255]•%c[default] Rank: 3</text>
+	</string>
+	
+	<string id="st_af_dummy_glassbeads_name">
+		<text>Mama's Beads</text>
+	</string>
+	<string id="st_af_dummy_glassbeads_descr">
+		<text>Much about this artefact remains a complete mystery to scientists. At the same time, it is known for certain that emissions produced by pulses in its thicker sections force blood in open wounds to clot quicker, forming a protective scab. One of the most noticeable effects of this artefact is the increased speed of bleeding control. Emits radiation.\n \n%c[0,1,255,255]•%c[default] Rank: 1</text>
+	</string>
+	<string id="st_af_eye_name">
+		<text>Eye</text>
+	</string>
+	<string id="st_af_eye_descr">
+		<text>This artefact, which resembles the human eye, considerably increases the body's metabolism, helping wounds heal quicker. Experienced stalkers say that the Eye also brings luck. Emits radiation.\n \n%c[0,1,255,255]•%c[default] Rank: 2</text>
+	</string>
+	<string id="st_af_fire_name">
+		<text>Flame</text>
+	</string>
+	<string id="st_af_fire_descr">
+		<text>This artefact forms in areas of high thermal activity. Produces powerful infra-red emissions, which intensify metabolic processes, healing wounds before its bearer's very eyes. As this artefact is very rare, it is extremely valuable. Emits radiation.\n \n%c[0,1,255,255]•%c[default] Rank: 3</text>
+	</string>
+	
+	<string id="st_af_zhelch_name">
+		<text>Rubets</text>
+	</string>
+	<string id="st_af_zhelch_descr">
+		<text>Has pronounced healing properties. Has a beneficial effect on the entire organism. The mechanism of action on the body is unknown. The absence of harmful radiation and the difficulty of detection make this artifact particularly valuable.\n \n%c[0,1,255,255]•%c[default] Rank: 4</text>
+	</string>
+	<string id="st_af_sandstone_name">
+		<text>Sandstone</text>
+	</string>
+	<string id="st_af_sandstone_descr">
+		<text>Powerful reparant of muscle tissues. In combination with the stabilizing effect on the respiratory system, it enhances RNA biosynthesis, functional and enzymatic cellular elements, including components of cellular membranes, and stimulates DNA reduplication and cell division. The source of such an effect is not fully understood. Radioactive.\n \n%c[0,1,255,255]•%c[default] Rank: 4</text>
+	</string>
+	
+	<string id="st_af_blood_name">
+		<text>Stone Blood</text>
+	</string>
+	<string id="st_af_blood_descr">
+		<text>A reddish formation of compressed and fossilized plants, soil and animal debris. Can partially neutralize chemical poisons. Emits radiation.\n \n%c[0,1,255,255]•%c[default] Rank: 1</text>
+	</string>
+	<string id="st_af_mincer_meat_name">
+		<text>Meat Chunk</text>
+	</string>
+	<string id="st_af_mincer_meat_descr">
+		<text>This organic artefact consists of deformed, mutated animal tissue. When placed in a chemically contaminated area, Meat Chunk transforms the airborne chemicals into a mucous fluid. Emits radiation.\n \n%c[0,1,255,255]•%c[default] Rank: 2</text>
+	</string>
+	<string id="st_af_kislushka_name">
+		<text>Kislushka</text>
+	</string>
+	<string id="st_af_kislushka_descr">
+		<text>Hollow formation of spherical shape, resembling transparent parchment. Has a faint emerald inner glow. Popular among stalkers due to its ability to neutralize even the most harmful chemicals for humans.\n \n%c[0,1,255,255]•%c[default] Rank: 3</text>
+	</string>
+	
+	<string id="st_af_soul_name">
+		<text>Soul</text>
+	</string>
+	<string id="st_af_soul_descr">
+		<text>A unique organic artefact with properties just as unique. Somehow it increases the body's overall recovery rate from damage of any kind, without accelerating the accumulation of toxins. Thanks to its effects and attractive appearance, this artefact is a valuable collector's item. Emits radiation.\n \n%c[0,1,255,255]•%c[default] Rank: 1</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_name">
+		<text>Kolobok</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_descr">
+		<text>A relatively rare artefact which forms in areas contaminated with chemicals, Kolobok is highly valued for its ability to heal wounds of any kind in mere minutes. For unknown reasons, scientists are spreading rumours among stalkers that the artefact interacts with the bearer's genetic code. Emits radiation.\n \n%c[0,1,255,255]•%c[default] Rank: 2</text>
+	</string>
+	<string id="st_af_glass_name">
+		<text>Firefly</text>
+	</string>
+	<string id="st_af_glass_descr">
+		<text>Firefly interacts with fields unknown to science, considerably speeding up regeneration of tissue and organs in living beings, as well as normalizing metabolic processes. This artefact can literally get a badly wounded stalker back on his feet in seconds. Unfortunately, Firefly is extremely rare. Emits radiation.\n \n%c[0,1,255,255]•%c[default] Rank: 3</text>
+	</string>
+	<string id="st_af_black_angel_name">
+		<text>Black Angel</text>
+	</string>
+	<string id="st_af_black_angel_descr">
+		<text>The artifact is a root. It greatly accelerates tissue and organ regeneration in living beings, but if used improperly, all the positive effects may be nullified due to its strong radioactive background.\n \n%c[0,1,255,255]•%c[default] Rank: 4</text>
+	</string>
+	
+	<string id="st_af_baloon_name">
+		<text>Bubble</text>
+	</string>
+	<string id="st_af_baloon_descr">
+		<text>A compound of several hollow organic formations, this artefact emits a gaseous substance that can neutralize radioactive particles inside the body without harming it. Because of its effectiveness, this artefact is in great demand.\n \n%c[0,1,255,255]•%c[default] Rank: 3</text>
+	</string>
+	<string id="st_af_grapes_name">
+		<text>Grapes</text>
+	</string>
+	<string id="st_af_grapes_descr">
+		<text>A molten piece of greenish resin. As a result of various anomalous influences and emissions, it has acquired powerful radio-absorbing properties. Its uniqueness lies not so much in being a "black hole" for radionuclides, but in its ability to multiply accelerate the half-life of any isotopes. In simple terms, it's a true radiation utilizer.\n \n%c[0,1,255,255]•%c[default] Rank: 4</text>
+	</string>
+	<string id="st_af_skull_miser_name">
+		<text>Miser's Skull</text>
+	</string>
+	<string id="st_af_skull_miser_descr">
+		<text>An interesting spherical artifact containing a large amount of unknown substance, the properties of which can beneficially affect the body. According to scientists' observations, it is absolutely harmless, which makes it attractive both to stalkers and to clients outside the Zone.\n \n%c[0,1,255,255]•%c[default] Rank: 1</text>
+	</string>
+	<string id="st_af_star_phantom_name">
+		<text>Phantom Star</text>
+	</string>
+	<string id="st_af_star_phantom_descr">
+		<text>An anomalous formation, it is a plasma substance in a transparent pulsating shell. It has a unique healing, regenerating, and radioprotective effect on the human body. Due to its high value, it is the target of stalkers' hunts.\n \n%c[0,1,255,255]•%c[default] Rank: 3</text>
+	</string>
+	<string id="st_af_medallion_name">
+		<text>Medallion</text>
+	</string>
+	<string id="st_af_medallion_descr">
+		<text>It is a small-diameter hoop with four attached parts of a streamlined triangular shape, each with two pairs of opposite charges that arbitrarily change their position within the structure. The properties of this artifact can be characterized as protective. It has two oppositely charged poles that create spatial inhomogeneity when interacting. The relative hardness of such a "dome" is ensured by compounds that absorb the energy of all external anomalous influences. Highly radioactive.\n \n%c[0,1,255,255]•%c[default] Rank: 4</text>
+	</string>
+	<string id="st_af_peas_name">
+		<text>Luna</text>
+	</string>
+	<string id="st_af_peas_descr">
+		<text>The artifact has quite strange properties. On one hand, it inexplicably accelerates tissue regeneration multiple times, on the other hand, it prevents blood clotting in open wounds. Among stalkers, there are known cases of death due to hemophilia caused by its action, for which the artifact has gained quite a bad reputation, especially among newcomers. However, experienced stalkers quickly realized that the negative effects can be compensated for by other artifacts with blood-stopping properties or by timely application of necessary medications.\n \n%c[0,1,255,255]•%c[default] Rank: 2</text>
+	</string>
+	
+	<string id="st_af_electra_sparkler_name">
+		<text>Sparkler</text>
+	</string>
+	<string id="st_af_electra_sparkler_descr">
+		<text>A bright representative of the electrostatic family of artefacts, this artefact can smooth fluctuations in electric field density. Emits radiation.\n \n%c[0,1,255,255]•%c[default] Rank: 1</text>
+	</string>
+	<string id="st_af_electra_flash_name">
+		<text>Flash</text>
+	</string>
+	<string id="st_af_electra_flash_descr">
+		<text>This electrostatic artefact is a powerful absorbent of electricity, which it later discharges. Flash is capable of protecting its bearer from electric shocks of up to 5,000 volts. Emits radiation.\n \n%c[0,1,255,255]•%c[default] Rank: 2</text>
+	</string>
+	<string id="st_af_electra_moonlight_name">
+		<text>Moonlight</text>
+	</string>
+	<string id="st_af_electra_moonlight_descr">
+		<text>This unique electrostatic artefact can resonate under the influence of psi-waves. Stalkers have learned to fine-tune the artefact so that it resonates in opposite phase to the main source of emissions, thus fully or significantly neutralizing their effects. Emits radiation.\n \n%c[0,1,255,255]•%c[default] Rank: 2</text>
+	</string>
+	
+	<string id="st_af_dummy_battery_name">
+		<text>Battery</text>
+	</string>
+	<string id="st_af_dummy_battery_descr">
+		<text>The composition of this artefact includes electrostatic elements, but scientists have yet to identify the exact physical conditions required for its formation. The artefact is popular in the Zone and valued by its residents and visitors for its energizing properties, although it can tire the body out through prolonged use. Emits radiation.\n \n%c[0,1,255,255]•%c[default] Rank: 1</text>
+	</string>
+	<string id="st_af_generator_name">
+		<text>Generator</text>
+	</string>
+	<string id="st_af_generator_descr">
+		<text>The artifact generates weak electrical currents that have a stimulating effect on the muscular system, thereby reducing the threshold of fatigue.\n \n%c[0,1,255,255]•%c[default] Rank: 3</text>
+	</string>
+	<string id="st_af_dummy_dummy_name">
+		<text>Shell</text>
+	</string>
+	<string id="st_af_dummy_dummy_descr">
+		<text>Much about this artefact remains a complete mystery to scientists. At the same time, it is known for certain that emissions produced by pulses in its thicker sections force blood in open wounds to clot quicker, forming a protective scab. One of the most noticeable effects of this artefact is the increased speed of bleeding control. Emits radiation.\n \n%c[0,1,255,255]•%c[default] Rank: 2</text>
+	</string>
+	<string id="st_af_ice_name">
+		<text>Snowflake</text>
+	</string>
+	<string id="st_af_ice_descr">
+		<text>At first glance, this artefact resembles Kolobok. Some claim that it actually is Kolobok, its properties reinforced by exposure to a powerful electric field. Thanks to its unique properties, the artefact can significantly increase the bearer's muscle tone. Emits radiation.\n \n%c[0,1,255,255]•%c[default] Rank: 3</text>
+	</string>
+	
+	<string id="st_af_mica_name">
+		<text>Mica</text>
+	</string>
+	<string id="st_af_mica_descr">
+		<text>Found in areas of increased electrical activity. The nature of its action remains a mystery, particularly its ability to partially neutralize the effects of psi-radiation on the human body. Radioactive.</text>
+	</string>
+	<string id="st_af_slug_name">
+		<text>Slug</text>
+	</string>
+	<string id="st_af_slug_descr">
+		<text>The artifact of electrical nature. Effectively neutralizes the impact of psi-radiation on the human mind. Radioactive.</text>
+	</string>
+	<string id="st_af_ball_name">
+		<text>Ball</text>
+	</string>
+	<string id="st_af_ball_descr">
+		<text>There is no exact data on the conditions under which this spherical artifact forms, which gave it its name. However, practice shows that it is most often found in areas of increased electrical activity. It has the property of neutralizing the negative effects of psi-radiation even after prolonged exposure to humans. Radioactive.\n \n%c[0,1,255,255]•%c[default] Rank: 2</text>
+	</string>
+	<string id="st_af_fonar_name">
+		<text>Lantern</text>
+	</string>
+	<string id="st_af_fonar_descr">
+		<text>An artifact that lost almost all of its properties due to an energy collapse. It emits light and electromagnetic energy, which makes it of some interest to science.\n \n%c[0,1,255,255]•%c[default] Rank: 1</text>
+	</string>
+	<string id="st_af_tapeworm_name">
+		<text>Tape-worm</text>
+	</string>
+	<string id="st_af_tapeworm_descr">
+		<text>Essentially, this is pure silicon dioxide, taking into account only the atomic mass of the substance. However, it differs from natural quartz not only in its saturated vitriolic shade, but also in its mechanical characteristics. Formed in clusters of anomalies like "Electra", this quartz fragment has a complex system of internal currents, with external dielectric properties.\n \n%c[0,1,255,255]•%c[default] Rank: 2</text>
+	</string>
+	<string id="st_af_moh_name">
+		<text>Moss</text>
+	</string>
+	<string id="st_af_moh_descr">
+		<text>This artifact strangely combines properties typical of gravitational and electrical anomaly products, although it is known to be exclusively generated in electrical anomalies.\n \n%c[0,1,255,255]•%c[default] Rank: 3</text>
+	</string>
+	<string id="st_af_serofim_name">
+		<text>Seraphim</text>
+	</string>
+	<string id="st_af_serofim_descr">
+		<text>A rare artifact. Improves overall health, as well as cellular and tissue metabolism. It is a dual-action metabolic corrector, promoting rapid body recovery by stimulating the metabolism of various chemical groups and accelerating muscle mass growth.\n \n%c[0,1,255,255]•%c[default] Rank: 4</text>
+	</string>
+	<string id="st_af_elektron_name">
+		<text>Electron</text>
+	</string>
+	<string id="st_af_elektron_descr">
+		<text>Compared to many other artifacts, "Electron" has no useful properties. On the contrary, its transportation is quite difficult due to its anomalously large mass. However, it is precisely this quality and difficulty in detection that make the artifact particularly valuable. Scientific laboratories pay good money for such specimens.\n \n%c[0,1,255,255]•%c[default] Rank: 2</text>
+	</string>
+
+	<string id="st_af_kogot_name">
+		<text>Claw</text>
+	</string>
+	<string id="st_af_kogot_descr">
+		<text>A beautiful glass-like formation from electrostatic anomalies. Despite its external attractiveness, it hides significant health hazards, although it has excellent blood-stopping properties.\n \n%c[0,1,255,255]•%c[default] Rank: 3</text>
+	</string>
+
+	<string id="st_af_vaselisk_name">
+		<text>Basilisk</text>
+	</string>
+	<string id="st_af_vaselisk_descr">
+		<text>One of the few artifacts in the Zone that effectively protects its owner from all types of physical impacts.\n \n%c[0,1,255,255]•%c[default] Rank: 4</text>
+	</string>
+
+	<string id="st_af_geliy_name">
+		<text>Helium</text>
+	</string>
+	<string id="st_af_geliy_descr">
+		<text>A bright (literally) representative of electrostatic artifacts. Emits a gaseous substance that beneficially affects the body. Due to its high effectiveness, it is in great demand.\n \n%c[0,1,255,255]•%c[default] Rank: 4</text>
+	</string>
+
+	<string id="st_af_gimlet_name">
+		<text>Gimlet</text>
+	</string>
+	<string id="st_af_gimlet_descr">
+		<text>The most mystical and unstudied artifact-device. Its main value lies in its teleportation properties, which allow easy and simple teleportation to anywhere. Rumor has it that such an artifact belonged to the legendary Guide.\n \n%c[255,255,255,0]Each movement between locations reduces the charge, and when completely discharged, the artifact loses all its properties. \n \n%c[0,1,255,255]•%c[default] Rank: 4</text>
+	</string>
+	
+	<string id="st_compass">
+		<text>Compass</text>
+	</string>
+	<string id="st_compass_descr">
+		<text>A rare artefact - it's been several years since one was found. The artefact can locate gaps in anomaly fields. It is believed that it can help one traverse the most complex anomaly fields completely unharmed or teleportation to anywhere. However, very few know how to handle it properly.\n \n%c[255,255,255,0]Each movement between locations reduces the charge, and when completely discharged, the artifact loses all its properties. \n \n%c[0,1,255,255]•%c[default] Rank: 4</text>
+	</string>
+	<string id="st_oasis_heart">
+		<text>Heart of the Oasis</text>
+	</string>
+	<string id="st_oasis_heart_descr">
+		<text>This artefact was once found at the center of the legendary Oasis. It appears that the Heart is a crystallized plant, which has acquired the healing properties of the Oasis. Unlike the Oasis itself, however, this artefact is extremely radioactive.\n \n%c[0,1,255,255]•%c[default] Rank: 4</text>
+	</string>
+	<string id="st_af_dragon_eye_name">
+		<text>Dragon Eye</text>
+	</string>
+	<string id="st_af_dragon_eye_descr">
+		<text>Significantly reduces the weight of the backpack and has excellent regenerative properties. Due to its extreme rarity and high effectiveness, it is in great demand.\n \n%c[0,1,255,255]•%c[default] Rank: 4</text>
+	</string>
+
+	<string id="st_af_monolith_name">
+		<text>Monolith</text>
+	</string>
+	<string id="st_af_monolith_descr">
+		<text>An artifact that greatly increases the overall tissue regeneration speed of the body after any type of injury. It generates a powerful gravitational field around itself, which locally reduces the impact of gravity. Highly radioactive. The origin of the artifact is shrouded in mystery.\n \n%c[0,1,255,255]•%c[default] Rank: 4</text>
+	</string>
+	
+	<string id="af_drops">
+		<text>Droplets</text>
+	</string>
+	<string id="st_af-drops_descr">
+		<text>Formed in the Burner anomaly, at high temperatures. From the exterior, it looks like a tear-like shade compound with a glossy surface, covered in cracks.\n \n%c[0,1,255,255]•%c[default] Rank: 1</text>
+	</string>
+	<string id="af_ameba_slime">
+		<text>Slime</text>
+	</string>
+	<string id="st_af_ameba_slime_descr">
+		<text>It is certain that this artefact is created by the anomaly called "Fruit punch". When carried on the belt the wounds bleed less, although the body of its owner becomes more vulnerable to various burns.\n \n%c[0,1,255,255]•%c[default] Rank: 1</text>
+	</string>
+	<string id="af_ameba_slug">
+		<text>Slug</text>
+	</string>
+	<string id="st_af_ameba_slug_descr">
+		<text>Formed by the "Fruit punch" anomaly. The negative qualities of this artefact are compensated by the fact that it heightens the coagulation quality of blood. It's not often that one runs into such an artefact, and they pay well for it too.\n \n%c[0,1,255,255]•%c[default] Rank: 2</text>
+	</string>
+	<string id="af_ameba_mica">
+		<text>Mica</text>
+	</string>
+	<string id="st_af_ameba_mica_descr">
+		<text>Anomaly "Fruit punch" is able to create such an artefact at the rarest, most extreme collection of physical conditions. The result is a semi-transparent, hard object. A rare and expensive artefact.\n \n%c[0,1,255,255]•%c[default] Rank: 3</text>
+	</string>
+	<string id="af_dummy_spring">
+		<text>Spring</text>
+	</string>
+	<string id="st_af_dummy_spring_descr">
+		<text>According to the opinion of some researchers-theorists, this artefact is a hybrid between Batteries and Shell.\n \n%c[0,1,255,255]•%c[default] Rank: 2</text>
+	</string>
+	<string id="af_dummy_pellicle">
+		<text>Pellicle</text>
+	</string>
+	<string id="st_af_dummy_pellicle_descr">
+		<text>This artefact is so rare that many researchers can't even imagine that such a substance can exist in a natural setting. Emits acidic chemical components.\n \n%c[0,1,255,255]•%c[default] Rank: 4</text>
+	</string>
+	<string id="af_rusty_thorn">
+		<text>Thorn</text>
+	</string>
+	<string id="st_af_rusty_thorn_descr">
+		<text>The result of the interaction between the anomaly Burnt Fuzz and the body of a careless stalker. The Thorn artefact pokes the body of its owner, no matter what. But it also helps clean the body of radionuclide. Quite widespread and cheap.\n \n%c[0,1,255,255]•%c[default] Rank: 1</text>
+	</string>
+	<string id="af_rusty_kristall">
+		<text>Crystal Thorn</text>
+	</string>
+	<string id="st_af_rusty_kristall_descr">
+		<text>Crystallizes in the anomaly Burnt Fuzz. Naturally takes out the radiation from the organism. That is, through the ears along with some amount of blood. Blood loss is possible also through over openings. Widespread and quite effective, which is the cause for the stable price in the artefact market.\n \n%c[0,1,255,255]•%c[default] Rank: 2</text>
+	</string>
+		<string id="af_rusty_sea_urchin">
+		<text>Urchin</text>
+	</string>
+	<string id="st_af_rusty_sea_urchin_descr">
+		<text>The anomaly Burnt Fuzz very rarely gives rise to this artefact. Raise the blood pressure and so, the body gets rid of a large amount of red blood cells. But along with them the stored radiation leaves the body as well. In his fundamental work titled "Ionization and polarization of the components of rare artefacts", Sakharov noted that the content of this formation has a critical stability, and it's not realistic to create such an artefact in lab conditions in the next ten years.\n \n%c[0,1,255,255]•%c[default] Rank: 3</text>
+	</string>
+    <string id="st_af_gauss_name">
+		<text>Gauss</text>
+	</string>
+	<string id="st_af_gauss_descr">
+		<text>Rumors say that Monolith members use these particles to charge their namesake weapons. The artifact was recently found by a stalker nicknamed "Lun". The artifact contains a charge of energy. Many minds are puzzled by the mystery of this thing.\n \n%c[0,1,255,255]•%c[default] Rank: 3</text>
+	</string>
+	<string id="st_amk_yoyo_name">
+		<text>Twins</text>
+	</string>
+	<string id="st_amk_yoyo_descr">
+		<text>By appearance, it resembles two mushroom caps that look exactly the same, which is possibly why it was nicknamed that.\n \n%c[0,1,255,255]•%c[default] Rank: 3</text>
+	</string>
+	<string id="st_amk_snezhok_name">
+		<text>Snowball</text>
+	</string>
+	<string id="st_amk_snezhok_descr">
+		<text>A small artifact in appearance, hardness, slightly accelerates wound healing.\n \n%c[0,1,255,255]•%c[default] Rank: 1</text>
+	</string>
+	<string id="st_af_setka_name">
+		<text>Heart of Danko</text>
+	</string>
+	<string id="st_af_setka_descr">
+		<text>The origin of the artifact is not fully known. It heals wounds well. No harmful effects of the substance on the human body have been identified.\n \n%c[0,1,255,255]•%c[default] Rank: 3</text>
+	</string>
+	<string id="st_amk_ice_s_name">
+		<text>Icicle</text>
+	</string>
+	<string id="st_amk_ice_s_descr">
+		<text>This artifact is usually generated by gravitational anomalies. It protects against psi attacks.\n \n%c[0,1,255,255]•%c[default] Rank: 3</text>
+	</string>
+	<string id="st_af_plenka_name">
+		<text>Film</text>
+	</string>
+	<string id="st_af_plenka_descr">
+		<text>This artifact resembles a pacifier in appearance. It is highly valued for its properties.\n \n%c[0,1,255,255]•%c[default] Rank: 2</text>
+	</string>
+    <string id="st_af_wish_name">
+		<text>Dream</text>
+	</string>
+	<string id="st_af_wish_descr">
+		<text>Valued by collectors from "Big Land". A good way to replenish capital.\n \n%c[0,1,255,255]•%c[default] Rank: 4</text>
+	</string>
+	<string id="st_af_cristal_drops_name">
+		<text>Crystal Drops</text>
+	</string>
+	<string id="st_af_cristal_drops_descr">
+		<text>This tear shaped artefact is а highly compressed lump of ice and snow and unthinkably formed in thermal-based anomalies. Increases resistance to radiation.\n \n%c[0,1,255,255]•%c[default] Rank: 2</text>
+	</string>
+	<string id="st_af_black_name">
+		<text>Black Stone</text>
+	</string>
+	<string id="st_af_black_descr">
+		<text>Truly an amazing thing. "Black Stone" protects the owner from many troubles, but at the same time slowly kills them. Some stalkers suspect that the artifact is a shard of the Monolith.\n \n%c[0,1,255,255]•%c[default] Rank: 4</text>
+	</string>
+	<string id="st_af_kashtan_name">
+		<text>Chestnut</text>
+	</string>
+	<string id="st_af_kashtan_descr">
+		<text>The artifact forms under prolonged gravitational influence on metal-containing substances. It has the property of neutralizing the negative effects of psi-radiation.\n \n%c[0,1,255,255]•%c[default] Rank: 2</text>
+	</string>
+	<string id="st_af_izumrud_name">
+		<text>Emerald</text>
+	</string>
+	<string id="st_af_izumrud_descr">
+		<text>A very rare and expensive artifact in the Zone. Resembles a crystal, but green in color. A barely noticeable green patina forms around its owner. No, this is not a disease. This will add more space to your backpack. There are only a few people who have found this artifact.\n \n%c[0,1,255,255]•%c[default] Rank: 4</text>
+	</string>
+	<string id="st_mincer_izumrud_name">
+		<text>Emerald Shard</text>
+	</string>
+	<string id="st_mincer_izumrud_descr">
+		<text>This artifact can only be found in anomalies deep within the Zone. Provides protection against thermal and chemical burns. Downside - radioactive.\n \n%c[0,1,255,255]•%c[default] Rank: 2</text>
+	</string>
+	<string id="st_af_zelonka_name">
+		<text>Zelenka</text>
+	</string>
+	<string id="st_af_zelonka_descr">
+		<text>A bright spherical artifact with a skeletal structure. Absorbs radiation and accelerates tissue regeneration and blood coagulation. Due to the absence of negative properties, "Zelenka" is highly valuable.\n \n%c[0,1,255,255]•%c[default] Rank: 2</text>
+	</string>
+	<string id="st_amk_bud_bright_name">
+		<text>Red Lily</text>
+	</string>
+	<string id="st_amk_bud_bright_descr">
+		<text>This unusual flower grows in certain electrical anomalies. Several stalkers have been lucky enough to find this artifact. Highly valuable, but emits radiation.\n \n%c[0,1,255,255]•%c[default] Rank: 3</text>
+	</string>
+	<string id="st_amk_grib_sapfir_name">
+		<text>Toadstool</text>
+	</string>
+	<string id="st_amk_grib_sapfir_descr">
+		<text>This artifact releases spores that embed themselves in the stalker's body. The spores feed on the stalker's blood, slightly weakening the organism. Nevertheless, this is a peculiar form of symbiosis - the artifact systematically removes radionuclides from the body and increases resistance to harmful chemicals. The long-term effects of such exposure remain unclear.\n \n%c[0,1,255,255]•%c[default] Rank: 2</text>
+	</string>
+</string_table>

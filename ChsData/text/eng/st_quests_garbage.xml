@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	<!-- HUNT MUTANTS FOR TRADER TASK -->
+	<string id="garbage_trader_task_1_name"><text>为卡利万清除变异体</text></string>
+	<string id="garbage_trader_task_1_text"><text>清理当地变异体巢穴. </text></string>
+	<string id="garbage_trader_task_1_about"><text>%c[ui_8]这区域的野兽繁殖太多, 整天嚎叫快把我逼疯了! 再听它们叫唤我脑袋都要变方了! 总之, 若你清除那些生物, 报酬不会少. 顺便还能收集战利品, 说不定里面有我感兴趣的. \n\n%c[ui_orange][若接取任务后前往无法进行此任务的地区, 任务将失败]</text></string>
+	<string id="garbage_trader_task_1_finish"><text>已经完成狩猎了? 很好, 领取你的报酬. </text></string>
+
+	<!-- FIND MUTANT PART FOR TRADER TASK -->
+	<string id="garbage_trader_task_2_name"><text>为卡利万获取%s</text></string>
+	<string id="garbage_trader_task_2_text"><text>收集变异体部位: %s</text></string>
+	<string id="garbage_trader_task_2_about"><text>有批常规变异体部件的小订单. 很简单. 有兴趣吗? </text></string>
+	<string id="garbage_trader_task_2_fetch_about"><text>%c[ui_8]有批标准变异体部件的小订单, 具体是...%c[ui_orange]%s%c[ui_8]. 收集齐所需物品后带到这儿来. </text></string>
+	<string id="garbage_trader_task_2_fetch_finish"><text>干得好. 这是你的钱. </text></string>
+
+	<!-- FIND RARE MUTANT PART FOR TRADER TASK -->
+	<string id="garbage_trader_task_3_name"><text>为卡利万取得%s</text></string>
+	<string id="garbage_trader_task_3_text"><text>取得稀有变异体部位: %s</text></string>
+	<string id="garbage_trader_task_3_about"><text>来了个稀有变异体部件的订单. 报酬与稀有度挂钩. 怎么说? </text></string>
+	<string id="garbage_trader_task_3_fetch_about"><text>%c[ui_8]来了个稀有变异体部件的订单, 具体是...%c[ui_orange]%s%c[ui_8]. 得费点功夫, 但我觉得你能搞定. 若找到, 我等着你. </text></string>
+	<string id="garbage_trader_task_3_fetch_finish"><text>我正考虑取消订单呢. 这是你的钱. </text></string>
+
+	<!-- FIND WEAPON FOR TRADER TASK -->
+	<string id="garbage_trader_task_4_name"><text>为卡利万寻找%s</text></string>
+	<string id="garbage_trader_task_4_text"><text>卡利万要求带把%s给他. 武器至少得能正常使用. </text></string>
+	<string id="garbage_trader_task_4_about"><text>有批能用的枪支的小订单. 谁需要或为什么用都无所谓. 重点是想要报酬的话枪必须能正常使用, 其他我不管. 接不接? </text></string>
+	<string id="garbage_trader_task_4_fetch_about"><text>%c[ui_8]有批能用的枪支的小订单. 谁需要或为什么用都无所谓. 现在我需要能正常使用的%c[ui_orange]%s%c[ui_8]才能付酬, 其他我不管. 若找到任何适用的, 带给我. </text></string>
+	<string id="garbage_trader_task_4_fetch_finish"><text>拿着, 这是你应得的. 留下你那份. </text></string>
+</string_table>

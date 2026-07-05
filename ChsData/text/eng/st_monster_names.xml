@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+<!-- by sinaps -->
+	<string id="yan_tonnel_snork_1"><text>实验体1号</text></string>
+	<string id="yan_tonnel_snork_2"><text>实验体2号</text></string>
+	<string id="yan_tonnel_snork_3"><text>实验体3号</text></string>
+	<string id="yan_tonnel_snork_4"><text>实验体4号</text></string>
+	<string id="yan_tonnel_snork_5"><text>实验体5号</text></string>
+	<string id="yan_tonnel_snork_6"><text>实验体6号</text></string>
+	<string id="yan_tonnel_gigant"><text>样本8с号</text></string>
+
+	<string id="bar_arena_savage"><text>僵尸化生物</text></string>
+	<string id="bar_arena_bloodsucker"><text>吸血怪</text></string>
+	<string id="bar_arena_burer"><text>狂暴侏儒</text></string>
+	<string id="bar_arena_pseudodog"><text>伪犬</text></string>
+	<string id="bar_arena_snork"><text>史诺克</text></string>
+
+</string_table>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+
+	<string id="jup_a6_freedom_trader_ashot_start_dialog_0"><text>今天有什么能卖给我的? </text></string>
+	<string id="jup_b19_freedom_yar_start_dialog_0"><text>你好啊潜行者, 需要什么? </text></string>
+	
+	<string id="jup_b220_trapper_start_11"><text>我是捕手...用不着自我介绍. </text></string>
+	<string id="jup_b220_trapper_start_12"><text>什么风把你吹来了? </text></string>
+	
+	<string id="jup_a6_stalker_medik_start_dialog_0"><text>你是来找医疗用品还是单纯聊聊天? </text></string>
+	<string id="jup_a6_stalker_medik_need_health_care_0"><text>我需要医疗援助. </text></string>
+	<string id="jup_a6_stalker_medik_need_health_care_1"><text>让我瞧瞧...</text></string>
+	<string id="jup_a6_stalker_medik_need_health_care_2"><text>让我瞧瞧...嗯, 你的肝脏比预期要大些, 不过这算是职业病对吧? 除此之外, 你壮实得跟狂暴侏儒似的. </text></string>
+	<string id="jup_a6_stalker_medik_need_health_care_11"><text>[继续...]</text></string>
+	<string id="jup_a6_stalker_medik_need_health_care_111"><text>这样好多了. </text></string>
+	
+	<string id="jup_a6_freedom_leader_start_dialog_11"><text>所以, 你有什么要说的? </text></string>
+	<string id="jup_a6_freedom_leader_start_dialog_12"><text>你来这儿有何贵干? </text></string>
+	<string id="jup_a6_freedom_leader_about_you_0"><text>跟我说说自由团. </text></string>
+	<string id="jup_a6_freedom_leader_about_you_1"><text>说来话长. 你想知道什么? </text></string>
+	<string id="jup_a6_freedom_leader_about_you_1111"><text>你们在这里做什么? </text></string>
+	<string id="jup_a6_freedom_leader_about_you_11111"><text>我们确保各路官员不会对平民隐瞒任何事. 你懂的: 只要他们发现新实验室或是能揭开特异区秘密的文件, 立马就组织军事行动清扫得比该死的吸尘器还干净. 想搞到情报唯一的办法就是抢先一步抵达. </text></string>
+	<string id="jup_a6_freedom_leader_about_you_1112"><text>是什么让你来到特异区中心的? </text></string>
+	<string id="jup_a6_freedom_leader_about_you_11121"><text>这个嘛, 兄弟们想在新地方逛逛. 开个玩笑. 主要是能找到世人从未见过的东西. 军方和潜行者都没来过这儿, 所以到处都有新发现. </text></string>
+	<string id="jup_a6_freedom_leader_about_you_111211"><text>找到什么了吗? </text></string>
+	<string id="jup_a6_freedom_leader_about_you_1112111"><text>几扇锁着的门和一些古怪的新神器. </text></string>
+	<string id="jup_a6_freedom_leader_about_you_1113"><text>你怎么加入自由团的? </text></string>
+	<string id="jup_a6_freedom_leader_about_you_11131"><text>这个嘛, 特异区出现前我就和自由团领袖是朋友. 不过那时候他们还不是领袖, 只是普通嬉皮士. 所以当我进入特异区搜寻神器时碰上熟面孔, 觉得不如跟着熟人混. </text></string>
+	<string id="jup_a6_freedom_leader_about_you_1114"><text>你对纪律团怎么看? </text></string>
+	<string id="jup_a6_freedom_leader_about_you_11141"><text>要我说他们就是群白痴. 我是说, 他们干嘛非要摧毁特异区? 它又没消耗宝贵资源也没扩张...啥都没有. 他们大可以坐着研究到满意——想想能有多少科学发现...人类历史上从来没人能理解反重力对吧? 而特异区里现成的反重力装置遍地都是. 把他们踹出这儿倒是不错, 但太麻烦了. 顺便说一句, 别被我们在杨塔的关系搞糊涂. 我们确实在交战...只不过杨塔被划为中立地盘, 你懂的. </text></string>
+	<string id="jup_a6_freedom_leader_about_you_1115"><text>好吧, 不提这个了. </text></string>
+	<string id="jup_a6_freedom_leader_about_you_11151"><text>没问题. </text></string>
+	
+	<string id="jup_a6_stalker_barmen_start_dialog_11"><text>欢迎来到我这充满欢愉的小破窝. 你是来找乐子、寻开心还是两者都要? </text></string>
+	<string id="jup_a6_stalker_barmen_start_dialog_12"><text>来放松的? 我的酒水没啥特别, 但这儿是个热情友好的地方! </text></string>
+	<string id="jup_a6_stalker_barmen_start_dialog_13"><text>我这儿有你想要的所有货. 需要什么? 想来点吃的喝的, 还是想打几发子弹? </text></string>
+	
+	<string id="jup_b6_scientist_nuclear_physicist_start_11"><text>你想对我说什么? </text></string>
+	<string id="jup_b16_biochemist_oasis_start_11"><text>什么风把你吹来了? </text></string>
+	
+	<string id="jup_b6_scientist_medic_start_11"><text>什么风把你吹来了? </text></string>
+	
+	<!-- Ashot and Yar -->
+	<string id="st_jup_yar_reply_1"><text>你去告诉%s让他那肥屁股挪到这儿来. </text></string>
+	<string id="st_jup_yar_reply_2"><text>他不知道我正忙吗? 叫他过来. </text></string>
+	<string id="st_jup_yar_reply_3"><text>我可不负责跑腿. 让他来找我. </text></string>
+	<string id="st_jup_yar_reply_4"><text>什么? 他想要轮椅不成? 去把%s给我找来. </text></string>
+	<string id="st_jup_yar_reply_5"><text>%s人在哪儿? 他不把东西拿来我修不了. </text></string>
+	
+	<string id="st_jup_ashot_reply_1"><text>要是%s想要, 叫他亲自过来找我拿. </text></string>
+	<string id="st_jup_ashot_reply_2"><text>再说一遍? 想要就自己来取. 懂? </text></string>
+	<string id="st_jup_ashot_reply_3"><text>告诉那个秃头混蛋自己爬过来. </text></string>
+	<string id="st_jup_ashot_reply_4"><text>我不能丢下店铺不管. 他必须来找我, 嗯? </text></string>
+	<string id="st_jup_ashot_reply_5"><text>我长得像跑腿小弟吗? 让%s自己来拿. </text></string>
+</string_table>

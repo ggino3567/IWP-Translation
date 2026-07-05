@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<string_table>
+
+	<string id="csky_patch"><text>晴空臂章</text></string>
+	<string id="csky_patch_description"><text>从晴空的制服上撕下的臂章</text></string>
+
+	<string id="freedom_patch"><text>自由团臂章</text></string>
+	<string id="freedom_patch_description"><text>从自由团的制服上撕下的臂章</text></string>
+
+	<string id="stalker_patch"><text>独行者的臂章</text></string>
+	<string id="stalker_patch_description"><text>从独行者的制服上撕下的臂章</text></string>
+
+	<string id="ecolog_patch"><text>科学家臂章</text></string>
+	<string id="ecolog_patch_description"><text>从科学家的制服上撕下的臂章</text></string>
+
+	<string id="bandit_patch"><text>强盗臂章</text></string>
+	<string id="bandit_patch_description"><text>从强盗的制服上撕下的臂章</text></string>
+
+	<string id="duty_patch"><text>纪律团臂章</text></string>
+	<string id="duty_patch_description"><text>从纪律团的制服上撕下的臂章</text></string>
+
+	<string id="monolith_patch"><text>黑石臂章</text></string>
+	<string id="monolith_patch_description"><text>从黑石的制服上撕下的臂章</text></string>
+
+	<string id="army_patch"><text>陆军臂章</text></string>
+	<string id="army_patch_description"><text>从乌克兰军队制服上撕下的臂章</text></string>
+
+	<string id="merc_patch"><text>佣兵臂章</text></string>
+	<string id="merc_patch_description"><text>从佣兵的制服上撕下的臂章</text></string>
+	
+</string_table>

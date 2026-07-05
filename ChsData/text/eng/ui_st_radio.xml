@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+
+	<!-- PDA -->
+	<string id="pda_btn_radio"><text>无线电</text></string>
+	<string id="pda_btn_radio_title"><text>无线电</text></string>
+	<string id="pda_btn_plyr_title"><text>音乐播放器</text></string>
+	<string id="pda_btn_radio_hint"><text>显示无线电和音乐播放器</text></string>
+	<string id="ui_st_radio_playing"><text>正在播放</text></string>
+	<string id="ui_st_radio_playlist"><text>播放列表</text></string>
+	<string id="ui_st_radio_loop_off"><text>循环关闭</text></string>
+	<string id="ui_st_radio_loop_all"><text>循环全部</text></string>
+	<string id="ui_st_radio_loop_one"><text>循环单曲</text></string>
+	<string id="ui_st_radio_shuffle_on"><text>随机播放开启</text></string>
+	<string id="ui_st_radio_shuffle_off"><text>随机播放关闭</text></string>
+	
+	
+	<!-- Options -->
+	<string id="ui_mm_radio_access"><text>访问无线电选项菜单按钮</text></string>
+	<string id="ui_mm_radio_access_call"><text>调出无线电设置.txt菜单按钮</text></string>
+	<string id="ui_mm_radio_1_play"><text>播放/停止无线电</text></string>
+	<string id="ui_mm_radio_2_play"><text>播放/停止音乐播放器</text></string>
+	<string id="ui_mm_radio_vol_up"><text>音量增加按钮</text></string>
+	<string id="ui_mm_radio_vol_down"><text>音量减少按钮</text></string>
+	<string id="ui_mm_radio_next"><text>下一曲</text></string>
+	<string id="ui_mm_radio_previous"><text>上一曲</text></string>
+	<string id="ui_mm_radio_playlist"><text>下一个频道/播放列表</text></string>
+	<string id="ui_mm_radio_lost_emission"><text>在排放中丢失信号</text></string>
+	<string id="ui_mm_radio_lost_lab"><text>在地下区域丢失信号</text></string>
+	<string id="ui_mm_radio_display_names"><text>在HUD上显示音乐播放器曲目名称</text></string>
+	
+	<string id="ui_mm_radio_spacing_1"><text>-(快捷键)-</text></string>
+	<string id="ui_mm_radio_spacing_2"><text>-(沉浸感)-</text></string>
+	<string id="ui_mm_radio_spacing_3"><text>-(播放列表名称)-</text></string>
+	<string id="ui_mm_radio_playlist_name"><text>播放列表名称</text></string>
+	
+</string_table>

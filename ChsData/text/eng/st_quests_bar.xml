@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	<!-- FIND WEAPON FOR SHUSTRYI TASK -->
+	<!--<string id="esc_2_12_stalker_nimble_task_1_name">
+		<text>Find %s for Nimble</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_text">
+		<text>Nimble has asked you to find a specific firearm. It needs to be in good condition. Return to him when you find what he is looking for.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_about">
+		<text>I have a client looking for a specific firearm and I need someone to help me find it. If you are interested I will give you more details. What do you say?</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_fetch_about">
+		<text>%c[ui_orange]%s%c[ui_8]... That is what I need, but it must be in good condition. The client is paying top dollar and he doesn't want a rusty piece of shit that will jam up in a life or death situation. I'll give you most of the profit since you are doing all the work. Come back when you find it, man.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_fetch_finish">
+		<text>This is a fine weapon. I think my client will be pleased when I deliver this to him. Here is what I owe you.</text>
+	</string>-->
+
+
+	<!-- FIND ARTIFACT FOR BARMAN TASK -->
+	<string id="bar_visitors_barman_stalker_trader_task_1_name"><text>清理当地的变异怪物</text></string>
+	<string id="bar_visitors_barman_stalker_trader_task_1_text"><text>酒保要你清理这一块的所有变种生物威胁, 以确保酒吧和经过罗斯托克的潜行者的安全.到达指定地点,消灭这一片周围的所有变种生物.工作完成后,回酒保这领取报酬.</text></string>
+	<string id="bar_visitors_barman_stalker_trader_task_1_about"><text>潜行者,我需要一个有足够勇气来完成危险任务的人.变种生物潜伏在我们酒吧附近,我需要你干掉他们,地方在你PDA上标出来了.任务是杀死你看到的任何变种生物.如果任务圆满成功,钱你少不了.干不干?</text></string>
+	<string id="bar_visitors_barman_stalker_trader_task_1_fetch_about"><text>%c[ui_8]我在寻找%c[ui_orange]%s%c[ui_8]神器. 若你找到, 带回来我会重金酬谢. </text></string>
+	<string id="bar_visitors_barman_stalker_trader_task_1_fetch_finish"><text>干得好, 潜行者. 这是答应给你的报酬. </text></string>
+
+	<!-- ASSAULT BANDIT BASE FOR BARMAN TASK -->
+	<string id="bar_visitors_barman_stalker_trader_task_2_name"><text>干掉强盗</text></string>
+	<string id="bar_visitors_barman_stalker_trader_task_2_text"><text>去这个地方然后干掉所有你能看到的强盗.</text></string>
+	<string id="bar_visitors_barman_stalker_trader_task_2_about"><text>潜行者,我需要你的帮助.这一片有一群强盗在找事,我希望你能"问候"一下他们.</text></string>
+	<string id="bar_visitors_barman_stalker_trader_task_2_finish"><text>干得好潜行者! 这是你的报酬,你应得的.</text></string>
+
+	<!-- ASSASSINATE STALKER FOR BARMAN TASK -->
+	<string id="bar_visitors_barman_stalker_trader_task_3_name"><text>干掉潜行者</text></string>
+	<string id="bar_visitors_barman_stalker_trader_task_3_text"><text>酒保需要你为他干掉潜行者.</text></string>
+	<string id="bar_visitors_barman_stalker_trader_task_3_about"><text>潜行者, 我需要你帮我干点事, 我要你干掉潜行者. 你愿意帮帮我吗?</text></string>
+	<string id="bar_visitors_barman_stalker_trader_task_3_finish"><text>任务完成得不错. 这是你的奖励. </text></string>
+
+
+	<!-- RECAPTURE TERRITORY FOR DUTY LEADER TASK -->
+	<string id="bar_dolg_leader_task_1_name"><text>找到 %s</text></string>
+	<string id="bar_dolg_leader_task_1_text"><text>沃罗宁将军要你找到一只完好的特定枪支,找到了就回他那里汇报</text></string>
+	<string id="bar_dolg_leader_task_1_about"><text>组织上派给你个任务.我们与东边的自由团和来自四面八方的变种人不断发生小规模冲突.而我们的武器已经快不行了.我们需要换一批装备.你能搞到这些枪吗?</text></string>
+	<string id="bar_dolg_leader_task_1_finish"><text>任务完成了吗? 干得漂亮! </text></string>
+
+	<!-- CAPTURE TERRITORY FOR DUTY LEADER TASK -->
+	<string id="bar_dolg_leader_task_2_name"><text>为沃洛宁占领废弃村庄</text></string>
+	<string id="bar_dolg_leader_task_2_text"><text>你被指派为纪律团占领领地. 任务完成后向沃洛宁将军汇报. </text></string>
+	<string id="bar_dolg_leader_task_2_about"><text>%c[ui_8]我有个重要任务. 自由团占领了我们感兴趣的一个营地. 我需要派人去%c[ui_orange]陆军仓库%c[ui_8]并控制该区域. \n\n%c[ui_orange][若接取任务后前往无法进行此任务的地区, 任务将失败]</text></string>
+	<string id="bar_dolg_leader_task_2_finish"><text>任务完成了? 干得好. </text></string>
+
+	<!-- ASSAULT TERRITORY 1 FOR DUTY LEADER TASK -->
+	<string id="bar_dolg_leader_task_3_name"><text>为沃洛宁清除雇佣兵营地</text></string>
+	<string id="bar_dolg_leader_task_3_text"><text>敌对势力正侵入纪律团领地. 沃洛宁将军要求你消除威胁. </text></string>
+	<string id="bar_dolg_leader_task_3_about"><text>%c[ui_8]我得知一队雇佣兵封锁了通往杨塔的道路. 他们无故射击潜行者且拒绝谈判. 需要经验丰富的战士处理这个问题. 敌人位置在%c[ui_orange]大荒野%c[ui_8]. 记住, 我们没时间浪费. 接不接? \n\n%c[ui_orange][若接取任务后前往无法进行此任务的地区, 任务将失败]</text></string>
+	<string id="bar_dolg_leader_task_3_finish"><text>干得漂亮. 你是名优秀的战士. </text></string>
+
+	<!-- ASSAULT TERRITORY 2 FOR DUTY LEADER TASK -->
+	<string id="bar_dolg_leader_task_4_name"><text>为沃洛宁攻占领地</text></string>
+	<string id="bar_dolg_leader_task_4_text"><text>你被指派消灭敌人, 任务完成后向沃洛宁将军汇报. </text></string>
+	<string id="bar_dolg_leader_task_4_about"><text>%c[ui_8]我们的巡逻队在%c[ui_orange]卡车墓地%c[ui_8]发现敌军. 不能容忍他们骑到头上. 任务是清除区域内所有敌对目标. \n\n%c[ui_orange][若接取任务后前往无法进行此任务的地区, 任务将失败]</text></string>
+	<string id="bar_dolg_leader_task_4_finish"><text>任务完成了? 干得好. </text></string>
+
+	<!-- GET ITEM FROM STASH FOR DUTY LEADER TASK -->
+	<string id="bar_dolg_leader_task_5_name"><text>从藏匿点取回U盘交给沃洛宁</text></string>
+	<string id="bar_dolg_leader_task_5_text"><text>前往指定地点, 从藏匿点取出U盘并交给沃洛宁. </text></string>
+	<string id="bar_dolg_leader_task_5_about"><text>%c[ui_8]我们的一名战士潜入无政府主义者基地收集情报. 该特工必须极度谨慎, 避免与我们的人接头, 将情报留在特殊投放点. 我有个藏匿点的坐标, 需要你去取回存有数据的U盘. 接活吗? </text></string>
+	<string id="bar_dolg_leader_task_5_finish"><text>太好了, 你做得很好. 这是你的报酬. </text></string>
+
+
+	<!-- ASSASSINATE BANDIT FOR DUTY TRADER TASK -->
+	<string id="bar_dolg_general_petrenko_stalker_task_1_name"><text>守卫纪律团领土</text></string>
+	<string id="bar_dolg_general_petrenko_stalker_task_1_text"><text>敌对势力想要侵占纪律团的领土. 他们要求你消除该威胁.</text></string>
+	<string id="bar_dolg_general_petrenko_stalker_task_1_about"><text>我被告知敌军在向我们的一个营地推进.我需要你在他们抵达目标位置前干掉他们.</text></string>
+	<string id="bar_dolg_general_petrenko_stalker_task_1_finish"><text>佩服.你是个好战士.</text></string>
+
+	<!-- ASSASSINATE FREEDOM FOR DUTY TRADER TASK -->
+	<string id="bar_dolg_general_petrenko_stalker_task_2_name"><text>收回领土</text></string>
+	<string id="bar_dolg_general_petrenko_stalker_task_2_text"><text>你的任务是夺回纪律团的领土.完成后向长官汇报.</text></string>
+	<string id="bar_dolg_general_petrenko_stalker_task_2_about"><text>我有一个重要的任务.自由团已经抢占了我们的一个营地,你知道我要你干什么.</text></string>
+	<string id="bar_dolg_general_petrenko_stalker_task_2_finish"><text>任务完成了?干得好.</text></string>
+
+	<!-- HUNT MUTANTS FOR DUTY TRADER TASK -->
+	<string id="bar_dolg_general_petrenko_stalker_task_3_name"><text>猎杀危险变异体</text></string>
+	<string id="bar_dolg_general_petrenko_stalker_task_3_text"><text>寻找并猎杀危险变异体</text></string>
+	<string id="bar_dolg_general_petrenko_stalker_task_3_about"><text>猎杀危险变异体. 如果你能干掉他们, 好处少不了.</text></string>
+	<string id="bar_dolg_general_petrenko_stalker_task_3_finish"><text>我们以你为傲.这是我承诺你的.</text></string>
+
+	<!-- FIND MUTANT PARTS FOR DUTY TRADER TASK -->
+	<string id="bar_dolg_general_petrenko_stalker_task_4_name"><text>为彼得连科收集%s</text></string>
+	<string id="bar_dolg_general_petrenko_stalker_task_4_text"><text>彼得连科说如果我带给他%s会付重金. </text></string>
+	<string id="bar_dolg_general_petrenko_stalker_task_4_about"><text>我悬赏猎杀变异体. 有兴趣吗? </text></string>
+	<string id="bar_dolg_general_petrenko_stalker_task_4_fetch_about"><text>%c[ui_8]我们一直在特异区猎杀危险变异体. 杀掉一只并把它的%c[ui_orange]%s%c[ui_8]带给我, 会付你丰厚报酬, 潜行者. </text></string>
+	<string id="bar_dolg_general_petrenko_stalker_task_4_fetch_finish"><text>啊, 又清除一个威胁. 干得好, 潜行者. </text></string>
+
+	<!-- HEAD HUNTING FOR DUTY TRADER TASK -->
+	<string id="bar_dolg_general_petrenko_stalker_task_5_name"><text>宿怨</text></string>
+	<string id="bar_dolg_general_petrenko_stalker_task_5_text"><text>从被杀自由团员身上取得的%s. </text></string>
+	<string id="bar_dolg_general_petrenko_stalker_task_5_about"><text>杀死数名自由团潜行者并以他们的臂章为证. </text></string>
+	<string id="bar_dolg_general_petrenko_stalker_task_5_fetch_about"><text>%c[ui_orange]%c[ui_8]我悬赏老对手的首级. %c[ui_orange]%s%c[ui_8]十个自由团员的臂章将作为任务完成凭证. </text></string>
+	<string id="bar_dolg_general_petrenko_stalker_task_5_fetch_finish"><text>干得好! 这是你的酬金. </text></string>
+
+
+	<!-- HEAD HUNTING 2 FOR DUTY TRADER TASK -->
+	<string id="bar_dolg_general_petrenko_stalker_task_6_name"><text>强盗追捕令</text></string>
+	<string id="bar_dolg_general_petrenko_stalker_task_6_text"><text>为彼得连科提交被杀强盗的%s. </text></string>
+	<string id="bar_dolg_general_petrenko_stalker_task_6_about"><text>杀死数名强盗并以他们的臂章为证. </text></string>
+	<string id="bar_dolg_general_petrenko_stalker_task_6_fetch_about"><text>%c[ui_8]强盗团伙制造了太多麻烦. 我出高价悬赏削减他们的人数. %c[ui_orange]%s%c[ui_8]十具强盗尸体的臂章将作为任务完成证明. </text></string>
+	<string id="bar_dolg_general_petrenko_stalker_task_6_fetch_finish"><text>干得好, 潜行者! 又少一伙强盗. </text></string>
+
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR DUTY MECHANIC TASK -->
+	<string id="bar_visitors_stalker_mechanic_task_1_name"><text>找到%s</text></string>
+	<string id="bar_visitors_stalker_mechanic_task_1_text"><text>%s 是进行基本改装的必要工具, 找到并将它们带回来</text></string>
+	<string id="bar_visitors_stalker_mechanic_task_1_about"><text>我真的需要一套工具, 潜行者...你有兴趣帮我吗?</text></string>
+	<string id="bar_visitors_stalker_mechanic_task_1_fetch_about"><text>我需要一套基本工具.有了它我能干的事就多了.如果你能给我带一套回来, 我将不胜感激,今后你来我这都给你打折.</text></string>
+	<string id="bar_visitors_stalker_mechanic_task_1_fetch_finish"><text>酷伙计,抱歉我不能付钱给你.但我可以给你一个漂亮的折扣. </text></string>
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR DUTY MECHANIC TASK -->
+	<string id="bar_visitors_stalker_mechanic_task_2_name"><text>找到%s</text></string>
+	<string id="bar_visitors_stalker_mechanic_task_2_text"><text>%s 是进行高级改装的必要工具, 找到并将它们带回来</text></string>
+	<string id="bar_visitors_stalker_mechanic_task_2_about"><text>嘿,伙计,如果你碰巧找到了一些更先进的工具,我会给你打折的.你能帮我留意一下吗?.</text></string>
+	<string id="bar_visitors_stalker_mechanic_task_2_fetch_about"><text>我需要一套高级工具.有了它我能干的事就多了.如果你能给我带一套回来, 我将不胜感激,今后你来我这都给你打折.</text></string>
+	<string id="bar_visitors_stalker_mechanic_task_2_fetch_finish"><text>厉害! 潜行者, 我没有太多东西可以给你, 不过我可以给你一个不错的折扣.</text></string>
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR DUTY MECHANIC TASK -->
+	<string id="bar_visitors_stalker_mechanic_task_3_name"><text>找到%s</text></string>
+	<string id="bar_visitors_stalker_mechanic_task_3_text"><text>%s 是进行精细改装的必要工具, 找到并将它们带回来</text></string>
+	<string id="bar_visitors_stalker_mechanic_task_3_about"><text>嘿, 伙计, 如果你碰巧找到了一些更先进的工具, 我会给你打折的.你能帮我留意一下吗?.</text></string>
+	<string id="bar_visitors_stalker_mechanic_task_3_fetch_about"><text>我需要一套校准工具.有了它我能干的事就多了.如果你能给我带一套回来, 我将不胜感激,今后你来我这都给你打折.</text></string>
+	<string id="bar_visitors_stalker_mechanic_task_3_fetch_finish"><text>厉害! 潜行者, 我没有太多东西可以给你, 不过我可以给你一个不错的折扣.</text></string>
+
+	<!-- FIND WEAPON FOR DUTY MECHANIC TASK -->
+	<string id="bar_visitors_stalker_mechanic_task_4_name"><text>为曼贡寻找%s</text></string>
+	<string id="bar_visitors_stalker_mechanic_task_4_text"><text>基里洛夫需要%s. 必须完好无损. </text></string>
+	<string id="bar_visitors_stalker_mechanic_task_4_about"><text>我需要把特定枪支. 有兴趣接活的话会提供详情. 意下如何? </text></string>
+	<string id="bar_visitors_stalker_mechanic_task_4_fetch_about"><text>%c[ui_8]改造武器需要状态良好的手枪和步枪. 目前我在找%c[ui_orange]%s%c[ui_8]. 找到就带给我! 想改善武器状态请使用%c[ui_orange]枪匠工具包%c[ui_8]或找我帮忙, 但后者要收费. </text></string>
+	<string id="bar_visitors_stalker_mechanic_task_4_fetch_finish"><text>太好了! 正是我需要的. </text></string>
+
+</string_table>

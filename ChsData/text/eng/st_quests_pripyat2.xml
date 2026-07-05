@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	<!-- ASSAULT TERRITORY 1 FOR MONOLITH LEADER TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_1_name"><text>歼灭敌人</text></string>
+	<string id="pri_monolith_monolith_trader_stalker_task_1_text"><text>履行黑石的职责. 工作做完后向兔子汇报.</text></string>
+	<string id="pri_monolith_monolith_trader_stalker_task_1_about"><text>我有一个重要的使命要交给你. 你需要进入这块区域, 并碾死那些蝼蚁, 准备好了吗?.</text></string>
+	<string id="pri_monolith_monolith_trader_stalker_task_1_finish"><text>任务完成了?好.赞美许愿石.</text></string>
+
+	<!-- ASSAULT TERRITORY 2 FOR MONOLITH LEADER TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_2_name"><text>哒蒙娜丽</text></string>
+	<string id="pri_monolith_monolith_trader_stalker_task_2_text"><text>有潜行者试图关闭焦脑器.杀了他.</text></string>
+	<string id="pri_monolith_monolith_trader_stalker_task_2_about"><text>有人对我们的伟大事业造成了许多威胁. 有一个人试图再次关闭焦脑器. 千万不能让他得逞. 你必须找到并杀掉他.</text></string>
+	<string id="pri_monolith_monolith_trader_stalker_task_2_finish"><text>蒙娜丽邀请你去他房间一趟.</text></string>
+
+	<!-- ASSAULT TERRITORY 3 FOR MONOLITH LEADER TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_3_name"><text>找到%s</text></string>
+	<string id="pri_monolith_monolith_trader_stalker_task_3_text"><text>兔子需要一支新的步枪来加强黑石部队</text></string>
+	<string id="pri_monolith_monolith_trader_stalker_task_3_about"><text>我们一天比一天强大. 我们需要更多的武器来实现我们的目标.你必须找到一把新的武器, 让我们继续填充我们的军械库.</text></string>
+	<string id="pri_monolith_monolith_trader_stalker_task_3_finish"><text>成功了吗? 很好. 赞美黑石. </text></string>
+
+	<!-- ASSAULT TERRITORY 4 FOR MONOLITH LEADER TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_4_name"><text>野味</text></string>
+	<string id="pri_monolith_monolith_trader_stalker_task_4_text"><text>带来%s. </text></string>
+	<string id="pri_monolith_monolith_trader_stalker_task_4_about"><text>去特异区狩猎%s, 以便你的黑石兄弟可以饱餐一顿.</text></string>
+	<string id="pri_monolith_monolith_trader_stalker_task_4_finish"><text>成功了吗? 很好. 赞美黑石. </text></string>
+
+	<!-- ASSASSINATION FOR MONOLITH LEADER TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_5_name"><text>找到%s</text></string>
+	<string id="pri_monolith_monolith_trader_stalker_task_5_text"><text>找到%s 并把它们给兔子</text></string>
+	<string id="pri_monolith_monolith_trader_stalker_task_5_about"><text>你一定要采购更多的物资, 让我们完成更伟大的工作.</text></string>
+	<string id="pri_monolith_monolith_trader_stalker_task_5_finish"><text>你做得很好. 弟兄们以你为荣. </text></string>
+
+    <!-- HEAD HUNTING FOR MONOLITH LEADER TASK -->
+    <string id="pri_monolith_monolith_trader_stalker_task_6_name"><text>找到%s </text></string>
+    <string id="pri_monolith_monolith_trader_stalker_task_6_text"><text>寻找%s. 把它带给兔子, </text></string>
+    <string id="pri_monolith_monolith_trader_stalker_task_6_about"><text>我们必须找到一个神器. 来为使黑石变得更强大效力.</text></string>
+    <string id="pri_monolith_monolith_trader_stalker_task_6_fetch_about"><text>你找到了一个%s.我们会为你举行仪式的</text></string>
+    <string id="pri_monolith_monolith_trader_stalker_task_6_fetch_finish"><text>你为黑石做了很多不错的事. 今晚会有新人加入我们的仪式.你可能需要上去演讲.</text></string> 
+
+	<!-- FIND MUTANT MEAT FOR MONOLITH LEADER TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_7_name"><text>为兔子寻找野味肉</text></string>
+	<string id="pri_monolith_monolith_trader_stalker_task_7_text"><text>狩猎并现场处理%s. 将肉带回给兔子烹制. </text></string>
+	<string id="pri_monolith_monolith_trader_stalker_task_7_about"><text>我们的补给不足. 你必须进入特异区猎取肉食, 让黑石的弟兄们得以饱餐. </text></string>
+	<string id="pri_monolith_monolith_trader_stalker_task_7_fetch_about"><text>%c[ui_8]去狩猎并带回%c[ui_orange]%s%c[default]. 记住这些生物是特异区的恩赐. 迅速击杀并心怀感恩. 成功后把肉带给我. </text></string>
+	<string id="pri_monolith_monolith_trader_stalker_task_7_fetch_finish"><text>你成功完成了任务. 干得好. </text></string>
+
+	<!-- FIND ARTEFACT FOR MONOLITH LEADER TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_8_name"><text>为兔子寻找%s神器</text></string>
+	<string id="pri_monolith_monolith_trader_stalker_task_8_text"><text>找到%s神器. 带回给兔子作为祭品准备. </text></string>
+	<string id="pri_monolith_monolith_trader_stalker_task_8_about"><text>我们必须再找一件神器作为祭品. 你愿为黑石的福祉效力吗? </text></string>
+	<string id="pri_monolith_monolith_trader_stalker_task_8_fetch_about"><text>%c[ui_8]我们需要一件神器献给黑石作为祭品. 找到名为%c[ui_orange]%s%c[default]的神器. 成功后带给我, 我们将举行仪式. </text></string>
+	<string id="pri_monolith_monolith_trader_stalker_task_8_fetch_finish"><text>你为黑石尽心效力. 今晚请加入我们的献祭仪式. </text></string>
+
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR CLERIC TASK -->
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_name"><text>找到%s</text></string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_text"><text>找到 %s 以进行基本改造, 将它们带回来.</text></string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_about"><text>你应该为许愿石做点什么.我需要特定的工具来调整我们的武器.</text></string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_fetch_about"><text>好的, 我要%s.</text></string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_fetch_finish"><text>你做得很好.</text></string>
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR CLERIC TASK -->
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_name"><text>找到%s</text></string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_text"><text>找到 %s 以进行高级改造, 将它们带回来.</text></string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_about"><text>我需要更多更好的工具. 你能找到吗?.</text></string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_fetch_about"><text>我需要一套高级工具.有了它我能干的事就多了.如果你能给我带一套回来, 我将不胜感激,今后你来我这都给你打折.</text></string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_fetch_finish"><text>好.把他们放这吧.</text></string>
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR CLERIC TASK -->
+	<string id="pri_monolith_monolith_mechanic_stalker_task_3_name"><text>找到%s</text></string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_3_text"><text>找到 %s 以进行专业改造, 将它们带回来.</text></string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_3_about"><text>我我需要更多更好的工具. 你能找到吗?</text></string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_3_fetch_about"><text>我需要一套校准工具.有了它我能干的事就多了.如果你能给我带一套回来, 我将不胜感激,今后你来我这都给你打折.</text></string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_3_fetch_finish"><text>好.把他们放这吧.</text></string>
+
+	<!-- FIND WEAPON FOR CLERIC TASK -->
+	<string id="pri_monolith_monolith_mechanic_stalker_task_4_name"><text>为牧师寻找%s</text></string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_4_text"><text>牧师需要一把新步枪加入黑石军火库. </text></string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_4_about"><text>我需要把特定枪支. 能为我找到吗. </text></string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_4_fetch_about"><text>%c[ui_8]我需要武器, 兄弟. 正在寻找%c[ui_orange]%s%c[ui_8]. 武器状态必须配得上黑石. %c[ui_orange]枪匠工具包%c[ui_8]可改善其状态. 或我能协助, 但作为回报, 请为黑石奉献...</text></string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_4_fetch_finish"><text>黑石珍视仆从的忠诚. </text></string>
+
+	<!-- GET ITEM FROM STASH FOR MILITARY LEADER TASK -->
+	<string id="pri_monolith_monolith_mechanic_stalker_task_5_name"><text>从藏匿点取回文件夹交给牧师</text></string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_5_text"><text>前往指定地点, 从藏匿点取出文件并带给牧师. </text></string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_5_about"><text>%c[ui_8]黑石的敌人行窃取走了不属于他们的东西. 弟兄们让他们开口说出了藏匿点. 去吧. 把它带回. </text></string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_5_finish"><text>你做得很好. 黑石指引着你. </text></string>
+
+
+	<!-- FIND ALCOHOL FOR MONOLITH MEDIC TASK -->
+	<string id="pri_monolith_monolith_medic_stalker_task_1_name"><text>带酒精给黑石医护兵</text></string>
+	<string id="pri_monolith_monolith_medic_stalker_task_1_text"><text>收集%s并带给黑石医护兵, 供他用于伤口消毒. </text></string>
+	<string id="pri_monolith_monolith_medic_stalker_task_1_about"><text>我需要更多酒精消毒伤口. 若你带些来会付酬. </text></string>
+	<string id="pri_monolith_monolith_medic_stalker_task_1_fetch_about"><text>%c[ui_8]我需要更多酒精消毒伤口. 若你带些来会付重金. %c[ui_orange]%s%c[default]最理想. </text></string>
+	<string id="pri_monolith_monolith_medic_stalker_task_1_fetch_finish"><text>完美, 正是我需要的. 谢谢你! </text></string>
+
+	<!-- FIND RARE ARTEFACT FOR MONOLITH MEDIC TASK -->
+	<string id="pri_monolith_monolith_medic_stalker_task_2_name"><text>为医师寻找%s神器</text></string>
+	<string id="pri_monolith_monolith_medic_stalker_task_2_text"><text>医师要你寻找名为%s的稀有神器. </text></string>
+	<string id="pri_monolith_monolith_medic_stalker_task_2_about"><text>我们需要能治疗伤口的神器. 找到它. </text></string>
+	<string id="pri_monolith_monolith_medic_stalker_task_2_fetch_about"><text>%c[ui_8]我们需要能治疗伤口的神器, 名为%c[ui_orange]%s%c[ui_8]. 你能找到——特异区站在你这边, 兄弟. 去吧. </text></string>
+	<string id="pri_monolith_monolith_medic_stalker_task_2_fetch_finish"><text>找到了吗? 赞美黑石. </text></string>
+
+</string_table>

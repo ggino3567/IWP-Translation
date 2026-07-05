@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	<!-- ASSAULT BANDIT BASE FOR SIDOROVICH TASK -->
+	<string id="esc_m_trader_task_1_name"><text>消灭强盗</text></string>
+	<string id="esc_m_trader_task_1_text"><text>对停车场发动特别军事行动, 消除占据位置的强盗</text></string>
+	<string id="esc_m_trader_task_1_about"><text>强盗在旧停车场里有一个基地. 这些混蛋, 不管是谁, 只要过路都得挨揍. 很显然它影响了我的客户和在营地里的潜行者的小日子.</text></string>
+	<string id="esc_m_trader_task_1_finish"><text>可以啊, 潜行者!这样下去, 咱俩就是铁哥们了! 拿去吧, 这些东西是你的了.</text></string>
+
+	<!-- ASSASSINATION FOR SIDOROVICH TASK -->
+	<string id="esc_m_trader_task_2_name"><text>契约杀手</text></string>
+	<string id="esc_m_trader_task_2_text"><text>西多罗维奇要我杀个人, 完成后来新手村找他</text></string>
+	<string id="esc_m_trader_task_2_about"><text>我有一个名单, 上面的人头我论个付钱. 最坏的人渣通常都在这个名单上... 怎么说, 潜行者, 想不想干他一票?</text></string>
+	<string id="esc_m_trader_task_2_finish"><text>好, 这人渣死了! 这是我承诺你的.</text></string>
+
+	<!-- FIND ARTEFACT FOR SIDOROVICH TASK -->
+	<string id="esc_m_trader_task_3_name"><text>为西德罗维奇寻找%s神器</text></string>
+	<string id="esc_m_trader_task_3_text"><text>西德罗维奇要你为他寻找%s神器. </text></string>
+	<string id="esc_m_trader_task_3_about"><text>神器——这买卖在特异区内外都通行. 我要你找个神器给我. 有兴趣吗? </text></string>
+	<string id="esc_m_trader_task_3_fetch_about"><text>%c[ui_8]我在找%c[ui_orange]%s%c[ui_8]神器. 若你找到, 带回来我会付重金. </text></string>
+	<string id="esc_m_trader_task_3_fetch_finish"><text>干得好, 潜行者. 这是答应你的报酬. </text></string>
+
+	<!-- ELIMINATE MUTANTS FOR VOLK TASK -->
+	<string id="esc_2_12_stalker_wolf_task_1_name"><text>消除变种生物威胁</text></string>
+	<string id="esc_2_12_stalker_wolf_task_1_text"><text>沃夫要你清除一个地区所有的变种生物, 以确保新手村和穿过封锁线的潜行者的安全. 到达地点并消除周围地区的所有变种生物. 在你工作完成后回来找沃夫.</text></string>
+	<string id="esc_2_12_stalker_wolf_task_1_about"><text>潜行者, 有个任务给你.封锁线最近越来越危险了. 有一群变种生物一直在附近游荡. 必须要有人去干掉他们. 地方给你在PDA上标出来了.记住,一 个 不 留.</text></string>
+	<string id="esc_2_12_stalker_wolf_task_1_finish"><text>谢谢你, 新手村更安全了.这是我承诺你的.</text></string>
+
+	<!-- FIND LEVEL 1 TOOLS FOR MECHANIC TASK -->
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_name"><text>找到%s</text></string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_text"><text>%s 是进行基本改装的必要工具, 找到并将它们带回来</text></string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_about"><text>许多潜行者来这问我是否能改装他们的武器,答案是不能.因为我没有合适的工具.如果我能有趁手的工具, 就可以帮他们改装了. 拜托, 伙计, 能帮帮我吗?</text></string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_fetch_about"><text>我需要一套基本工具.有了它我能干的事就多了.如果你能给我带一套回来, 我将不胜感激,今后你来我这都给你打折.</text></string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_fetch_finish"><text>对对对,这正是我要的.报酬在这里,拿去吧.</text></string>
+
+	<!-- FIND LEVEL 2 TOOLS FOR MECHANIC TASK -->
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_name"><text>找到%s</text></string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_text"><text>%s 是进行高级改装的必要工具, 找到并将它们带回来</text></string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_about"><text>我的生意现在很兴旺, 越来越多的潜行者来了, 他们有时要求我对他们的武器进行微调.但我需要更多的工具.你上次带来的工具箱已经不够用了. 我得要一个更高级的工具箱.如果你有兴趣,我细说一下.</text></string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_fetch_about"><text>我需要一套%s.有了它我能干的事就多了.如果你能给我带一套回来, 我将不胜感激,今后你来我这都给你打折.</text></string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_fetch_finish"><text>对对对,这正是我要的.报酬在这里,拿去吧.</text></string>
+
+	<!-- FIND LEVEL 3 TOOLS FOR MECHANIC TASK -->
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_name"><text>找到%s</text></string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_text"><text>%s 是进行精细改装的必要工具, 找到并将它们带回来</text></string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_about"><text>我的生意现在蒸蒸日上, 越来越多的潜行者来了, 他们有时要求我对他们的武器进行微调.但我需要更多的工具.你上次带来的工具箱已经不够用了. 我得要一个更高级的工具箱.如果你有兴趣,我细说一下.</text></string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_fetch_about"><text>我需要一套%s.有了它我能干的事就多了.如果你能给我带一套回来, 我将不胜感激,今后你来我这都给你打折.</text></string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_fetch_finish"><text>对对对,这正是我要的.报酬在这里,拿去吧.</text></string>
+
+	<!-- FIND WEAPON FOR MECHANIC TASK -->
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_4_name"><text>为异械寻找%s</text></string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_4_text"><text>异械需要%s. 必须完好无损. </text></string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_4_about"><text>我需要把特定枪支. 若你有兴趣接活, 我会提供详情. 意下如何? </text></string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_4_fetch_about"><text>%c[ui_8]我需要特定武器. 现在我在找完好无损的%c[ui_orange]%s%c[ui_8]. 估计你找起来不难. 若需要修理, 用%c[ui_orange]枪匠工具包%c[ui_8]或带给我——可以帮忙, 但要收费. </text></string>
+	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_4_fetch_finish"><text>太好了! 正是我需要的. </text></string>
+
+</string_table>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+<string id="red_forester_hello_dialog_0"><text>最近过的好吗?</text></string>
+	<string id="red_forester_about_forest_0"><text>告诉我关于红树林的事</text></string>
+	<string id="red_forester_about_forest_1"><text>这里曾是个野生动物保护区,我过去是本地的林务官.我保护森林和森林里的动物免遭偷猎者的毒手.现在特异区本身在保护着这个地方,它保护得如此完美以至于人们宁可多走十几里的路来避开这个地方.如果一个陌生人涉足森林,他最好的结局就是死掉.尽管我本人就是个看林人,但我也无法知道这里到底发生了什么.一个人走进迷雾之中便不知去向.你可以紧跟着他的后面却仍旧不知道他是怎么死的.就是这样,孩子.</text></string>
+	<string id="red_forester_about_zone_0"><text>你能告诉我关于特异区的什么?</text></string>
+	<string id="red_forester_about_zone_1"><text>特异区,嗯…特异区本身是有生命的,我们人类仅仅是或多或少地闯进了它的领地.特异区会化解任何对它的存在所构成的威胁,就好像我们的身体同疾病所做的斗争一样.我们发烧,就好像特异区震动一样.发射风暴就是我们进行"呕吐"一样.我们越激怒它,越强的风暴就会发生.</text></string>
+	<string id="red_forester_about_zone_11"><text>这些年来, 你是如何活下来的?</text></string>
+	<string id="red_forester_about_zone_111"><text>一个愚蠢的举动就可以毁了特异区…特异区的一切.不仅仅是怪物和异变点,而且包括神器和你们这些潜行者…还有我.我能感觉到特异区正处于焦虑之中- 有某种东西正在颠覆它,扰乱属于它的平衡.一个大的风暴正在酝酿之中…我不知道现状能否继续维持下去.</text></string>
+	<string id="red_forester_hello_dialog_1"><text>你真是个在护林员地盘上找东西的新手?</text></string>
+	<string id="red_forester_hello_dialog_2"><text>是什么风把你吹到我这里了?</text></string>
+	<string id="red_forester_hello_dialog_3"><text>祝你好运,孩子!</text></string>
+	<string id="red_forester_hello_dialog_4"><text>别把我忘了!</text></string>
+	<string id="red_forester_hello_dialog_5"><text>记住我,别忘了!</text></string>
+	<string id="red_forester_who_are_you_0"><text>你是谁?</text></string>
+	<string id="red_forester_who_are_you_1"><text>我是护林员,先给你说说我的事吧.我在这儿住了很长的时间:我把我的一生都献给了这个森林.我老了.不管怎样,等你到了我这把年纪,你也不会离开你的屋子的.在核电站发生事故后我拒绝被遣散;我在特异区恶劣的环境中幸存了下来.我记得地平线上出现一道闪光…许多朋友在那天都死掉了,但是特异区放过了我,你明白吗?是啊,它不仅放过了我,还给了我礼物!我过去擅长在森林中寻找道路,而现在我还能找到通过那些致命异变点的安全通道.潜行者们嫉妒我,但我很难说这份礼物是好是坏?你应该知道天底下没有白来的好事.总有一天,特异区会向我索要礼物的代价.这正是我所担心,老弟.</text></string>
+	<string id="red_forester_who_are_you_111"><text>不,这里是独有的松树林.好吧,这也是个自然保护区,但是这已经特别得不能再特别了.当1986年切尔诺贝利核电站事故发生后,这里变成了红色.当我睡觉的时候它还是绿色的,而当我醒来后它就变成了你现在所看到的样子.不久特异区出现了,动物和鸟儿离开了这座森林.我是这里剩下的唯一生命.就剩下我、红森林还有从未在这里消散的迷雾.</text></string>
+	<string id="red_forester_who_are_you_11111"><text>是的,许多潜行者在这里走到了人生的尽头.我甚至听说在红森林里面住着一个鬼魂.从我的角度看,这个森林就像特异区里的一切一样.如果你善待它,它就不会碰你.而麻烦的是,你们这些潜行者对一切的态度都有问题.你们试图拥有特异区内的一部分,而你们所得到的报应是你们罪有应得.</text></string>
+</string_table>

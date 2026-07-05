@@ -1,0 +1,1376 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	
+	<string id="encyclopedia_weapons">
+		<text>Weapons</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_abakan">
+		<text>AN-94 "Abakan"</text>
+	</string>
+	<string id="encyclopedia_weapons_abakan_text">
+		<text>
+			%c[0,153,255,255]AN-94 “Abakan”%c[0,140,140,140] - the 5.45 mm Nikonov AN-94 (“Abakan”), a model of individual combat automatic small arms chambered for the 5.45 mm intermediate cartridge (5.45x39), and a component of the automatic rifle weapons system.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe AN-94 rifle was developed during the experimental design program “Abakan” at the design bureau of the Izhevsk Machine-Building Plant under the leadership of G. N. Nikonov, and was adopted into service in 1997 under the designation “5.45 mm Nikonov assault rifle, model 1994 (AN-94).” Production of the AN-94 rifles was carried out by the Izhevsk Machine-Building Plant.\n
+			\nThe AN-94 is an individual weapon intended to engage enemy manpower and unarmored samples of weapons, military, and special equipment. All types of 5.45 mm automatic rifle cartridges (5.45x39) are used for firing.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: assault rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USSR (RF)\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1998–2008
+		</text>
+	</string>
+	
+		<string id="encyclopedia_weapons_ash12">
+		<text>ASh-12</text>
+	</string>
+	<string id="encyclopedia_weapons_ash12_text">
+		<text>
+			%c[0,153,255,255]ASh-12%c[0,140,140,140] -  Russian large-caliber assault rifle, developed by TsKIB SOO for the needs of special forces of the Russian Federal Security Service (FSB) together with the VSSK sniper rifle.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nIt is a “weapon-patron” complex, as a new large-caliber cartridge 12,7x55 mm PS 12 with several types of bullets: armor-piercing with protruding core, jacketed, double-bullet with tandem bullet placement, etc. was developed for it in TsKIB SOO.\n
+			\nDue to the high stopping power of a heavy bullet of large caliber, the ASh-12 assault rifle is a highly effective close combat weapon.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Assault Rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Russia\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 2010-present
+		</text>
+	</string>
+	
+	
+	<string id="encyclopedia_weapons_ak103">
+		<text>AK-103</text>
+	</string>
+	<string id="encyclopedia_weapons_ak103_text">
+		<text>
+			%c[0,153,255,255]AK-103%c[0,140,140,140] - export version of the AK-74M assault rifle, differing by the use of 5.56x45 mm (NATO standard SS109) and 7.62x39 mm (Soviet 1943 model cartridge) cartridges, respectively.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]\n
+			7.62 mm Kalashnikov assault rifle AK-103 was developed based on the standard assault rifle of the Russian army AK-74M to replace the classic Kalashnikov assault rifle for the 7.62x39 mm cartridge.\n
+			\nAK-103 is built on the "classic AK scheme," distinguished by its reliable operation, including in difficult operating conditions, high manufacturability, and ease of use by personnel with any level of training.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Assault Rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Russia\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1994-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_ak12">
+		<text>AK-12</text>
+	</string>
+	<string id="encyclopedia_weapons_ak12_text">
+		<text>
+			%c[0,153,255,255]AK-12 model 2012%c[0,140,140,140] - Russian advanced assault rifle chambered for the 5.45x39 cartridge, adopted by the Russian army in January 2018.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]\n
+			The first prototype was created by the Kalashnikov Concern in 2011 and presented to the public in January 2012. The AK represented a fundamentally new assault rifle, implemented using the general scheme and technical solutions of previous Kalashnikov rifles. The development was carried out by the leading design team of the Kalashnikov Concern under the direction of Vladimir Zlobin on their own initiative since 2012. The AK-12 is considered a fifth-generation Kalashnikov assault rifle (in order: AK; AKM; AK-74; AK-74M; AK-12).\n
+			\nThe most noticeable improvement from the user's point of view was the enhanced ergonomics - complete symmetry of the rifle, a convenient safety-selector, and the introduction of a bolt catch. This allowed the rifle to be fully operated with only one hand, suitable for both right-handed and left-handed users. During the refinements, the receiver cover attachment and other details were changed, but the distinctive features of the rifle make it easily distinguishable from traditional AKs.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Assault Rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: RF\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 2011-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_ak74">
+		<text>AKS-74N</text>
+	</string>
+	<string id="encyclopedia_weapons_ak74_text">
+		<text>
+			%c[0,153,255,255]AKS-74N%c[0,140,140,140] - "Night" variant of the folding AKS-74, with a side rail for mounting night sights.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]\n
+			The 5.45-mm Kalashnikov assault rifle model 1974 (GRAU index - 6P20) is a 5.45 mm caliber assault rifle, developed in 1970 by Soviet designer M. T. Kalashnikov and adopted by the armed forces of the USSR in 1974. The AK-74 assault rifle was created to replace the 7.62-mm Kalashnikov assault rifle AKM and its modifications in the design bureau of the Izhevsk Machine-Building Plant under the leadership of M. T. Kalashnikov and adopted in 1974 under the designation "5.45-mm Kalashnikov assault rifle model 1974 (AK-74)." Simultaneously with the AK-74 assault rifle, its modifications with a folding stock AKS-74 and with a night sight AK-74N and AKS-74N were developed.\n
+			\nThe development of the AK-74 is associated with the transition to a new low-impulse 5.45x39 mm cartridge. It was first used in the Afghan war, and later in all conflicts in the post-Soviet space. Currently, this assault rifle is used by most countries in Eastern Europe, as well as Asia.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Assault Rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USSR (Russia)\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1974-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_ak74u">
+		<text>AKS-74UN</text>
+	</string>
+	<string id="encyclopedia_weapons_ak74u_text">
+		<text>
+			%c[0,153,255,255]AKS-74UN%c[0,140,140,140] - 5.45x39 Kalashnikov folding short assault rifle, AKS-74U, (GRAU Index - 6P26) - shortened version of the AKS-74.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]\n
+			It was developed in the late 1970s - early 1980s for arming crews of combat vehicles, aircraft, artillery crews, as well as paratroopers. After the end of World War II and the widespread adoption of the AK family of small arms in the Armed Forces of the Soviet Union, there were no longer any mass-produced submachine guns (SMGs) in service. After the creation of the AK-74, the idea arose to create a weapon for paratroopers/tank crews, APCs, etc.\n
+			\nIn 1980, under the brand name AKS-74U (6P26), the assault rifle began to be supplied to the USSR troops. It is also used by the Ministry of Internal Affairs and security structures due to its compact size. In terms of all mechanisms, the AKS-74U is completely analogous to the AK-74, except for the hammer turn limiter installed instead of the rate reducer.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Assault Rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USSR (Russia)\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1979-1993
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_ak74u_snag">
+		<text>AK-105 Tactical</text>
+	</string>
+	<string id="encyclopedia_weapons_ak74u_snag_text">
+		<text>
+			%c[0,153,255,255]AK-105%c[0,140,140,140] - compact Kalashnikov assault rifle of the "AK-100 Series" Developed for the 5.45x39 mm cartridge for the Russian army and law enforcement agencies. This model has a 45-round magazine, a more comfortable grip, and a fore-end with a Picatinny rail for mounting sights.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]\n
+			The external difference from the AK-74M assault rifle is a shortened barrel and the appearance of a flash suppressor. It replaces the outdated Soviet AKS-74U in the army. The AK-105 is equipped with a side rail for mounting optical or collimator sights, as well as a suppressor. The presence of a folding stock ensures ease of handling the weapon when moving on the march, transporting, and parachuting, while also allowing shooting with the stock folded.\n
+			\nModern materials are used in the design. The stock, magazine, fore-end, receiver cover, and pistol grip are made of plastic and are highly impact-resistant and resistant to external influences. The use of protective coatings ensures high corrosion resistance of metal parts. Used by special forces of the CIS.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Assault Rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Russia\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1994-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_aug">
+		<text>Steyr AUG A1</text>
+	</string>
+	<string id="encyclopedia_weapons_aug_text">
+		<text>
+			%c[0,153,255,255]Steyr AUG A1%c[0,140,140,140] (Armee Universal Gewehr - Army Universal Rifle) - The small arms complex, released in 1977 by the Austrian company Steyr-Daimler-Puch (now Steyr Arms GmbH).\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]\n
+			In Australia, the rifle is produced under license under the brand name F88. It has interchangeable barrels of different lengths: the main 508 mm, as well as shortened barrels of 350 mm and 407 mm and a heavy barrel of 621 mm. This rifle uses a bullpup configuration, in which the magazine and bolt assembly are located behind the fire control handle and trigger.\n
+			\nThere are two firing modes: single shots and automatic fire. It is also possible to upgrade for single shots and three-round bursts. The AUG was original in many respects, with one of the main advantages of the rifle being its modularity.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Assault Rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Austria\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1978-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_aug_a3">
+		<text>Steyr AUG A3</text>
+	</string>
+	<string id="encyclopedia_weapons_aug_a3_text">
+		<text>
+			%c[0,153,255,255]Steyr AUG A3%c[0,140,140,140] (Armee Universal Gewehr - Army Universal Rifle) - The small arms complex, released in 1977 by the Austrian company Steyr-Daimler-Puch (now Steyr Arms GmbH).\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]\n
+			The Steyr AUG A3 differs from the base model by the presence of four Picatinny rails: the top one is used for mounting sights, an underbarrel grenade launcher or vertical foregrip can be attached to the bottom rail, and laser aiming devices or other necessary additional equipment can be attached to the side rails (this particular model only has the top rail).\n
+			\nAdditionally, it features a bolt release button and is equipped with a 42-round magazine.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Assault Rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Austria\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1978-present
+
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_awm">
+		<text>Accuracy International AWM</text>
+	</string>
+	<string id="encyclopedia_weapons_awm_text">
+		<text>
+			%c[0,153,255,255]Accuracy International AWM%c[0,140,140,140] - a British sniper rifle developed by Accuracy International for the Magnum rifle cartridge. It comes equipped with an optical scope and is part of the AW (Arctic Warfare) series.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]\n
+			In 1996, the British company "Accuracy International" developed and began production of the sniper rifle "Accuracy International AWM". Essentially, it is a rifle from the "Arctic Warfare" series modified for a more powerful Magnum cartridge, which allows for increased shooting range and accuracy. Structurally, it differs from the Accuracy International L96A1 / Arctic Warfare only in the firing and feeding mechanisms (bolt, magazine), which were redesigned to handle the larger dimensions and higher pressures of Magnum cartridges.\n
+			\nIn 2009, this rifle set a record for precision shooting distance. British sniper Craig Harrison hit two enemies in Afghanistan at a distance of 2477 meters using the L115A3 rifle. In 2012, Accuracy International ceased production of the Arctic Warfare Magnum (AWM) rifles; production of the Arctic Warfare (AW) rifles was also soon discontinued. They have been replaced by more advanced rifles from the Accuracy International AX / AXMC series.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Sniper Rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: United Kingdom\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1996-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_b725">
+		<text>Browning B725</text>
+	</string>
+	<string id="encyclopedia_weapons_b725_text">
+		<text>
+			%c[0,153,255,255]Browning B725%c[0,140,140,140] - Model B725 from Browning Arms Company is a further development of the popular B25 vertical shotgun. The manufacturer has improved the design and created a very ergonomic shotgun with excellent performance.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe B725 shotgun can be used in various fields, from hunting and sports to law enforcement and self-defense. Production of the hunting smoothbore shotgun B725 is carried out by the Browning foreign (BELGIUM) enterprise. It looks solid, majestic, and gives the impression of powerful weaponry that can be relied upon even in harsh conditions of the CEZ.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Shotgun\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Belgium\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 2012-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_beretta">
+		<text>Beretta M9A1</text>
+	</string>
+	<string id="encyclopedia_weapons_beretta_text">
+		<text>
+			%c[0,153,255,255]Beretta M9A1%c[0,140,140,140] - a self-loading pistol chambered in 9x19mm Parabellum, used by all branches of the armed forces of the United States. It is based on the Italian Beretta 92F pistol.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nCompared to the Italian-made 92F pistols, it features a simplified and shorter production cycle, with some parts manufactured through automated processes instead of handmade by Italian gunsmiths. One of the main advantages of the Beretta M9 is its reliability and durability. However, the pistol has its drawbacks. It is quite heavy and cumbersome for carry, especially during prolonged use.\n
+			\nM9A1 - a 2006 modification featuring a Picatinny rail under the barrel (for attaching tactical lights, laser aiming devices, and other accessories). Overall, the Beretta M9 pistol remains one of the most recognizable and popular handguns in the world, known for its reliability, accuracy, and ease of use.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Pistol\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Italy/USA\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1990-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_bizon">
+		<text>PP-19 Bizon</text>
+	</string>
+	<string id="encyclopedia_weapons_bizon_text">
+		<text>
+			%c[0,153,255,255]PP-19 Bizon%c[0,140,140,140] - a submachine gun model 19, developed in 1993 by V. M. Kalashnikov (son of the designer M. T. Kalashnikov) and Alexey Dragunov (son of E. F. Dragunov) commissioned by the Ministry of Internal Affairs of the Russian Federation (MVD Russia).\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe weapon was based on the AKS-74U design (achieving 60% parts commonality), but its operation is based on the energy of the free bolt recoil. A distinctive feature of this submachine gun is its helical underbarrel magazine with a capacity of up to 64 rounds. The muzzle end of the barrel is equipped with a compact flash suppressor with two wide rectangular ports. The barrel cover is plastic. A standard mounting rail for sights is located on the left side of the barrel housing.\n
+			\nThis submachine gun has been adopted by the Russian law enforcement agencies. Serial production began in 1996, and the model was produced in limited numbers. The "Bizon" is chambered for the Makarov 9x18mm cartridge. The 9x18mm cartridge was a standard for pistols and submachine guns in the Soviet Union and Warsaw Pact countries. However, it is less powerful and has lower armor-piercing capabilities compared to the standard 9x19mm Parabellum cartridge.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Submachine Gun\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Russia\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1996
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_bm16">
+		<text>TOZ-66</text>
+	</string>
+	<string id="encyclopedia_weapons_bm16_text">
+		<text>
+			%c[0,153,255,255]TOZ-66%c[0,140,140,140] - well-known to experienced hunters. According to users, the Tula Arms Plant managed to embody all the advantages of previous hammer-fired shotgun models in this double-barreled gun.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe creation of the TOZ-66 12-gauge hunting shotgun was a true gift to Soviet hunters who had long dreamed of obtaining a classic Tula hammer-fired shotgun in this caliber. The Tula Arms Plant produced various categories of TOZ-66 hammer-fired shotguns. The most common were standard grade shotguns with birch stocks. In addition, improved models with beech stocks were also available for sale. Custom TOZ-66 shotguns were distinguished by walnut stocks and better fitting of components.\n
+			\nThe TOZ-66 is the strongest of the Tula hammer-fired double-barreled shotguns. It is suitable for both professionals and novice hunters. Overall, the TOZ-66 12-gauge shotgun is reliable, simple, and elegant hunting weaponry. Notably, even modern TOZ double-barreled shotgun models significantly lag behind the strength of the TOZ-66, which has a reinforced barrel housing %c[0,153,255,255](to switch to double-shot mode, use the fire mode switch key)%c[0,140,140,140].\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Shotgun\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USSR (Russia)\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1968-1974
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_colt1911">
+		<text>Colt M1911A1</text>
+	</string>
+	<string id="encyclopedia_weapons_colt1911_text">
+		<text>
+			%c[0,153,255,255]Colt M1911A1%c[0,140,140,140] - a self-loading pistol chambered in .45 ACP. Designed by John Moses Browning in 1908 (U.S. Patent 984519, February 14, 1911). The M1911A1 is a model introduced in 1926.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nIt was created over 100 years ago, has seen two world wars and numerous smaller conflicts, and is still in service today. It is produced by numerous companies worldwide and is actively used by military, police, competitive shooters, and civilians. Norway was the first foreign country to adopt the M1911. Both American-made and local, licensed or unlicensed versions of the M1911 have spread around the world. Russia also did not remain indifferent, ordering a batch of "Colts" during the First World War.\n
+			\nOn March 29, 1911, the Colt pistol was officially adopted by the U.S. Army as the "Model 1911". The pistol was issued to officers and non-commissioned officers of all branches of the U.S. armed forces from 1911 to 1985 and is still authorized for use by military and law enforcement personnel as personal defense weapons.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Pistol\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USA\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1911-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_coltm45a1">
+		<text>Colt M45A1</text>
+	</string>
+	<string id="encyclopedia_weapons_coltm45a1_text">
+		<text>
+			%c[0,153,255,255]M45A1%c[0,140,140,140] - produced by Colt under the index M1070CQBP is the most modern version of the famous M1911 family from the legendary American firearms manufacturer, adapted for current operations.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe enhanced M45A1 includes several changes from the original M1911A1 design. One of its features is the dual recoil spring system, which distributes the recoil force of the .45 ACP cartridge by reducing the peak impulse recoil force. It also features Tritium night sights with 3 dots, a 5-inch barrel, ambidextrous safety, Picatinny rail, and a Desert Tan Cerakote finish.\n
+			\nThe current M45A1 does not have the "USMC" marking on the slide for either military or civilian sales. The Marine Corps Headquarters directed Colt to discontinue the marking on pistols. All M45A1 pistols currently bear the marking "COLT M45A1".\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Pistol\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USA\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1911-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_deagle">
+		<text>Desert Eagle</text>
+	</string>
+	<string id="encyclopedia_weapons_deagle_text">
+		<text>
+			%c[0,153,255,255]Desert Eagle%c[0,140,140,140] - a large-caliber semi-automatic pistol (up to 12.7 mm). It is marketed as hunting, sporting, and self-defense weapon against wild animals and criminal threats.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nDeveloped in 1983 in the USA by Magnum Research, with subsequent modifications by Israel Military Industries, which later took over production of these pistols. Due to its size and intimidating appearance, the Desert Eagle is often used in movies, television shows, and video games. Over the years, the Desert Eagle has been released in several main variants: Mark I and Mark VII, Mark XIX, as well as several less popular versions like the smaller Baby Eagle and Micro Desert Eagle. The pistols differ primarily in caliber, and some also in size.\n
+			\nThe ability to shoot monstrous 12.7 mm cartridges from a semi-automatic pistol is what the Desert Eagle was originally created for. By the way, before the creation of the "Eagle," it was generally believed in the design community that creating a well-functioning semi-automatic pistol for such a cartridge was likely impossible.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Pistol\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USA/Israel\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1983-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_dvl_10">
+		<text>LOBAEV Arms DVL-10 "Saboteur"</text>
+	</string>
+	<string id="encyclopedia_weapons_dvl_10_text">
+		<text>
+			%c[0,153,255,255]DVL-10 Sniper Rifle%c[0,140,140,140] - a family of modern Russian sniper rifles by Vladislav Yevgenievich Lobaev.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe DVL-10 is a lightweight, compact, and silent rifle designed for special combat tasks requiring special accuracy and range, using subsonic and existing ammunition. It is equipped with a folding stock, which is unified with other SVL models. The rifle comes with a match-grade stainless steel barrel by LOBAEV Hummer Barrels. It does not have a single fixed model. The caliber and other characteristics of this rifle vary depending on customer preferences. The barrel is made of stainless steel, and the rifle is equipped with a Picatinny rail for mounting various types of sights. These rifles are known for their extremely high accuracy.\n
+			\nIn addition to the above, it can be added that, unlike standard issue weapons, all Lobaev rifles are modular weapons with the ability to be precisely adjusted to the specific task facing the shooter. However, the "Saboteur" is one of the most expensive representatives of the category of silent weapons.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Sniper Rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Russia\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 2010-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_grenade_f1">
+		<text>F-1 Grenade</text>
+	</string>
+	<string id="encyclopedia_weapons_grenade_f1_text">
+		<text>
+			%c[0,153,255,255]F-1%c[0,140,140,140] (slang - "lemon") - a hand anti-personnel defensive grenade. The grenade is designed to engage live forces in defensive combat. Due to the significant fragmentation radius (up to 50 meters), it can only be thrown from cover, an armored personnel carrier, or a tank.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe F-1 grenade belongs to the hand anti-personnel fragmentation defensive grenades of remote action. Its design proved to be so successful that it has remained virtually unchanged to the present day. It has been slightly modified and refined to improve the reliability of the fuse mechanism. In open terrain, the effective engagement range against the enemy during the grenade explosion by the high-explosive action of the projectile is 3-5 meters. The radius of continuous fragmentation damage to live forces is 7 meters. The chances of being hit by grenade fragments are maintained at distances of up to 200 meters. Additionally, F-1 grenades are often used for setting ambushes.\n
+			\nAs for the nickname "lemon", it originated during the First World War. Many believe that the grenade was named after its characteristic shape, but this is not true. The truth is that the F-1 grenade, which we commonly refer to as "lemon" today, is nothing more than a copy of the French hand grenade of the 1915 model of the same brand, known in French as F.1.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: hand grenade\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USSR (Russia)\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1940-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_fiveseven">
+		<text>FN Five-seveN</text>
+	</string>
+	<string id="encyclopedia_weapons_fiveseven_text">
+		<text>
+			%c[0,153,255,255]FN Five-seveN%c[0,140,140,140] - a semi-automatic pistol developed and manufactured by the Belgian company Fabrique Nationale d'Herstal. The name is a combination of "Five-seveN," where "5.7" refers to the caliber of the firearm, which is .224, and "FN" represents the initials of Fabrique Nationale.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nAs a companion pistol to the FN P90 submachine gun, the Five-seveN shares many characteristics. The 5.7x28mm cartridge for the P90 submachine gun was developed by FN in the early 1990s, and the Five-seveN was developed by FN in the late 1990s as a pistol using the same cartridge. Since its introduction, it has also been offered in various commercial versions, most recently the Five-seveN USG. The 5.7x28mm cartridge for the Five-seveN was initially developed alongside the P90 and introduced in the 1990s. This cartridge was later improved and introduced in 1993 as the 5.7x28mm SS190. Following the release of the SS190 cartridge, FN officially announced the Five-seveN pistol in 1995. A prototype of the pistol was presented to the public in 1996. With some modifications, the double-action-only variant of the pistol went into production in 1998.\n
+			\nThe FN Five-seveN has gained increasing popularity on the civilian market, and its characteristics have also made it popular in special operations and similar fields. By 2009, the Five-seveN was used by over 300 law enforcement agencies in the United States.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Pistol\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Belgium\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1998-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_fn2000">
+		<text>FN F2000</text>
+	</string>
+	<string id="encyclopedia_weapons_fn2000_text">
+		<text>
+			%c[0,153,255,255]FN F2000%c[0,140,140,140] - a Belgian bullpup assault rifle developed by FN Herstal. The FN F2000 was first introduced in 2001. This weapon is designed for combat tasks in modern local military conflicts. It was developed in the late 1990s and has been in serial production since 2001-2002.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe F2000 operates on a gas-operated action, with the locking mechanism achieved by rotating the bolt. It features a bullpup layout. Thanks to the patented front ejection of spent casings (casings are ejected outwards near the muzzle), the main problem of such configuration - the inability to use the weapon by left-handed shooters due to ejected casings hitting the face - is solved. Despite this, the weapon can be used by both left-handed and right-handed shooters. The body is made of polymers, and the stock is a lightweight, detachable plastic that can be replaced with various additional modules: laser sights, flashlights, and a 40mm grenade launcher. The standard sight is a 1.6X magnification optical sight with a wide field of view. It can be quickly replaced with any other sight that has corresponding mounts, such as a specialized computerized fire control module.\n
+			\nThe F2000 Tactical is similar to the standard model, but lacks an optical sight. Instead, it has an additional Picatinny rail and open iron sights.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Assault Rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Belgium\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 2001-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_fort">
+		<text>Fort-12</text>
+	</string>
+	<string id="encyclopedia_weapons_fort_text">
+		<text>
+			%c[0,153,255,255]Fort-12%c[0,140,140,140] - Ukrainian semi-automatic pistol chambered in 9x18mm PM.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe pistol was developed in the early 1990s by the NPO "Fort" at the request of the Ministry of Internal Affairs of Ukraine due to the moral and physical obsolescence of the Soviet Makarov pistols in service. The development utilized the experience of the Czech firearms company Ceska Zbrojovka. The first experimental batch of Fort-12 pistols was manufactured in May 1995. Trials and experimental use of the Fort-12 pistols were completed in 1997, and in June 1998, the experimental design work was completed. Serial production (using equipment from the Czech Republic) began in 1998. Barrels were supplied from the Czech Republic until 2002.\n
+			\nThe Fort-12 differs from the PM with improved ergonomics, increased shooting accuracy, reduced felt recoil, higher rate of fire, and larger size and weight. The only exception is the ejector, which, according to some shooters, needed to be shortened to prevent deformation and bolt jamming. The Fort-12 pistol can be equipped with a tactical flashlight LT-6A, a laser sight, and (in the Fort-12B variant) - a suppressor.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Pistol\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Ukraine\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1998-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_fort_snag">
+		<text>OTS-33 Pernach</text>
+	</string>
+	<string id="encyclopedia_weapons_fort_snag_text">
+		<text>
+			%c[0,153,255,255]OTS-33 Pernach%c[0,140,140,140] - Russian automatic pistol, developed in the mid-1990s by a team of designers from TsKIB SOO under the leadership of I.Ya. Stechkin to replace the APS pistol.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe OTs-33 is based on the design of the OTs-23 "Drotik" automatic pistol. The Pernach is an automatic pistol designed to replace the Stechkin APS in various special units of the OMON of the Russian police, the Ministry of Internal Affairs of Russia (MVD), and other militarized formations. The weapon is almost entirely made of steel, with plastic grips. The pistol is fed from standard double-row magazines with a capacity of 18 rounds or from extended magazines with a capacity of 27 rounds. Under the barrel, there are rails on the frame of the weapon for attaching a combat flashlight or laser sight.\n
+			\nCurrently, due to the incorporation of TsKIB SOO into the Tulsky KBP, the production and promotion of the OTs-33 are handled by KBP. Small quantities of the OTs-33 are in service with various units of the MVD of the Russian Federation. Compared to the Stechkin APS pistol, the OTs-33 has a significantly simpler design and a lower rate of fire, making it more convenient to handle.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Pistol\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Russia\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1996-unknown
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_g28">
+		<text>HK G28</text>
+	</string>
+	<string id="encyclopedia_weapons_g28_text">
+		<text>
+			%c[0,153,255,255]HK G28%c[0,140,140,140] - Sniper Rifle developed and manufactured by the German company Heckler &amp; Koch on order of the Bundeswehr (German army).\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThis rifle emerged in response to the needs of German troops operating in Afghanistan as a weapon to support small infantry units. The sniper rifle Heckler-Koch HK G28 became a conceptual counterpart to the Soviet Russian Dragunov SVD rifle. The sniper rifle Heckler-Koch HK G28 is based on the sporting and hunting self-loading rifle HK MR308, which, in turn, is a civilian version of the automatic rifle HK 417. It is fed with detachable box magazines with capacities of 10 or 20 rounds.\n
+			\nThe HK G28 rifle can currently be used in two configurations, interchangeable at the military base - "standard" and "patrol". The standard configuration of the HK G28 rifle includes an elongated barrel, a telescopic adjustable stock with a cheek rest, a folding bipod, as well as a Schmidt Bender PMII 3-20/50 optical sight with an attached laser rangefinder. The patrol configuration allows the rifle to be lightened for use in foot patrols, with a shortened and lighter barrel, a lightened adjustable stock without a cheek rest, and a Schmidt Bender PMII 1-8/24 sight. Additionally, various types of night sights and laser pointers can be mounted on the rifle.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Sniper Rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Germany\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 2014-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_g36">
+		<text>HK G36</text>
+	</string>
+	<string id="encyclopedia_weapons_g36_text">
+		<text>
+			%c[0,153,255,255]HK G36%c[0,140,140,140] - a family of firearms developed in the early 1990s by the German company Heckler &amp; Koch, designated internally as HK 50, to replace the well-known automatic rifle HK G3.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nIn 1995, the G36 assault rifle was adopted by the Bundeswehr, and in 1999, it was adopted by the armed forces of Spain. Additionally, the G36 is used by the police in the United Kingdom and is supplied to several other countries for law enforcement and military use. The G36 is fed from transparent plastic magazines of 30 rounds, which have special mounts for combining magazines into "packs" to facilitate quick reloading. Since the magazine receiver of the G36 is made according to NATO standards, the HK G36 rifle can use any standard magazines, including the Beta-C double drum magazines with a capacity of 100 rounds.\n
+			\nFrom a design standpoint, the mechanics of the weapon are based on the AR-18 rifle, developed in the early 1960s in the USA, but made with extensive use of modern materials, including high-strength polymers for the receiver. In March 2015, the German federal government and the Ministry of Defense acknowledged that the G36 had significant accuracy problems and its use should be restricted due to overheating during prolonged firing or in high ambient temperatures. In April 2015, the German Ministry of Defense announced the decision to gradually phase out all 167,000 G36 rifles from service.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Assault Rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Germany\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1997-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_g36_nimble">
+		<text>HK MG36</text>
+	</string>
+	<string id="encyclopedia_weapons_g36_nimble_text">
+		<text>
+			%c[0,153,255,255]HK MG36%c[0,140,140,140] - a light machine gun based on the G36. It has a heavy barrel near the magazine well and bipod. Several hundred units were produced in 1995, but serial production was canceled the same year due to dissatisfaction among Bundeswehr soldiers with the duration of continuous fire.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nLike the assault rifle, the machine gun features a carrying handle with an integrated three-times magnification optical sight, a folding stock, and a muzzle compensator/flash suppressor. It is fed from a 30-round magazine. A special variant of the Beta C-magazine for the G36 was developed to increase the ammunition capacity, holding 100 rounds and designed for prone firing. The MG36 has a cyclic rate of fire of 750 rounds per minute. Despite having a thicker barrel, the MG36's capabilities for fire support are quite limited.\n
+			\nThe MG36 was intended for German military service. A total of 4,700 units were ordered in 1995, but the program was subsequently canceled in 1997. The MG36 was produced in limited numbers. It was not officially adopted by any country. An export version of the machine gun, designated MG 36E, was produced with a less powerful 1.5-times magnification optical sight.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Light machine Gun\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Germany\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1995
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_galil">
+		<text>Galil ACE</text>
+	</string>
+	<string id="encyclopedia_weapons_galil_text">
+		<text>
+			%c[0,153,255,255]Galil ACE%c[0,140,140,140] - an Israeli family of automatic weapons, further development of the Galil rifle. The family includes the ACE 2x (caliber 5.56x45 mm) and 3x (caliber 7.62x39 mm) assault rifles, as well as the 5x automatic rifles (caliber 7.62x51 mm), which are further divided into variants distinguished by barrel length. The Galil ACE 22 is designed for the 5.56x45 mm cartridge with a barrel length of 332 mm.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe Galil ACE family of rifles (assault rifles, automatic rifles) was developed and produced by the Israeli weapon company IWI Ltd. The design of the Galil ACE family is based on the Galil rifle, which in turn is a development of the AK series of rifles. The Galil ACE rifles focus on ergonomics, ease of use, compatibility with additional accessories, and versatility in application. The main differences from its predecessors include relocating the charging handle to the left side of the weapon (allowing for easier operation with the left hand without disengaging the right hand from the fire control handle), the addition of a bolt catch, integrated Picatinny rail guides for optics and accessories, and an adjustable telescopic stock.\n
+			\nCurrently, the 5.56 mm Galil ACE rifles are in service with the Colombian Army and are produced under license by the Colombian manufacturer Indumil. Additionally, Israeli-produced Galil ACE rifles are available for export.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: automatic rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Israel\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 2006-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_gauss">
+		<text>Gauss Rifle</text>
+	</string>
+	<string id="encyclopedia_weapons_gauss_text">
+		<text>
+			%c[0,153,255,255]Gauss Rifle (also known as "Item No. 62")%c[0,140,140,140] - a sniper rifle that uses an electromagnetic system to accelerate bullets, powered by the energy of the artifact "Flash".\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nIt is a rifle with a metal body, a black carbon fiber stock, and an integrated scope with magnification adjustment. Around the barrel of the weapon, there are 6 magnetic coils that accelerate the projectile. It is an extremely accurate weapon created by designers in the Zone. It operates almost silently because it uses artifact energy rather than gunpowder gases for firing. Despite the tremendous power of the shot, the recoil and rate of fire of the Gauss Rifle are very low (the capacitors require several seconds to recharge for a new shot). In terms of accuracy and stopping power, it surpasses any classical firearms. However, finding this rifle in the expanses of the Zone is extremely difficult.\n
+			\nThere is also unconfirmed information about the existence of an "M" version of the rifle in the territory of the Chernobyl Exclusion Zone (CEZ). The nature of this version and its approximate location are unknown.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Sniper Rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Ukraine\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: unknown
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_glock">
+		<text>Glock 17</text>
+	</string>
+	<string id="encyclopedia_weapons_glock_text">
+		<text>
+			%c[0,153,255,255]Glock 17%c[0,140,140,140] - an Austrian pistol developed by Glock for the Austrian Armed Forces.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe Glock 17 was the first firearm developed by this company. The resulting model proved to be quite successful and convenient to use, which led to its adoption by the Austrian Armed Forces under the designation P80. Due to its combat qualities and reliability, it gained wide popularity as a civilian self-defense weapon. The pistol's design feature includes the absence of a safety lever and hammer. The pistol is mostly made of high-strength, heat-resistant plastic, making the Glock 17 lightweight and extremely durable. The operating principle is "draw and shoot," with the safety hidden in the trigger, preventing accidental discharge without fully pressing the "safe action" trigger.\n
+			\nThanks to its successful design, the pistol has gained wide popularity worldwide. Various modifications of the Glock 17 are used by the armies and police forces of over 30 countries, including Austria, Sweden, and Norway. The model is NATO-approved as one of the main models of personal firearms. Glock pistols of various modifications are used by the police and special forces of the USA, Canada, Mexico, India, the Philippines, Saudi Arabia, and many other countries.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Pistol\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Austria\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1982-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_glock18">
+		<text>Glock 18C</text>
+	</string>
+	<string id="encyclopedia_weapons_glock18_text">
+		<text>
+			%c[0,153,255,255]Glock 18%c[0,140,140,140] - an Austrian automatic pistol produced by Glock GmbH chambered in 9x19mm Parabellum. Designed for special units of the military and police.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe Glock 18 was developed in 1986 for the EKO Cobra (Einsatzkommando Cobra) counter-terrorism unit of the Austrian Federal Police, which needed a lightweight compact weapon capable of firing in bursts. The Glock 18 is based on the Glock 17 pistol and is distinguished primarily by its selector switch that allows for single-shot or burst fire. In burst mode, it has a rate of fire of approximately 1200 rounds per minute. Variants are available that can fire bursts of three rounds or fully automatic fire, but not in the same model. The Glock 18 also differs in the size of the frame and slide rails, trigger group components, and barrel, designed to prevent interchangeability with other models, thus preventing modification of semi-automatic pistols allowed in the civilian market into automatic weapons.\n
+			\nThe Glock 18 attracted interest from police and military forces, although it did not gain the expected popularity due to the limited effectiveness of automatic fire compared to even compact submachine guns. Overall, the Glock 18 inherits all the strengths of the base Glock 17 pistol and is very similar in construction.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Pistol\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Austria\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1989-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_groza">
+		<text>OTS-14-4A Groza</text>
+	</string>
+	<string id="encyclopedia_weapons_groza_text">
+		<text>
+			%c[0,153,255,255]OTS-14 "Groza"%c[0,140,140,140]- Russian assault rifle-grenade launcher complex developed by TsKIB SOO in 1993. It represents a variant of the OTS-12 "Tiss" assault rifle (in turn created based on the AKS74U), made in a bull-pup scheme. The rifle uses 9x39 mm intermediate cartridges (SP-5, SP-6, and PAB-9), which were used in the VSS, AS "VAL", and SR-3.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nIt is equipped with a simplified version of the detachable underbarrel grenade launcher GP-25 "Kostyor" (the simplification primarily consists of the absence of a pistol grip with a trigger and trigger hook). This configuration allowed for the creation of a compact powerful weapon. Automatic and grenade launcher firing are controlled by a single trigger hook. Switching between "automatic-grenade launcher" mode is carried out by a button switch located on the right side of the barrel box. An open-type sight is mounted on a P-shaped stand, which can serve for carrying the weapon in hand. It is possible to install a suppressor, laser sight, optical sight, and tactical flashlight. The complex is 70% unified with the AKS74U.\n
+			\nThe modular design allowed the use of the rifle with an extended muzzle and front grip, or with a replacement suppressor, as well as a rifle-grenade launcher complex. "Groza" underwent military trials during the First Chechen Campaign in 1995-1996. OTS-14-4A - assault weapon (rifle with grenade launcher).\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]•%c[0,140,140,140]Type: rifle\n%c[0,200,0,255]•%c[0,140,140,140]Country of Origin: Russia\n%c[0,200,0,255]•%c[0,140,140,140]Years of production: 1993-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_hpsa">
+		<text>Browning Hi-Power Mk.III</text>
+	</string>
+	<string id="encyclopedia_weapons_hpsa_text">
+		<text>
+			%c[0,153,255,255]Browning Hi-Power%c[0,140,140,140] - self-loading pistol designed by John Browning and Dieudonne Saive with a high-capacity magazine. Development was completed in 1935, and production continues to this day under various names in many countries.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe pistol was initially designed for the French military but was not adopted by France. Various variants were used by many countries during World War II and beyond. The pistol's name is somewhat misleading, as it actually reflects the high capacity of its 13-round magazine, significantly higher than its closest competitors in 1935 - Luger P08 (8 rounds), Colt 1911 (7 rounds), Mauser C96 (10 rounds). The pistol is often simply referred to as "Hi Power", even in Belgium. Other common names include HP (from "Hi-Power" or "High-Power") or GP (from French "Grande Puissance"). The claimed effective range for models with adjustable sights using a shoulder stock is 500 m, and for the basic model, it is 50 m.\n
+			\nIt is known for its simplicity and reliability, which have contributed to its long production and worldwide use. Belgian company FN Herstal ceased production of the military variant and civilian models in 2017, but the pistol continues to be produced under license in Argentina. Canadian manufacturer John Inglis Co., Ontario, produced the Hi-Power for its country's armed forces, Britain, other Commonwealth countries, and for export for a long time. The main visual feature of the Mark III is the absence of a water drain hole under the muzzle at the front of the slide.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Pistol\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Belgium\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1935-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_knife">
+		<text>Bars A-2607 Knife</text>
+	</string>
+	<string id="encyclopedia_weapons_knife_text">
+		<text>
+			%c[0,153,255,255]Knife Bars A-2607%c[0,140,140,140] - forged knife made of 95X18 steel with a handle made of precious wood and a brass guard.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nBars knives are well known among knife enthusiasts in the CIS. Production is located in the city of Vorsma, in the Nizhny Novgorod region. The company adheres to classic forms and proven materials in knife production. Model A-2607 is one of the most popular models for this company. It is produced in different versions, with different steels and handle materials. The most affordable option, of course, is the 95X18 steel with a Walnut handle. These knives are simple and inexpensive, which does not make them bad.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: knife\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Russia\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_knife_m9">
+		<text>M9 Bayonet</text>
+	</string>
+	<string id="encyclopedia_weapons_knife_m9_text">
+		<text>
+			%c[0,153,255,255]M9 Bayonet%c[0,140,140,140] - military bayonet knife. The blade of the M9 bayonet is single-edged with a sawback.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe M9 bayonet was developed by Charles A. "Mickey" Finn, owner of the company "Qual-A-Tec," as an improved version of the bayonet for the AKM 6X3. The M9 was designed to replace the obsolete M7 bayonet. The primary motivation behind the design of this knife was the desire to create a bayonet that would function more as a tool than a weapon. It is a versatile tool that allows not only cutting but also chopping, stabbing, opening ammo crates, cutting barbed wire (including under tension), and performing various other tasks. The M9 bayonet was adopted by the US Army in 1986 and is still in production.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: knife\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USA\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1984-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_knife_ots04">
+		<text>OTS-04 Knife</text>
+	</string>
+	<string id="encyclopedia_weapons_knife_ots04_text">
+		<text>
+			%c[0,153,255,255]OTS-04 Knife%c[0,140,140,140] was developed by the Tula Central Design Bureau (TSKIB) in the late 1980s to early 1990s and was intended for special units of the Ministry of Internal Affairs (MVD).\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe abbreviation "OTS" stands for "Oruzhie TSKIB" (Weapons TSKIB). The knife is characterized by a modern aggressive design. The spear-shaped blade is single-edged. The blade has long descents. There is a false edge on the front part of the spine, and the majority of the spine is a saw with small teeth. The knife has a very robust construction, with a spine thickness of 7 mm. The blade has a slight bevel at the front. There is a double-row saw on the spine of the blade, but due to the small height of the teeth, its effectiveness is relatively low, especially when sawing green wood. The blade allows for powerful thrusting strikes, with chopping and cutting strikes being less effective.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: knife\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USSR (Russia)\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1980-1990
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_knife_extreme">
+		<text>MTech USA Xtreme Knife</text>
+	</string>
+	<string id="encyclopedia_weapons_knife_extreme_text">
+		<text>
+			%c[0,153,255,255]MTech USA Xtreme Knife%c[0,140,140,140] is a fully black, brutal, all-metal tactical knife from the company Mtech.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe blade of the Mtech Tactical Fighter knife is made of 440 chrome-bearing steel, known for its high corrosion resistance, wear resistance, strength, and hardness. It has a tanto and a large serration on the spine. The blade has a black anti-glare finish which improves wear resistance, enhances the strength of the cutting edge, and reduces adhesion tendency. There are notches near the handle where it is convenient to place the thumb during forceful cutting. The handle has pronounced finger grooves made of fiberglass-reinforced nylon, a durable and impact-resistant material that handles moisture well and has increased resistance to fire.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: knife\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USA\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_knife_km2000">
+		<text>KM2000 Knife</text>
+	</string>
+	<string id="encyclopedia_weapons_knife_km2000_text">
+		<text>
+			%c[0,153,255,255]KM2000 Knife%c[0,140,140,140] - German combat knife of the Bundeswehr.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe knife is manufactured by the German company Eickhorn-Solingen Ltd. It is adopted by the German Bundeswehr. The blade is in the "American tanto" style. The blade is single-edged, with a serrated edge on the lower part of the blade (the part closest to the guard). The sheath is made of carbon-plastic with a metal tip. The handle of the KM2000 is 40% fiberglass with polyamide resin. The spine is straight with a wedge-shaped profile. The tang, passing through the entire handle, protrudes from its back, allowing it to be used as a hammer. The front side of the sheath has an area of abrasive material with diamond coating for blade sharpening.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: knife\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Germany\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_l85">
+		<text>SA-80 L85A2</text>
+	</string>
+	<string id="encyclopedia_weapons_l85_text">
+		<text>
+			%c[0,153,255,255]SA-80%c[0,140,140,140] (SA-80 - Small Arms 1980) - a British small arms complex developed in the mid-1980s consisting of the L85 rifle, L86 light machine gun, L22 carbine, and L98 cadet rifle. The complex is in service with the British Army.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nSince 1974, development was carried out for a specially designed 4.85x49mm cartridge, but after NATO adoption of the 5.56x45mm (SS109) cartridge, both models were redesigned for it. As a result, the 5.56mm SA-80 system was created, including the L85A1 rifle and L86A1 light machine gun, with 80% of their parts being interchangeable. The recoil is much lower than that of larger caliber models, which simplifies training and reduces muzzle climb during firing. The bolt group mechanism, locking scheme, and gas system were borrowed from the American AR-18 rifle. Due to a number of shortcomings, including low rifle reliability, in 2000 the German firm Heckler &amp; Koch received a contract to modernize it. As a result, the British Army received the L85A2, which was significantly improved, and complaints (according to developers' statements) about its "capriciousness" and unreliability ceased.\n
+			\nSA-80 is configured in a "bullpup" layout - the magazine is located behind the trigger, and it can be equipped with a 4x optical sight. This rifle has high accuracy in single shots as well as bursts of 2 shots. In early 2011, the British military contingent in Afghanistan received over 100,000 Magpul EMAG plastic magazines. In August 2018, the UK Ministry of Defence announced its intention to phase out the 5.56x45mm L86A2 LSW auxiliary rifle, designed to increase combat distance, in favor of the L129 A1 marksman rifle chambered in 7.62x51 NATO.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: United Kingdom\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1985-present
+		</text>
+	</string>
+
+	<string id="encyclopedia_weapons_lr300">
+		<text>M4A1</text>
+	</string>
+	<string id="encyclopedia_weapons_lr300_text">
+		<text>
+			%c[0,153,255,255]M4%c[0,140,140,140] - automatic carbine, created in the USA based on the M16A2 rifle and initially intended for arming vehicle crews and artillery units. M4A1 - a variant developed in 1994, which allows for continuous burst fire similar to the M16A2E3.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nHowever, the US Special Operations Command adopted this carbine as standard for all US special operations forces. Currently, the entire US Army has transitioned to it, as the convenience of a shortened carbine in modern conditions, where much of the army consists of motorized infantry, vehicle crews, and support troops, more than compensates for the slight reduction in its characteristics compared to the rifle. The main differences between the M4 and the M16A2 are the shorter barrel and the retractable telescopic stock. The M4A1 variant differs from the M4 in its firing mode: SAFE/SEMI/AUTO, but is otherwise identical to the M4.\n
+			\nIt is often stated that the M4 is an M16 rifle with a shortened barrel and telescopic stock. In reality, the situation is somewhat more complex: while the M16 is based on the AR-10 platform, and the M4 is indeed based on the same base model - the AR-15 rifle, their differences are not limited to barrel length and stock construction. There are other relatively minor differences.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: carbine\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USA\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1994-present
+		</text>
+		</string>
+
+	<string id="encyclopedia_weapons_m249">
+		<text>M249 SAW</text>
+	</string>
+	<string id="encyclopedia_weapons_m249_text">
+		<text>
+			%c[0,153,255,255]M249 SAW%c[0,140,140,140] - a variant of the FN Minimi light machine gun for the US Army, caliber 5.56x45 mm, made in the USA (produced by FN Manufacturing, Inc., a local subsidiary of the Belgian company FN Herstal), serial production started in the 1980s.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nIn the USA, after the adoption of the 5.56 mm M16 assault rifle (M16A1) of the Stoner system, numerous attempts were made to create a light machine gun for the same cartridge. Development began in the early 1960s; initially, the weapon was designed for the M193 5.56x45 mm cartridge, but later it was converted to the SS109 5.56x45 mm cartridge. Prototypes of the weapon appeared in the early 1970s, but serial production of the machine gun started only in the 1980s. The machine gun is produced in Columbia, South Carolina, by the local FN subsidiary. In the late 1970s, the US Marine Corps and Army jointly established requirements for a light machine gun for infantry units. Trials were conducted on several systems: the American "Stoner-86", CMG-2 "Colt", XM233 "Merrimon", "Rodman", XM234 "Filko-Ford", as well as the Belgian FN "Minimi". After rigorous testing, the high reliability in various conditions was demonstrated by the "Minimi", which was adopted in 1984 by the US Marine Corps and Army under the designation M249 SAW.\n
+			\nThe machine gun entered service in the armed forces of several countries, including: Australia, Belgium, Canada, France, Greece, Spain, Italy, Indonesia, Malaysia, New Zealand, Thailand, Sweden, the United Kingdom, and the United States (M249 SAW). The weapon is currently manufactured at FN Herstal factories, as well as under license in Australia, Greece, and the USA. Indirect competitors of the Minimi machine gun abroad include the German HK MG4 and the Israeli "Negev".\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Light machine Gun\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Belgium/USA\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1984-present
+		</text>
+	</string>
+
+	<string id="encyclopedia_weapons_m320">
+		<text>M320</text>
+	</string>
+	<string id="encyclopedia_weapons_m320_text">
+		<text>
+			%c[0,153,255,255]M320%c[0,140,140,140] - the M320 underbarrel grenade launcher was created to replace the M203 underbarrel grenade launcher.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe Picatinny Arsenal conducted a competition for a new 40 mm underbarrel grenade launcher. Heckler &amp; Koch won the competition in early 2006. The M320 was based on the Heckler &amp; Koch AG36, but they are not completely identical. Production began in November 2008. The grenade launcher was officially unveiled in July 2009 at Fort Bragg, North Carolina. The M320 grenade launcher consists of three main parts: the launcher assembly, a day/night sight from Insight Technology Inc, and a handheld laser rangefinder.\n
+			\nSome advantages of the M320 include: it can be used in two ways. It can be mounted under the barrel of M16 and M4 rifles, or it can be used standalone. The sight on the grenade launcher is foldable. This avoids problems encountered with the M203 model. The sight on the M203 was mounted on top of the launcher assembly, which could interfere with aiming from the rifle; to solve this problem, the sight was made foldable. The M320 can fire all NATO grenades - high explosive, smoke, and illuminating.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: underbarrel grenade launcher\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Germany\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 2008-present
+		</text>
+	</string>
+
+	<string id="encyclopedia_weapons_m700">
+		<text>Remington M700</text>
+	</string>
+	<string id="encyclopedia_weapons_m700_text">
+		<text>
+			%c[0,153,255,255]Remington M700%c[0,140,140,140] - a magazine-fed rifle made in the USA.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThere are many variants of the rifle for different calibers. The standard cartridge is 7.62x51 mm NATO (.308 Win). Technically, it is a magazine-fed rifle with a longitudinally sliding bolt action. The magazine capacity depends on the caliber and can range from 3 to 5 rounds. It is the flagship product of Remington Arms. The rifle can be equipped with optics from various manufacturers. Developed based on the Mauser brothers' rifle. Production of the rifle began in 1962. The Model 700 has various modifications and is widely used in the USA as a large-caliber sniper, sports, and hunting rifle, produced in a wide range of calibers from .17 Rem (4.5 mm) to .338 Lapua Magnum (8.6 mm).\n
+			\nThe rifle has high accuracy (from 1 MOA for hunting modifications to 0.5 MOA for target rifles) and high manufacturing quality. The popularity of the rifle is also due to the large number of aftermarket parts produced by third-party companies. Customization of this rifle model for end users' needs by private gunsmiths is widespread.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Sniper Rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USA\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1962-present
+		</text>
+	</string>	
+	
+	<string id="encyclopedia_weapons_mdr">
+		<text>Desert Tech MDR</text>
+	</string>
+	<string id="encyclopedia_weapons_mdr_text">
+		<text>
+			%c[0,153,255,255]Desert Tech MDR%c[0,140,140,140] (abbreviation for micro dynamic rifle) is a family of bullpup semi-automatic rifles developed by Desert Tech (formerly Desert Tactical Arms) in 2014.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe Desert Tech MDR automatic rifle was developed by the American company Desert Tech LLC (DesertTech, formerly Desert Tactical Arms). The rifle was first shown to the public in early 2014 at the ShotShow in the USA, and serial production was planned to begin in 2015. Built in a bullpup configuration, this rifle in its base variant is a modular, multi-caliber automatic weapon designed for arming special operations police and military units. Additionally, based on it, a semi-automatic civilian version is planned to be released, however, according to the company's representative, the automatic version will be the main one.\n
+			\nThe MDR rifle is designed to be ambidextrous. The rifle is compatible with Desert Tech caliber conversion kits, allowing the rifle's caliber to be changed. This provides a unique feature where the rifle chassis can accept both intermediate cartridges and full-power rifle cartridges with the same serial number.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: automatic rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USA\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 2015-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_mosin">
+		<text>Mosin Nagant</text>
+	</string>
+	<string id="encyclopedia_weapons_mosin_text">
+		<text>
+			%c[0,153,255,255]Mosin Nagant%c[0,140,140,140] - magazine-fed rifle adopted by the Russian Imperial Army in 1891.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nProduction of the rifle began in 1892 at the Tula, Izhevsk, and Sestroryetsk arsenals. Due to limited production capacities at these plants, an order for 500,000 rifles was placed at a French armory in Chatellerault. In the early years after adoption, changes were made to the original design during production and use of the weapon. For instance, in 1893, a wooden handguard was introduced to protect the shooter's hands from barrel heat. In 1896, a new bolt was implemented, longer and with a larger head that did not pass through the barrel, simplifying the cleaning of the weapon. The serrations on the sides of the magazine cover were removed to prevent them from wearing out the uniform during carrying. These improvements were also made to previously manufactured rifles. On March 21, 1897, the 500,000th rifle was released. By the start of the Russo-Japanese War, approximately 3,800,000 rifles had been supplied to the army. In 1931, 154,000 rifles were produced; in 1938, 1,124,664; and in 1940, 1,375,822.\n
+			\nThe rifle is also known by other names, such as the 7.62 mm Rifle Model 1891 (1891/30), Three-Line Rifle, Mosin Rifle, "Mosinka," and similar. The name "Three-Line" comes from the caliber of the rifle's barrel, which equals three lines (an obsolete unit of length equal to one-tenth of an inch or 2.54 mm). It was mass-produced from 1892 until the late 1950s (in the USSR and other countries), during which it underwent multiple modernizations. Based on the Model 1891 rifle and its modifications, a whole range of sporting and hunting weapons were created, both rifled and smoothbore.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USSR (Russia)\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1892-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_mp133">
+		<text>MP-133</text>
+	</string>
+	<string id="encyclopedia_weapons_mp133_text">
+		<text>
+			%c[0,153,255,255]MP-133%c[0,140,140,140] - a Russian smoothbore shotgun used for various types of hunting, sports shooting, security, and self-defense. The shotgun is based on the IZh-81 and has been serially produced by the Izhevsk Mechanical Plant since 2000.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe reloading mechanism is a pump action. The barrel locking is done by a tilting breech block located in the bolt (wedge), which, when in the firing position, enters a notch in the receiver's breech. Unusual for pump-action shotguns, the hammer-fired trigger mechanism is in the form of a detachable unit equipped with a triple safety system: preventing firing with the bolt not fully locked; a block preventing the bolt from unintentionally unlocking before firing; and a non-automatic safety blocking the trigger. The shotgun's receiver is made of an aluminum alloy, while the hardware (fore-end, stock) is made of wood or plastic.\n
+			\nThe shotgun is fed from an under-barrel tubular magazine, with a standard capacity of 4 rounds (expandable by installing magazine extenders). The barrels are equipped with interchangeable chokes. The MP-133 shotguns are produced in several different modifications and versions, featuring interchangeable muzzle attachments for shooting lead and steel shot, and various options for stocks and fore-ends.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: pump-action shotgun\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Russia\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 2000-2013
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_mp153">
+		<text>MP-153</text>
+	</string>
+	<string id="encyclopedia_weapons_mp153_text">
+		<text>
+			%c[0,153,255,255]MP-153%c[0,140,140,140] - a Russian semi-automatic smoothbore shotgun, popularly known as "Murka," used for various types of hunting, sports shooting, law enforcement, and self-defense. Production was replaced by the MP-155 shotgun starting from 2011.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe MP-153 shotgun uses a gas-operated mechanism with a ring gas piston located around the magazine tube. The gas-operated unit design includes an automatic gas regulator (located around the magazine tube) that vents excess powder gases into the atmosphere. Parts exposed to powder gases (barrel channel, chamber, piston, gas chamber, outer surface of the magazine tube) are chrome-plated. The valve and piston rings are made of stainless steel. The shotgun is equipped with an automatic bolt hold-open feature: after firing the last round, the bolt stops in the rearward position, facilitating and speeding up reloading and signaling to the shooter that the ammunition is expended.\n
+			\nThe magazine is tubular and under-barrel, with a capacity of 4 rounds. The magazine capacity can be increased to 8 rounds by installing an extension. MP-153 shotguns are produced in several different configurations: with interchangeable muzzle attachments for lead and steel shot, without a sighting rib, with a front sight, without interchangeable muzzle attachments, and with various stock and fore-end options.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: semi-automatic shotgun\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Russia\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 2000-2011
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_mp43">
+		<text>MP-43-1C</text>
+	</string>
+	<string id="encyclopedia_weapons_mp43_text">
+		<text>
+			%c[0,153,255,255]MP-43%c[0,140,140,140] - a shotgun for enthusiasts of classic hunting. Smoothbore guns with horizontally arranged barrels have been produced at the Izhevsk Mechanical Plant for over 55 years and have a reputation for being inexpensive, exceptionally reliable, and possessing excellent shooting characteristics.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe MP-43 is a descendant of the beloved Soviet hunting shotgun, the Izh-58, and its design differs very little from its predecessor. It uses the same locking principle with a lower plate latch, although simplified, similar trigger mechanisms, and so on. The horizontal MP-43 is the most common and in-demand type of hunting weapon in modern Russia. Its popularity is due to its extremely high working resource - it guarantees 15,000 shots. In addition to reliability, this shotgun has excellent shooting characteristics and allows for uniform shot distribution at distances up to 50 meters.\n
+			\nHigh safety in handling the shotgun during walking hunts and in dense forest areas is ensured by a reliable automatic safety mechanism that locks hammers and trigger hooks. The shotgun's good balance provides comfortable and quick aiming. To protect against corrosion, the barrels and chambers are chrome-plated. The shotgun is produced with both fixed chokes and interchangeable muzzle attachments, ensuring consistent shooting accuracy. The stock and forend of the MP-43 shotgun and its modifications are made of high-quality walnut or beech.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Shotgun\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Russia\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: Over 55 years (ongoing)
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_mp5">
+		<text>HK MP5</text>
+	</string>
+	<string id="encyclopedia_weapons_mp5_text">
+		<text>
+			%c[0,153,255,255]HK MP5%c[0,140,140,140] - a family of submachine guns developed by the German firearms manufacturer Heckler &amp; Koch (HK) in the 1960s based on the HK G3. Widely known as the GSG9 and similar special forces weapons, as well as a frequent guest in cinema and video games.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe MP5 submachine gun was first introduced by Heckler &amp; Koch in 1966 under the designation HK54. This name was chosen according to the old model numbering system of the company: the number "5" indicated the weapon as a submachine gun, and the number "4" indicated that the submachine gun was designed for the 9x19mm Parabellum cartridge. It received its modern name after the government of the Federal Republic of Germany adopted it in mid-1966 for police and border guard use as the Maschinenpistole 5 or MP5 for short. Structurally, the MP5 is essentially a scaled-down version of the German HK G3 rifle adapted for pistol cartridges. It inherited from the G3 a stamped steel receiver with a downward-folding buttstock and a detachable trigger group module, as well as a semi-free bolt with delayed roller locking. The MP5 always fires from a closed bolt, which increases accuracy and shot groupings but also increases the risk of cartridge cook-off under heavy use.\n
+			\nAs of 2001, HK MP5 submachine guns and their variants have been adopted and used by armies, police forces, and special units in over 50 countries worldwide. One of the most well-known users of the MP5 is the United States Navy SEALs. A special variant of the MP5, the MP5SD, was created for special operations with an integrated suppressor. The success of the MP5 is attributed not only to Heckler &amp; Koch's successful marketing but also to its reliability, ease of handling, and high shooting accuracy.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Submachine Gun\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Germany\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1966-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_mp5_nimble">
+		<text>HK UMP45</text>
+	</string>
+	<string id="encyclopedia_weapons_mp5_nimble_text">
+		<text>
+			%c[0,153,255,255]HK UMP45%c[0,140,140,140] - a submachine gun developed by the German company Heckler &amp; Koch in the 1990s as a complement to the HK MP5 family of submachine guns.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe design of the new weapon was simplified, but more modern materials were used. The company planned to offer this model on the US police weapons market, which influenced the choice of ammunition used - the popular .45 ACP and .40 S&amp;W cartridges, with a variant for the 9x19mm Parabellum appearing a year later. The HK UMP submachine gun is designed with a free bolt mechanism. It fires from a closed bolt. The design primarily considered the stopping power of the chosen cartridge. Overall, the weapon turned out to be quite reliable and easy to maintain. The folding stock makes the UMP submachine gun quite convenient compared to its counterparts. Originally developed for firing large-caliber cartridges, and due to difficulties in feeding .45 ACP compared to 9x19mm Parabellum, the practical rate of fire was artificially reduced to 600 rounds per minute, making it one of the "slower" submachine guns.\n
+			\nThe design of the submachine gun allows for the installation of various reflex sights, tactical lights, and devices for silent and flameless shooting. Additionally, the UMP can be equipped with a detachable grip. It can mount four Picatinny rails - on the top, right, left, and bottom of the receiver. A vertical front grip facilitates control of the weapon during automatic fire.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Submachine Gun\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Germany\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1999-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_mp9">
+		<text>Brugger &amp; Thomet MP9</text>
+	</string>
+	<string id="encyclopedia_weapons_mp9_text">
+		<text>
+			%c[0,153,255,255]Brugger &amp; Thomet MP9%c[0,140,140,140] - a compact and rapid-firing weapon produced by the Swiss firearms company Brugger &amp; Thomet. It is used by special forces units and is widely employed by security services and companies responsible for the safety of high-ranking officials.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe MP9 submachine gun was developed by the Swiss company BT AG (Brugger &amp; Thomet AG) and was first presented to the public in 2001. This weapon is primarily designed for military and police use, although a semi-automatic version has been created based on it for civilian and police use. The Brugger &amp; Thomet MP9 submachine gun can use magazines with capacities of 15, 20, 25, and 30 rounds. It features three safeties: a fire mode selector, a trigger safety, and an automatic drop safety. It is a further development of the Steyr TMP, acquired from Steyr in 2001. It differs from the TMP with a side-folding stock, a trigger safety, and an integrated Picatinny rail.\n
+			\nThe primary users of the Swiss MP9 submachine gun are special police units and security services. The weapon is suitable for conducting assault operations, hostage rescues, for concealed carry, and for use in small enclosed spaces (preferably without a suppressor). Its compact size is especially effective in scenarios where it can be easily concealed under clothing, making the submachine gun inconspicuous and blending with the silhouette of the person carrying it.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Submachine Gun\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Switzerland\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 2001-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_p90">
+		<text>FN P90</text>
+	</string>
+	<string id="encyclopedia_weapons_p90_text">
+		<text>
+			%c[0,153,255,255]FN P90%c[0,140,140,140] - a Belgian submachine gun (personal defense weapon), developed by FN Herstal in 1986-1987. It was primarily designed for tank crews and vehicle drivers.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe FN P90 is built in a bullpup layout, operating with a free-floating bolt. It fires from a closed bolt. It has a hammer-fired trigger mechanism, allowing both single-shot and automatic fire (in fixed 3-round bursts). The magazine is mounted above the barrel and holds 50 rounds, with cartridges positioned perpendicular to the barrel and rotating 90 degrees before entering the chamber. The magazine is made of transparent plastic, allowing the shooter to see the remaining rounds. Spent casings are ejected downwards through a hollow fire control grip. The FN P90 is equipped with an integrated 1X magnification collimator sight with a reticle in the shape of a T. One of the main design goals was to minimize the weight of the weapon and ammunition. This weapon-ammunition complex was intended to potentially replace traditional 9mm pistols and submachine guns in NATO armies.\n
+			\nSpecifically for the P90, the 5.7x28mm SS190 cartridge was developed, known for its high penetration power and low ricochet characteristics. The bullet of this cartridge achieves a muzzle velocity of up to 715 m/s and is capable of penetrating a titanium/kevlar body armor meeting NATO CRISAT standards at distances up to 20 meters.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Submachine Gun\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Belgium\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1991-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_pb">
+		<text>PB</text>
+	</string>
+	<string id="encyclopedia_weapons_pb_text">
+		<text>
+			%c[0,153,255,255]Silent Pistol (PB)%c[0,140,140,140] was created to equip army reconnaissance groups, as well as KGB USSR personnel, and was adopted in 1967.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe PB (index 6P9), equipped with an integrated and removable suppressor, was created by A. A. Deryagin at TsNII Tochmash. The PB is a standalone system due to numerous changes and reworkings of the weapon mechanisms compared to the PM. Since the slide is significantly shortened, the return spring is placed vertically in the handle, interacting through a rocking two-arm lever with the slide. Unlike most similar systems, the sound suppressor is made of two detachable parts. This solution allows the pistol to be carried and stored with the front part of the suppressor (attachment) removed, and before use, the attachment can be quickly installed on the weapon. At the same time, the pistol retains the ability to be safely fired by the shooter with the attachment removed, which is important in critical situations. Naturally, with the attachment removed, the sound of the shot is as loud as that of a regular PM pistol. But even with the attachment installed, the pistol does not become completely silent, as the shooter's position is revealed by the clanking of the slide.\n
+			\nDespite the massive suppressor, the PB has good balance. The pistol is known for its great durability and longevity. There are known examples with a round count several times exceeding the warranty, and still having no serious defects. Currently, the PB continues to be in service with FSB special units and internal troops of the Ministry of Internal Affairs of the Russian Federation, but is gradually being replaced by the PSS pistol. However, since 2017, the PB pistol has once again become the weapon of all officers of reconnaissance and special forces units (SpN). There is a persistent belief that the PB was made based on the Makarov pistol, but this is not the case, although it was indeed ordered to use the trigger mechanism and magazine from the PM.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Pistol\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USSR (Russia)\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1967-1989 (2003-present)
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_tt33">
+		<text>TT-33</text>
+	</string>
+	<string id="encyclopedia_weapons_tt33_text">
+		<text>
+			%c[0,153,255,255]Tul'skiy Tokareva (TT)%c[0,140,140,140] - self-loading pistol, developed in 1930 by Soviet designer Fyodor Vasilyevich Tokarev. The first self-loading pistol of Soviet design, adopted for service in the USSR.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe TT pistol was developed for the 1929 competition for a new army pistol, announced with the goal of replacing the "nagan" revolver and several models of foreign-made revolvers and pistols that were in service with the Red Army by the mid-1920s. The standard cartridge adopted was the German 7.63x25mm Mauser cartridge, which was purchased in significant quantities for the Mauser C96 pistols in service. Several thousand units were produced between 1930 and 1932. In early 1934, the new pistol was adopted for service under the designation "7.62mm self-loading pistol model 1933." After the war, the Tokarev pistol gained popularity in criminal circles due to its availability, driven by large stocks in military depots and thus a low price on the black market, as well as the fact that many units of this weapon were not entered into the gun registry, which made identifying individual weapons and tracing their history of use difficult.\n
+			\nThe TT pistol is distinguished by its simple design, which results in low production costs and ease of maintenance. The atypical, very powerful cartridge provides unusually high penetration and muzzle energy of about 500 Joules. The pistol has a short, light trigger pull and provides significant shooting accuracy; an experienced shooter can hit a target at distances of more than 50 meters. The pistol is flat and compact, making it convenient for concealed carry. However, there were drawbacks noted during its operation. The TT pistol is characterized by the flatness of its trajectory and the high penetration of its sharp-pointed bullet, which can penetrate army helmets or lightweight body armor. The penetration of the TT bullet exceeds that of the 9x19mm Parabellum cartridge.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Pistol\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USSR\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1930-1953
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_pkm">
+		<text>PKM</text>
+	</string>
+	<string id="encyclopedia_weapons_pkm_text">
+		<text>
+			%c[0,153,255,255]PKM%c[0,140,140,140] - a model of group, portable, man-portable, or stationary automatic small arms for the 7.62mm rifle machine gun cartridge (7.62x54), a part of the unified machine gun small arms complex.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe PKM machine gun was created in the late 1960s based on the design of the unified machine gun PK at the Izhmash Design Bureau under the leadership of Mikhail Kalashnikov and adopted into service in 1969 under the designation "7.62mm modernized Kalashnikov machine gun, PKM," index 6P6M. Serial production of the PKM machine gun and its modifications was carried out by the Kovrov Mechanical Plant until the liquidation of its firearms production. Since 2006, the machine gun has been produced at the V.A. Degtyaryov Plant (Kovrov). The task of modernizing the machine gun complex was to reduce the weight of the machine gun and its mount. During the modernization, the barrel, barrel jacket, barrel cover, bolt frame, gas piston tube, receiver base, and cartridge boxes were lightened. The shape of the stock was also changed, and a new flash hider was developed. The stock received a new butt plate and folding shoulder rest.\n
+			\nThe 7.62mm PKM machine gun is designed to engage personnel, including those in individual body armor, unarmored and lightly armored weapons, enemy military and special equipment at distances up to 1500 meters. The most effective fire is conducted at distances up to 1000 meters. The machine gun provides high-density fire at close distances and can engage important group and individual distant targets. Fire from the machine gun is conducted in short (up to 10 rounds) or long (up to 30 rounds) bursts or in bursts of arbitrary length.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Light machine Gun\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USSR (Russia)\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1969-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_pm">
+		<text>PM</text>
+	</string>
+	<string id="encyclopedia_weapons_pm_text">
+		<text>
+			%c[0,153,255,255]9mm Makarov Pistol (PM)%c[0,140,140,140] - a Soviet semi-automatic pistol, developed by Soviet designer Nikolay Fyodorovich Makarov in 1948. Adopted into service in 1951. It is a personal weapon for assault and defense, designed to engage the enemy at short distances, used in armed forces, law enforcement agencies, and one of the most widely used pistols in the USSR and the post-Soviet space.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nDespite the apparent simplicity of the PM pistol's design, significant difficulties arose during its production. The designer's efforts to reduce the number of parts led to the necessity of making them multifunctional, and therefore quite complex in terms of their geometry. This complexity defined the difficulty of producing the pistol. Initially, the percentage of defects in pistol production was very high. At that time, specialists referred to the PM pistol as an example of "non-technological." Achieving high reliability of the pistol and its manufacturability was possible only due to the significant efforts of designers and technologists at the Izhevsk Mechanical Plant. Development and application of new technological processes, the use of modern equipment ensured mass production of the PM pistol.\n
+			\nThe pistol is designed to engage open enemy forces in close combat. All types of 9mm pistol cartridges (9x18) are used for firing from the pistol. Currently, the PM pistol is in service with all power ministries and departments of Russia. In the Russian army, the PM pistol is the primary personal weapon of officers and certain categories of servicemen. In the early 21st century, to enhance the combat capabilities of the PM pistol, 9mm pistol cartridges with armor-piercing bullets (2003) and 9mm pistol cartridges with improved ballistic characteristics (2005) were developed and adopted.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Pistol\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USSR (Russia)\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1951-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_pm_actor">
+		<text>APB</text>
+	</string>
+	<string id="encyclopedia_weapons_pm_actor_text">
+		<text>
+			%c[0,153,255,255]9mm Automatic Pistol Stechkin (APS)%c[0,140,140,140] - an automatic pistol developed in the late 1940s to early 1950s by designer I. Ya. Stechkin and adopted by the Armed Forces of the USSR in 1951, simultaneously with the Makarov pistol. The APS is intended for arming officers actively engaged in combat, as well as soldiers and sergeants of certain special units.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe pistol's development was led by young engineer Igor Yakovlevich Stechkin, who joined the Central Design Bureau-14 in 1948 and presented the first prototype in 1949. After project approval, factory tests, a series of improvements, and military trials, the pistol was adopted into service. The weapon could fire both single shots and bursts. The APS pistol was intended for officers, sergeants, soldiers of specific specialties, and vehicle crews who were not equipped with a standard-issue rifle or carbine. It was believed that the PM pistol would not be sufficient for self-defense in combat situations. In 1958, the APS was discontinued, and by the 1960s, the majority of military pistols were in storage (although it remained in service with certain categories of servicemen, particularly with RPG-7 grenadiers and PK machine gunners until the early 1980s). At the same time, the APS, which had better accuracy, less recoil, less muzzle rise during firing, and slightly higher firepower than the PM, continued to be used by the KGB of the USSR and by servicemen of certain specialties of the GRU Spetsnaz.\n
+			\nAfter the dissolution of the USSR, the pistol was used in various local conflicts. The APSB (AO-44, product 6P13) - a "silent" model with a silencer, developed in the early 1970s by designer A. S. Neugodov and adopted into service in 1972.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Pistol\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USSR (Russia)\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1951-1958
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_protecta">
+		<text>Armsel Protecta</text>
+	</string>
+	<string id="encyclopedia_weapons_protecta_text">
+		<text>
+			%c[0,153,255,255]Armsel Protecta%c[0,140,140,140], also known as the Sentinel Arms Co Striker-12, Protecta, Protecta Bulldog, and SWD Street Sweeper, is a 12-gauge combat shotgun with a revolving cylinder, designed for riot control and combat.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe weapon was developed by Hilton Walker of Rhodesia in the early 1980s. The first samples of the combat shotgun were produced in the mid-1980s in South Africa. The weapon was notable for its large magazine capacity and high practical rate of fire. On the other hand, the drum magazine was heavy, cumbersome, and the weapon had several mechanical issues. For these reasons, Walker improved his design in the late 1980s, naming the new shotgun Protecta. Currently, the Protecta shotgun is manufactured in South Africa by Reutech Defense Industries and is used both domestically and exported.\n
+			\nThe Protecta shotgun is built on a revolver-type scheme, with a self-cocking hammer-fired mechanism and fed from a non-detachable rotating drum with 12 rounds. Reloading the shotgun is done one round at a time through a window in the rear end of the drum housing.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Shotgun\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: South Africa\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1980s
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_protecta_nimble">
+		<text>AA-12</text>
+	</string>
+	<string id="encyclopedia_weapons_protecta_nimble_text">
+		<text>
+			%c[0,153,255,255]AA-12 (Auto Assault-12)%c[0,140,140,140] - automatic shotgun, developed by Maxwell Atchisson based on an earlier design, the Atchisson Assault Shotgun.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe AAS shotgun was developed by Atchisson based on the experience gained during the Vietnam War, which demonstrated the effectiveness of shotguns in close combat in the jungle. One way to increase firepower was to automate the reloading process, so after the war, several similar systems began development. In the early 1980s, the system was upgraded, resulting in the AA-12 shotgun. Over the next 20 years, Atchisson continued to refine his design, which never went into production. In the 2000s, the American company Military Police Systems acquired the rights to the AA-12, hoping to begin production for police and the U.S. armed forces. It was not made available for commercial sale to civilians. Additionally, using Atchisson's ideas, the automatic shotgun USAS-12 was developed in South Korea.\n
+			\nThe main difference between the AA-12 and its predecessor is the use of gas-operated automatics, typical of assault rifles and machine guns, allowing for the use of more powerful cartridges. Different magazines were designed for the AA-12. The box magazine now holds 8 cartridges, while the drum magazine still holds 20. The dimensions of the shotgun also changed, making it shorter at 965 mm, while the length of the barrel remained unchanged. Another feature of the shotgun is "recoil impulse accumulation". This involves the interaction of two return springs, stretching the recoil impulse over time. In 2004, 10 AA-12 prototypes were created and demonstrated to the United States Marine Corps.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: automatic shotgun\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USA\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: not mass-produced
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_rg6">
+		<text>RG-6 Gnome</text>
+	</string>
+	<string id="encyclopedia_weapons_rg6_text">
+		<text>
+			%c[0,153,255,255]RG-6 Gnome%c[0,140,140,140] (index GRAU - 6G30) - hand-held revolver grenade launcher.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nDeveloped in 1993 at TsKIB SOO by designers Valery Telesh and V. A. Borzov. Small-scale production of the RG-6 began in 1994 at the Tula Arms Plant, and the first batch of six grenade launchers was delivered for testing in the military in the first quarter of 1994. It was used in Chechnya and Georgia. The RG-6 was clearly influenced by the South African Milkor MGL grenade launcher, but it uses fundamentally different ammunition with a flying casing, which results in several noticeable differences in its design. The RG-6 design is characterized by extreme simplicity and technological efficiency. The RG-6 grenade launcher has a revolver scheme, with the chambers of the cylinder formed by six rifled muzzle-loading barrels from GP-25 grenade launchers. Accordingly, the loading of the cylinder is carried out from the front, after folding the front part of the grenade launcher with the false barrel to the side and up. Grenades are held in the chambers by special spring-loaded fixators. The rotation of the cylinder is carried out by a spring manually wound during reloading.\n
+			\nThe self-cocking firing mechanism is mainly borrowed from the GP-25 grenade launcher. The grenade launcher is equipped with a false barrel that has a smooth (non-rifled) channel and serves only to mount the front handle and sight. The sights are folding, of a step type. The telescopic stock is collapsible and has a rubber shock-absorbing pad. Due to the rushed development, early models of the grenade launcher had some problems, including unreliable operation of the firing mechanism.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: hand-held revolver grenade launcher\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Russia\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1994-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_rgd5">
+		<text>RGD-5 Grenade</text>
+	</string>
+	<string id="encyclopedia_weapons_rgd5_text">
+		<text>
+			%c[0,153,255,255]RGD-5%c[0,140,140,140] - Soviet offensive hand grenade, belongs to the anti-personnel fragmentation hand grenades of remote-action offensive type.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe name of the grenade, RGD-5, stands for "hand grenade, remote-action, 5th model". The grenade is designed to strike enemy personnel with the explosive effect of the filler and fragments formed when the metal casing is destroyed. The target is reached by throwing the grenade by hand. "Remote-action" means that the grenade will explode after a certain time (3.2-4.2 seconds) from the moment it is released, regardless of other conditions. "Offensive type" means that the grenade's fragments have a small mass and fly a shorter distance than the possible throwing range.\n
+			\nIn 1954, the RGD-5 was adopted by the Soviet Armed Forces, replacing the RG-42 offensive grenade. The grenades were used in combat operations in Syria. The combat grenade is painted in an olive-gray color.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: hand grenade\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USSR (Russia)\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1954-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_rgm40">
+		<text>RGM-40 Kastet</text>
+	</string>
+	<string id="encyclopedia_weapons_rgm40_text">
+		<text>
+			%c[0,153,255,255]RGM-40 Kastet%c[0,140,140,140] stands for "handheld grenade launcher, compact caliber 40 mm". The grenade launcher is designed to fire caseless grenades VOG-25, VOG-25P, and other modifications against enemy personnel and unarmored targets. The grenade launcher was created in 1997 by the weapons designer V.N. Telesh for the units of the Ministry of Internal Affairs.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe RGM-40 grenade launcher is a single-shot grenade launcher based on the underbarrel grenade launcher GP-30 "Obuvka". Unlike the GP-30, the RGM-40 does not have the capability to be mounted under a rifle; the mount under the rifle is replaced by a tube into which the buttstock is folded, essentially making it an autonomous grenade launcher. The grenade launcher consists of a rifled barrel, which is loaded through the muzzle. The grenade launcher can be discharged by pressing the ejection mechanism. It has a plastic pistol grip borrowed from the Kalashnikov Assault Rifle. The self-cocking firing mechanism fires after pressing the trigger and breaking the cap. The telescopic buttstock is used to reduce dimensions. A rubber pad is placed on the buttstock to reduce recoil force.\n
+			\nThe 40 mm handheld grenade launcher RGM "Kastet" is designed to incapacitate enemy personnel without lethal consequences using special ammunition (tear gas, impact, etc.), as well as to engage open and in trench positions, reverse slopes, and other unarmored targets inaccessible to small arms with fragmentation ammunition VOG-25 and VOG-25P by direct and indirect fire. The grenade launcher did not become popular because it lacks military purpose since a standard underbarrel grenade launcher can be used.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: handheld grenade launcher\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Russia\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1997-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_rpg7">
+		<text>RPG-7</text>
+	</string>
+	<string id="encyclopedia_weapons_rpg7_text">
+		<text>
+			%c[0,153,255,255]RPG-7%c[0,140,140,140] - Soviet reusable handheld anti-tank grenade launcher.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe RPG-7 is a light recoilless rocket launcher (without recoil upon firing). The design of the launcher and the projectile is based on the proven RPG-2 scheme of a reusable recoilless launcher and a shot with a super-caliber warhead. The grenade launcher consists of a barrel with optical and mechanical sights, a trigger mechanism with a safety catch, and a firing mechanism. The barrel of the grenade launcher consists of a tube and a nozzle, which directs the flight of the grenade and diverts the powder gases upon firing. Unlike the RPG-2, the RPG-7 grenade launcher has an expanded barrel in its middle part - a charge chamber - for more complete use of the throwing charge energy, and a nozzle in the breech part - to ensure the recoillessness of the system.\n
+			\nIt is designed to combat tanks, self-propelled artillery installations, and other armored vehicles, and can be used to destroy enemy personnel in cover, as well as to engage low-flying, low-speed aerial targets. The RPG-7 was developed by the State Instrument Design Bureau (GSKB-47, now GNPP "Bazalt") and was adopted by the Armed Forces of the Soviet Union in 1961. The chief designer was Valentin Konstantinovich Firulin. Over 9 million units have been produced. It has been used in almost all armed conflicts since 1968 and remains in service with the armed forces of many countries and states. Due to the introduction of new ammunition, the RPG-7 remains a significant threat to modern weaponry and military equipment, and therefore remains in demand in the 21st century.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: handheld anti-tank grenade launcher\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USSR (Russia)\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1961-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_rpk74">
+		<text>RPK-74</text>
+	</string>
+	<string id="encyclopedia_weapons_rpk74_text">
+		<text>
+			%c[0,153,255,255]RPK-74%c[0,140,140,140] - a hand-held machine gun developed to replace the RPK machine gun in the Soviet army, chambered for the 7.62x39mm cartridge, within the framework of the small-caliber 5.45x39mm rifle ammunition system.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe serial production of the RPK-74 machine gun and its modifications was carried out by the Molot Machine Building Plant in Vyatskiye Polyany from 1975 to 1993. The standardization of components and parts of the RPK-74 machine gun with the AK-74 assault rifle not only simplified its production but also facilitated its introduction and use in the army. The 5.45mm RPK-74 machine gun and its modifications are the most powerful automatic small arms in a motorized rifle unit and are designed to engage enemy personnel, unarmored weapon samples, military and special equipment. All types of 5.45mm rifle cartridges (5.45x39) are used for firing from the RPK-74 machine gun and its modifications. The RPK-74 machine gun complex provides high-density fire at short distances and can engage important group and single distant targets. Fire from the machine gun is conducted in short bursts (up to 5 shots) or long bursts (up to 15 shots).\n
+			\nAdopted into service in 1974 together with the AK-74 assault rifle. In 1993, after the creation of the AK-74M assault rifle, corresponding modifications were made to the RPK-74 at the Izhevsk Machine Building Plant and the Vyatskiye Polyany Machine Building Plant "Molot", following the principle of standardization, to bring it up to the RPK-74M level. For export, based on the RPK-74M, a variant RPK-201 chambered for the 5.56x45mm NATO cartridge was also developed, using magazines from the AK-101 of the same caliber, and the RPK-203 chambered for the 7.62x39mm cartridge.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: hand-held machine gun\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USSR (Russia)\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1974-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_rpk16">
+		<text>RPK-16</text>
+	</string>
+	<string id="encyclopedia_weapons_rpk16_text">
+		<text>
+			%c[0,153,255,255]RPK-16%c[0,140,140,140] - a Russian hand-held machine gun chambered in 5.45x39mm. It is an initiative development by the Kalashnikov Concern.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nAs per the customer's requirements, the RPK-16 was developed as a domestic equivalent of foreign 5.56x45mm caliber machine guns such as the M249 and FN Minimi, combining high firepower with sufficient mobility, the ability for quick barrel change, and the use of both belt-fed and box magazines (NATO standard for assault rifles). However, the developers of the RPK-16 opted against dual feeding, instead retaining the option to use magazines compatible with the AK-74 / RPK-74. The RPK-16 has a layout similar to the AK-12 but with improved ergonomics. The weight of the machine gun is approximately 4.5 kg. The RPK-16 also retains Kalashnikov's classic long-stroke gas piston system, ensuring high reliability. With a low recoil coefficient, the RPK-16 has high shooting accuracy and noticeably exceeds the firepower of the RPK-74. Its rate of fire is up to 700 rounds per minute. The machine gun can fire in single shots or bursts with a closed bolt. Thanks to Picatinny rail guides on the top and bottom of the handguard, any necessary additional equipment can be quickly installed, including modern sighting systems. The machine gun can be equipped with a folding bipod.\n
+			\nThis machine gun is being developed as a potential replacement for the Kalashnikov RPK-74 machine gun, both in regular troops and special forces units. The weapon is based on the solutions obtained during the research and development work on the AK-12 assault rifle and the RPK-400 machine gun. According to the statement of the Kalashnikov Concern expert Sergey Radkevich, the machine gun incorporates the experience of modern armed conflicts. The RPK-16 was first presented at the "Army-2017" forum. The designation RPK-16 stands for "Ruchnoy Pulemyot Kalashnikova model of 2016".\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: hand-held machine gun\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Russia\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 2017-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_sa58">
+		<text>DS Arms SA-58</text>
+	</string>
+	<string id="encyclopedia_weapons_sa58_text">
+		<text>
+			%c[0,153,255,255]SA-58 (FN FAL)%c[0,140,140,140] - NATO firearm manufactured in Belgium by Fabrique Nationale de Herstal. One of the most recognized and widely used automatic rifles.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe FN FAL was initially developed as a weapon for medium-range combat. The replacement of the intermediate cartridge 7.92x33mm with the 7.62x51mm NATO cartridge led to an increase in muzzle energy and consequently extended the effective range of the weapon. As a result, the model was capable of effectively firing single shots at distances up to 1000 meters and providing satisfactory accuracy with short bursts at distances not exceeding 100-200 meters. Alongside the Kalashnikov and M16 rifles, the FN FAL is one of the most widely used automatic firearms in the world. It is widely used worldwide and has been in service in armies of more than 90 countries in various modifications. The FN FAL has gained wide popularity worldwide, and there are numerous different modifications in various countries.\n
+			\nThe SA-58 OSW (Operations Specialist Weapon) is manufactured by the American company DSA (David Selveggio Arms) on the same production line as the StG-58 and is an official copy of the "FAL" rifles. The civilian version is only produced in a semi-automatic variant, while a modification is also available for police or military units with the ability to fire fully automatic. The DSA-58 is fully compatible with any metric magazines for the FN FAL.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Battle Rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Belgium\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1954-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_saiga12">
+		<text>Saiga-12K</text>
+	</string>
+	<string id="encyclopedia_weapons_saiga12_text">
+		<text>
+			%c[0,153,255,255]Saiga-12K%c[0,140,140,140] - a semi-automatic shotgun of 12 gauge, produced at the Izhevsk Machine-Building Plant based on the Kalashnikov assault rifle, designed for commercial and amateur hunting of small and medium-sized game and birds in areas with any climatic conditions.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe smoothbore Saiga shotguns inherited the general layout and design of the AK, with a gas-operated mechanism and rotating bolt lock. The bolt group and barrel housing were redesigned for the use of hunting cartridges, the trigger mechanism was deprived of an automatic release, and a gas regulator was added to the gas-operated mechanism to ensure reliable firing with both regular and magnum cartridges. In addition, some models are equipped with Picatinny rails, allowing for the use of additional equipment (collimator sights, flashlights, etc.).\n
+			\nThe "Saiga-12K" is a shortened semi-automatic shotgun - a "smoothbore carbine". The stock and pistol grip (and in some versions, the handguard) are borrowed from the Kalashnikov assault rifle. The design includes a locking mechanism that prevents the weapon from being taken off safety until the stock is folded. The barrel length is 430 mm. Sights are of hunting or "rifle" type.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: semi-automatic shotgun\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Russia\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1997-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_scarh">
+		<text>FN SCAR-H</text>
+	</string>
+	<string id="encyclopedia_weapons_scarh_text">
+		<text>
+			%c[0,153,255,255]FN SCAR%c[0,140,140,140] - a firearm system developed by the American division of the Belgian company FN Herstal for the competition to create a new rifle for USSOCOM fighters in 2004.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nIn December 2004, this system was declared the winner of the competition, and rifles are currently being supplied to US Rangers. In July 2007, the US Armed Forces conducted testing of new assault rifles intended to replace the M4 carbine. The test included the German HK416, Belgian FN SCAR, and the joint German-American XM8. Most of the testing was conducted in desert conditions. The FN SCAR rifle showed the best results in the tests. On November 13, 2008, the United States officially announced that it would be adopted. In 2010, the FN SCAR was adopted by units serving in Afghanistan. In 2013, USSOCOM discontinued further purchases of the SCAR-L and plans to dispose of the remaining rifles. Instead, they will be purchasing SCAR-H with a conversion kit for the 5.56 mm cartridge, compensating for the lack of SCAR-L.\n
+			\nThe SCAR rifle system includes two basic weapon variants - the "light" rifle Mk.16 SCAR-L (Light) and the "heavy" rifle Mk.17 SCAR-H (Heavy). The main differences between the SCAR-L and SCAR-H are the ammunition used - SCAR-L rifles are designed only for 5.56x45 mm NATO cartridges (both standard M855 bullets and heavier Mk.262 bullets). SCAR-H rifles use the much more powerful 7.62x51 mm NATO cartridge as their base ammunition, with the possibility, after replacing necessary components (bolt, barrel, lower part of the barrel housing with the magazine receiver), of using other cartridges (though these plans have not yet been realized). In both basic configurations, SCAR rifles are intended to have three possible configurations - standard "S" (Standard), shortened for close combat "CQC" (Close Quarters Combat), and sniper "SV" (Sniper Variant).\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Battle Rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Belgium/USA\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 2003-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_sig220">
+		<text>SIG Sauer P220</text>
+	</string>
+	<string id="encyclopedia_weapons_sig220_text">
+		<text>
+			%c[0,153,255,255]SIG Sauer P220%c[0,140,140,140] - a pistol developed in the mid-1960s and produced by the Swiss-German company SIG Sauer.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe development of a new army pistol for the Swiss Army to replace the very high-quality but also very expensive and morally outdated SIG P210 pistol began in the early 1970s. The well-known Swiss company SIG developed such a pistol, and in the mid-1970s it was adopted under the designation Pistole 75. The pistol undoubtedly had great export potential, but due to strict restrictions imposed by Swiss legislation, its export was limited. Therefore, SIG entered into an alliance with the well-known German firearms manufacturer J.P. Sauer and Sohns, which allowed the production of pistols commercially designated SIG-Sauer P220 in Germany. Over time, all calibers were phased out of the P220 series except .45 ACP, in which the P220 continues to be produced to this day. The 9mm P220 pistol is in service with the armies of Switzerland and Japan, while the .45 ACP version is widely used in various police departments in the USA. Currently, a whole range of modifications of the P220 pistol in .45 caliber is produced, aimed at both the civilian and law enforcement markets.\n
+			\nSIG-Sauer P220 pistols, like all subsequent SIG-Sauer developments, are rightly renowned for their high reliability, good ergonomics, and excellent shooting accuracy. This weapon is quite popular among security agencies and police departments in the USA, as well as among special forces units in many countries around the world. SIG-Sauer P220R is a modification with a rail for mounting a laser sight.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Pistol\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Switzerland/Germany\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1975-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_sig550">
+		<text>SIG SG 552 Commando</text>
+	</string>
+	<string id="encyclopedia_weapons_sig550_text">
+		<text>
+			%c[0,153,255,255]SIG SG 550/Stgw 90%c[0,140,140,140] - Swiss assault rifle developed in 1979-1980 based on the SIG SG 540 to replace the outdated SIG SG 510 battle rifle.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe SIG SG 550 rifle was developed based on its predecessors, the SIG SG 540 and SG 541, with major modifications aimed at lightening the weapon. In 1983, the SIG SG 550 was officially adopted by the Swiss Army under the designation Stgw.90, but production began only in 1986 due to funding issues. Later, based on the SG 550, the SG 551 carbine and the SG 552 compact assault rifle were developed, as well as their civilian versions that cannot fire in automatic mode. Overall, the SIG SG 550 family of rifles is one of the best in its class, known for high reliability, shooting accuracy, and ease of use. The SG 550 can be equipped with a bayonet and an optical sight mount. In the Swiss Army, Stgw.90 rifles are sometimes equipped with a 4X scope, while export versions of all models can be equipped with commercial optical or reflex ("red dot") sights. Modern production SG 550 rifles may come with a Picatinny rail on the top surface of the receiver, in place of or in addition to open sights.\n
+			\nThe magazines for the classic SG 550 are original, made of semi-transparent plastic and are interlocked like G36 magazines. The standard magazines in the Swiss Army hold 20 rounds, but there are also 30-round and larger capacity magazines. Civilian magazines hold 10 rounds. The model 556 has a lower receiver magazine well adapted for standard M-16 magazines. This model is particularly popular in America. The rifle is quite popular in the United States. The SIG SG 552 Commando is an even more compact rifle with a 226 mm barrel, designed for special police units. Unlike the SG 550, the recoil spring is behind the bolt carrier and acts directly on it, rather than on the gas piston rod. The rifle has a modified flash hider and can be equipped with Picatinny rails for mounting additional accessories.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Assault Rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Switzerland\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1990-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_sig550_nimble">
+		<text>HK416 A5</text>
+	</string>
+	<string id="encyclopedia_weapons_sig550_nimble_text">
+		<text>
+			%c[0,153,255,255]HK416%c[0,140,140,140] - German assault rifle adapted to the American modular AR-15 system, created by Heckler &amp; Koch. Despite its external similarity to the M4 carbine, the rifle mechanism is actually closer to the German HK G36, rather than the AR pattern of American rifles.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nHeckler &amp; Koch decided to enter the market of US military and police weapons with a new alternative system designated as the HK416. This modular assault rifle combines the familiar ergonomics and appearance of the M16 rifle for any American with significantly improved reliability, achieved through a number of measures. First and foremost, this includes replacing the direct gas impingement system of the M16 rifle with a more reliable (according to the manufacturer) and significantly less sensitive to contamination gas piston system, with a short stroke, borrowed from the G36 rifle. Initially, the HK416 was developed as a separate interchangeable module for installation on any M16 or M4 carbine lower receiver, but later, HK began producing complete HK416 carbines.\n
+			\nCurrently, the HK-416 series rifles are in service with special units of many countries. The name HK416 indicates compatibility with NATO standards for magazines from the M4 and M16. The latest variant of the rifle is named HK416A5. Additionally, there is a version chambered in 7.62x51 mm - the HK417, which competes with the FN SCAR. It has been adopted by the Bundeswehr under the designation G38 family.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Assault Rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Germany/USA\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 2005-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_sks">
+		<text>Molot OP-SKS</text>
+	</string>
+	<string id="encyclopedia_weapons_sks_text">
+		<text>
+			%c[0,153,255,255]7.62mm Simonov self-loading carbine (SKS)%c[0,140,140,140] - Soviet self-loading carbine designed by Sergei Simonov, adopted into service in 1949.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThese carbines are very popular among hunters and gamekeepers due to their low cost, ease of maintenance, simplicity, and reliability. The carbine operates reliably at temperatures from -50 to +50 °C. It is generally considered that these SKS variants are mainly used for shooting at fast and relatively small animals such as wolves or foxes, since the 7.62x39 mm cartridge is not effective for large game. By the end of the 1950s, in order to standardize small arms in the Soviet Army, a decision was made to replace carbines with rifles. Nevertheless, the SKS remained in service with air defense forces until the early 1990s, as well as with a number of engineering and military construction units and supply units where engaging in gunfire was not the main task. Considering the huge number of SKS carbines currently in storage, there are several enterprises in the Russian Federation, Ukraine, Belarus, and other former Soviet republics that convert SKS carbines into OP-SKS and "Arkhar" models, after which these carbines are sold in the civilian market. The primary market for civilian SKS carbines worldwide is the United States, where a large industry has developed for producing accessories for this carbine. Detachable magazines, plastic stocks, and optic mounts are manufactured.\n
+			\nDue to the almost complete absence of protruding elements, the carbine is convenient for performing precise military maneuvers with the weapon. Additionally, in the Russian Federation and several other countries, it is allowed for sale to civilians with the necessary documents and is mainly used by hunters. OP-SKS (hunting and gamekeeping) - SKS, converted at the "Molot" factory or the Tula Arms Plant from combat to hunting weapons by removing the bayonet mount, limiting the sight mount with a pin to 300 meters, and applying new markings (in accordance with the Federal Law of the Russian Federation "On Weapons"). Otherwise, the SKS and OP-SKS are completely identical.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: self-loading carbine\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USSR (Russia)\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1949-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_spas12">
+		<text>Franchi SPAS-12</text>
+	</string>
+	<string id="encyclopedia_weapons_spas12_text">
+		<text>
+			%c[0,153,255,255]Franchi SPAS-12%c[0,140,140,140] (Special Purpose Automatic Shotgun) - Italian shotgun developed in the late 1970s.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe Franchi SPAS-12 is a dual-mode shotgun, meaning it can be used as a semi-automatic or pump-action weapon. Switching between firing modes is done by pressing a button under the barrel and moving the forend slightly forward or backward until it clicks. One of the unique features of the SPAS-12 is a switch visible on the folding stock of the shotgun. This switch can be rotated 90 degrees so that the shotgun fits under the shooter's forearm. Theoretically, holding the shotgun by the pistol grip, the shooter can fire one-handed: from the hip or with an extended arm; however, due to the weight of the shotgun, this is highly unlikely. Despite its heavy barrel, the SPAS-12 has the lowest recoil of all 12-gauge shotguns. A grenade launcher can be attached to the barrel, with a firing range of up to 150 meters.\n
+			\nThe first and most common variant of the SPAS-12 had a metal folding stock and an eight-round magazine. A small number of early models had a detachable wooden stock. After import restrictions were introduced in the United States in 1989, a version with a plastic fixed stock and a five or six-round magazine was released to comply with the required restrictions. The successor to the SPAS-12 was the semi-automatic/pump-action shotgun Franchi SPAS-15.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: semi-automatic shotgun\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Italy\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1979-2000
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_spas12_nimble">
+		<text>Benelli M4 Super 90</text>
+	</string>
+	<string id="encyclopedia_weapons_spas12_nimble_text">
+		<text>
+			%c[0,153,255,255]Benelli M4 Super 90%c[0,140,140,140] - smoothbore semi-automatic magazine shotgun developed in Italy by Benelli Armi S.p.A..\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nDeveloped in Italy in 1998. It is used by military and law enforcement agencies of various countries, as well as by civilians worldwide. It is known for its high reliability. The shotgun operates using gas diverted from the barrel through two symmetrically placed gas cylinders under the barrel. The military version (designated as the US Army M1014) has two firing modes - semi-automatic and manual pump action - and a 6-round magazine. Various collimator and electronic sights can be installed on the firearm. The civilian version lacks the fire mode selector and has a 4-round magazine.\n
+			\nOn the Russian civilian market, the Benelli M4 Super 90 semi-automatic shotgun (smoothbore) is sold in a configuration completely identical to the American military M1014 shotgun. Accessories and additional equipment are produced for Benelli M4 shotguns, including tactical flashlights (including those integrated into the forearm), folding and telescopic stocks, and tactical slings, among others.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: semi-automatic shotgun\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Italy\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1998-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_sr1m">
+		<text>SR-1MP Gyurza</text>
+	</string>
+	<string id="encyclopedia_weapons_sr1m_text">
+		<text>
+			%c[0,153,255,255]SR-1%c[0,140,140,140] Samozaryadnyy Pistolet Serdyukova (SPS, "Gyurza", GRAU Index 6P53) - a pistol developed for special forces units under the NIIOKR "Grach" program by the designers P.I. Serdyukov and I.V. Belyaev at TsNIITochMash for the 9x21mm high-efficiency cartridge, introduced in 1995.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe need for a pistol radically different from those in service with armies, law enforcement agencies, special services, and special forces units arose in the 1980s. This was due to the widespread introduction of various classes of personal body armor into the armed forces of most countries. For example, a second-class bulletproof vest can stop 7.62mm bullets with a steel core fired from a TT pistol at close range, and 9mm bullets of the standard NATO cartridge fired from a Beretta 92FS pistol. The pistol was developed to replace the APS used in special forces of law enforcement agencies. Tactical and technical requirements included the ability to accurately shoot at distances up to 100 meters, to penetrate personal body armor, and to disable automobiles and other unarmored vehicles.\n
+			\nVariants and modifications: the SR1M pistol - serially produced for the FSO and FSB since 2003. It is used with various types of ammunition, including expanding bullets. It has a handle with an enlarged safety lever. Button magazine release and frame like the SPS. Sights have been modified. After replacing the magazine, the bolt automatically disengages from the bolt hold open. The SR1MP pistol - the latest modification, featuring slots on the sides of the front part of the frame to attach a Picatinny rail for mounting various additional accessories: collimator sights, laser target designators (LTD), and tactical flashlights. A suppressor can be installed on the SR1MP pistol for silent shooting.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Pistol\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Russia\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1996-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_sr2m">
+		<text>SR-2M Veresk</text>
+	</string>
+	<string id="encyclopedia_weapons_sr2m_text">
+		<text>
+			%c[0,153,255,255]SR-2 "Veresk"%c[0,140,140,140] ("special development 2") - a Russian submachine gun designed for close combat (up to 200 m) against enemy personnel using individual body armor.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nDevelopment of a new submachine gun for the 9x21mm high-efficiency cartridge began in the mid-1990s under the order of the Federal Security Service (FSB) at the Klimovsk Central Research Institute for Tochmash. The new model was presented in 1999 under the provisional designation SR-2. Along with the SR-1 "Gyurza" pistol, SP-10 and SP-11 cartridges, and the unified collimator sight "KP SR-2", this submachine gun is part of an enhanced efficiency firearms complex designed for special units. "Veresk" was originally designed as a weapon capable of engaging enemies in second-class body armor and unarmored vehicles at distances up to 200 m. These requirements determined the choice of ammunition. The SR-2 ensures 100% penetration of a 4 mm steel sheet at a distance of 100 m. The "Veresk" submachine gun is adopted by the FSB (including the "Vympel" unit) and the FSO of Russia, as well as some special units of the Russian Ministry of Internal Affairs (including the Moscow OMON).\n
+			\nVariants and modifications: SR-2 "Veresk" - the original model, no longer in production. SR-2M "Veresk" - a modernized model: a folding front grip appeared on the barrel instead of a rigid rest, improving weapon control and shooting accuracy (in the folded position, the grip becomes part of the barrel). The safety lever has been slightly modified, and the muzzle device is now a muzzle brake-compensator, protecting the shooter's hand from forward displacement and powder gas burns. SR-2MP "Veresk" - an improved version of the SR-2M "Veresk" with Picatinny rails on the top cover of the receiver and barrel. It is now possible to install a suppressor and a modified form stock.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Submachine Gun\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Russia\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1999-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_sv98">
+		<text>SV-98</text>
+	</string>
+	<string id="encyclopedia_weapons_sv98_text">
+		<text>
+			%c[0,153,255,255]SV-98%c[0,140,140,140] - a Russian magazine-fed sniper rifle, developed between 1998 and 2000 by a team of designers under the leadership of Vladimir Dmitrievich Stronsky and serially produced by the Izhevsk Machine-Building Plant (now Kalashnikov Concern). The SV-98 is designed for hitting targets at distances up to 1000 meters.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThis rifle is built on a classic scheme typical for such weapons: a longitudinally sliding bolt locks on three locking lugs; after firing, the bolt must be manually opened to extract the cartridge case and closed to chamber the next round. The rifle features a sporting type trigger mechanism. The stock is made of modified wood, with a notch for folding a bipod in the front and a handle in the middle for carrying the weapon. The cheek rest and butt plate are adjustable. It also comes equipped with telescopic bipods, an anti-mirage band for the barrel that eliminates image distortion caused by heated air during firing, a suppressor, and a 1P69 Hyperon panoramic sight. The rifle allows effective firing at distances of 700-800 meters. Currently, a modernized version of the SV-98 with an aluminum stock, foldable adjustable butt stock, and a Picatinny rail on the receiver for mounting optical and night sights is serially produced by the Kalashnikov Concern.\n
+			\nAn experienced shooter with this type of rifle can hit a human-sized target at a distance of 1200 meters. Comparable rifles include the American Remington 700, the German Blaser 93, and similar rifles. In Russia, it is used by special units of the Ministry of Defense, Ministry of Justice, Ministry of Internal Affairs, Federal Security Service, and Federal Protective Service. In December 2012, an order was placed for 49 units for the special forces of the Ministry of Internal Affairs (Department for Control of Narcotics Trafficking - UKON). By early August 2015, the SV-98 became the main type of sniper rifle in the airborne troops. In 2013, Izhevsk Machine-Building Plant modernized the rifle. Unlike its predecessor, the SV-98M received a new stock made of a duralumin alloy.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Sniper Rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Russia\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 2004-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_svd">
+		<text>SVD</text>
+	</string>
+	<string id="encyclopedia_weapons_svd_text">
+		<text>
+			%c[0,153,255,255]7.62mm Sniper Rifle Dragunov (SVD)%c[0,140,140,140] - a Soviet semi-automatic sniper rifle, developed between 1957 and 1963 by a team of designers led by Yevgeny Dragunov, and adopted by the Soviet Army on July 3, 1963, together with the PSO-1 optical sight.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe SVD is used with 7.62x54mm R rifle cartridges, including standard, tracer, armor-piercing incendiary bullets, sniper cartridges 7N1, and sniper armor-piercing 7N14. It can also fire cartridges with JHP and JSP expanding bullets. The SVD fires single shots from a detachable box magazine with a capacity of 10 rounds. A five-slot muzzle brake on the muzzle reduces flash and protects against barrel fouling. A gas regulator adjusts the recoil speed of moving parts, ensuring the rifle's reliability. The SVD was also produced in small quantities with a tactical suppressor-muzzle brake known as TGP-V, developed by NPO Special Equipment and Communication, which mounts over the standard muzzle brake, although its effectiveness was disputed.\n
+			\nThe PSO-1 sight is calibrated for shooting up to 1300 meters. It is generally considered that effective shooting at such distances is only possible against group targets or for harassment fire. However, in 1985, in Afghanistan, sniper Vladimir Ilyin of the 345th Guards Airborne Regiment hit an enemy target at a distance of 1350 meters. This remains a record not only for the SVD but also for 7.62mm caliber rifles in general. The SVD-S is a variant of the SVD designed for airborne troops with a folding stock and a shortened but thicker barrel, created in 1991 and adopted in 1995.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Sniper Rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USSR (Russia)\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1963-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_svu">
+		<text>SVU</text>
+	</string>
+	<string id="encyclopedia_weapons_svu_text">
+		<text>
+			%c[0,153,255,255]SVU (Self-loading Sniper Rifle, Shortened)%c[0,140,140,140] (OЦ-03) - a bullpup configuration self-loading sniper rifle developed by TsKIB SOO based on the SVD.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nDevelopment of a shortened sniper rifle based on the SVD for Soviet airborne troops began at TsKIB SOO in 1977. In 1979, demonstration models of the SVU rifle designed by L. V. Bondarev were offered to parts of the VDV (Airborne Forces), but production did not proceed at that time. In 1991, serial production of the SVU began, with the first rifles entering service with the 106th Guards Airborne Division (where they underwent military trials). In the early 1990s, the rifle was proposed to the Ministry of Internal Affairs of Russia as a sniper weapon for urban conditions. The Ministry of Internal Affairs adopted the SVU, and also requested a variant capable of full-auto fire. In 1991, Bondarev created the automatic rifle designated OЦ-03AS - a shortened, automatic sniper rifle with bipods. Based on the operational experience of the SVU rifles during the war in Chechnya, the SVU-AS rifle was developed in 2001.\n
+			\nThe accuracy of the SVU at short and medium ranges is approximately comparable to the SVD. The ability to fire in full-auto mode in the SVU-A and SVU-AS is intended only for emergency situations (e.g., in close combat posing a real threat to the sniper's life), as the use of a powerful cartridge and the light weight of the rifle lead to significant recoil during full-auto fire, and the small magazine does not allow for prolonged shooting. The SVU-A (OЦ-03A) is a variant with full-auto capability.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Sniper Rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USSR (Russia)\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1990-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_taurus">
+		<text>Taurus Raging Bull</text>
+	</string>
+	<string id="encyclopedia_weapons_taurus_text">
+		<text>
+			%c[0,153,255,255]Raging Bull%c[0,140,140,140] - a revolver created by the Brazilian firearms manufacturer Taurus International. This weapon is positioned as a hunting revolver due to its caliber. For example, the .454 Casull allows hunting large animals such as the African buffalo or African elephant.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nFrom a technical standpoint, the Raging Bull is a revolver with a solid frame, a swing-out cylinder for reloading, and a double-action trigger mechanism (there are also modifications with a single-action trigger mechanism). The sighting devices are open - a fixed front sight and an adjustable rear sight. Alternative sighting devices can also be installed thanks to the optionally included Picatinny rail. To compensate for recoil when using powerful cartridges, a muzzle brake-compensator is introduced in the front part of the barrel, made in the form of slots on the sides of the front sight. The revolver frame can be made of steel, titanium, or stainless steel, and the grip is made of rubber. Depending on the cartridge used, the cylinder can hold 5, 6, 7, or 8 cartridges, and the barrel length can be 4, 5, 6, 8, or 10 inches.\n
+			\nThe Raging Bull fits snugly in the hand and has a red rubber pad that reduces recoil, allowing the shooter to feel more comfortable.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: revolver\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Brazil\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: present
+		</text>		
+	</string>
+	
+	<string id="encyclopedia_weapons_toz34">
+		<text>TOZ-34</text>
+	</string>
+	<string id="encyclopedia_weapons_toz34_text">
+		<text>
+			%c[0,153,255,255]TOZ-34%c[0,140,140,140] - a lightweight double-barreled hunting rifle with vertically aligned barrels, intended for commercial and amateur hunting.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe TOZ-34 was developed by gunsmith Nikolai Ivanovich Korovyakov. This rifle was intended for amateur hunters, commercial hunters, and sport shooters. Initially, the rifle was designed with a 12-gauge barrel, but the Tula Arms Plant planned to produce it in various versions - with smoothbore barrels ranging from 12 to 32 gauges and in combination with rifled barrels of different calibers. Since 1964, the rifle was produced individually at the Tula Arms Plant. In 1965, the TOZ-34 rifle was awarded a gold medal at the Leipzig Fair for its design originality, as it significantly differed from known domestic and foreign rifles at that time. Overall, it became the lightest mass-produced Soviet double-barreled hunting rifle of the 12th gauge. Since 1969, the rifle has been produced in large series.\n
+			\nThe TOZ-34 is a hammerless double-barreled hunting rifle with vertically aligned barrels. At various times, rifles of 12, 16, 20, 28, and 32 gauges were produced. The weight of the TOZ-34 rifle reached 3.1 kg. The rifles feature modern sleek shapes, good balance, and high shooting accuracy. The 12th and 28th gauge rifles are produced in standard, individual, and souvenir versions. A limited number of 20th and 32nd gauge rifles were made %c[0,153,255,255](to switch to double-shot mode, use the firing mode switch key)%c[0,140,140,140].\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USSR (RF)\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1964-1995
+		</text>
+	</string>	
+	
+	<string id="encyclopedia_weapons_usas12">
+		<text>Daewoo USAS-12</text>
+	</string>
+	<string id="encyclopedia_weapons_usas12_text">
+		<text>
+			%c[0,153,255,255]USAS-12%c[0,140,140,140] - an automatic shotgun developed by John Trevor in the late 1980s based on the ideas of another American designer, Maxwell Atchisson, who created the Atchisson Assault Shotgun.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nTrevor worked at the small company Gilbert Equipment Co, which did not have production facilities. After a long search for potential manufacturers of the new weapon, a division of the South Korean conglomerate Daewoo - Daewoo Precision Industries - was chosen. Korean engineers made some modifications to the shotgun design, after which the USAS-12 went into production. Among the main buyers were police and military units in Southeast Asian countries. Gilbert Equipment Co tried to import semi-automatic versions for sale on the civilian market in the USA, but this was prohibited by the Bureau of Alcohol, Tobacco, Firearms and Explosives. Variants assembled from South Korean parts were sold to US government and police units, assembled by RAMO Defense. There is no current information on the use of the USAS-12 by any organizations.\n
+			\nThe USAS-12 uses a gas-operated mechanism with a barrel-locking system by a movable cylindrical part that rises up into a round hole in the barrel extension, similar to the AAS/AA-12. The hollow plastic stock is designed to absorb the recoil of the bolt carrier during firing, reducing the rate of fire and recoil. To ensure ambidexterity, the extractor window and charging handle cutouts are present on both sides of the barrel extension. The three-position safety-fire mode selector is similar to that of the M16 rifle. A carrying handle is integrated into the barrel extension.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: automatic shotgun\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USA/South Korea\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1990
+		</text>
+	</string>
+
+	<string id="encyclopedia_weapons_usp45">
+		<text>HK USP45</text>
+	</string>
+	<string id="encyclopedia_weapons_usp45_text">
+		<text>
+			%c[0,153,255,255]Heckler &amp; Koch USP%c[0,140,140,140] - a semi-automatic pistol developed by the German company Heckler &amp; Koch. First introduced in 1993. Designed for police and military use.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nWork on creating a new advanced pistol, primarily intended for the American market (both civilian and police), began at Heckler &amp; Koch in mid-1989. The goal was to develop a versatile pistol that would have various trigger mechanisms (USM) options and meet the requirements of different customers, while also possessing high performance characteristics. The name of the new firearm - USP, stood for Universal Self-loading Pistol, meaning a universal semi-automatic pistol. The main requirements for the new pistol were ease of everyday use and reliability. In 1996, it was adopted by the U.S. Navy SEALs under the fleet index Mk 23 Mod 0. This pistol is a modification of the USP for the .45 ACP caliber, significantly heavier and more durable. It is considered the most accurate .45 caliber semi-automatic pistol to this day.\n
+			\nCurrently, the HK USP is produced in the following calibers: .40 S&amp;W, 9x19mm Parabellum, and .45 ACP. It is known for its high durability, reliability, and good shooting accuracy. Among its drawbacks are its significant size, even in the compact version, a relatively high center of gravity, and a massive slide, which somewhat complicates concealed carry. One of the distinctive features of the USP is its wide variety of modifications. There are currently nine different variants, although the system for these variants is generally the same.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Pistol\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Germany\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1993-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_usp45_nimble">
+		<text>FN FNX45</text>
+	</string>
+	<string id="encyclopedia_weapons_usp45_nimble_text">
+		<text>
+			%c[0,153,255,255]FN FNX%c[0,140,140,140] - a semi-automatic pistol of joint Belgian-American production, giving its name to the pistol series of the same name.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nManufactured in Columbia (South Carolina, USA) at the FN America (FN USA) factories - the American division of the Belgian firearms company FN Herstal. The firearms are marked on the slide with "Fredericksburg, VA", corresponding to the location where the license for the production of this weapon was issued. It is produced in four modifications for the calibers 9x19mm Parabellum, .40 S&amp;W, and .45 ACP. All modifications of this pistol share common features such as ambidextrous safety levers, ambidextrous magazine releases, and slide stops. All models are also equipped with a 3-dot sight with white or tritium inserts, a Picatinny rail, and a magazine load indicator on the right side. New models are made of tough plastic and come with three magazines and two (since 2012, four) interchangeable grip panels. The grips differ in thickness, design, and colors. Unlike pistols from Glock, SIG Sauer, Heckler &amp; Koch, and many others, the FNX pistol is not widely spread in the market. It is used by some law enforcement agencies in the USA. Accessories and spare parts for it are produced by only a few companies. Some of the modifications include different barrel lengths, various triggers, safeties, and holsters.\n
+			\nBy early October 2012, only the FNX-9 and FNX-40 variants had been developed, distinguished by their slide (matte black, blued, or stainless steel). In early October, the FNX-45 variant was developed, made of stainless steel with different finishes. It comes with magazines with 12 holes (marked from 4 to 15), which allows the shooter to more accurately determine the number of rounds in the magazine.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Pistol\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USA/Belgium\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 2012-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_val">
+		<text>AS VAL</text>
+	</string>
+	<string id="encyclopedia_weapons_val_text">
+		<text>
+			%c[0,153,255,255]AS VAL Special Assault Rifle%c[0,140,140,140] - a silent automatic rifle developed by the TsNIITochMash in the town of Klimovsk by designers P. Serdyukov and V. Krasnikov in the late 1980s based on the silent sniper rifle "VSS". "Val" and "VSS" are visually similar and are 70% unified.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nUntil the 1970s, special forces units of the USSR mainly used modified samples of general-purpose small arms equipped with silencers and special subsonic bullet cartridges. Examples include the "Tishina" complexes based on the AKM and the "Kanareyka" based on the AKS-74U, as well as the PB and APB pistols. However, such solutions had their drawbacks (for example, significant increase in size with silencers on pistols, sharp decrease in effective firing range with the PBS-1 on rifles and its limited resource), so parallel to this, special-purpose narrow-focused samples were created at TsNIITochMash under the leadership of the Scientific Research Institute of the KGB and the GRU of the General Staff of the USSR, which could provide greater operational stealth for special units.\n
+			\nThe AS VAL Special Assault Rifle is based on gas-operated automatics with a long stroke of the gas piston. It uses special 9mm subsonic cartridges SP-5 and SP-6. The sniper bullet of the SP-5 cartridge (with a steel core) penetrates Class 2 body armor or a 6mm steel sheet at a range of 100 meters, and a 2mm steel sheet at any sighting distance, while retaining enough energy to defeat a covered enemy. The armor-piercing SP-6 cartridge with an enlarged core made of hardened steel can disable a vehicle and even lightly armored vehicles. It penetrates an 8mm steel sheet at a range of 100 meters, and a 5mm steel sheet or Class 3 body armor at any sighting distance. These performance characteristics are comparable to those of standard 5.56mm and 5.45mm cartridges, which have several times greater muzzle energy. The rifle's magazines are interchangeable with those of the VSS Vintorez.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Assault Rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USSR (Russia)\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1987-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_val_nimble">
+		<text>SR-3M Vikhr</text>
+	</string>
+	<string id="encyclopedia_weapons_val_nimble_text">
+		<text>
+			%c[0,153,255,255]SR-3 "Vikhr"%c[0,140,140,140] - a compact Russian assault rifle developed based on the silent assault rifle AS "Val".\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nDevelopment of a compact 9mm assault rifle based on the AS "Val" design began in 1989 by the designer A.D. Borisov at TsNIITochMash. The first prototype of the weapon (designated RG051) was manufactured in 1991. In 1994, with the participation of designer V.N. Levchenko, the second prototype of the rifle - SR-3 "Vikhr" - was created, which successfully completed state trials by the end of 1994. The final adjustments were made by designer A.I. Tashlykov. In 1995, SR-3 "Vikhr" rifles were put into experimental operation in special units, and by mid-1996, they were officially accepted into service. Later, an upgraded version, SR-3M, was developed, which was intended to combine the advantages of the SR-3, VSS, and AS. The SR-3 is unified with the AS "Val" in its main components, which has a positive effect on the production and operation of the weapon. The SR-3's mechanism is similar to the AS "Val": it uses gas-operated automatics and locks the barrel with a 6-point bolt. The SR-3 can be equipped with a suppressor.\n
+			\nWhen using special armor-piercing SP-6 cartridges, the rifle theoretically allows successful engagement of targets wearing Class 5 body armor (ceramic plate) at distances up to 25 meters, and Class 2 body armor (steel) at distances up to 100 meters. The compact size of the SR-3 facilitates concealed carry. The SR-3M differs by its ability to use a suppressor, metal 30-round magazines, installation of optical and night sights, a left-folding skeleton stock (borrowed from the AS "Val"), a lever-type safety similar to the SVD, and a new stock with a folding additional grip.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Assault Rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Russia\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1996-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_vector">
+		<text>KRISS Vector</text>
+	</string>
+	<string id="encyclopedia_weapons_vector_text">
+		<text>
+			%c[0,153,255,255]KRISS Vector%c[0,140,140,140] - submachine gun developed by Transformational Defense Industries. The KRISS Vector uses a semi-free bolt system that directs the recoil-operated bolt group downwards at a steep angle. This system is called Kriss Super V.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe main goal of the designers of this weapon was to achieve the maximum possible accuracy in burst fire using .45 ACP cartridges, which have high stopping power, while minimizing the size and overall weight of the submachine gun. The engineers of the manufacturer Transformational Defense Industries, Inc. (TDI) decided to use the patents of French designer Renaud Kerbrat. Prototype testing of this weapon began in 2005. The test results showed that when firing from the TDI KRISS Super V submachine gun in burst mode, weapon recoil is minimal, which ensures high accuracy of automatic fire and excellent weapon control during shooting. By these parameters, the TDI KRISS Super V submachine gun significantly surpasses such models as the German 11.43mm submachine gun HK UMP45.\n
+			\nCurrently, there are three main variants of the submachine gun: the "combat" variant Vector SMG, intended for law enforcement agencies, law enforcement, and military with a short (140 mm) barrel and automatic firing modes; the civilian carbine Vector CRB/SO, with an extended barrel up to 406 mm (according to US legislation, civilian long-barreled weapons must have a barrel length of at least 16 inches, otherwise it is considered short-barreled, obtaining a license for which is much more difficult in several states), over which a sleeve simulating a suppressor is worn for greater aesthetics, and with the ability to fire only in semi-automatic mode; and the Vector SDP with a 5.5-inch (140mm) barrel and semi-automatic trigger mechanism, considered a pistol under US law. All variants of the Kriss Vector have special Picatinny rails, mounted on top of the barrel box and under the barrel, allowing the attachment of various types of mechanical, collimator, and optical sights, flashlights, laser target designators, and additional front grips.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Submachine Gun\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USA\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 2009-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_vss">
+		<text>VSS Vintorez</text>
+	</string>
+	<string id="encyclopedia_weapons_vss_text">
+		<text>
+			%c[0,153,255,255]VSS Special Sniper Rifle Vintorez%c[0,140,140,140] - silent sniper rifle for special purpose units. GRAU index - 6P29. Developed in the 1980s at TsNIITochMash in Klimovsk under the leadership of P. I. Sedyukov and with the participation of V. F. Krasnikov. The name "Vintorez" remained in common use after its use in design documentation. It should not be confused with the AS "Val", which was created based on the VSS and visually resembles the VSS.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe new rifle passed preliminary tests; however, in 1985, requirements for a silent automatic weapon were approved, based on which it had to ensure the defeat of an enemy in 6B2 body armor at a distance of 400 m. Due to this, the rifle's designers concluded that the RG037 cartridge would be ineffective against enemies wearing future individual protection means, so further work on it was discontinued, and the sniper rifle was completely redesigned for the soon-to-be-developed 9x39 mm cartridge. It was adopted by the special units of the KGB and GRU in 1987 and later served as the basis for the development of the AS "Val". The VSS has a "swallowtail" mounting bracket, allowing it to mount scopes like the PSO-1, PSV (1P43), any standard night sights (MBNP-1, NSPUM, NSPU-3), as well as 4x34 PO scopes with a special adapter and the combined optic sight KOP-2; an open sector sight is also installed on the suppressor casing.\n
+			\nThe VSS officially has a resource of 1500 shots, but with timely maintenance, cleaning, and lubrication, this weapon can withstand up to 5000 shots without a decrease in combat quality. The VSS is not completely silent. The sound of a shot is approximately equivalent to a small-caliber rifle and can only be distinguished in silence, which is significantly better than with weapons equipped with suppressors. However, a weapon equipped with a suppressor and using a subsonic cartridge, like the VSS, can often have a comparable shot volume.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Sniper Rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USSR (Russia)\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1987-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_vss_nimble">
+		<text>VSSM</text>
+	</string>
+	<string id="encyclopedia_weapons_vss_nimble_text">
+		<text>
+			%c[0,153,255,255]VSSM%c[0,140,140,140] - special modernized sniper rifle VSSM (6P29M).\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nRegarding the "Ratnik" theme at TsNIITochMash (Klimovsk), a modernized 9mm sniper rifle 6P29M is being developed - an advancement of the silent sniper complex (SSC) VSS ("special sniper rifle") "Vintorez", adopted in 1987. Now, Vintorez can be equipped with bipods, a variable magnification scope, and a new magazine holding 30 rounds. The stock has been changed, replacing the wooden stock with a polymer one that is impact-resistant; the exact composition is unknown. The stock is rubberized, the grip has serrations, and it is now lighter with added adjustments for individual shooters. Another new change is the barrel cover, which is no longer removable but hinged and foldable, detachable only during complete disassembly. Additionally, a Picatinny rail has been added to the cover, removing the side dovetail, which is now unnecessary, allowing any optic to be mounted on the barrel cover. A new and useful addition is the Picatinny rail attachments on the barrel with rails on three sides. It is now possible to install a large number of additional devices on the weapon, which was problematic before. It can accommodate an additional grip, tactical flashlight, and bipods.\n
+			\nThis new weapon will be in high demand among special forces. In addition to ergonomic changes, the modernized models have a new resource guarantee for shooters, from five to ten thousand rounds, doubled. This was made possible by new materials used in both internal components and the body. The new standard 1P86 scope for these models is an optical scope with variable magnification of 1 to 4.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Sniper Rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Russia\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: Present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_vityaz">
+		<text>PP-19-01 Vityaz</text>
+	</string>
+	<string id="encyclopedia_weapons_vityaz_text">
+		<text>
+			%c[0,153,255,255]PP-19-01 Vityaz%c[0,140,140,140] - Russian submachine gun, developed in 2004 by the Izhevsk Mechanical Plant (Izhmash). Depending on the version, it is based on the AKS-74U or the AK-105.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe weapon was developed by the Izhevsk Mechanical Plant (Izhmash) for the Russian Internal Troops special forces unit "Vityaz", after which it was named. It is used to engage live forces (including those protected by body armor) and non-armored vehicles (both cars and trucks). The "Vityaz" is produced in two variants: the base PP-19-01 mod.10 and the modified PP-19-01 mod.20 "Vityaz-SN". The second variant differs by moving the safety and bolt handle to the left side, and adding an additional Picatinny rail on the barrel cover. One of the main differences between the "Vityaz-SN" and the base PP-19-01 is that it is based not on the AKS-74U, but on the AK-105. This is primarily expressed in the replacement of the barrel cover and fire control group with those of the AK-100 series, the installation of standard handguards and gas tube covers from the AK-74M series, and the replacement of the folding sight of the AKS-74U with an open sector sight.\n
+			\nA standard submachine gun used by personnel of the Russian Ministry of Internal Affairs (MVD), Russian police, National Guard (Rosgvardia), Federal Penitentiary Service (FSIN), and other law enforcement agencies. It represents a further development of the PP-19 "Bizon".\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Submachine Gun\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Russia\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 2008-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_vpo101">
+		<text>VPO-101 Vepr Hunter</text>
+	</string>
+	<string id="encyclopedia_weapons_vpo101_text">
+		<text>
+			%c[0,153,255,255]Vepr%c[0,140,140,140] - family of self-loading hunting carbines developed based on the 7.62mm Kalashnikov assault rifle. The ancestor of the family was the SOK-94 carbine, designed in 1995 by the designers of the Vyatsko-Polyansky Machine-Building Plant "Molot" P.M. Mokrushin, V.I. Lyamin, A.I. Kabatchikov, and others.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nVepr carbines are produced in calibers 5.45x39mm, 7.62x39mm, 7.62x54mm R, 9x9mm, 9.6/53 Lancaster, .366 TKM, .223 Remington, .243 Winchester, .308 Winchester, .30-06 Springfield in multiple modifications and variants. The carbines are characterized by high reliability and fault tolerance in various operating conditions. The carbine's automatic reload is accomplished by utilizing the energy of powder gases vented from the barrel into the gas chamber during firing, and the energy of the return spring. To increase barrel life, the barrel channel and chamber are chrome-plated, and to reduce flash during firing, some models are equipped with a flash suppressor or compensator at the muzzle. To prevent possible inertial firing pin impact, the bolt striker is spring-loaded. For mounting an optical sight, a side mount of the "dovetail" type on the barrel cover or a Picatinny rail on the barrel cover is used. The sighting rail of the Vepr series carbines allows effective shooting at distances up to 300m.\n
+			\nIn the civilian firearms markets of Italy, Turkey, Germany, and some countries in the northwest part of North America, Vepr carbines have been popular among fans of the Kalashnikov assault rifle due to their structural similarity and the use, in some models, of the native 7.62x39mm cartridge for this rifle. The carbines are intended for commercial and amateur hunting of medium and large game. The "Vepr-Hunter" is produced in two versions: the VPO-101 "Vepr-Hunter" for the 7.62x51mm cartridge; the VPO-102 "Vepr-Hunter M" for the 7.62x63mm cartridge.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Self-loading carbine\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Russia\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1995-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_wa2000">
+		<text>Walther WA 2000</text>
+	</string>
+	<string id="encyclopedia_weapons_wa2000_text">
+		<text>
+			%c[0,153,255,255]WA2000%c[0,140,140,140] (Walther Automat 2000) - a bullpup configuration sniper rifle developed by the Walther arms consortium.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe development of the rifle began after the tragedy at the 1972 Munich Olympics, which showed the unpreparedness of the police and special services of West Germany for such attacks. Alongside the complete modernization of the security forces, the Walther arms consortium was tasked with developing an effective urban and high-precision weapon. The rifle was produced from 1982 until November 1988. Production was discontinued due to the excessive cost of the product (Walther offered this sniper complex for 9885 German marks) compared to other sniper rifles (for comparison, in 1982 the Steyr SSG-69 sniper rifle was offered for $1974 USD). The last units were sold in 1988 for prices ranging from 9 to 12.5 thousand USD. Currently, it is a collector's rarity due to the small number of units produced. According to some estimates, the current price of a WA2000 rifle fluctuates around $40-50 thousand, and according to some sources, up to $75 thousand. According to Walther, only 176 rifles of this type were produced. The remaining units were produced by third-party gunsmiths due to the rifle's popularity among collectors. Specialists note the excellent ergonomics of the rifle, characteristic of many German, Austrian, and Swiss designs. Its application is possible only as a "police" rifle due to its extremely low resistance to pollution and also had a number of shortcomings. Initially, the rifle was developed for four types of cartridges: 7.62x67 mm (.300 Winchester Magnum), 7.62x51 mm NATO, 7.5x54 mm French rifle cartridge, and 7.5x55 mm Swiss rifle cartridge. The main cartridge was supposed to be .300 Winchester Magnum (.300 Win. Mag.), created based on the large-caliber .338 Winchester Magnum cartridge (providing high accuracy at medium distances and used by police snipers), but it did not gain wide distribution among military and police forces. Currently used as hunting (for which it was developed).\n
+			\nThe rifle is made in a bullpup configuration, which allowed maintaining the barrel length typical of sniper rifles but reducing the overall length of the weapon. The WA-2000 is a self-loading rifle, the action of which is due to the diversion of powder gases from the barrel channel. The rifle does not have an open sight. A mounting for installing optical and night sights is provided on the barrel cover. The standard optical sight installed was the SchmidtBender 2.5-10x60. The bipods have a non-standard design; their swivel unit can move along a special rail located above the barrel. The rifle seems to hang under the bipod mounting assembly, which positively affects the convenience of aiming. The wooden stock is adjustable in length and cheek rest position for the shooter. The rifle had a modular design, which provided quick barrel and bolt changes using a connecting sleeve located above the pistol grip. Due to the particular design feature, it is impossible to shoot from the left shoulder with the rifle, as the ejection port is very close to the shooter. There is no provision for changing the side of ejection of spent casings to the left side on the rifle.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Sniper Rifle\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Germany\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1982-1988
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_walther">
+		<text>Walther P99</text>
+	</string>
+	<string id="encyclopedia_weapons_walther_text">
+		<text>
+			%c[0,153,255,255]Walther P99%c[0,140,140,140] - a German pistol developed by the Walther firearms company since the early 1990s. The project, named Hammerless Pistol - HLP (hammerless pistol), was led by Horst Wesp. Serial production of the pistol began in 1999.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nDevelopment of the P99 pistol by Carl Walther Sportwaffen GmbH began in 1994. The main task was to create a modern pistol for police and self-defense that could achieve greater commercial success than its predecessor, the Walther P88, which, despite its excellent characteristics, turned out to be too expensive. The development of the P99 was completed by 1996, and the result was quite successful. It has excellent ergonomics, is reliable, and is produced in several variants with different trigger systems. Since 1999, all variants of the P99 series have also been produced in .40SW caliber. In 2004, the Walther P99 family underwent some changes - the shape of the trigger guard and the arrangement of serrations on the slide were slightly changed, and the models were re-marked; for example, the P990 variant was renamed to P99 DAO. In addition, compact versions with shortened barrels and grips were added to the model range.\n
+			\nThe frame of the pistol is made of polymer materials and comes in black or dark green ("military" variant). A distinctive feature of the P99 is the removable rear part of the grip, and the pistol comes with 3 interchangeable rear parts of different sizes for fitting to each shooter's hand. Guide rails for mounting a laser pointer or flashlight are integrated into the front part of the frame under the barrel. The pistol can also be equipped, upon request from relevant organizations, with a special extended barrel with threading at the muzzle, allowing the installation of a proprietary silencer.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Pistol\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Germany\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1999-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_wincheaster1300">
+		<text>Mossberg 590</text>
+	</string>
+	<string id="encyclopedia_weapons_wincheaster1300_text">
+		<text>
+			%c[0,153,255,255]Mossberg 500%c[0,140,140,140] - a family of multi-shot shotguns from the USA.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe Mossberg 500 shotgun appeared in late 1961. The Mossberg 500 is a typical pump-action shotgun, where the action is operated by moving the fore-end back and forth, and the chamber is locked by a moving bolt inside the receiver, which moves up and down in the cutout of the barrel extension. Cartridges are fed from an under-barrel tubular magazine, which can vary in length and capacity (from 4 to 8 rounds). On top of the barrel, there are four threaded holes designed for mounting rails for optical, collimator, or diopter sights. Most components of the design are known for their high strength and reliability, which combined with a reasonable cost has made the Mossberg 500 very popular in law enforcement. Mossberg also produces combat variants. A characteristic feature of this pump-action shotgun is the safety, located on top of the barrel and operated by the thumb. According to most shooters, such a safety, similar to the safeties of double-barrel shotguns, is more convenient than the safety button on the trigger guard, which is controlled by the index finger and is used on most pump-action shotguns.\n
+			\nCurrently, the Mossberg 500 is produced in various modifications, intended for hunting, law enforcement, security, and self-defense. The Mossberg 590, a model developed in the 1970s as a replacement for the Mossberg 500, differs in the attachment of the barrel to the magazine (nut instead of a screw), stronger bluing, and several other changes. It is also worth mentioning that during the Vietnam War, Mossberg 500 shotguns were loaded not with shot or bullets, but with solid metal arrow-shaped projectiles. In the jungle conditions, these projectiles did not spread like shot but hit the target despite significant obstacles such as leaves and even small branches.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Pump-action shotgun\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USA\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1961-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_wincheaster1300_trapper">
+		<text>Remington 870</text>
+	</string>
+	<string id="encyclopedia_weapons_wincheaster1300_trapper_text">
+		<text>
+			%c[0,153,255,255]Remington 870%c[0,140,140,140] - an American shotgun, first introduced in 1950 by Remington Arms. The Remington 870 is one of the most famous pump-action shotguns in the world due to its distinctive action.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe Remington 870 is the fourth popular model of pump-action shotguns developed by Remington. John Pedersen developed the delicate Remington Model 10 (later improved as the Remington Model 29). John Browning developed the Remington Model 17 (which was borrowed by Ithaca as the Ithaca 37), which became the basis for the Remington Model 31. While the Model 31 gained popularity, it was overshadowed by the Winchester Model 12 in the market competition. Remington aimed to correct this situation and in 194 introduced the modern, improved, durable, reliable, and relatively affordable Remington Model 870 shotgun. The Model 870 had steady sales, reaching 2 million units by 1973 (ten times more than the Model 31). With the introduction of the "Express" model - a cheaper alternative to the original Wingmaster, sales reached 7 million units. On April 13, 2009, the 10-millionth Remington 870 shotgun was sold, setting a new sales record. The Remington 870 is a shotgun and a shotgun with an under-barrel tubular magazine and a longitudinal sliding fore-end ("pump-action" shotgun). It locks with a rocking bolt located in the receiver behind the barrel extension. The barrel is made of steel. Under the barrel, there is a tubular magazine for 8 cartridges. In the hunting version, it holds 3-4 cartridges.\n
+			\nThe Remington 870 has been produced in various modifications, suitable for military and police use, as well as for hunters and sportsmen, and also for self-defense. Police modifications usually have a barrel length of 355 or 457 millimeters with a "cylinder" or "improved cylinder" bore, allowing for both shot and slugs, as well as various special ammunition types such as gas grenades or rubber trauma bullets. In 1966, the shotgun was adopted by the US Marine Corps, in 1967 - by certain categories of US Air Force personnel, and subsequently purchased by the FBI. In 1987, it was recommended for police use and remains in service with the US Armed Forces, used by several police departments and private security firms. In 2001, the replacement of Remington 870 shotguns in service with US military police and Marine Corps units began with the M1014 shotgun.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: Pump-action shotgun\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USA\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1951-present
+		</text>
+	</string>
+	
+	<string id="encyclopedia_weapons_mts255">
+		<text>MTs-255</text>
+	</string>
+	<string id="encyclopedia_weapons_mts255_text">
+		<text>
+			%c[0,153,255,255]MTs-255%c[0,140,140,140] is a Russian revolver shotgun fed by a 5-round swing-out cylinder. It is produced by the TsKIB SOO, Central Design and Research Bureau of Sporting and Hunting Arms.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThere is no safety catch. The shotgun can be fired with the trigger cocked or self-cocking. The barrel is tilted to the left side when reloading or loading the shotgun. To prevent powder gases from escaping into the gap between the drum and the barrel, special chambers on the sides of the barrel are used, and the drum is fed forward when the trigger is pulled. The trigger mechanism is made in one piece, which greatly simplifies cleaning when disassembling the gun. The MTs-255 shotgun is one of the most original civilian weapon designs, developed by Russian gunsmiths at the end of the last century. The unusual idea is the use of a revolver scheme to create a shotgun smoothbore.\n
+			\nThe revolver shotgun did not last very long on the assembly line: from 2000 to 2007. There were two reasons why the CKIB SOO management decided to close the project. First, the shotgun did not justify itself from a commercial point of view. Strong competition in the market and the impossibility to reduce the price led to the fact that hunters did not show proper interest in the revolver design. Secondly, in order to prevent bankruptcy, the company merged with a «related» organization - Tula KBP. After that, it went headlong into defense orders.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: revolver shotgun\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Russia\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 2000-2007
+		</text>
+	</string>	
+
+	<string id="encyclopedia_weapons_rsh12">
+		<text>RSh-12</text>
+	</string>
+	<string id="encyclopedia_weapons_rsh12_text">
+		<text>
+			%c[0,153,255,255]RSh-12%c[0,140,140,140] - 12.7mm assault revolver. It is considered and recognised as the most large-calibre personal close combat weapon. It was developed and designed in 2000 in Tula, at the Central Committee of the Institute of Sporting and Hunting Weapons of the Russian Federation.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe development and production of revolvers is the last thing that the domestic arms industry is associated with. Nevertheless, such weapons are also created in Russia. The most striking and most representative example in this regard is the RSh-12, a revolver that was created directly for the special forces.\n
+			\nThe RSh-12 revolver has a solid metal frame. The revolver is powered by a five-round drum, which is hinged to the left. The ammunition is always drawn from the lower chamber. Despite the solid calibre, the recoil shoulder of the Russian revolver is significantly lower than that of its counterparts from other countries. An interesting detail is the reinforced barrel cover with ventilation. There is a Picatinny rail above the barrel for mounting tactical accessories.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: revolver\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: Russia\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 2000-present
+		</text>
+	</string>
+
+	<string id="encyclopedia_weapons_rgn">
+		<text>RGN Grenade</text>
+	</string>
+	<string id="encyclopedia_weapons_rgn_text">
+		<text>
+			%c[0,153,255,255]RGN%c[0,140,140,140] (Ruchnaya Granata Nastupatel'naya, "Hand Grenade Offensive") is an offensive Soviet blast hand grenade introduced during the Soviet-Afghan war alongside the RGO to replace the earlier F-1, RG-42, and RGD-5 hand grenades which proved to be inadequate in the mountainous terrain of Afghanistan.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe grenade is designed to hit living forces in offensive combat. The grenade's fragmentation radius is 8 meters, and the radius of possible defeat is 24 meters. The grenade is painted in olive grayish color.\n
+			\nIt consists of a smooth spherical aluminium body, internally scored to generate fragments upon detonation. Externally, the RGN is similar to the RGO hand grenade and shares the same UDZS fuze. The UDZS fuze has both impact and time delay functions, the impact fuze arms after a pyrotechnic delay of 1 to 1.8 seconds. If the grenade strikes an object after this time a spherical lead shot filled impact weight will trigger detonation. If the grenade has not struck anything after 3.5 to 4 seconds the second pyrotechnic delay will detonate the grenade, allowing the grenade to cause an airburst over a target area if necessary. The impact fuze detonates when it hits any kind of terrain, including sand, snow, or water.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: hand grenade\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USSR (Russia)\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1981-present
+		</text>
+	</string>
+
+	<string id="encyclopedia_weapons_rgo">
+		<text>RGO Grenade</text>
+	</string>
+	<string id="encyclopedia_weapons_rgo_text">
+		<text>
+			%c[0,153,255,255]RGO%c[0,140,140,140] (Ruchnaya Granata Oboronitel'naya, ("Hand Grenade Defensive")) is a defensive Soviet fragmentation hand grenade introduced mid 1980s alongside the RGN during the Soviet-Afghan War to replace the earlier F-1, RG-42, and RGD-5 hand grenades, which proved to be inadequate in the mountains of Afghanistan.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThe grenade is designed to defeat manpower in defensive combat. The grenade is delivered to the target only by throwing it by the soldier's hand. The grenade's fragmentation radius is 50 meters, the radius of possible defeat is 100 meters. The grenade is similar to the F-1 grenade, but differs from it by the use of a combined percussion and remote fuse. The combat grenade is painted in olive grayish color.\n
+			\nIt consists of a double layered steel pre-fragmented body. Unlike the two-part hemispherical RGN, the RGO is made up of 4 quadrants: the upper hemispheres are internally segmented to provide fragmentation and are covered by a smooth exterior, while the lower hemispheres are segmented in a diamond-pattern cross-hatching in the outer shell that provides additional fragmentation. It uses the UDZS dual action fuze (also used on the RGN), which has both impact and time delay functions. The impact fuze arms after a pyrotechnic delay of 1 to 1.8 seconds. If the impact fuze has not triggered the grenade after 3.2 to 4.2 seconds a second pyrotechnic delay triggers the grenade, allowing this grenade to be thrown to produce an airburst over a target area, if necessary. The RGO is designed to detonate when it hits any kind of terrain including sand, snow, or water.\n
+			\n%c[0,0,255,30]Additional:%c[0,140,140,140]\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]Type: hand grenade\n%c[0,200,0,255]• %c[0,140,140,140]Country of Origin: USSR (Russia)\n%c[0,200,0,255]• %c[0,140,140,140]Years of production: 1981-present
+		</text>
+	</string>
+
+</string_table>

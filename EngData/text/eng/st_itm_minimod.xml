@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_itm_artefact_container_name">
+		<text>Artefact container</text>
+	</string>
+	<string id="st_itm_sleepbag">
+		<text>Sleeping bag</text>
+	</string>
+	<string id="st_itm_backpack_name">
+		<text>Backpack</text>
+			</string>
+	<string id="st_itm_backpack_desc">
+		<text>A backpack made of durable material able to withstand the most harsh weather conditions.\n \n%c[255,255,255,0]Double-click to place on the ground.</text>
+			</string>
+	<string id="st_itm_sleepbag_name">
+	<!-- Produced by LJ company -->
+		<text>SMS "Barrier"</text>
+			</string>
+	<string id="st_itm_sleepbag_desc">
+		<text>Special sleeping bag. At first glance, it looks like an ordinary hiking sleeping bag, warm enough to survive a night in the Zone, but with one special feature, namely the ability to survive any cataclysm, be it Emission or Psi-storm.\n \n%c[255,255,255,0]Double-click to place on the ground.</text>
+			</string>
+	<string id="st_sleep">
+		<text>Sleep ($$ACTION_USE$$)</text>
+			</string>
+	<string id="st_itm_actor_backpack_name">
+		<text>RBS "Espagnolette"</text>
+			</string>
+	<string id="st_itm_actor_backpack_desc">
+		<text>Durable quick-release backpack with multiple pouches and compartments, equipped with quickly detachable straps, allowing you to drop it at any moment.\n \n%c[255,255,255,0]Double-click to place on the ground. Activation is also available through quick slots (move it to any of them and activate it when needed) or through a separate key (you need to assign it in the control options).</text>
+	</string>
+	<string id="st_itm_gunsmith_toolkit">
+		<text>Gunsmith kit</text>
+	</string>
+	<string id="st_itm_gunsmith_toolkit_descr">
+		<text>A set of tools and oils for basic weapon maintenance. A very useful item, however, quite heavy.\n \n%c[255,255,255,0]Drag onto the item you want to restore.</text>	
+	</string>
+	<string id="st_itm_outfit_toolkit">
+		<text>Sewing kit</text>
+	</string>
+	<string id="st_itm_outfit_toolkit_descr">
+		<text>A set of sewing tools and materials for caring for uniforms. A very useful item for patching holes and tears in armor.\n \n%c[255,255,255,0]Drag onto the item you want to restore.</text>	
+	</string>
+	<string id="st_itm_repairkit_tier_1_name">
+		<text>Basic tools</text>
+	</string>
+	<string id="st_itm_repairkit_tier_1_descr">
+		<text>A children's toolkit. Unlikely to be suitable for maintenance, but they could be useful in the hands of a thrifty technician.</text>
+	</string>
+	<string id="st_itm_repairkit_tier_2_name">
+		<text>Advanced tools</text>
+	</string>
+	<string id="st_itm_repairkit_tier_2_descr">
+		<text>A nice set of tools. Apparently, carefully selected by an experienced craftsman "for oneself, dear." Despite the years that have passed, all the tools are well preserved.</text>	
+	</string>
+	<string id="st_itm_repairkit_tier_3_name">
+		<text>Expert tools</text>
+	</string>
+	<string id="st_itm_repairkit_tier_3_descr">
+		<text>A professional set of tools for fine tuning equipment. The inscription on the box states that the set was made in the GDR. What is included in the kit is sufficient for carrying out almost any work on setup and calibration.</text>	
+	</string>
+	<string id="st_repair_mod_message_box_ask">
+		<text>Are you sure you would like to repair %s?\n\n%c[255,1,255,1]+%s%</text>
+	</string>
+	<string id="st_repair_mod_message_box_condition_to_low">
+		<text>This set cannot be used for repair.</text>	
+	</string>
+	<string id="st_repair_mod_message_box_condition_to_high">
+		<text>These tools aren't enough to repair this item further.</text>
+	</string>
+	<string id="st_itm_stash">
+		<text>stash</text>
+	</string>
+	<string id="st_itm_actor_stash">
+		<text>Personal stash</text>
+	</string>
+	<string id="st_itm_actor_quick_stash">
+		<text>Quickly dropped player backpack</text>
+	</string>	
+	<string id="st_itm_stash_of_character">
+		<text>%s's stash.</text>
+	</string>
+	<!-- regular treasures -->	
+	<string id="st_itm_stash_of_character_1">
+		<text>Touch my stash and I’ll drag you out from under the ground.</text>
+	</string>
+	<string id="st_itm_stash_of_character_2">
+		<text>Put it away for a rainy day.</text>
+	</string>
+	<string id="st_itm_stash_of_character_3">
+		<text>Too lazy to haul it back to the shelter.</text>
+	</string>
+	<string id="st_itm_stash_of_character_4">
+		<text>Stashed it away, I’ll grab it on the way back.</text>
+	</string>
+	<string id="st_itm_stash_of_character_5">
+		<text>Won it in cards from some poor bastard.</text>
+	</string>
+	<string id="st_itm_stash_of_character_6">
+		<text>No problems with loot so far, let it lie here for now.</text>
+	</string>
+	<string id="st_itm_stash_of_character_7">
+		<text>If this stash gets looted too, I’m getting the hell out of the Zone!</text>
+	</string>
+	<string id="st_itm_stash_of_character_8">
+		<text>A good man asked me to keep it safe.</text>
+	</string>
+	<string id="st_itm_stash_of_character_9">
+		<text>Need to shake off a tail, will hide it here for a couple of days.</text>
+	</string>	
+	<string id="st_itm_stash_of_character_10">
+		<text>No space left, I’ll leave it here.</text>
+	</string>
+	<string id="st_itm_stash_of_character_11">
+		<text>For a rainy day.</text>
+	</string>
+	<string id="st_itm_stash_of_character_12">
+		<text>In case I have to make a run for it.</text>
+	</string>	
+	<string id="st_itm_stash_of_character_13">
+		<text>So some scumbag won’t rob me.</text>
+	</string>	
+	<string id="st_itm_stash_of_character_14">
+		<text>Let it stay - who knows when it might come in handy.</text>
+	</string>	
+	<string id="st_itm_stash_of_character_15">
+		<text>I hope I’ll come back...</text>
+	</string>	
+	<string id="st_itm_stash_of_character_16">
+		<text>It’s not even mine, but whatever.</text>
+	</string>	
+	<string id="st_itm_stash_of_character_17">
+		<text>That was a good haul. The extra stuff can stay here.</text>
+	</string>	
+	<string id="st_itm_stash_of_character_18">
+		<text>The guys decided to head back light, so they left this here.</text>
+	</string>	
+	<string id="st_itm_stash_of_character_19">
+		<text>Took it from some fool’s stash - now it’s mine!</text>
+	</string>	
+	<string id="st_itm_stash_of_character_20">
+		<text>The Zone’s like that - you never know what it’ll reward you with.</text>
+	</string>
+	<string id="st_itm_stash_of_character_21">
+		<text>Backpack’s full of loot - I’ll drop the excess here.</text>
+	</string>
+	<string id="st_itm_stash_of_character_22">
+		<text>You can never have too much good stuff.</text>
+	</string>
+	<string id="st_itm_stash_of_character_23">
+		<text>Helped some poor fool fight off mutants - got this as a reward.</text>
+	</string>
+	<string id="st_itm_stash_of_character_24">
+		<text>My granddad taught me to always keep a reserve.</text>
+	</string>
+	<string id="st_itm_stash_of_character_25">
+		<text>To whoever’s reading this: may you rot.</text>
+	</string>
+	<string id="st_itm_stash_of_character_26">
+		<text>I’m wounded, can’t carry it all.</text>
+	</string>
+	<string id="st_itm_stash_of_character_27">
+		<text>Don’t give a damn anymore. Take it if you want.</text>
+	</string>
+	<string id="st_itm_stash_of_character_28">
+		<text>Collected enough to pay off my debt. Just can’t haul it all at once.</text>
+	</string>
+	<string id="st_itm_stash_of_character_29">
+		<text>If you’re reading this, then the Zone isn’t on my side.</text>
+	</string>
+	<string id="st_itm_stash_of_character_30">
+		<text>Someone’s chasing me. Dropping part of my loot. If I shake them off - I’ll come back for it.</text>
+	</string>
+	<string id="st_itm_stash_of_character_31">
+		<text>No one’s going to look here.</text>
+	</string>
+	<string id="st_itm_stash_of_character_32">
+		<text>Not the best place for a stash, but I’ve got no other options.</text>
+	</string>
+	<string id="st_itm_stash_of_character_33">
+		<text>What’s taking him so long? I’ll dump it here while no one’s watching.</text>
+	</string>
+	<string id="st_itm_stash_of_character_34">
+		<text>Went to take a dump, hope I don’t forget.</text>
+	</string>
+	<string id="st_itm_stash_of_character_35">
+		<text>Easy come, easy go.</text>
+	</string>
+	<string id="st_itm_stash_of_character_36">
+		<text>Traded this from one of my buddies.</text>
+	</string>
+	<string id="st_itm_stash_of_character_37">
+		<text>Got it from a veteran - said he didn’t need it anymore.</text>
+	</string>
+	<string id="st_itm_stash_of_character_38">
+		<text>Last time I barely escaped from Blind Dogs - from now on, I’ll keep my extras in a stash.</text>
+	</string>
+	<string id="st_itm_stash_of_character_39">
+		<text>Picked it off a corpse, didn’t feel like using it. Let it stay.</text>
+	</string>
+	<string id="st_itm_stash_of_character_40">
+		<text>Should be a reliable stash.</text>
+	</string>
+	<string id="st_itm_stash_of_character_41">
+		<text>My first stash...</text>
+	</string>
+	<string id="st_itm_stash_of_character_42">
+		<text>Not gold or diamonds - and who needs that crap in the Zone anyway?</text>
+	</string>
+	<string id="st_itm_stash_of_character_43">
+		<text>Swiped it from a drunk dude - he’d have drunk it all away anyway.</text>
+	</string>
+	<string id="st_itm_stash_of_character_44">
+		<text>The guys told me to stash this away for the future.</text>
+	</string>
+	<string id="st_itm_stash_of_character_45">
+		<text>I'm tired of hauling this crap - I'll drop it here.</text>
+	</string>
+	<string id="st_itm_stash_of_character_46">
+		<text>Some thief's been hanging around the base. I'll hide this gear here for now.</text>
+	</string>
+	<string id="st_itm_stash_of_character_47">
+		<text>Where the hell is that guy? I'll drop his share here. He'll pick it up later.</text>
+	</string>
+	<string id="st_itm_stash_of_character_48">
+		<text>You can never have too much equipment.</text>
+	</string>
+	<string id="st_itm_stash_of_character_49">
+		<text>Stash for emergencies.</text>
+	</string>
+	<string id="st_itm_stash_of_character_50">
+		<text>My bro's stuff. He said, "Hold it for me - I'll just pull an artifact from the anomaly..."</text>
+	</string>
+	<string id="st_itm_stash_of_character_51">
+		<text>An old-timer went and blabbed about this stash while we were downing vodka.</text>
+	</string>
+	<string id="st_itm_stash_of_character_52">
+		<text>Seems like a solid spot - no one will find it.</text>
+	</string>
+	<string id="st_itm_stash_of_character_53">
+		<text>Stole it from that newbie for shits and giggles. Let him freak out.</text>
+	</string>
+	<string id="st_itm_stash_of_character_54">
+		<text>Got carried away trying to haul everything at once. My back's killing me. I'll make a temporary stash.</text>
+	</string>
+	<string id="st_itm_stash_of_character_55">
+		<text>They handed me a decent pile of loot. I can set some aside just in case.</text>
+	</string>
+	<string id="st_itm_stash_of_character_56">
+		<text>Stole it while everyone slept. I'll leave it here for now - I'll take it back once the dust settles.</text>
+	</string>	
+	<!-- reward treasures -->
+	<string id="st_itm_stash_of_reward_1">
+		<text>As thanks for your help.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_2">
+		<text>The guys left this - I figured you could use it.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_3">
+		<text>Keep it - I don’t need it anymore.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_4">
+		<text>Everything’s useful in the Zone - make use of it.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_5">
+		<text>You helped me - this should help you in return.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_6">
+		<text>The boys made a drop - take whatever you need.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_7">
+		<text>If you pass by, grab what you need.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_8">
+		<text>You really saved my hide, stalker - this is my thanks.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_9">
+		<text>My old stash - take whatever you want.</text>
+	</string>	
+	<string id="st_itm_stash_of_reward_10">
+		<text>Thanks for your help - it’s yours now.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_11">
+		<text>The guys left a stash - it’s yours now.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_12">
+		<text>You helped me today - tomorrow this might help you.</text>
+	</string>	
+	<string id="st_itm_stash_of_reward_13">
+		<text>The boys hid some extras - you’ll find it useful.</text>
+	</string>	
+	<string id="st_itm_stash_of_reward_14">
+		<text>Take it - I’ve got no use for it anymore.</text>
+	</string>	
+	<string id="st_itm_stash_of_reward_15">
+		<text>For a good man - with gratitude.</text>
+	</string>	
+	<string id="st_itm_stash_of_reward_16">
+		<text>Thanks for helping out - this will come in handy.</text>
+	</string>	
+	<string id="st_itm_stash_of_reward_17">
+		<text>I don’t need it anymore, but you’ll put it to good use.</text>
+	</string>	
+	<string id="st_itm_stash_of_reward_18">
+		<text>Don’t even remember what’s inside, but it’s all yours.</text>
+	</string>	
+	<string id="st_itm_stash_of_reward_19">
+		<text>A good man left this stash - use it well.</text>
+	</string>	
+	<string id="st_itm_stash_of_reward_20">
+		<text>Accept this small token of gratitude for your help.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_21">
+		<text>For a decent man - from the heart, for helping out.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_22">
+		<text>From one stalker to another...</text>
+	</string>
+	<string id="st_itm_stash_of_reward_23">
+		<text>I’ll never forget - the stash is yours now.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_24">
+		<text>If you’re nearby, take what’s inside as my thanks.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_25">
+		<text>Left a little something - might help you in a tough spot.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_26">
+		<text>If things get rough - remember this stash.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_27">
+		<text>It’s all yours, brother-stalker - you earned it fair and square.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_28">
+		<text>Not much - but it’s from the heart.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_29">
+		<text>Put this aside long ago - take it as my thanks.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_30">
+		<text>Found it once myself, but never needed it - take it in gratitude.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_31">
+		<text>Thought I’d need it, but the Zone decided otherwise - it’s yours now.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_32">
+		<text>Everything inside is yours - a reward for your help.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_33">
+		<text>Nothing goes to waste in the Zone - take the contents for yourself.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_34">
+		<text>Take it all - and thanks for bailing me out!</text>
+	</string>
+	<string id="st_itm_stash_of_reward_35">
+		<text>An old friend left it - you’ll find it useful.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_36">
+		<text>Leftover from old trips into the Zone - use it well.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_37">
+		<text>One of my old stashes - take whatever you need.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_38">
+		<text>You helped me like a brother - the stash is yours now.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_39">
+		<text>The boys left this for their own, but you’ve earned it.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_40">
+		<text>A favor for a favor...</text>
+	</string>
+	<string id="st_itm_stash_of_reward_41">
+		<text>The stash is yours - a reward for your help.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_42">
+		<text>The guys shared the coordinates - said the stash’s previous owner won’t be needing it anymore...</text>
+	</string>
+	<string id="st_itm_stash_of_reward_43">
+		<text>An extra stash never hurts in the Zone.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_44">
+		<text>Take it as a reward - from the heart!</text>
+	</string>
+	<string id="st_itm_stash_of_reward_45">
+		<text>Keep it - I’ve got no use for this junk anymore.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_46">
+		<text>Everything’s useful in the Zone - just don’t lose it.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_47">
+		<text>You helped out - here’s a little payback, so your effort wasn’t for nothing.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_48">
+		<text>It’s all yours, brother - you earned it fair and square, no question.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_49">
+		<text>If you pass by, grab it - no sense letting good stuff go to waste.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_50">
+		<text>Thought I’d need it, but nope - maybe you’ll find a use for it.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_51">
+		<text>Don’t get caught slacking in the Zone - take it while you’re still breathing!</text>
+	</string>
+	<string id="st_itm_stash_of_reward_52">
+		<text>An old friend stashed it, but they buried him a few days ago - so take it for yourself.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_53">
+		<text>An extra stash never hurts - the Zone favors the cautious.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_54">
+		<text>Everything here was earned with sweat, blood, and curses...</text>
+	</string>
+	<string id="st_itm_stash_of_reward_55">
+		<text>Don’t ask where it came from - just take it and move.</text>
+	</string>
+	<string id="st_itm_stash_of_reward_56">
+		<text>The Zone doesn’t forgive the greedy - take only what you need!</text>
+	</string>
+</string_table>

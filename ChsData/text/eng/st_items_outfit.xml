@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+
+
+<!--			-- Clear Sky --				-->
+
+	<string id="csky_novice_outfit_name"><text>晴空皮夹克</text></string>
+	
+	<string id="csky_light_novice_outfit_name"><text>CS-1防弹衣</text></string>
+	<string id="csky_light_novice_outfit_description"><text>晴空派最基本的防弹衣,提供良好的异常暴露防护,其设计让人想起流行的黎明防护服.包括一个可容纳一件神器的容器.</text></string>
+	
+	<string id="csky_light_outfit_name"><text>CS-2防弹衣</text></string>
+	<string id="csky_light_outfit_description"><text>这种防弹衣通常用于在异常活动较少的地区开展搜索行动,因此比CS-1有了明显的改进.配有两个内置神器容器.</text></string>
+	
+	<string id="csky_medium_outfit_name"><text>CS-3a防弹衣</text></string>
+	<string id="csky_medium_outfit_description"><text>CS-3a由一件军用防弹背心和一件额外的承重背心组成.与CS-3b不同,3a变体更加灵活,并配有两个内置神器容器.</text></string>
+	
+	<string id="csky_heavy_outfit_name"><text>CS-3b防弹衣</text></string>
+	<string id="csky_heavy_outfit_description"><text>CS-3b防弹衣是CS-3a的重型变体,最初由晴空设计,用于派系战争期间的战斗,但早已被重新利用.包括一个内置神器容器.</text></string>
+
+<!--			-- Ecologist --				-->
+
+
+
+
+	<string id="ecolog_outfit_orn_name"><text>SSP-99化学防护服</text></string>
+	<string id="ecolog_outfit_orn_description"><text>SSP-99化学防护服是生态学家专门为在"区"内使用而设计的.该防护服集成了空气过滤和空调系统,还具有防热和防电功能,并能很好地防止辐射和生物异常.它还能抵御化学腐蚀性环境.它不是为战斗而设计的,因此几乎不提供子弹和碎片防护.防护服有两个神器容器.</text></string>
+	
+	<string id="ecolog_outfit_grn_name"><text>SSP-99M化学防护服</text></string>
+	<string id="ecolog_outfit_grn_description"><text>SSP-99M化学防护服是专为"区"内科学考察设计的.SSP-99M是经过改良的高质量SSP-99防护服.由于是专为科学考察工作的警卫设计的,它能加强对身体的保护,使其免受子弹和碎片的伤害.防护服有两个神器容器.</text></string>
+	
+	<string id="ecologist_guard_outfit_name"><text>生态学家防护服</text></string>
+	<string id="ecologist_guard_outfit_description"><text>生态学家防护服是一种轻型防护服,由双层橡胶布和有机玻璃衬里制成,内置护甲.这套防护服是仿照广受欢迎的黎明防护服设计的,由于其在对付变种人威胁方面的良好声誉,整个"区"内的潜行者都经常穿着它.配有内置神器容器.</text></string>
+
+
+
+
+<!--			-- Duty --				-->
+
+
+	<string id="dolg_novice_outfit_name"><text>纪律团皮夹克</text></string>
+
+	<string id="dolg_outfit_name"><text>PS5-M全方位防弹衣</text></string>
+	<string id="dolg_outfit_description"><text>这款现代版的"纪律团"连体服更适合习惯或喜欢轻型防护服的潜行者.与PSZ系列不同的是,这种护甲还能提供良好的异常防护.该护甲不能使用神器容器进行改装,但可以使用战斗支持系统进行升级.</text></string>
+
+	<string id="dolg_heavy_outfit_name"><text>PSZ-9d防弹衣</text></string>
+	<string id="dolg_heavy_outfit_description"><text>这套早期型号的"纪律团"防弹衣以俄罗斯特种部队PSZ-9防弹衣为基础,经过改装后用于"区"内使用.该护甲能够阻挡步枪子弹,但这种防护水平是以重量、体积和几乎不存在的异常点防护为代价的.该防护服无法使用神器容器进行改装,但可以使用战斗支持系统进行升级.</text></string>
+
+	<string id="dolg_exo_outfit_name"><text>纪律团外骨骼</text></string>
+	<string id="dolg_exo_outfit_description"><text>与其他外骨骼相比,纪律团的外骨骼使用了更重的材料来提高抗弹能力,这种版本的外骨骼虽然沉重,却让人感觉像坦克一样.唯一的缺点是装甲提供的异常点防护非常薄弱,即使是最基本的异常点,也会使装甲内的人失去行动能力或丧命.不附带神器容器.</text></string>
+
+	<string id="dolg_scientific_outfit_name"><text>纪律团SEVA防护服</text></string>
+	<string id="dolg_scientific_outfit_description"><text>这是为"区"设计的一款出色的防护服,之所以备受青睐,是因为它兼具出色的抗异常和防弹性能.它包括PSZ-9d防护服、封闭循环呼吸系统和综合异常场抑制系统.虽然它能提供高质量的防弹和防碎片保护,但不附带神器容器.</text></string>
+
+
+<!--			-- Freedom --				-->
+
+
+	<string id="svoboda_novice_outfit_name"><text>自由团皮夹克</text></string>
+
+	<string id="svoboda_heavy_outfit_name"><text>自由哨兵</text></string>
+
+	<string id="svoboda_heavy_outfit_description"><text>这款由自由团工匠制作的潜行者紧身衣带有强化护甲,是战斗防护和异常防护之间的良好折中.内置护甲由装甲钢板和十层凯夫拉纤维组成,能够阻挡手枪子弹.该装甲使用相对昂贵的主权化合物作为异常点防护.附带一个神器容器.</text></string>
+
+	<string id="svoboda_light_outfit_name"><text>自由之风</text></string>
+
+	<string id="svoboda_light_outfit_description"><text>自由之风"轻型紧身衣的面料经过"地平线"处理,这是一种该派别通过反复试验开发出的特殊解决方案,可增强对异常现象的抵抗力.与黎明防护服一样,"自由之风"也配有内置护甲和神器容器.</text></string>
+
+  	<string id="svoboda_heavy_outfit_2_name"><text>自由守护者</text></string>
+
+  	<string id="svoboda_heavy_outfit_2_description"><text>这是一款现代自由型号,更适合习惯了简单防护服的新潜行者.与PS3系列不同的是,该变体可提供适当的异常防护和最低限度的子弹防护.配有内置神器容器.</text></string>
+
+  	<string id="svoboda_exo_outfit_name"><text>自由团外骨骼</text></string>
+
+  	<string id="svoboda_exo_outfit_description"><text>普通外骨骼的升级版.由于使用了更轻的材料,设计人员减轻了防护服的重量,加上自由号一贯的高质量异常点防护,护甲唯一的不足就是整体装甲和冲击力.配有内置神器容器.</text></string>
+
+	<string id="svoboda_scientific_outfit_name"><text>自由团SEVA防护服</text></string>
+
+	<string id="svoboda_scientific_outfit_description"><text>由"自由"公司生产,专门用于"区"内研究.封闭式呼吸系统和特殊处理材料可提供出色的防护,防止有害辐射和异常效应.不过,内置的防弹衣并不是最好的,而且很容易破损,因此不适合在敌对行动中使用.可全面升级,内置神器容器.</text></string>
+
+
+
+<!--			-- Loner --				-->
+
+
+
+	<string id="novice_outfit_name"><text>米色皮夹克</text></string>
+	<string id="novice_outfit_description"><text>皮夹克并不能为"区"内的严酷环境提供足够的保护,因为它只是一件皮质外套.通常情况下,皮夹克还要配上一个背包,并在胸前加装背带.皮衣几乎无法抵御枪弹或利爪的攻击,也绝对无法抵御辐射或异常现象.</text></string>
+
+	<string id="stalker_outfit_name"><text>黎明防护服</text></string>
+	<string id="stalker_outfit_description"><text>这种DIY潜行者防弹衣由双层橡胶布、有机玻璃衬里和内置防弹衣组合而成.尽管防弹衣经常会受到手枪子弹以外的伤害,但由于成本低廉且具有改装潜力,因此深受欢迎.配有内置神器容器.</text></string>
+
+	<string id="exo_outfit_name"><text>外骨骼装甲</text></string>
+	<string id="exo_outfit_description"><text>这是一种外骨骼的实验样品,由于成本过高和设计缺陷,这种外骨骼从未大规模生产过.尽管如此,由于它能承受所有随身装备的重量,因此需求量很大,乌克兰境外的地下设施也在小批量生产.配有内置神器容器.</text></string>
+
+	<string id="scientific_outfit_name"><text>SEVA防护服</text></string>
+	<string id="scientific_outfit_description"><text>该防护服由基辅的一家国防研究所生产,是自制潜行者防护服的最佳替代品.异常点和辐射防护系统首屈一指.该防护服可全面升级,并内置神器容器,是许多经验丰富的潜行者的首选装备.</text></string>
+	
+<!--			-- Mercenary --				-->
+
+	<string id="merc_novice_outfit_name"><text>雇佣兵皮夹克</text></string>
+
+  	<string id="merc_outfit_description"><text>雇佣兵的首选装备.它的设计基于西方军队特种部队使用的装甲.由于对面料进行了特殊处理,盔甲在板块移动过程中具有更强的稳定性.配有内置神器容器.</text></string>
+ 	<string id="merc_outfit_name"><text>佣兵防弹衣</text></string>
+
+	<string id="merc_exo_outfit_name"><text>雇佣兵外骨骼装甲</text></string>
+	<string id="merc_exo_outfit_description"><text>老佣兵常穿的外骨骼实验样品.以该派系的典型颜色重新涂装.配有内置神器容器.</text></string>
+
+	<string id="merc_scientific_outfit_name"><text>雇佣兵SEVA防护服</text></string>
+	<string id="merc_scientific_outfit_description"><text>适合经常在异常区域或附近工作的雇佣兵.防护系统采用封闭式循环,内置异常场抑制作用.它能很好地抵御子弹和弹片的袭击,但不足以应对大规模的敌对行动.可全面升级,拥有两个内置神器容器.</text></string>
+
+<!--			-- Monolith--				-->
+
+
+
+
+	<string id="monolith_novice_outfit_name"><text>黑石皮夹克</text></string>
+	
+	<string id="monolith_scientific_outfit_name"><text>黑石SEVA防护服</text></string>
+	<string id="monolith_scientific_outfit_description"><text>黑石SEVA防护服包括一件来历不明的防弹背心,还进行了独特的改装,具有更强的抗辐射能力,但代价是更容易受到超电磁场的伤害.异常点保护系统已经升级,与 EVA返回服相匹配.</text></string>
+	
+	<string id="monolith_exo_outfit_name"><text>黑石外骨骼装甲</text></string>
+	<string id="monolith_exo_outfit_description"><text>这套外骨骼涂有黑石的颜色,包括一件来历不明的防弹背心,还进行了独特的改装,具有轻微的抗辐射能力.该系统经过升级,几乎可以与军用外骨骼相媲美,但代价是没有超能力保护.最多可容纳两个神器容器.</text></string>
+
+	<string id="monolith_outfit_name"><text>黑石防弹衣</text></string>
+	<string id="monolith_outfit_description"><text>黑石穿的标准防弹衣,虽然有许多变体来提高他们的科学或战斗能力,但这种型号是最基本的.盔甲上有两个神器容器.</text></string>
+
+<!--			-- Bandit --				-->
+
+
+	<string id="bandit_novice_outfit_name"><text>黑色皮夹克</text></string>
+	<string id="bandit_novice_outfit_description"><text>夹克由一件缝有凯夫拉(Kevlar)防弹衣补丁的黑色皮质连帽外套组成.通常还会搭配一个麻质背包(胸前有额外的背带)、蓝色运动裤、白色跑鞋和一件米色连帽衫.</text></string>
+
+	<string id="trenchcoat_outfit_name"><text>皮革风衣</text></string>
+	<string id="trenchcoat_outfit_description"><text>一件普通的黑色皮风衣.除了在夜间保暖或保护穿着者不被瞎狗咬伤外,没有其他特殊用途.虽然风衣并不特别舒适,但"区"内的强盗经常使用它--因为它可以让他们在黑暗中藏身,或者仅仅是因为它"酷"的外观.</text></string>
+
+	<string id="banditmerc_outfit_name"><text>强盗防弹衣</text></string>
+	<string id="banditmerc_outfit_description"><text>佣兵派系的首选装备,最近被土匪"解放".强盗的变体受到外部伤害,无法提供全面的保护,但它不仅成本较低,而且更容易获得.</text></string>
+
+	<string id="bandit_exo_outfit_name"><text>强盗外骨骼装甲</text></string>
+	<string id="bandit_exo_outfit_description"><text>标准的外骨骼,经过强盗们的改装,使用了更轻的材料,整体上减轻了防护服的重量.配有内置神器容器.</text></string>
+
+
+<!--			-- Military --				-->
+
+	<string id="military_novice_outfit_name"><text>军用皮夹克</text></string>
+
+	<string id="specops_outfit_name"><text>Berill-5M防弹衣</text></string>
+	<string id="specops_outfit_description"><text>该物品包括军用PS5系列防弹衣,其铍涂层经过改良,可在"区"内使用.它专为高辐射地区的突击行动而设计,在异常活动频繁的地区不起作用.这套盔甲通过军方落入跟踪者手中,他们用它换取战利品.不附带神器容器.</text></string>
+
+	<string id="commander_outfit_name"><text>SKAT-9M军用防弹衣</text></string>
+
+	<string id="commander_outfit_description"><text>Skat-9M防弹军用服专为在异常活动区域开展突击行动而设计.它包括一套PSZ-12p重型军用防弹服和一套集成补偿服.它可以完美地保护士兵免受子弹和碎片的伤害,而且不会降低士兵的机动性.它具有平衡的异常防护系统.</text></string>
+
+	<string id="military_outfit_name"><text>SKAT-9"Bulat"军用防弹衣</text></string>
+
+	<string id="military_outfit_description"><text>这款现代军用装甲服专为在异常区域开展突击行动而设计.由PSZ-12p重型军用装甲服、内置补偿服和异常防护连体服组成.该装甲可提供出色的防护,防止子弹和碎片的伤害,同时不会大大降低穿戴者的机动性.不附带神器容器.</text></string>
+
+	<string id="military_exo_outfit_name"><text>军用外骨骼装甲</text></string>
+	<string id="military_exo_outfit_description"><text>军用版外骨骼使用更重的材料来提高抗弹能力,这种版本的外骨骼虽然笨重,却让人感觉像坦克一样.唯一的缺点是装甲提供的异常点防护非常薄弱,即使是最基本的异常点,也会使装甲内的人丧失行动能力或丧命.不附带神器容器.</text></string>
+
+
+<!--			-- Helmet --				-->
+
+
+	<string id="st_helm_battle"><text>Sphere M12战术头盔</text></string>
+	<string id="st_helm_battle_descr"><text>这是一种铝制/钛合金头盔,外层为布质,配有可放置额外钢制装甲片和装甲面罩的口袋.Sphere M12通常与PSZ系列特种部队防弹衣搭配使用.由于配备了呼吸器和内置的第一代夜视仪,并尽可能提供最大程度的头部保护,因此在特异区内颇受欢迎.配有电子设备插槽.</text></string>
+
+	<string id="st_helm_hardhat"><text>钢制头盔</text></string>
+	<string id="st_helm_hardhat_descr"><text>一顶极度过时的钢制军用头盔,没有任何附加装置.它无法抵御异常现象或辐射,但可以抵挡子弹.除了在派别之间的短暂武装冲突中使用外,这种头盔在"区"里并不特别流行.</text></string>
+
+	<string id="st_helm_protective"><text>SEVA头盔</text></string>
+	<string id="st_helm_protective_descr"><text>这是一种轻型头盔,带有气密面罩,用于防止异常情况.从设计来看,该头盔是由与SEVA防护服相同的国防研究所制造的.它的预期用途很可能是与在高度异常区域行动的军用防护服结合使用.</text></string>
+
+	<string id="st_helm_respirator"><text>防毒面具</text></string>
+	<string id="st_helm_respirator_descr"><text>普通塑料和橡胶防毒面具,用于过滤空气中的放射性微粒和有毒物质.由于其通用功能,被所有派别的新手和老兵广泛使用.不提供任何物理保护.</text></string>
+
+	<string id="st_helm_tactic"><text>战术头盔</text></string>
+	<string id="st_helm_tactic_descr"><text>这是一个西方战术头盔模型,不知道它是如何进入"区"的.该头盔的设计目的是通过许多扫描仪和卫星通信设备为班长提供对敌战略优势,但该头盔并未安装这些设备.配有多层凯夫拉防护和装甲元件,可保护电子元件.包括一个呼吸器和第一代夜视仪.</text></string>
+
+	<string id="st_helm_m40"><text>M40野战防毒面具</text></string>
+	<string id="st_helm_m40_descr"><text>M40是20世纪80年代开发M17系列防护面具后续产品计划的成果.M40恢复了传统防毒面具的设计,采用外置侧装式滤毒罐,而不是M17的内置面颊式滤毒器,因为面颊式滤毒器很难换,尤其是在污染环境中.M40受到许多派别的青睐,尤其是雇佣军,因为它虽然缺乏对异常点的强大防护,但却能提供适度的子弹防护.</text></string>
+	
+	
+<!--			-- Addon --			-->
+
+	<string id="trenchcoat_brown_outfit_name"><text>强盗指挥官防弹衣</text></string>
+	<string id="trenchcoat_brown_outfit_description"><text>一件普通的风衣,里面隐藏着一件潜行者紧身衣.该紧身衣配有强盗工匠制作的强化护甲,可提供良好的异常防护.该紧身衣无法使用神器容器进行改装,但可以使用战斗辅助系统进行升级.</text></string>
+
+	<string id="army_outfit_name"><text>士兵制服</text></string>
+	<string id="army_outfit_description"><text>一种由政府官僚承包的劣质防护装备,出价最低.它能稍微增强对子弹、弹片和咬伤的防护.对于在"区"内服役的士兵来说,它就像赤身裸体地行走在步枪子弹和异常现象中一样.</text></string>
+
+ 	<string id="barmerc_outfit_name"><text>酒吧警卫制服</text></string>
+  	<string id="barmerc_outfit_description"><text>100拉德酒吧内外的警卫所穿的制服.其设计以"区"内雇佣兵的装备为基础.由于对面料进行了特殊处理,盔甲的稳定性大大增强,可以抵消钢板的物理移动.其防护性能略优于PSZ-7军用防弹服.</text></string>
+
+	<string id="cs_scientific_outfit_name"><text>晴空SEVA防护服</text></string>
+	<string id="cs_scientific_outfit_description"><text>这种防护服由基辅的一家国防研究所生产,是自制潜行者防护服的最佳替代品.虽然其内置防弹衣只能阻挡轻型子弹,但异常点和辐射防护系统却是首屈一指的.该紧身衣可全面升级,是许多经验丰富的潜行者的首选装备.</text></string>
+	
+	<string id="nbc_outfit_name"><text>NBC防护服</text></string>
+	<string id="nbc_outfit_description"><text>NBC防护服是标准"日出"防护服的升级版本. 由迷彩化生放核防护服与III级凯夫拉防弹背心构成. 标配GP-5防毒面具并通过软管连接现代过滤器. 配备内置神器容器. </text></string>
+	
+	<string id="cs_nbc_outfit_name"><text>晴空NBC防护服</text></string>
+	<string id="cs_nbc_outfit_description"><text>晴空NBC防护服是标准晴空"日出"防护服的升级版本. 由迷彩化生放核防护服与III级凯夫拉防弹背心构成. 标配GP-5防毒面具并通过软管连接现代过滤器. 配备内置神器容器. </text></string>
+	
+	<string id="monolith_nbc_outfit_name"><text>黑石NBC防护服</text></string>
+	<string id="monolith_nbc_outfit_description"><text>黑石NBC防护服是标准黑石防护服的升级版本. 由迷彩化生放核防护服与III级凯夫拉防弹背心构成. 标配GP-5防毒面具并通过软管连接现代过滤器. 配备内置神器容器. </text></string>
+	
+	<string id="radiation_outfit_name"><text>辐射防护服</text></string>
+	<string id="radiation_outfit_description"><text>最好的个人防护技术.由战术头盔、重型装甲背心和加固连体服三部分组成.防弹背心由多层厚实的凯夫拉纤维制成,并可使用复合板或钛板进行加固,以增强防护力.配有内置神器容器.</text></string>
+	
+	<string id="dolg_radiation_outfit_name"><text>纪律团辐射防护服</text></string>
+	<string id="dolg_radiation_outfit_description"><text>最好的个人防护技术.由战术头盔、重型装甲背心和加固连体服三部分组成.防弹背心由多层厚实的凯夫拉纤维制成,并可使用复合板或钛板进行加固,以增强防护力.不带内置神器容器.</text></string>
+	
+	<string id="svoboda_radiation_outfit_name"><text>自由团辐射防护服</text></string>
+	<string id="svoboda_radiation_outfit_description"><text>最好的个人防护技术.由战术头盔、重型装甲背心和加固连体服三部分组成.防弹背心由多层厚实的凯夫拉纤维制成,并可使用复合板或钛板进行加固,以增强防护力.配有内置神器容器.</text></string>
+	
+	<string id="merc_radiation_outfit_name"><text>雇佣兵辐射防护服</text></string>
+	<string id="merc_radiation_outfit_description"><text>最好的个人防护技术.由战术头盔、重型装甲背心和加固连体服三部分组成.防弹背心由多层厚实的凯夫拉纤维制成,并可使用复合板或钛板进行加固,以增强防护力.配有两个内置神器容器.</text></string>
+	
+	<string id="monolith_radiation_outfit_name"><text>黑石辐射防护服</text></string>
+	<string id="monolith_radiation_outfit_description"><text>最好的个人防护技术.由战术头盔、重型装甲背心和加固连体服三部分组成.防弹背心由多层厚实的凯夫拉纤维制成,并可使用复合板或钛板进行加固,以增强防护力.配有两个内置神器容器.</text></string>
+
+	<string id="isg_outfit_name"><text>联合国防弹衣</text></string>
+	<string id="isg_outfit_description"><text>这款连体服由双层橡胶布连体服、有机玻璃衬里和内置防弹衣组合而成.该护甲是专门为现已解散的联合国国际科学小组成员设计的,以广受欢迎的黎明防护服为蓝本.配有两个内置神器容器.</text></string>
+	
+	<string id="isg_scientific_outfit_name"><text>联合国SEVA防护服</text></string>
+	<string id="isg_scientific_outfit_description"><text>勇敢的联合国国际安全小组科学家曾穿着它在"区"最反常的地区探险.它能很好地抵御子弹和弹片的袭击,但不足以应对大规模的敌对行动.可全面升级,内置两个神器容器.</text></string>
+	
+	<string id="bandit_specops_outfit_name"><text>Bandit Berill-5M防弹衣</text></string>
+	<string id="bandit_specops_outfit_description"><text>普通匪徒防弹衣的升级版.防弹背心包括PSZ-9a系列军用防弹衣和许多其他升级部件,可保护穿戴者免受异常现象和辐射的伤害.</text></string>
+	
+	<string id="cs_exo_outfit_name"><text>晴空外骨骼装甲</text></string>
+	<string id="cs_exo_outfit_description"><text>涂有晴空颜色的外骨骼实验样品,晴空派系的老兵对其需求量很大.附带内置神器容器.</text></string>
+	
+	<string id="st_helm_tactic_2"><text>M12战术头盔</text></string>
+	<string id="st_helm_tactic_2_descr"><text>铝制/钛合金头盔,配有装甲面罩和布质外罩,外罩口袋可放置额外的钢制装甲片,为头部提供最大程度的保护.M12战术头盔通常与PSZ系列特种部队防弹衣搭配使用.由于产量有限,在"区"内非常罕见.它内置第一代夜视仪和电子插槽.</text></string>
+	
+	<string id="st_helm_respirator_2_descr"><text>普通塑料橡胶防毒面具,用于过滤空气中的放射性微粒和有毒物质.这种老式防毒面具因其通用的功能和低廉的价格,仍被各派别的新手和老兵广泛使用.不提供任何物理保护.</text></string>
+	
+	<string id="st_helm_facemask"><text>面罩</text></string>
+	<string id="st_helm_facemask_descr"><text>用于遮住嘴巴的布片.防止佩戴者吸入灰尘.你也许应该买一个呼吸器.</text></string>
+	
+	<string id="cs_stalker_outfit_name"><text>晴空黎明防护服</text></string>
+	<string id="cs_stalker_outfit_description"><text>晴空品牌的黎明防护服.尽管该防护服无法保护穿戴者免受手枪子弹的伤害,但由于其低廉的价格和改装潜力,该防护服在晴空成员中广受欢迎.配有内置神器容器.</text></string>
+	
+	<string id="scientific_heavy_outfit_name"><text>重型SEVA防护服</text></string>
+	<string id="scientific_heavy_outfit_description"><text>经过改良的SEVA防护服,更加注重身体装甲.由于优先级的改变,异常点防护功能略有下降.可全面升级,拥有两个内置神器容器.</text></string>
+	
+	<string id="exo_proto_outfit_name"><text>黎明外骨骼装甲</text></string>
+	<string id="exo_proto_outfit_description"><text>标准的黎明防护服装上旧式军用级外骨骼.提供与标准的黎明防护服相同的防护能力,但携带量大大增加.你到底在哪里找到这个的? </text></string>
+	
+	<string id="st_helm_respirator_half"><text>呼吸器</text></string>
+
+	<string id="st_helm_respirator_half_descr"><text>普通塑料和橡胶呼吸器,用于保护佩戴者不吸入有害粉尘、烟雾、蒸汽或气体.由于其通用功能,被所有派别的新手和老兵广泛使用.不提供任何物理保护.</text></string>
+	
+	<string id="st_helm_respirator_gp5"><text>GP-5防毒面具</text></string>
+
+	<string id="st_helm_respirator_gp5_descr"><text>GP-5型防毒面具的设计目的是在冷战期间保护苏联平民免受放射性尘降物的伤害,生产日期为1962年至1989年.这种面具是一种头盔式面具,有白色和黑色两种橡胶材质.这些面具的镜片由压接在面具橡胶上的压接金属圈固定.面罩底部由金属制成,里面是40毫米过滤器输入口以及吸气和呼气阀门.GP-5面具因易于获得且价格便宜,被独行侠和土匪广泛使用.</text></string>
+
+	<string id="halo_outfit_name"><text>增强型突击装甲"魔龙"</text></string>
+
+	<string id="halo_outfit_description"><text>增强型突击装甲"魔龙"(2代)--人类盟约战争结束后,装甲在全系统范围内的全面升级.</text></string>
+	
+	<string id="exo_uniq_outfit_name"><text>"泰坦"外骨骼</text></string>
+
+	<string id="exo_uniq_outfit_description"><text>其名称已说明一切: 这是特异区内抵御任何物理冲击的最佳防护, 在对抗异常效应方面丝毫不逊色于SEVA系列防护服. 其外观明显融合了SKAT-9M防护服、外骨骼装甲以及M12战术头盔的特征. 可升级性进一步凸显了这套装备的独特性. 当然它也有缺点: 稀有昂贵且维修成本高昂. 仅有少数人能获得这套装备, 有机会购买者更是凤毛麟角. </text></string>
+
+	<string id="ecolog_outfit_uniq_name"><text>SSP-100M"通用型"</text></string>
+
+	<string id="ecolog_outfit_uniq_description"><text>这款独特防护服融合了SEVA-M与SSP-99M防护服的最优特性. 外观与SEVA系列极为相似, 但存在诸多差异. 获取难度极高源于以下几点: 造价高昂、工艺复杂以及漫长的制作周期. 虽无法确定制造者具体身份, 但能肯定的是创作者拥有"黄金之手"并深刻理解"通用科研"防护服的本质. 极少人能够接触到此装备, 有机会购得者更是屈指可数. </text></string>	
+
+</string_table>

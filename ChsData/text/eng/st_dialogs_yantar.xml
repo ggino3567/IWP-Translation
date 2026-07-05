@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+<!-- yan_ecolog_kruglov   -->
+	<string id="yan_ecolog_kruglov_start_dialog_1"><text>你好, 潜行者. </text></string>
+<!-- yan_ecolog_semenov   -->
+	<string id="yan_ecolog_semenov_start_dialog_1"><text>是的, 你需要什么吗? </text></string>
+	<string id="yan_ecolog_semenov_start_dialog_yan_ecolog_semenov_task_1"><text>数据还是不够多. 我们还需要其他的样本来充实模型. </text></string>
+<!-- yan_ecolog_vasilyev   -->
+	<string id="yan_ecolog_vasilyev_start_dialog_1"><text>你好, 潜行者. </text></string>
+<!-- yan_stalker_sakharov -->
+	<string id="st_yan_saharov_message_about_storm"><text>潜行者, 快帮帮我们! 我们的地堡正在被僵尸攻击! 太神奇了, 探测仪显示即将到来的排放信号极其微弱, 这意味着它几乎无害! </text></string>
+	<string id="st_yan_saharov_message_free_upgrade"><text>潜行者, 你救了我们! 如果没有你的帮助, 我们的地堡肯定会变成碎石乱瓦. 作为感谢, 我保证把你的 psi 头盔调整的完美无缺. </text></string>
+	<string id="yan_stalker_sakharov_start_1"><text>你好, 年轻人, 找我什么事? </text></string>
+	<string id="yan_stalker_sakharov_player_query_brain_scorcher"><text>说说焦脑器吧. </text></string>
+	<string id="yan_stalker_sakharov_npc_query_brain_scorcher"><text>嗯, 问题是, 我们还没有实地调查过这个设施, 所以我们对这个设施的大部分了解都只是流言和理论. 我们唯一确定的是它对人类的影响. 它似乎以某种方式影响了任何靠得太近的人的思维. 当人类暴露在焦脑器影响范围下的主要症状是偏头痛、幻觉、"管状视野", 以及听起来一点也不专业的僵尸化. 我暂时称这个装置为远程 psi 发射器, 但是, 我认为需要进行更进一步的研究, 才能够得出相对正确的结论. </text></string>
+	<string id="yan_stalker_sakharov_player_query_psi_helmet"><text>教授, 我需要一个 psi 头盔. 我需要偷偷溜到焦脑器后面的区域, 如果没有适当的保护, 这是不可能的. </text></string>
+	<string id="yan_stalker_sakharov_npc_query_psi_helmet"><text>我想你已经意识到了风险的程度, 不是吗? 然而, 我想否则你不会问我......我们现在正在开发一个 psi 头盔, 但它还没有彻底完成, 需要进行调整. 当然, 我们现在可以给你原型, 这将花费你 10000 卢布, 但在这种情况下, 你将不得不使用未经测试的设备, 这是非常冒险的! 还有另一种选择 - 我们可以加快校准过程, 但这需要额外的金钱和时间. 它将花费 17500 卢布. 我们将立即开始校准, 大约两天后您的头盔将准备就绪. </text></string>
+	<string id="yan_stalker_sakharov_npc_query_psi_helmet_free"><text>我想你已经意识到了在这些灵能不稳定的地方的风险, 不是吗?..然而, 我想否则你不会问我......我们现在正在开发一个 psi 头盔, 但它还没有完成, 需要进行调整. </text></string>
+	<string id="yan_stalker_sakharov_player_psi_helmet_1_1"><text>我不想把时间耗费在这种地方上, 把 psi 头盔的原型给我吧. </text></string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_1_1"><text>如果你坚持的话...但我仍然认为你需要注意安全. 你知道的, 我不想在可能发生的头盔无效的情况下承担责任......如果在使用原型过程中您觉得保护装置工作不正常 - 请立即回到这里并找到我们, 我可以随时校准头盔......好吧, 原型将花费您 10000 卢布. </text></string>
+	
+	<string id="yan_stalker_sakharov_player_psi_helmet_1_2"><text>这是钱. 谢谢你, 教授! </text></string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_1_2"><text>还行. 但我建议你先测试一下. 您能否帮助我们关掉位于北边实验室里头的 psi 设置. 我们希望它能保护你的心灵不被psi风暴变成......一团浆糊</text></string>
+	
+	<string id="yan_stalker_sakharov_player_psi_helmet_1_3"><text>我还是希望你完成你的工作. 你们可以定制我的头盔吗? </text></string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_1_3"><text>要是你知道你给我和我的同事们带来了什么解脱就好了. 校准您的头盔将大大降低您死亡的风险, 我们不想因为向您出售带有缺陷的头盔而感到内疚......由于您已经为原型付款, 因此最终校准这顶头盔将只需要花费您 8000 卢布, 大约需要两天时间. </text></string>
+	
+	<string id="yan_stalker_sakharov_player_psi_helmet_2_1"><text>我希望这是值得的. </text></string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_1"><text>不要犹豫, 年轻人. 头盔的校准将使您能够获得对 psi 辐射的最大保护. 您将能够在整个区域内自由漫游, 而不会对理智造成任何损害! 所以. . . 头盔将花费您大约 17500 卢布. </text></string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_1_free"><text>不要犹豫, 年轻人. 头盔的校准将使您能够获得对 psi 辐射的最大保护. 您将能够在整个区域内自由漫游, 而不会对理智造成任何伤害, 它的灵能防御潜力将达到最大. 既然你帮了我们的忙, 我帮你搞定这顶头盔的校准, 当然是免费的. </text></string>
+	
+	<string id="yan_stalker_sakharov_player_psi_helmet_2_2"><text>好的, 我期待拿到一个完全校准的 psi 头盔. 开始秀出你的技术吧. </text></string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_2"><text>谢谢你, 潜行者. 我很快就会开始校准. 过几天再来. </text></string>
+	
+	<string id="yan_stalker_sakharov_player_psi_helmet_2_3"><text>我的头盔准备好了吗? </text></string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_3"><text>是的! 给你. 但我建议你先测试一下. 您能否帮助我们禁用这里北边实验室的 psi 设置. 头盔应该可以保护您免遭psi风暴的袭扰. </text></string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_3_1"><text>还没校准完成, 过段时间再过来拿吧. </text></string>
+	
+	<string id="yan_stalker_sakharov_player_psi_helmet_3_1"><text>我先考虑一下这值不值得. </text></string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_3_1"><text>这真是太好了. 别担心, 您的头盔会在这里等着您. </text></string>
+<!-- yan_merc_guards -->
+	<string id="yan_merc_guards_start_2"><text>兄弟, 你来错地方了! 趁我们心情还不错, 你最好尽快离开. </text></string>
+	<string id="yan_merc_guards_start_3"><text>没事找事是吧? 赶紧原路回去! </text></string>
+	<string id="yan_merc_guards_start_4"><text>别逼我喂你的脑门几颗花生米! </text></string>
+</string_table>

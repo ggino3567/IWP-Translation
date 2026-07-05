@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<string_table>
+
+	<!-- Bandits -->
+	
+	<string id="cc_generic-bandit-meet_hello_1"><text>开始说吧, 伙计. </text></string>
+	<string id="cc_generic-bandit-meet_hello_2"><text>我洗耳恭听, 伙计. </text></string>
+	<string id="cc_generic-bandit-meet_hello_3"><text>嗯, 你好! </text></string>
+	
+	<string id="cc_generic-bandit-meet_hide_weapon_1"><text>别在那儿挥来挥去的! </text></string>
+	<string id="cc_generic-bandit-meet_hide_weapon_2"><text>把那玩意儿从我脸上拿开! </text></string>
+	<string id="cc_generic-bandit-meet_hide_weapon_3"><text>你以为自己很硬汉还是怎么的? 收起你的枪! </text></string>
+	<string id="cc_generic-bandit-meet_hide_weapon_4"><text>想全须全尾地离开, 就把那家伙收起来! </text></string>
+	<string id="cc_generic-bandit-meet_hide_weapon_5"><text>看! 我也要把我的掏出来! </text></string>
+	<string id="cc_generic-bandit-meet_hide_weapon_6"><text>别拿那玩意儿威胁我们! 我们自己也有的是! </text></string>
+	
+	<string id="cc_generic-bandit-meet_use_no_default_1"><text>走开, 去找别人烦去, 伙计. </text></string>
+	<string id="cc_generic-bandit-meet_use_no_default_2"><text>我现在没心情聊天. </text></string>
+	<string id="cc_generic-bandit-meet_use_no_default_3"><text>滚开! </text></string>
+	
+	<string id="cc_generic-bandit-meet_use_no_fight_1"><text>你到底有什么毛病? </text></string>
+	<string id="cc_generic-bandit-meet_use_no_fight_2"><text>少废话, 多开枪! </text></string>
+	<string id="cc_generic-bandit-meet_use_no_fight_3"><text>你挑了个好时候来聊天...</text></string>
+	
+	<string id="cc_generic-bandit-meet_use_no_talk_leader_1"><text>去跟大老板谈吧. </text></string>
+	<string id="cc_generic-bandit-meet_use_no_talk_leader_2"><text>我可不是拿钱来听你废话的. 老板才是. </text></string>
+	<string id="cc_generic-bandit-meet_use_no_talk_leader_3"><text>如果你有事, 老板在那边. </text></string>
+	
+	<string id="cc_generic-bandit-meet_use_no_weapon_1"><text>你拿那玩意儿对着我的脸, 我可不想跟你说话! </text></string>
+	<string id="cc_generic-bandit-meet_use_no_weapon_2"><text>把那家伙收起来, 然后我们再谈. </text></string>
+	<string id="cc_generic-bandit-meet_use_no_weapon_3"><text>收起你的家伙, 不然就滚蛋! </text></string>
+	
+	<!-- Duty -->
+	
+	<string id="cc_generic-dolg-meet_hello_1"><text>有什么新鲜事? </text></string>
+	<string id="cc_generic-dolg-meet_hello_2"><text>幸会, 你好啊! </text></string>
+	<string id="cc_generic-dolg-meet_hello_3"><text>时间就是金钱. 有话快说! </text></string>
+	
+	<string id="cc_generic-dolg-meet_hide_weapon_1"><text>把武器收起来, 朋友. </text></string>
+	<string id="cc_generic-dolg-meet_hide_weapon_2"><text>收起你的武器. </text></string>
+	<string id="cc_generic-dolg-meet_hide_weapon_3"><text>把武器收起来, 头儿. </text></string>
+	<string id="cc_generic-dolg-meet_hide_weapon_7"><text>把武器收起来, 伙计. </text></string>
+	<string id="cc_generic-dolg-meet_hide_weapon_8"><text>现在就把枪收起来! </text></string>
+	<string id="cc_generic-dolg-meet_hide_weapon_9"><text>把武器收起来, 伙计! </text></string>
+	<string id="cc_generic-dolg-meet_hide_weapon_10"><text>你需要帮忙处理掉那件武器吗? </text></string>
+	<string id="cc_generic-dolg-meet_hide_weapon_11"><text>哥们儿... 把枪收起来. </text></string>
+	
+	<string id="cc_generic-dolg-meet_use_no_default_1"><text>不, 我不想说话. </text></string>
+	<string id="cc_generic-dolg-meet_use_no_default_2"><text>抱歉, 我没心情聊天. </text></string>
+	<string id="cc_generic-dolg-meet_use_no_default_3"><text>我现在不能说话. </text></string>
+	
+	<string id="cc_generic-dolg-meet_use_no_fight_1"><text>我们改天再谈. </text></string>
+	<string id="cc_generic-dolg-meet_use_no_fight_2"><text>以后再说. 我们以后再谈. </text></string>
+	<string id="cc_generic-dolg-meet_use_no_fight_3"><text>现在不是闲聊的时候. </text></string>
+	
+	<string id="cc_generic-dolg-meet_use_no_talk_leader_1"><text>如果你有事, 去找小队指挥官谈. </text></string>
+	<string id="cc_generic-dolg-meet_use_no_talk_leader_2"><text>潜行者, 有问题直接问指挥官. </text></string>
+	<string id="cc_generic-dolg-meet_use_no_talk_leader_3"><text>去找指挥官吧. </text></string>
+	
+	<string id="cc_generic-dolg-meet_use_no_weapon_1"><text>等那武器不在我脸上晃的时候, 我们可以聊聊. </text></string>
+	<string id="cc_generic-dolg-meet_use_no_weapon_2"><text>要么把枪收起来, 要么就滚蛋! </text></string>
+	<string id="cc_generic-dolg-meet_use_no_weapon_3"><text>等你收起武器我们再谈. </text></string>
+	<string id="cc_generic-dolg-meet_use_no_weapon_6"><text>你是忘了怎么收枪了吗? </text></string>
+	<string id="cc_generic-dolg-meet_use_no_weapon_7"><text>我们可不能这样谈话. </text></string>
+	<string id="cc_generic-dolg-meet_use_no_weapon_8"><text>如果你不收枪, 那玩意儿就是你唯一能交谈的对象了! </text></string>
+	
+	<!-- Freedom -->
+	
+	<string id="cc_generic-freedom-meet_hello_1"><text>好了, 有话快说! </text></string>
+	<string id="cc_generic-freedom-meet_hello_2"><text>我在听呢, 伙计. </text></string>
+	<string id="cc_generic-freedom-meet_hello_3"><text>怎么了, 兄弟? </text></string>
+	
+	<string id="cc_generic-freedom-meet_hide_weapon_1"><text>别逞英雄. 把你的家伙收好. </text></string>
+	<string id="cc_generic-freedom-meet_hide_weapon_2"><text>他妈的把你的枪收起来! </text></string>
+	<string id="cc_generic-freedom-meet_hide_weapon_3"><text> peace out, 哥们儿! 把你那大炮收起来. </text></string>
+	<string id="cc_generic-freedom-meet_hide_weapon_9"><text>你别掏东西. 还有, 把那家伙藏起来, 行吗? </text></string>
+	<string id="cc_generic-freedom-meet_hide_weapon_10"><text>够了! 别在那儿挥来挥去的. </text></string>
+	<string id="cc_generic-freedom-meet_hide_weapon_11"><text>现在就把你的玩具收起来! </text></string>
+	<string id="cc_generic-freedom-meet_hide_weapon_12"><text>把你那该死的枪收起来. </text></string>
+	
+	<string id="cc_generic-freedom-meet_use_no_default_1"><text>滚开! </text></string>
+	<string id="cc_generic-freedom-meet_use_no_default_2"><text>这次谈话没门, 到此为止! </text></string>
+	<string id="cc_generic-freedom-meet_use_no_default_3"><text>我现在没空聊天. </text></string>
+	
+	<string id="cc_generic-freedom-meet_use_no_fight_1"><text>哥们儿, 你疯了吧! </text></string>
+	<string id="cc_generic-freedom-meet_use_no_fight_2"><text>这正打着仗呢, 你知道不? </text></string>
+	<string id="cc_generic-freedom-meet_use_no_fight_3"><text>现在可不是聊天的时候. </text></string>
+	
+	<string id="cc_generic-freedom-meet_use_no_talk_leader_1"><text>去, 跟老大谈去, 伙计! </text></string>
+	<string id="cc_generic-freedom-meet_use_no_talk_leader_2"><text>我恐怕不能告诉你什么有用的. 去, 见头儿去. </text></string>
+	<string id="cc_generic-freedom-meet_use_no_talk_leader_3"><text>别烦我, 伙计. 去跟老大说, 他在那边. </text></string>
+	
+	<string id="cc_generic-freedom-meet_use_no_weapon_1"><text>你是打算开枪还是说话? 把武器收起来! </text></string>
+	<string id="cc_generic-freedom-meet_use_no_weapon_2"><text>我不喜欢跟拿枪指着我的人说话. </text></string>
+	<string id="cc_generic-freedom-meet_use_no_weapon_3"><text>等枪收起来我们再谈. </text></string>
+	<string id="cc_generic-freedom-meet_use_no_weapon_6"><text>你是来开枪的——还是来聊天的? </text></string>
+	<string id="cc_generic-freedom-meet_use_no_weapon_7"><text>哥们儿. 你那铁家伙的"说服力", 得收起来了! </text></string>
+	<string id="cc_generic-freedom-meet_use_no_weapon_8"><text>你拿那个大玩具是想补偿什么吗? </text></string>
+	
+	<!-- Military -->
+	
+	<string id="cc_generic-military-meet_hello_1"><text>你好啊? </text></string>
+	<string id="cc_generic-military-meet_hello_2"><text>你想干嘛? </text></string>
+	<string id="cc_generic-military-meet_hello_3"><text>嗯? 我在听...</text></string>
+	
+	<string id="cc_generic-military-meet_hide_weapon_1"><text>把武器放下. </text></string>
+	<string id="cc_generic-military-meet_hide_weapon_2"><text>把你的武器收起来! </text></string>
+	<string id="cc_generic-military-meet_hide_weapon_3"><text>收起你的武器. </text></string>
+	
+	<string id="cc_generic-military-meet_use_no_default_1"><text>我没时间说话. </text></string>
+	<string id="cc_generic-military-meet_use_no_default_2"><text>我帮不了你. </text></string>
+	<string id="cc_generic-military-meet_use_no_default_3"><text>别烦我, 少校. </text></string>
+	
+	<string id="cc_generic-military-meet_use_no_fight_1"><text>等打完了我们再谈. </text></string>
+	<string id="cc_generic-military-meet_use_no_fight_2"><text>别闲聊了, 集中精神! </text></string>
+	<string id="cc_generic-military-meet_use_no_fight_3"><text>现在不是说话的好时机, 伙计. </text></string>
+	
+	<string id="cc_generic-military-meet_use_no_talk_leader_1"><text>去找指挥官吧. .</text></string>
+	<string id="cc_generic-military-meet_use_no_talk_leader_2"><text>指挥官能回答你的问题. </text></string>
+	<string id="cc_generic-military-meet_use_no_talk_leader_3"><text>我负责开枪. 指挥官负责问答环节. </text></string>
+	
+	<string id="cc_generic-military-meet_use_no_weapon_1"><text>如果你想说话, 就把武器收起来. </text></string>
+	<string id="cc_generic-military-meet_use_no_weapon_2"><text>你拿那玩意儿指着我, 我没法跟你谈. </text></string>
+	<string id="cc_generic-military-meet_use_no_weapon_3"><text>想说话就把武器收起来. </text></string>
+	
+	<!-- Loner -->
+	
+	<string id="cc_generic-stalker-meet_hello_1"><text>你好啊? </text></string>
+	<string id="cc_generic-stalker-meet_hello_2"><text>嘿, 兄弟! </text></string>
+	<string id="cc_generic-stalker-meet_hello_3"><text>我在听...</text></string>
+	
+	<string id="cc_generic-stalker-meet_hide_weapon_1"><text>把武器收起来, 伙计. </text></string>
+	<string id="cc_generic-stalker-meet_hide_weapon_2"><text>别胡闹了! 收起你的武器! </text></string>
+	<string id="cc_generic-stalker-meet_hide_weapon_3"><text>得了吧, 伙计, 把武器收起来! </text></string>
+	<string id="cc_generic-stalker-meet_hide_weapon_7"><text>现在就把你的枪藏起来! </text></string>
+	<string id="cc_generic-stalker-meet_hide_weapon_6"><text>别拿那把破枪对着我挥! </text></string>
+	<string id="cc_generic-stalker-meet_hide_weapon_8"><text>拿着枪干嘛? </text></string>
+	
+	<string id="cc_generic-stalker-meet_use_no_default_1"><text>我不想跟你说话. </text></string>
+	<string id="cc_generic-stalker-meet_use_no_default_2"><text>我不想跟你闲聊. </text></string>
+	<string id="cc_generic-stalker-meet_use_no_default_3"><text>我没心情嚼舌头. </text></string>
+	
+	<string id="cc_generic-stalker-meet_use_no_fight_1"><text>现在不是闲扯的时候, 伙计. </text></string>
+	<string id="cc_generic-stalker-meet_use_no_fight_2"><text>你疯了吗? 等会儿再说! </text></string>
+	<string id="cc_generic-stalker-meet_use_no_fight_3"><text>这乱糟糟的, 你确定要闲聊? </text></string>
+	
+	<string id="cc_generic-stalker-meet_use_no_talk_leader_1"><text>如果需要什么, 跟老板说...</text></string>
+	<string id="cc_generic-stalker-meet_use_no_talk_leader_2"><text>去跟老板说. </text></string>
+	<string id="cc_generic-stalker-meet_use_no_talk_leader_3"><text>老板在那边. 去, 跟他谈去. </text></string>
+	
+	<string id="cc_generic-stalker-meet_use_no_weapon_1"><text>把枪收起来, 然后我们再谈. </text></string>
+	<string id="cc_generic-stalker-meet_use_no_weapon_2"><text>有把枪在我脸前晃来晃去的时候, 我不太爱说话. 惊讶吧, 嗯? </text></string>
+	<string id="cc_generic-stalker-meet_use_no_weapon_3"><text>你拿枪瞄着我, 我可没心情说话. </text></string>
+	<string id="cc_generic-stalker-meet_use_no_weapon_9"><text>得了吧, 伙计, 把武器收起来! .</text></string>
+	
+	<string id="cc_generic-stalker-meet_weapon_start_1"><text>别当混蛋, 收起你的武器. </text></string>
+	<string id="cc_generic-stalker-meet_weapon_start_2"><text>别挥枪了, 我已经注意到你了. </text></string>
+	<string id="cc_generic-stalker-meet_weapon_start_3"><text>如果你把武器收起来, 我们或许可以谈谈. </text></string>
+
+	<string id="cc_generic-stalker-meet_weapon_wait_1"><text>你为什么还拿着那武器? </text></string>
+	<string id="cc_generic-stalker-meet_weapon_wait_2"><text>拿着枪干嘛? </text></string>
+	<string id="cc_generic-stalker-meet_weapon_wait_3"><text>拿着枪没法谈! </text></string>
+	<string id="cc_generic-stalker-meet_weapon_wait_4"><text>别拿那把破枪对着我挥! </text></string>
+	<string id="cc_generic-stalker-meet_weapon_wait_5"><text>现在就把你的枪藏起来! </text></string>
+	
+	<string id="cc_generic-stalker-meet_wait_1"><text>我在听.</text></string>
+	<string id="cc_generic-stalker-meet_wait_2"><text>来吧, 有话直说. </text></string>
+	<string id="cc_generic-stalker-meet_wait_3"><text>没看见我正忙着吗? 说重点. </text></string>
+	<string id="cc_generic-stalker-meet_wait_4"><text>你是害羞还是怎么的? 来吧, 跟我说. </text></string>
+	<string id="cc_generic-stalker-meet_wait_5"><text>来吧别害羞, 大声说出来. </text></string>
+	<string id="cc_generic-stalker-meet_wait_6"><text>如果你是来谈正事的, 那就谈吧. </text></string>
+	<string id="cc_generic-stalker-meet_wait_7"><text>很好, 安静够了, 说吧! </text></string>
+	<string id="cc_generic-stalker-meet_wait_8"><text>醒醒, 认清现实吧. </text></string>
+	<string id="cc_generic-stalker-meet_wait_9"><text>来吧, 快说吧. </text></string>
+	<string id="cc_generic-stalker-meet_wait_10"><text>来吧, 开始分享吧. </text></string>
+	<string id="cc_generic-stalker-meet_wait_11"><text>嗯, 你到底想不想要点什么? </text></string>
+	<string id="cc_generic-stalker-meet_wait_12"><text>难道要我一个人唱独角戏吗? </text></string>
+	
+	<string id="cc_generic-stalker-meet_stop_1"><text>跟哑巴说话纯属对牛弹琴. </text></string>
+	<string id="cc_generic-stalker-meet_stop_2"><text>等你学会说话再来吧. </text></string>
+	<string id="cc_generic-stalker-meet_stop_3"><text>我"非常享受"这次谈话. 才怪. </text></string>
+	<string id="cc_generic-stalker-meet_stop_4"><text>呵. 聊得真"愉快"啊. </text></string>
+	<string id="cc_generic-stalker-meet_stop_5"><text>这是在比谁沉默更久吗? 好吧, 你赢了. </text></string>
+	<string id="cc_generic-stalker-meet_stop_6"><text>鬼才知道你想从我这儿要什么. </text></string>
+	
+	<string id="cc_generic-stalker-meet_general_wait_1"><text>醒醒, 认清现实吧.  !</text></string>
+	<string id="cc_generic-stalker-meet_general_wait_2"><text>来吧, 快说吧. </text></string>
+	<string id="cc_generic-stalker-meet_general_wait_3"><text>来吧, 开始分享吧. </text></string>
+	<string id="cc_generic-stalker-meet_general_wait_4"><text>嗯, 你到底想不想要点什么? </text></string>
+	<string id="cc_generic-stalker-meet_general_wait_5"><text>难道要我一个人唱独角戏吗? </text></string>
+	
+	<string id="cc_generic-stalker-meet_general_stop_1"><text>聊得真"愉快"啊. </text></string>
+	<string id="cc_generic-stalker-meet_general_stop_2"><text>这是在比谁沉默更久吗? 好吧, 你赢了. </text></string>
+	<string id="cc_generic-stalker-meet_general_stop_3"><text>鬼才知道你想从我这儿要什么. </text></string>
+	
+	<string id="cc_generic-stalker-meet_general_start_1"><text>你要是有话要说, 就说出来. </text></string>
+	<string id="cc_generic-stalker-meet_general_start_2"><text>我洗耳恭听. </text></string>
+	<string id="cc_generic-stalker-meet_general_start_3"><text>我在听.</text></string>
+	
+	<string id="cc_generic-stalker-meet_comander_wait_1"><text>没看见我正忙着吗? 说重点. </text></string>
+	<string id="cc_generic-stalker-meet_comander_wait_2"><text>你是害羞还是怎么的? 来吧, 跟我说.  !</text></string>
+	<string id="cc_generic-stalker-meet_comander_wait_3"><text>来吧别害羞, 大声说出来. .</text></string>
+	<string id="cc_generic-stalker-meet_comander_wait_4"><text>如果你是来谈正事的, 那就谈吧. </text></string>
+	<string id="cc_generic-stalker-meet_comander_wait_5"><text>哥们儿, 安静够了, 快说吧! </text></string>
+	
+</string_table>

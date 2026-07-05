@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<string_table>
+	<!-- Level Names -->
+	<string id="l03_agroprom"><text>农业研究所</text></string>
+	<string id="l03u_agr_underground"><text>农业研究所地下区</text></string>
+	<string id="l07_military"><text>军方仓库</text></string>
+	<string id="l12_stancia_2"><text>切尔诺贝利核电站以北</text></string>
+	<string id="l12_stancia"><text>切尔诺贝利核电站以南</text></string>
+	<string id="l01_escape"><text>封锁线</text></string>
+	<string id="k01_darkscape"><text>黑暗小径</text></string>
+	<string id="l04_darkvalley"><text>黑暗山谷</text></string>
+	<string id="l09_deadcity"><text>死城</text></string>
+	<string id="l11_hospital"><text>废弃医院</text></string>
+	<string id="fake_start"><text>假象之源</text></string>
+	<string id="l02_garbage"><text>废弃区</text></string>
+	<string id="l13_generators"><text>发电机组</text></string>
+	<string id="k00_marsh"><text>沼泽</text></string>
+	 <string id="jupiter"><text>木星地区</text></string>
+		<string id="jupiter_underground"><text>普里皮亚季一号隧道</text></string>
+	<string id="l08u_brainlab"><text>Х-16号实验室</text></string>
+	<string id="l04u_labx18"><text>Х-18号实验室</text></string>
+	<string id="l10u_bunker"><text>Х-19 «Х-10»号实验室</text></string>
+	<string id="labx8"><text>Х-8号实验室</text></string>
+	<string id="l10_limansk"><text>利曼斯克</text></string>
+	<string id="l12u_control_monolith"><text>黑石指挥中心</text></string>
+	 <string id="l13u_warlab"><text>战争实验室</text></string>
+	<string id="pripyat"><text>普里皮亚季郊区</text></string>
+	<string id="l11_pripyat"><text>普里皮亚季市中心</text></string>
+	<string id="l10_radar"><text>雷达站</text></string>
+	<string id="l10_red_forest"><text>红森林</text></string>
+	<string id="l05_bar"><text>辐射100酒吧</text></string>
+	<string id="l12u_sarcofag"><text>石棺</text></string>
+	 <string id="k02_trucks_cemetery"><text>卡车墓地</text></string>
+	<string id="l06_rostok"><text>罗斯托克</text></string>
+	<string id="l08_yantar"><text>杨塔</text></string>
+	<string id="zaton"><text>河湾</text></string>
+
+	<!-- Level Changers -->
+	<string id="mar_space_restrictor_to_agroprom_descr"><text>在农业研究所里</text></string>
+	<string id="space_restrictor_to_agr_ug_desc"><text>在农业研究所地下区</text></string>
+	<string id="space_restrictor_to_military_desc"><text>到军方仓库</text></string>
+	<string id="gen_space_restrictor_to_aes2_descr"><text>切尔诺贝利核电站</text></string>
+	<string id="ds_space_restrictor_to_escape_descr"><text>在封锁线</text></string>
+	<string id="esc_space_restrictor_to_darkscape_descr"><text>在黑色小径</text></string>
+	<string id="ds_space_restrictor_to_darkvalley_desc"><text>在黑色山谷</text></string>
+	<string id="space_restrictor_to_deadcity_desc"><text>到死城</text></string>
+	<string id="space_restrictor_to_hospital"><text>到废弃医院</text></string>
+	<string id="esc_space_restrictor_to_garbage_descr"><text>到废弃区</text></string>
+	<string id="aes2_space_restrictor_to_gen_descr"><text>到发电机组</text></string>
+	<string id="mar_teleport_from_base_to_north_descr"><text>到沼泽</text></string>
+	<string id="space_restrictor_to_jupiter_desc"><text>在木星地区附近</text></string>
+	<string id="space_restrictor_to_jupiter_ug_desc"><text>到普里皮亚季一号隧道</text></string>
+	<string id="space_restrictor_to_labx16_desc"><text>到Х-16号实验室</text></string>
+	<string id="space_restrictor_to_labx18_desc"><text>到Х-18号实验室</text></string>
+	<string id="space_restrictor_to_labx10_desc"><text>到Х-19 «Х-10»号实验室</text></string>
+	<string id="space_restrictor_to_labx8_desc"><text>到Х-8号实验室</text></string>
+	<string id="space_restrictor_to_limansk_desc"><text>到利曼斯克</text></string>
+	<string id="space_restrictor_to_secret_lab_desc"><text>到黑石指挥中心</text></string>
+	<string id="space_restrictor_to_warlab_desc"><text>到战争实验室</text></string>
+	<string id="space_restrictor_to_cop_pripyat_desc"><text>在普里皮亚季郊区</text></string>
+	<string id="space_restrictor_to_pripyat_desc"><text>在普里皮亚季市中心</text></string>
+	<string id="space_restrictor_to_radar_desc"><text>在雷达站</text></string>
+	<string id="mil_space_restrictor_to_red_1_descr"><text>在红森林</text></string>
+	<string id="space_restrictor_to_bar_desc"><text>在辐射100酒吧</text></string>
+	<string id="space_restrictor_to_sarcophagus_desc"><text>在石馆</text></string>
+	<string id="space_restrictor_to_tc_desc"><text>到卡车墓地</text></string>	
+	<string id="space_restrictor_to_rostok_desc"><text>到罗斯托克</text></string>
+	<string id="space_restrictor_to_yantar_desc"><text>到杨塔</text></string>
+	<string id="space_restrictor_to_zaton_desc"><text>到河湾</text></string>	
+</string_table>

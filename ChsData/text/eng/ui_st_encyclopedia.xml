@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+
+	<!-- PDA -->
+	<string id="pda_btn_encyclopedia"><text>百科全书</text></string>
+
+	<string id="pda_btn_encyclopedia_hint"><text>显示特异区百科全书</text></string>
+
+	<!-- Interface components -->
+	<string id="pda_encyclopedia_title"><text>特异区百科全书</text></string>
+
+	<string id="pda_encyclopedia_image_checkbox"><text>插图</text></string>
+
+	<string id="pda_encyclopedia_message_checkbox"><text>信息</text></string>
+
+	<!-- Messages -->
+	<string id="pda_encyclopedia_notify"><text>情报解锁: %s, %s</text></string>
+
+	<!-- Locked articles -->
+	<string id="pda_encyclopedia_locked"><text>"未知"</text></string>
+
+	<string id="pda_encyclopedia_locked_text"><text>您尚未解锁该情报. \n
+			\n情报可以通过以下方式解锁: \n
+			\n%c[0,200,0,255]• %c[0,140,140,140]首次发现地点. 
+			\n%c[0,200,0,255]• %c[0,140,140,140]从U盘上下载数据. 
+			\n%c[0,200,0,255]• %c[0,140,140,140]狩猎变种生物. 
+			\n%c[0,200,0,255]• %c[0,140,140,140]与潜行者交谈和互动. 
+			\n%c[0,200,0,255]• %c[0,140,140,140]使用物品和装备阵营盔甲. </text></string>
+	
+</string_table>

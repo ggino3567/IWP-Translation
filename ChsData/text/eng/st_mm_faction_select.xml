@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+
+	<!-- Description - Factions -->
+	<string id="st_mm_faction_cap_character_name"><text>名称:</text></string>
+	<string id="st_mm_faction_cap_faction"><text>派系:</text></string>
+	<string id="st_ui_pda_legend_primary_objects_tips"><text>区域:</text></string>
+	<string id="st_faction_stalker"><text>独行者</text></string>
+	<string id="st_faction_stalker_desc"><text>%c[0,150,150,150]独行者,或者说中立潜行者,不与特异区的其他任何组织结盟.\n \n尽管常被突变怪物和其他潜行者骚扰,某些小团体还是设法在整个特异区建立了牢固的贸易网.</text></string>
+	<string id="st_faction_bandit"><text>强盗</text></string>
+	<string id="st_faction_bandit_desc"><text>%c[0,150,150,150]强盗常常是来到特异区的地下罪犯;他们来此的原因各异:为了卖神器赚钱,或是为了逃避法律惩戒,甚至是走私武器.</text></string>
+	<string id="st_faction_dolg"><text>纪律团</text></string>
+	<string id="st_faction_dolg_desc"><text>%c[0,150,150,150]纪律团是一个准军事组织,与任何想要开发特异区的人谋求合作,在纪律团看来,特异区不断地扩张它对外界的腐蚀.\n \n他们经常与自由团开展激烈的冲突,因其理念与纪律团不合.</text></string>
+	<string id="st_faction_freedom"><text>自由团</text></string>
+	<string id="st_faction_freedom_desc"><text>%c[0,150,150,150]自由团是一群无政府主义者和敢死队组成的,他们自称是为了特异区对所有人开放而斗争,自由团频繁与纪律团陷入冲突.</text></string>
+	<string id="st_faction_army"><text>军方</text></string>
+	<string id="st_faction_army_desc"><text>%c[0,150,150,150]乌克兰政府通过内务部和国民警卫队维持特异区的戒严</text></string>
+	<string id="st_faction_ecolog"><text>科学家</text></string>
+	<string id="st_faction_ecolog_desc"><text>%c[0,150,150,150]科学家由政府部门支持,他们研究特异区以利用特异区的潜能,使其造福人类.</text></string>
+	<string id="st_faction_killer"><text>佣兵</text></string>
+	<string id="st_faction_killer_desc"><text>%c[0,150,150,150]佣兵是一群从各行各业而来的老练的战士,提供佣兵服务,他们的客户是谁,他们为什么对特异区感兴趣?无从得知.</text></string>
+	<string id="st_faction_monolith"><text>黑石</text></string>
+	<string id="st_faction_monolith_desc"><text>%c[0,150,150,150]黑石是一帮狂热的宗教徒,除了自己人之外谁都敢打.\n尽管C意识被摧毁,他们还是卷土重来,夺回了他们之前的众多领地.</text></string>
+	<string id="st_faction_csky"><text>晴空</text></string>
+	<string id="st_faction_csky_desc"><text>%c[0,150,150,150]晴空是一个独立的科学家兼军事组织,专注于研究和理解特异区.\n \n在其规模极大却彻底失败的一场对切尔诺贝利核电站的突击后,一些幸存者将这个派系重建到了之前的状态.</text></string>
+	<string id="st_faction_zombied"><text>僵尸</text></string>
+	<string id="st_faction_zombied_desc"><text>%c[0,150,150,150]脑子子啊啊嗷嗷嗷嗷嗷!!!\n \n僵尸化了的潜行者只是没有意识的躯壳,之前的自我仅剩最基本的动物本能,会攻击任何靠的太近的东西.</text></string>
+	
+	<!-- Hint -->
+	<string id="st_mm_box_faction_desc"><text>
+			%c[0,150,150,150]%s 天赋.
+		</text></string>
+	<string id="st_mm_box_icon_desc"><text>
+			%c[0,150,150,150]角色头像.
+		</text></string>
+	<string id="st_mm_list_map_desc"><text>
+			%c[0,150,150,150]选择新游戏初始位置.
+		</text></string>
+	<string id="st_mm_ck_reset_desc"><text>
+			%c[0,150,150,150]重置物品栏.
+		</text></string>
+	<string id="st_mm_list_economy_desc"><text>
+			%c[0,150,150,150]进度难度对特异区的经济及其各个方面都有巨大影响,会影响到玩家在整个游戏中的进展:
+			\n%c[200,50,50,200]* %c[0,150,150,150]物品和维修服务的价格.
+			\n%c[200,50,50,200]* %c[0,150,150,150]报酬量.
+			\n%c[200,50,50,200]* %c[0,150,150,150]战利品的稀有程度和状况.
+		</text></string>
+	<string id="st_mm_list_difficulty_desc"><text>
+			%c[0,150,150,150]游戏难度会影响武器的总体精确度.会同时影响玩家和其他潜行者.
+		</text></string>
+	<string id="st_mm_ck_story_desc"><text>
+			%c[0,150,150,150]故事模式会以'特异区之谜'任务线开始,玩家有着关闭焦脑器和奇迹机器的任务.\n 
+			\n三部曲中剧情的元素会被挪用并重新编排,所以这并不适合认为故事连续性很重要的玩家.\n
+			\n只有在选择独行者,纪律团,自由团,科学家,佣兵,和晴空派系时可用.
+			\n \n%c[200,200,50,50]* %c[0,150,150,150]与生存模式和魂模式不兼容.
+		</text></string>
+	<string id="st_mm_ck_hardcore_desc"><text>
+			%c[0,150,150,150]铁人模式会在死亡时删除所有的游戏存档.
+			\n \n%c[200,200,50,50]* %c[0,150,150,150]你仍然能够存档,但是死亡时所有存档将被删除.
+			\n \n%c[200,50,200,50]* %c[0,150,150,150]与其他所有游戏模式都兼容.
+		</text></string>
+	<string id="st_mm_ck_hardcore_aim_desc"><text>
+			%c[0,150,150,150]硬核AI瞄准是一项最大化AI预测能力的功能,使玩家在移动时躲避子弹更加困难.
+		</text></string>
+	<string id="st_mm_ck_survival_desc"><text>
+			%c[0,150,150,150]生存模式将所有其他人替换成僵尸.\n
+			\n尸潮会源源不断地涌来,准备好!看看你能存活多久!
+			\n \n%c[200,200,50,50]* %c[0,150,150,150]与故事模式不兼容.
+			\n%c[200,200,50,50]* %c[0,150,150,150]在这个模式中不能睡觉
+		</text></string>
+	<string id="st_mm_ck_azazel_mode_desc"><text>
+			%c[0,150,150,150]在魂模式中,死亡并不是终结.\n
+			\nL像恶魔Azazel一样,你死后会附身另一具身体;成为特异区存在的另一个潜行者.\n
+			\n如果你有同伴,你会成为他们之一.这个功能与生存模式/铁人模式很适合
+			\n \n%c[200,200,50,50]* %c[0,150,150,150]与故事模式不兼容
+		</text></string>
+	<string id="st_mm_ck_campfire_desc"><text>
+			%c[0,150,150,150]篝火存档模式激活后,你只有在对应界面中点燃篝火才能存档,或者靠在两个区域之间移动来自动存档.
+			\n \n%c[200,200,50,50]* %c[0,150,150,150]普通的存档和控制台被关闭.
+			\n \n%c[200,200,200,50]* %c[0,150,150,150]在没有篝火的区域存档不受限制.
+			\n \n%c[200,50,200,50]* %c[0,150,150,150]和其他所有模式兼容
+		</text></string>
+	<string id="st_mm_ck_conditions_desc"><text>
+			%c[0,150,150,150]苦痛模式不允许你存档在:
+			\n%c[200,200,200,50]* %c[0,150,150,150]受伤时
+			\n%c[200,200,200,50]* %c[0,150,150,150]流血时
+			\n%c[200,200,200,50]* %c[0,150,150,150]受辐射时
+			\n%c[200,200,200,50]* %c[0,150,150,150]在战斗时
+			\n%c[200,200,200,50]* %c[0,150,150,150]电磁风暴或PSY风暴时
+			\n \n%c[200,200,50,50]* %c[0,150,150,150]控制台禁用.
+			\n \n%c[200,50,200,50]* %c[0,150,150,150]全部硬核存档模式都与彼此兼容
+		</text></string>
+	<string id="st_mm_list_hardcore_lives_desc"><text>
+			%c[0,150,150,150]一个铁人模式的额外功能,使你能够在游戏刚开始时设置你的命数.
+			\nE每死一次,你便失去一条命
+			\n所有命都用光之后,你的全部存档将被删除.\n
+			\n%c[200,200,50,50]* %c[0,150,150,150]必须激活铁人模式.
+		</text></string>
+	<string id="st_mm_list_hardcore_regen_desc"><text>
+			%c[0,150,150,150]一项额外功能,让你在度过你所设定的天数后获得一条额外生命.
+			\n \n%c[200,200,50,50]* %c[0,150,150,150]睡觉不会起作用的,别想着钻空子.
+			\n%c[200,200,50,50]* %c[0,150,150,150]需要激活铁人模式.
+		</text></string>
+	<string id="st_mm_list_timer_desc"><text>
+			%c[0,150,150,150]在计时器模式,你能在度过特定时间后才能存档. 
+			\n当你保存后,无法在计时器到时间前再次存档.
+			\n \n%c[200,50,200,50]* %c[0,150,150,150]与其他所有模式都兼容.
+		</text></string>
+	
+	<!-- Static Text -->
+	<string id="st_mm_new_game_character"><text>角色</text></string>
+	<string id="st_mm_new_game_faction"><text>选择阵营</text></string>
+	<string id="st_mm_new_game_icon"><text>选择头像</text></string>
+	<string id="st_mm_new_game_options"><text>选项</text></string>
+	<string id="st_mm_new_game_inventory"><text>物品栏</text></string>
+	<string id="st_mm_new_game_loadout"><text>出装</text></string>
+	<string id="st_mm_new_game_name"><text>名字:</text></string>
+	<string id="st_mm_new_game_money"><text>钱:</text></string>
+	<string id="st_mm_new_game_points_left"><text>剩余点数:</text></string>
+	<string id="st_mm_new_game_points_used"><text>已用点数:</text></string>
+	
+
+	<!-- Description elements -->
+	<string id="st_mm_new_game_relations"><text>关系</text></string>
+	<string id="st_mm_new_game_description"><text>简史</text></string>
+	<string id="st_mm_new_game_points"><text>点数</text></string>
+	<string id="st_mm_new_game_essential"><text>要紧事物</text></string>
+	
+	<!-- Hint -->
+	<string id="st_mm_itm_desc_unknown"><text>无可用信息</text></string>
+	
+	<!-- Options -->
+	<string id="st_cap_check_campfire"><text>篝火模式</text></string>
+	<string id="st_cap_check_conditions"><text>苦痛模式</text></string>
+	<string id="st_cap_list_timer"><text>计时器模式</text></string>
+	<string id="st_cap_list_hardcore_lives"><text>铁人模式</text></string>
+	<string id="st_cap_list_hardcore_regen"><text>命数恢复机制</text></string>
+	<string id="st_cap_list_economy"><text>进度难度</text></string>
+	<string id="st_cap_list_difficulty"><text>游戏难度</text></string>
+	<string id="st_econ_1"><text>快速</text></string>
+	<string id="st_econ_2"><text>普通</text></string>
+	<string id="st_econ_3"><text>慢</text></string>
+	<string id="st_econ_4"><text>极慢</text></string>
+	
+	<string id="st_off"><text>关闭</text></string>
+	<string id="st_new_game_min"><text>分钟.</text></string>
+	<string id="st_new_game_mins"><text>分钟.</text></string>
+	<string id="st_new_game_hour"><text>小时</text></string>
+	<string id="st_new_game_hours"><text>小时</text></string>
+	<string id="st_new_game_day"><text>天</text></string>
+	<string id="st_new_game_days"><text>天</text></string>
+	<string id="st_new_game_life"><text>生命</text></string>
+	<string id="st_new_game_lives"><text>生命</text></string>
+	
+	<!-- Buttons -->
+	<string id="st_mm_btn_new_game_faction"><text>派系</text></string>
+	<string id="st_mm_btn_new_game_icon"><text>头像</text></string>
+	<string id="st_mm_btn_new_game_back"><text>返回</text></string>
+	<string id="st_mm_btn_new_game_submit"><text>开始</text></string>
+	<string id="st_mm_btn_new_game_rand"><text>全部随机</text></string>
+	<string id="ui_st_random_location"><text>随机起始位置</text></string>
+	
+</string_table>

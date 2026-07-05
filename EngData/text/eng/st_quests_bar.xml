@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<!-- FIND WEAPON FOR SHUSTRYI TASK -->
+	<!--<string id="esc_2_12_stalker_nimble_task_1_name">
+		<text>Find %s for Nimble</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_text">
+		<text>Nimble has asked you to find a specific firearm. It needs to be in good condition. Return to him when you find what he is looking for.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_about">
+		<text>I have a client looking for a specific firearm and I need someone to help me find it. If you are interested I will give you more details. What do you say?</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_fetch_about">
+		<text>%c[ui_orange]%s%c[ui_8]... That is what I need, but it must be in good condition. The client is paying top dollar and he doesn't want a rusty piece of shit that will jam up in a life or death situation. I'll give you most of the profit since you are doing all the work. Come back when you find it, man.</text>
+	</string>
+	<string id="esc_2_12_stalker_nimble_task_1_fetch_finish">
+		<text>This is a fine weapon. I think my client will be pleased when I deliver this to him. Here is what I owe you.</text>
+	</string>-->
+
+
+	<!-- FIND ARTIFACT FOR BARMAN TASK -->
+	<string id="bar_visitors_barman_stalker_trader_task_1_name">
+		<text>Find the %s artifact for Barkeep</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_1_text">
+		<text>Barkeep wants you to find the %s artifact for him.</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_1_about">
+		<text>%c[ui_8]Stalker, I want you to get something for me; an artifact, to be precise. Would you like to help me out?</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_1_fetch_about">
+		<text>%c[ui_8]I'm looking for the %c[ui_orange]%s%c[ui_8] artifact. If you find one, bring it back to me, and I will pay you well.</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_1_fetch_finish">
+		<text>Great job, stalker. Here's what I promised.</text>
+	</string>
+
+	<!-- ASSAULT BANDIT BASE FOR BARMAN TASK -->
+	<string id="bar_visitors_barman_stalker_trader_task_2_name">
+		<text>Eliminate Bandit Camp for Barkeep</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_2_text">
+		<text>Stage an assault on the garbage train hangar and eliminate the bandits that occupy the location.</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_2_about">
+		<text>%c[ui_8]Need your help. A group of bandits is creating problems for stalkers. They occupy the garbage train hangar. I need someone to "take care" of them.\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_2_finish">
+		<text>Great work, stalker! Here is your reward.</text>
+	</string>
+
+	<!-- ASSASSINATE STALKER FOR BARMAN TASK -->
+	<string id="bar_visitors_barman_stalker_trader_task_3_name">
+		<text>Kill a loner for Barkeep</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_3_text">
+		<text>Barkeep wants a stalker gone.</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_3_about">
+		<text>%c[ui_8]There is one stalker that must disappear, you know what I mean. It might be difficult to do but I will pay well. Will you take the job?\n\n%c[255,255,165,0][This task involves killing a friendly or neutral stalker, which will result in a loss of reputation. Witnesses may disapprove and could attack the player]</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_task_3_finish">
+		<text>Excellent work. Here is your reward.</text>
+	</string>
+
+
+	<!-- RECAPTURE TERRITORY FOR DUTY LEADER TASK -->
+	<string id="bar_dolg_leader_task_1_name">
+		<text>Reclaim Duty Territory for Voronin</text>
+	</string>
+	<string id="bar_dolg_leader_task_1_text">
+		<text>You have been tasked to recapture territory for Duty. Report back to General Voronin after the job is done.</text>
+	</string>
+	<string id="bar_dolg_leader_task_1_about">
+		<text>%c[ui_8]We have a problem. Enemy forces has taken over one of our camps and I need a specialist to head to %c[ui_orange]Garbage%c[ui_8] and reclaim it.\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="bar_dolg_leader_task_1_finish">
+		<text>Is the task completed? Great job!</text>
+	</string>
+
+	<!-- CAPTURE TERRITORY FOR DUTY LEADER TASK -->
+	<string id="bar_dolg_leader_task_2_name">
+		<text>Capture Abandoned village for Voronin</text>
+	</string>
+	<string id="bar_dolg_leader_task_2_text">
+		<text>You have been tasked to capture territory for Duty. Report back to General Voronin after the job is done.</text>
+	</string>
+	<string id="bar_dolg_leader_task_2_about">
+		<text>%c[ui_8]I have an important mission available. Freedom has taken over one of the camps we have an interest for. I need a man to go to %c[ui_orange]Army Warehouses%c[ui_8] and take control of the area.\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="bar_dolg_leader_task_2_finish">
+		<text>The task is done? Good job.</text>
+	</string>
+
+	<!-- ASSAULT TERRITORY 1 FOR DUTY LEADER TASK -->
+	<string id="bar_dolg_leader_task_3_name">
+		<text>Eliminate Merc Camp for Voronin</text>
+	</string>
+	<string id="bar_dolg_leader_task_3_text">
+		<text>Hostile forces are encroaching on Duty territory. General Voronin has asked you to eliminate the threat.</text>
+	</string>
+	<string id="bar_dolg_leader_task_3_about">
+		<text>%c[ui_8]I've learned that a group of mercenaries has blocked one of the roads to Yantar. They're shooting at stalkers without warning and refuse to talk. I need experienced fighters to handle this problem. The enemy's location is %c[ui_orange]Wild Territory%c[ui_8]. Keep in mind, we can't waste time. Are you in?\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="bar_dolg_leader_task_3_finish">
+		<text>Excellent work. You are a fine warrior.</text>
+	</string>
+
+	<!-- ASSAULT TERRITORY 2 FOR DUTY LEADER TASK -->
+	<string id="bar_dolg_leader_task_4_name">
+		<text>Assault Territory for Voronin</text>
+	</string>
+	<string id="bar_dolg_leader_task_4_text">
+		<text>You have been tasked to eliminate the enemy and report back to General Voronin after the job is done.</text>
+	</string>
+	<string id="bar_dolg_leader_task_4_about">
+		<text>%c[ui_8]Our patrol spotted enemy forces at %c[ui_orange]Truck Cemetery%c[ui_8]. We don't appreciate having them right up our asses. The task is to eliminate any hostile in the area.\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="bar_dolg_leader_task_4_finish">
+		<text>The task is done? Good job.</text>
+	</string>
+
+	<!-- GET ITEM FROM STASH FOR DUTY LEADER TASK -->
+	<string id="bar_dolg_leader_task_5_name">
+		<text>Take the USB stick from the stash and bring it to Voronin</text>
+	</string>
+	<string id="bar_dolg_leader_task_5_text">
+		<text>Go to the specified location, take the USB stick from the stash, and bring it to Voronin.</text>
+	</string>
+	<string id="bar_dolg_leader_task_5_about">
+		<text>%c[ui_8]One of our fighters has infiltrated the anarchists base to gather intelligence. The agent is forced to act with extreme caution, avoiding unnecessary contact with our people and leaving information in special drop points. I have the coordinates of a stash where you need to retrieve a flash drive with the data. Will you take the job?</text>
+	</string>
+	<string id="bar_dolg_leader_task_5_finish">
+		<text>Excellent, you did well. Here's your reward.</text>
+	</string>
+
+
+	<!-- ASSASSINATE BANDIT FOR DUTY TRADER TASK -->
+	<string id="bar_dolg_general_petrenko_stalker_task_1_name">
+		<text>Assassinate Bandit for Petrenko</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_1_text">
+		<text>General Petrenko has ordered you to find and eliminate one of the Bandits.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_1_about">
+		<text>%c[ui_8]I have a list of criminals that need...taken care of. VIP, informants or just plain scum. Extract information if you can, otherwise kill-on-sight.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_1_finish">
+		<text>Great! You do us proud. Here is what I promised.</text>
+	</string>
+
+	<!-- ASSASSINATE FREEDOM FOR DUTY TRADER TASK -->
+	<string id="bar_dolg_general_petrenko_stalker_task_2_name">
+		<text>Assassinate a Freedomer for Petrenko</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_2_text">
+		<text>General Petrenko has ordered you to find and eliminate one of the Freedomers.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_2_about">
+		<text>%c[ui_8]There are some high-ranking Freedom members and squad leaders who are too "curious" and should be taught a lesson.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_2_finish">
+		<text>Great! Here is your reward.</text>
+	</string>
+
+	<!-- HUNT MUTANTS FOR DUTY TRADER TASK -->
+	<string id="bar_dolg_general_petrenko_stalker_task_3_name">
+		<text>Eliminate Mutant Threat for Petrenko</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_3_text">
+		<text>Mutants have been spotted near this location, making the area dangerous. You have been tasked to eliminate the mutant threat within the area. Report back after the job is done.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_3_about">
+		<text>%c[ui_8]Are you an avid hunter? We've been looking for someone to clear out mutants in areas that our faction frequents. Would you like the job?\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_3_finish">
+		<text>Fantastic! Here is your payment.</text>
+	</string>
+
+	<!-- FIND MUTANT PARTS FOR DUTY TRADER TASK -->
+	<string id="bar_dolg_general_petrenko_stalker_task_4_name">
+		<text>Collect %s for Petrenko</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_4_text">
+		<text>Petrenko says he will pay well if I can bring him a %s.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_4_about">
+		<text>I have a bounty out on a mutant. Are you interested?</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_4_fetch_about">
+		<text>%c[ui_8]We are always hunting for dangerous mutants in the Zone. Kill one of those and bring me its %c[ui_orange]%s%c[ui_8] and I will pay you well, stalker.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_4_fetch_finish">
+		<text>Ah, another threat eliminated. Well done, stalker.</text>
+	</string>
+
+	<!-- HEAD HUNTING FOR DUTY TRADER TASK -->
+	<string id="bar_dolg_general_petrenko_stalker_task_5_name">
+		<text>Long-standing feud</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_5_text">
+		<text>%s from killed Freedomers.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_5_about">
+		<text>Kill several Freedom stalkers and bring their patches as proof.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_5_fetch_about">
+		<text>%c[ui_8]I pay for the heads of our old enemies. %c[ui_orange]%s%c[ui_8] from a dozen Freedomers will serve as proof of the duty fulfilled.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_5_fetch_finish">
+		<text>Good job! Here is your payment.</text>
+	</string>
+
+
+	<!-- HEAD HUNTING 2 FOR DUTY TRADER TASK -->
+	<string id="bar_dolg_general_petrenko_stalker_task_6_name">
+		<text>Manhunt for Bandits</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_6_text">
+		<text>%s from killed Bandits for Petrenko.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_6_about">
+		<text>Kill several bandits and bring their patches as proof.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_6_fetch_about">
+		<text>%c[ui_8]Too many problems have been caused by bandit gangs. I offer a good reward for help in reducing their numbers. %c[ui_orange]%s%c[ui_8] from the bodies of ten slain bandits will serve as proof of a job well done.</text>
+	</string>
+	<string id="bar_dolg_general_petrenko_stalker_task_6_fetch_finish">
+		<text>Well done, stalker! One less gang of bandits.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR DUTY MECHANIC TASK -->
+	<string id="bar_visitors_stalker_mechanic_task_1_name">
+		<text>Find %s for Mangun</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_1_text">
+		<text>%s are required by Mangun to install basic equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_1_about">
+		<text>I can really use a good set of tools, stalker...and maybe some money. If you are interested in helping me out, I will tell you what I am looking for.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_1_fetch_about">
+		<text>%c[ui_8]I need a set of %c[ui_orange]%s%c[ui_8]. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_1_fetch_finish">
+		<text>Cool dude...uh, sorry I can't pay you. I'll give you a good discount though, man!</text>
+	</string>
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR DUTY MECHANIC TASK -->
+	<string id="bar_visitors_stalker_mechanic_task_2_name">
+		<text>Find %s for Mangun</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_text">
+		<text>%s are required by Mangun to install advanced equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_about">
+		<text>Hey, dude, if you happen to find some more advanced tools I will give you a discount. Will you keep a lookout for me?</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_fetch_about">
+		<text>%c[ui_8]I need a set of %c[ui_orange]%s%c[ui_8]. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_2_fetch_finish">
+		<text>Great...GREAT! Now maybe I can make some damn money. I'm gonna be BIG time, stalker...if I can just get my act together. I don't have much to offer you other then a discount. Sorry, bud.</text>
+	</string>
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR DUTY MECHANIC TASK -->
+	<string id="bar_visitors_stalker_mechanic_task_3_name">
+		<text>Find %s for Mangun</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_3_text">
+		<text>%s are required by Mangun to install expert equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_3_about">
+		<text>Hey, dude, if you happen to find some more advanced tools I will give you a discount. Will you keep a lookout for me?</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_3_fetch_about">
+		<text>%c[ui_8]I need a set of %c[ui_orange]%s%c[ui_8]. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_3_fetch_finish">
+		<text>Great...GREAT! Now maybe I can make some damn money. I'm gonna be BIG time, stalker...if I can just get my act together. I don't have much to offer you other then a discount. Sorry, bud.</text>
+	</string>
+
+	<!-- FIND WEAPON FOR DUTY MECHANIC TASK -->
+	<string id="bar_visitors_stalker_mechanic_task_4_name">
+		<text>Find a %s for Mangun</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_4_text">
+		<text>Kirilov asked for a %s. It needs to be in good condition.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_4_about">
+		<text>I need a certain gun. If you are interested in the job, I will give you more details. What would you say?</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_4_fetch_about">
+		<text>%c[ui_8]For weapon modification I need good condition pistols and rifles. Right now I am looking for a %c[ui_orange]%s%c[ui_8]. If you find one - bring it to me! To improve the weapon condition use a %c[ui_orange]gunsmith kit%c[ui_8] or ask for my help, but it won't be free.</text>
+	</string>
+	<string id="bar_visitors_stalker_mechanic_task_4_fetch_finish">
+		<text>Great! Exactly what I need.</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+
+	<string id="ui_st_sleep"><text>在极度疲劳时, 角色需要8小时睡眠</text></string>
+	
+	<string id="ui_mm_menu_clicks"><text>菜单点击音效</text></string>	
+	
+	<string id="ui_mm_hold_breath"><text>屏息</text></string>
+	
+	<string id="ui_mm_suppression"><text>压制效果</text></string>	
+
+	<string id="ui_st_move_items"><text>要一次性移动或购买多个物品, 请按住左CTRL或左ALT或左SHIFT + 在目标物品上双击鼠标左键</text></string>
+	
+	<string id="st_new_game_msg"><text>开始游戏前, 强烈建议阅读"FAQ"和"特性、技巧与缺陷"文件 (位于Readme ENG文件夹内) , 以及PDA中的"指南". 祝游戏愉快! </text></string>	
+	
+	<string id="ui_st_unbind"><text>要重置特定按键, 请将光标悬停其上并按%c[255,216,186,140]鼠标右键</text></string>	
+	
+	<string id="ui_st_defaults"><text>要重置所有设置, 请删除%c[255,216,186,140]datafiles%c[default]文件夹中的%c[255,216,186,140]user.ltx%c[default]文件. \n \n大多数选项都有工具提示 (将光标悬停在选项名称上) </text></string>		
+	
+	<string id="ui_st_hint_opt"><text>本部分某些选项仅在游戏开始后可用</text></string>	
+	
+	<string id="ui_mm_cryray_static_geom"><text>静态物体优化</text></string>
+	
+	<string id="ui_mm_cryray_static_geom_hint"><text>负责静态 (固定) 物体的可见范围. 数值越高, 可见范围越小. \n \n默认: %c[255,216,186,140]"1"\n \n%c[default]对帧率影响: %c[ui_green]低</text></string>		
+	
+	<string id="ui_mm_cryray_dynamic_geom"><text>动态物体优化</text></string>	
+	
+	<string id="ui_mm_cryray_dynamic_geom_hint"><text>负责动态 (移动) 物体的可见范围. 数值越高, 可见范围越小. \n \n默认: %c[255,216,186,140]"1"\n \n%c[default]对帧率影响: %c[ui_green]低</text></string>		
+	
+	<string id="ui_mm_cryray_graphics_opt_3"><text>远景纹理质量</text></string>
+	
+	<string id="ui_mm_cryray_graphics_opt_3_hint"><text>负责远处纹理渲染的质量和范围. \n \n默认: %c[255,216,186,140]"62"\n \n%c[default]对帧率影响: %c[ui_green]极低</text></string>	
+	
+	<string id="ui_mm_cryray_graphics_opt_5"><text>各向异性过滤</text></string>
+	
+	<string id="ui_mm_cryray_graphics_opt_5_hint"><text>这项技术能改善纹理在斜角或远距离视角下的显示效果. \n \n默认: %c[255,216,186,140]"8"\n \n%c[default]对帧率影响: %c[ui_green]低</text></string>		
+	
+	<string id="ui_mm_cryray_graphics_opt_9"><text>抗锯齿类型</text></string>
+	
+	<string id="ui_mm_cryray_graphics_opt_9_hint"><text>这项技术能减少物体上的"锯齿"边缘 (走样) , 使线条和轮廓更平滑真实. \n \n默认: %c[255,216,186,140]"禁用"\n \n%c[default]对帧率影响: %c[ui_orange]高</text></string>		
+	
+	<string id="ui_mm_cryray_graphics_opt_20"><text>太阳光线</text></string>
+	
+	<string id="ui_mm_cryray_graphics_opt_20_hint"><text>此选项负责显示阳光的体积光效果. \n \n默认: %c[255,216,186,140]"体积光"\n \n%c[default]对帧率影响: %c[ui_yellow]中</text></string>	
+	
+	<string id="ui_mm_cryray_graphics_opt_24"><text>帧数计数器</text></string>
+	
+	<string id="ui_mm_cryray_graphics_opt_24_hint"><text>在屏幕左下角显示帧数计数器. \n \n默认: %c[255,216,186,140]"启用"</text></string>		
+	
+	<string id="ui_mm_cryray_graphics_opt_33"><text>玩家阴影</text></string>
+	
+	<string id="ui_mm_cryray_graphics_opt_33_hint"><text>此选项负责显示玩家阴影. \n \n默认: %c[255,216,186,140]"禁用"\n \n%c[default]对帧率影响: %c[ui_green]极低</text></string>	
+	
+	<string id="ui_mm_cryray_graphics_opt_34"><text>草地阴影</text></string>
+	
+	<string id="ui_mm_cryray_graphics_opt_34_hint"><text>此选项负责显示草地阴影. \n \n默认: %c[255,216,186,140]"禁用"\n \n%c[default]对帧率影响: %c[ui_green]低</text></string>
+	
+	<string id="ui_mm_cryray_graphics_opt_101"><text>瞄准景深</text></string>
+	
+	<string id="ui_mm_cryray_graphics_opt_101_hint"><text>负责瞄准时的图像模糊效果. \n \n默认: %c[255,216,186,140]"禁用"</text></string>	
+	
+	<string id="ui_mm_cryray_graphics_opt_102"><text>装弹景深</text></string>
+	
+	<string id="ui_mm_cryray_graphics_opt_102_hint"><text>负责装弹时的图像模糊效果. \n \n默认: %c[255,216,186,140]"启用"</text></string>		
+	
+	<string id="ui_mm_cryray_graphics_opt_103"><text>天气景深</text></string>
+	
+	<string id="ui_mm_cryray_graphics_opt_103_hint"><text>负责地平线处的图像模糊效果. \n \n默认: %c[255,216,186,140]"启用"</text></string>	
+	
+	<string id="ui_mm_cryray_graphics_opt_104"><text>垂直同步</text></string>
+	
+	<string id="ui_mm_cryray_graphics_opt_104_hint"><text>这项技术旨在消除画面撕裂. 它能同步显示器刷新率与游戏帧率. \n \n默认: %c[255,216,186,140]"禁用"</text></string>	
+	
+	<string id="ui_mm_cryray_dof_animator"><text>物品景深</text></string>
+
+	<string id="ui_mm_cryray_dof_animator_hint"><text>负责物品 (医疗品、食物等) 动画播放时的图像模糊效果. \n \n默认: %c[255,216,186,140]"启用"</text></string>	
+	
+	<string id="ui_mm_cryray_3d_scopes"><text>画中画瞄准镜</text></string>
+	
+	<string id="ui_mm_cryray_3d_scopes_hint"><text>启用画中画瞄准镜显示功能. \n \n默认: %c[255,216,186,140]"启用"\n \n%c[default]对帧率影响: %c[ui_red]极高</text></string>				
+	
+	<string id="ui_mm_cryray_mipbias"><text>纹理锐度</text></string>
+	
+	<string id="ui_mm_cryray_mipbias_hint"><text>影响游戏世界中应用于3D模型和表面的纹理细节层次与清晰度. \n \n默认: %c[255,216,186,140]"0"\n \n%c[default]对帧率影响: %c[ui_green]极低</text></string>
+
+	<string id="ui_mm_cryray_mask_hud"><text>防毒面具着色器</text></string>	
+
+	<string id="ui_mm_cryray_mask_hud_hint"><text>负责显示佩戴内置头盔的头盔或防护服时的"雾化边缘"和雨滴效果. \n \n默认: %c[255,216,186,140]"启用"\n \n%c[default]对帧率影响: %c[ui_yellow]中等</text></string>		
+	
+	<string id="ui_mm_need_restart_level"><text>应用更改需要重启关卡. 您可以保存并加载当前游戏进度</text></string>
+	
+	<string id="sunshafts_off"><text>禁用</text></string>
+	
+	<string id="sunshafts_screen_space"><text>屏幕空间</text></string>
+	
+	<string id="sunshafts_volumetric"><text>体积光</text></string>
+	
+	<string id="sunshafts_combine"><text>屏幕空间+体积光</text></string>
+	
+	<string id="ui_mm_monitor"><text>窗口模式</text></string>	
+	
+	<string id="windowed"><text>窗口化</text></string>
+	
+	<string id="windowed_borderless"><text>无边框</text></string>
+	
+	<string id="fullscreen"><text>全屏</text></string>
+	
+	<string id="off"><text>禁用</text></string>
+	
+	<string id="ui_mm_cryray_map_zoom"><text>小地图缩放</text></string>
+	
+	<string id="fxaa"><text>快速近似抗锯齿</text></string>
+	
+	<string id="smaa"><text>增强型子像素形态学抗锯齿</text></string>
+	
+	<string id="ui_mm_pdaoff"><text>排放期间禁用PDA</text></string>
+	
+	<string id="ui_mm_pdaoff1"><text>地下设施中禁用PDA</text></string>
+	
+	<string id="ui_mm_sprint"><text>按住冲刺</text></string>
+	
+	<string id="ui_mm_lookout"><text>按下时倾斜</text></string>		
+	
+	<string id="ui_mm_gameplay_ui"><text>界面</text></string>
+	
+	<string id="ui_mm_fov_scope"><text>瞄准镜视场角</text></string>
+	
+	<string id="ui_mm_dead_body_collision"><text>身体碰撞</text></string>
+	
+	<string id="ui_mm_actor_hit"><text>伤口效果</text></string>
+	
+	<string id="ui_mm_actor_bleeding"><text>流血效果</text></string>
+	
+	<string id="ui_mm_actor_effects"><text>健康状态效果</text></string>
+	
+	<string id="ui_mm_actor_death_first_eye"><text>第一人称死亡</text></string>
+	
+	<string id="ui_mm_cop_pickup_mode"><text>拾取所有物品</text></string>
+	
+	<string id="ui_mm_update_loot_pick_soc"><text>库存更新</text></string>
+	
+	<string id="ui_mm_wallmarks"><text>尸体上的弹孔</text></string>
+	
+	<string id="ui_mm_mode_crosshair"><text>准星模式</text></string>
+	
+	<string id="standart_crosshair"><text>标准</text></string>
+	
+	<string id="collide_crosshair"><text>碰撞</text></string>
+	
+	<string id="inertion_crosshair"><text>惯性</text></string>
+	
+	<string id="ui_mm_type_crosshair"><text>准星类型</text></string>
+	
+	<string id="type_crosshair_0"><text>标准</text></string>
+	
+	<string id="type_crosshair_1"><text>点状</text></string>
+	
+	<string id="type_crosshair_2"><text>紧凑型</text></string>
+	
+	<string id="type_crosshair_3"><text>紧凑型替代</text></string>
+	
+	<string id="ui_mm_disable_minimap"><text>禁用小地图</text></string>
+	
+	<string id="actor_only"><text>玩家</text></string>
+	
+	<string id="full"><text>全部</text></string>
+	
+	<string id="af_deterioration_cond"><text>电量损耗</text></string>
+
+	<string id="npc_dead_character_use"><text>搜索尸体($$ACTION_USE$$)</text></string>
+
+	<string id="monster_dead_character_use"><text>检查($$ACTION_USE$$)</text></string>
+	
+	<string id="ui_inv_thirst"><text>饱和度</text></string>
+	
+	<string id="ui_inv_sleep"><text>活力</text></string>
+	
+	<string id="st_pda_change_spot_hint"><text>更改标签名称</text></string>
+	
+	<string id="st_pda_delete_spot"><text>删除标签</text></string>
+	
+	<string id="st_zone"><text>地图已更新: %s</text></string>
+	
+	<string id="ui_mm_discord"><text>Discord集成</text></string>
+	
+	<string id="ui_mm_fast_travel"><text>快速旅行</text></string>	
+	
+	<string id="st_ui_pda_companion"><text>同伴</text></string>
+	
+	<string id="ui_mm_aim_toggle"><text>按下瞄准</text></string>
+	
+	<string id="ui_minimap_alpha"><text>小地图透明度</text></string>
+	
+	<string id="ui_camera_shake"><text>镜头抖动</text></string>	
+	
+	<string id="ui_mm_render_setup"><text>图像设置</text></string>
+	
+	<string id="ui_mm_fov_setup"><text>镜头设置</text></string>
+	
+	<string id="ui_mm_other_setup"><text>小地图设置</text></string>	
+	
+	<string id="ui_mm_sound_base"><text>主要设置</text></string>
+	
+	<string id="ui_mm_sound_other"><text>附加设置</text></string>
+	
+	<string id="ui_mm_mouse_sense_aim"><text>3D镜头灵敏度</text></string>
+	
+	<string id="st_loading_shaders_cryray_engine"><text>加载着色器...</text></string>
+	
+	<string id="st_loading_geometry_cryray_engine"><text>加载几何体...</text></string>
+	
+	<string id="st_loading_spatial_db_cryray_engine"><text>加载空间数据库...</text></string>
+	
+	<string id="st_loading_details_cryray_engine"><text>加载位置细节...</text></string>
+	
+	<string id="st_loading_cform_cryray_engine"><text>加载几何形状...</text></string>
+	
+	<string id="st_creating_new_game_cryray_engine"><text>创建新游戏...</text></string>
+	
+	<string id="st_loading_alife_simulator_cryray_engine"><text>加载A-Life模拟...</text></string>
+	
+	<string id="st_client_synchronising_cryray_engine"><text>对象同步...</text></string>
+	
+	<string id="st_loading_ai_objects_cryray_engine"><text>加载活动对象逻辑...</text></string>	
+	
+	<string id="st_client_spawning_cryray_engine"><text>客户端同步...</text></string>
+	
+	<string id="st_loading_textures_cryray_engine"><text>加载纹理...</text></string>
+	
+	<string id="st_server_starting_cryray_engine"><text>服务器启动...</text></string>
+	
+	<string id="st_loading_lights_cryray_engine"><text>加载光照...</text></string>
+	
+	<string id="st_loading_saved_game_cryray_engine"><text>加载存档: </text></string>	
+	
+	<string id="st_task_info"><text>附加信息: </text></string>		
+
+</string_table>

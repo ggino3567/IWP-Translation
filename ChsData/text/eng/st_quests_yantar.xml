@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	<!-- FIND DETECTORS FOR KRUGLOV TASK -->
+	<string id="yan_ecolog_kruglov_task_1_name"><text>为克鲁格洛夫寻找探测器</text></string>
+	<string id="yan_ecolog_kruglov_task_1_text"><text>%s - 克鲁格洛夫所需, 你应找些带回给他. </text></string>
+	<string id="yan_ecolog_kruglov_task_1_about"><text>在特异区环境下, 我们的仪器和电子设备损耗速度远超预期, 这迫使我们必须拆解废弃设备获取零件. 为此我收购旧探测器. </text></string>
+	<string id="yan_ecolog_kruglov_task_1_fetch_about"><text>%c[ui_8]在特异区环境下, 我们的仪器和电子设备损耗速度远超预期. 晶体管和二极管频繁故障, 迫使我们拆解废弃设备获取零件. 旧探测器正适合此用. 我需要, 比如说, %c[ui_orange]%s%c[ui_8]这类. 带几个过来, 我保证付酬. </text></string>
+	<string id="yan_ecolog_kruglov_task_1_fetch_finish"><text>太好了! 感谢你的协助. </text></string>
+
+
+	<!-- ESCORT SEMENOV -->
+	<string id="yan_ecolog_semenov_task_1_name"><text>护送塞梅诺夫</text></string>
+	<string id="yan_ecolog_semenov_task_1_text"><text>塞梅诺夫助理和你签订了合同,让你护送他,并在当地杀死变种生物,这样他就可以取回新鲜的组织样本,并用扫描设备对尸体进行分析.</text></string>
+	<string id="yan_ecolog_semenov_task_1_about"><text>你介意帮我杀几个变种生物吗?这样我就能收集数据和组织样本了,比方说...大约五个不同的变种生物.我把我的命交到你手上了,你得保证我的安全,当然,我会给你报酬的.</text></string>
+	<string id="yan_ecolog_semenov_task_1_finish"><text>谢谢你的帮助,朋友.我搞到我需要的所有组织样本了,这是你的报酬...有空再来找我.</text></string>
+
+
+	<!-- FIND ARTEFACT FOR SAKHAROV TASK -->
+	<string id="yan_stalker_sakharov_task_1_name"><text>找到%s</text></string>
+	<string id="yan_stalker_sakharov_task_1_text"><text>萨哈罗夫需要%s.</text></string>
+	<string id="yan_stalker_sakharov_task_1_about"><text>我需要一个有经验的潜行者或者猎人,你是吗? </text></string>
+	<string id="yan_stalker_sakharov_task_1_fetch_about"><text>我需要%s.我不管你怎么弄到的,只要保证是新鲜的就行,从变种生物那里拿到我要的东西后.尽快赶过来.</text></string>
+	<string id="yan_stalker_sakharov_task_1_fetch_finish"><text>谢谢您,先生.这对我的研究大有帮助.</text></string>
+
+	<!-- FIND MUTANT PART FOR SAKHAROV TASK -->
+	<string id="yan_stalker_sakharov_task_2_name"><text>找到一个%s神器</text></string>
+	<string id="yan_stalker_sakharov_task_2_text"><text>你被要求找到%s神器.如果你碰巧拿到了,就把它带回给萨哈罗夫.</text></string>
+	<string id="yan_stalker_sakharov_task_2_about"><text>我需要一些神器来做研究.如果你感兴趣,我就细说一下.</text></string>
+	<string id="yan_stalker_sakharov_task_2_fetch_about"><text>我需要某些类型的神器来做一些研究.例如%s.你听说过吗? 如果你把它带给我,你会得到一份丰厚的回报.</text></string>
+	<string id="yan_stalker_sakharov_task_2_fetch_finish"><text>谢谢您,先生.这对我的研究大有帮助.</text></string>
+
+	<!-- FIND RARE MUTANT PART FOR SAKHAROV TASK -->
+	<string id="yan_stalker_sakharov_task_3_name"><text>为萨哈罗夫寻找%s</text></string>
+	<string id="yan_stalker_sakharov_task_3_text"><text>萨哈罗夫需要%s的组织样本. </text></string>
+	<string id="yan_stalker_sakharov_task_3_about"><text>为进行科学研究, 我需要特定变异体的组织样本. 若你有兴趣, 我会提供更多细节. </text></string>
+	<string id="yan_stalker_sakharov_task_3_fetch_about"><text>%c[ui_8]为进行科学研究, 我需要特定变异体的组织样本, 具体是...%c[ui_orange]%s%c[ui_8]. 我明白这种生物极度危险, 你将冒生命风险, 但请想想你能为科学和人类带来的巨大贡献! 取得样本后请尽快返回. 你的报酬已备好. </text></string>
+	<string id="yan_stalker_sakharov_task_3_fetch_finish"><text>谢谢你, 年轻人. 你对研究的贡献无可估量! </text></string>
+
+
+	<!-- WAIT FOR PSI HELMET CALIBRATION TASK -->
+	<string id="yan_stalker_sakharov_psi_helmet_upgrade_name"><text>领取PSI头盔</text></string>
+	<string id="yan_stalker_sakharov_psi_helmet_upgrade_text"><text>萨哈罗夫教授同意重新校准超自然保护头盔,他让你过几天再来取.</text></string>
+
+
+	<!-- TURN OFF MIRACLE MACHINE TASK -->
+	<string id="brain_machine_deactivate_name"><text>关掉奇迹发生装置</text></string>
+	<string id="brain_machine_deactivate_text"><text>奇迹发生装置可以阻止跟潜行者在杨塔和死城之间穿梭.关掉它需要先进的PSI保护设备.</text></string>
+
+</string_table>

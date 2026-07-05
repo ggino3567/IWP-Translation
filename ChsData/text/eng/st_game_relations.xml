@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	<!-- Communities -->
+	<string id="ui_st_community"><text>派系</text></string>
+	<!-- Actor Factions -->
+	<string id="actor"><text>独行者</text></string>
+	<string id="actor_bandit"><text>强盗</text></string>
+	<string id="actor_csky"><text>晴空</text></string>
+	<string id="actor_dolg"><text>纪律团</text></string>
+	<string id="actor_ecolog"><text>科学家</text></string>
+	<string id="actor_freedom"><text>自由团</text></string>
+	<string id="actor_killer"><text>雇佣兵</text></string>
+	<string id="actor_stalker"><text>独行者</text></string>
+	<string id="actor_army"><text>军方</text></string>
+	<string id="actor_monolith"><text>黑石</text></string>
+	<string id="actor_monster"><text>变种生物</text></string>
+	<string id="actor_zombied"><text>僵尸</text></string>
+  <string id="actor_arena_enemy"><text>竞技场参与者</text></string>	
+	<!-- NPC Factions -->
+	<string id="army"><text>军方</text></string>
+	<string id="bandit"><text>强盗</text></string>
+	<string id="csky"><text>晴空</text></string>
+	<string id="dolg"><text>纪律团</text></string>
+	<string id="ecolog"><text>科学家</text></string>
+	<string id="freedom"><text>自由团</text></string>
+	<string id="killer"><text>雇佣兵</text></string>
+	<string id="monolith"><text>黑石</text></string>
+	<string id="monster"><text>突变体</text></string>
+	<string id="zombied"><text>僵尸</text></string>
+
+	<!-- Goodwill -->
+	<string id="ui_st_relation"><text>关系</text></string>
+	<string id="st_goodwill_enemy"><text>敌人</text></string>
+	<string id="st_goodwill_indifferent"><text>中立</text></string>
+	<string id="st_goodwill_friendly"><text>友好</text></string>
+
+	<!-- Ranks -->
+	<string id="ui_st_rank"><text>等级</text></string>
+	<string id="st_rank_novice"><text>菜鸟</text></string>
+	<string id="st_rank_trainee"><text>入门</text></string>
+	<string id="st_rank_experienced"><text>老手</text></string>
+	<string id="st_rank_professional"><text>专业</text></string>
+	<string id="st_rank_veteran"><text>老兵</text></string>
+	<string id="st_rank_expert"><text>专家</text></string>
+	<string id="st_rank_master"><text>大师</text></string>
+	<string id="st_rank_legend"><text>传奇</text></string>
+	
+	<!-- Reputations -->
+	<string id="ui_st_reputation"><text>声望</text></string>
+	<string id="st_reputation_terrible"><text>可怕</text></string>
+	<string id="st_reputation_really_bad"><text>稀烂</text></string>
+	<string id="st_reputation_very_bad"><text>糟糕</text></string>
+	<string id="st_reputation_bad"><text>坏</text></string>
+	<string id="st_reputation_neutral"><text>中立</text></string>
+	<string id="st_reputation_good"><text>好</text></string>
+	<string id="st_reputation_very_good"><text>很好</text></string>
+	<string id="st_reputation_really_good"><text>辉煌</text></string>
+	<string id="st_reputation_excellent"><text>卓越</text></string>
+	
+	<!-- Notifications -->
+	<string id="st_rank_increased"><text>您的等级提高了</text></string>
+	<string id="st_rank_decreased"><text>你的等级下降了</text></string>
+	<string id="st_reputation_increased"><text>您的声誉有所提高</text></string>
+	<string id="st_reputation_decreased"><text>你的名声下降了</text></string>
+	<string id="ui_st_dney"><text>特异区存活时间</text></string>		
+</string_table>

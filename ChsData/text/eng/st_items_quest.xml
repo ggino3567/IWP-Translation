@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<string_table>
+
+	<string id="bad_psy_helmet_name"><text>尚未校准的Psi防护头盔</text></string>
+	<string id="bad_psy_helmet_desc"><text>由科学家研发用来保护人们避免Psi-电磁辐射的防护装置. 尚未经过校准.</text></string>
+
+	<string id="good_psy_helmet_name"><text>Psi防护头盔</text></string>
+	<string id="good_psy_helmet_desc"><text>由科学家研发用来保护人们避免Psi-电磁辐射的防护装置,已经过校准.</text></string>
+
+	<string id="cit_doctors_key_name"><text>博士的钥匙</text></string>
+	<string id="cit_doctors_key_desc"><text>一把在侧面刻有"波利西亚酒店 - 26号房间"的钥匙.</text></string>
+	<string id="cit_doctors_key_short_desc"><text>博士在普里皮亚季的秘密藏匿处的钥匙.</text></string>
+
+	<string id="item_docs_hiden_pri_name"><text>史特列洛克的手稿</text></string>
+	<string id="item_docs_hiden_pri_desc"><text>皮制品装订的破旧手稿, 由史特列洛克所书写. 依据标题来看, 它应该可以解释某些特异区的秘密.</text></string>
+
+	<string id="cit_doctors_pda_name"><text>博士的笔记</text></string>
+	<string id="cit_doctors_pda_desc"><text>关于一些旧阴谋论的笔记.\n\n有传闻说, 在2006年发生事故前的几年里, 农研所曾作为非政府控制的秘密实验室. 这个实验室主导了许多非比寻常的实验. 交易商们挖掘了许多关于这些实验室的情报. 我见到了酒保, 他说他派了几个纪律团侦察员去了黑暗山谷地下一个叫X-18的地下实验室, 但是他们消失了. 还有另一个关于"psy大脑"机器的传言. 杨塔整个地区都受到了那东西的影响: 它把范围内的所有活人都变成了僵尸. 而在红森林雷达站的地下叫做X19(X10)实验室的地方还有一个装置, 这很可能就是焦脑器. 有证据表明, 焦脑器的存在是为了阻挡了通往北方的道路, 但是没人确切的知道它的本质是什么. 酒保认为, 焦脑器是人为的, 这些装置并没有一直完全发挥作用. 他觉得有一段时间它们的功率变小了, 应该是装置冷却的原因. 现在去探索特异区所有的地下实验室还不迟, 应该去找出他们隐藏着什么样的秘密. 太可惜了, 我太老了, 已经不适合做这样的事情了. 我真希望史特列洛克还在, 但是该死的, 他失踪好几年了.</text></string>
+
+	<string id="item_decoder_name"><text>解码器</text></string>
+	<string id="item_decoder_desc"><text>强力的电子开锁器. 奇怪的是, 它看起来不像是给强盗用的全方位工具. 应该说, 它是一个特别的电子开锁器, 只能用在特别的东西上. </text></string>
+
+	<string id="pri_decoder_docs_conclusion_txt"><text>这份手稿包含了一份简短的报告, 内容是方和史特列洛克如何潜入一个隐秘的实验室, 以及他们在里面的旅程. 它提到了切尔诺贝利核电站内部和周围存在着大量的黑石. 更具体的说, 在石棺下面也许就是他们的老巢. 他们试图隐藏着什么东西. 继续读下去后, 你发现他们注意到发电机北面有个地下实验室, 可是由于需要解码器才能进入, 所以他们在写报告的时候还无法进去.</text></string>
+
+	<string id="item_quest_case_02_name"><text>军事文件</text></string>
+	<string id="item_quest_case_02_desc"><text>一个防火公文包, 里面有军方文件和在农研所附近调查的报告. 这些报告详细描述了研究所里的机械和设备是如何失踪的, 还说明了对其下落的调查结果是明显伪造的.</text></string>
+
+	<string id="item_doc_x18_name"><text>生物研究报告</text></string>
+	<string id="item_doc_x18_desc"><text>这份报告详细介绍了从X-18实验室里发来的生物样本的研究情况. 该报告细致地描述了暴露于风暴后生物的突变.</text></string>
+
+	<string id="item_doc_x16_name"><text>PSI研究文件</text></string>
+	<string id="item_doc_x16_desc"><text>这份报告提到了生物研究的另外发现, 特别是指生物能产生定向psy风暴的发现. 并把X16实验室作为这项重大发现的实验场地, 生物场发射器的本质其实是一个巨大的大脑.</text></string>
+
+	<string id="item_doc_x10_name"><text>彩虹发射器文件</text></string>
+	<string id="item_doc_x10_desc"><text>这些文件描写了雷达的技术特性以及与他们计划设计的偏差. 背面有一张便条, 表明这些文件是为X19实验室准备的.</text></string>
+
+	<string id="item_doc_x8_name"><text>转移命令</text></string>
+	<string id="item_doc_x8_desc"><text>该文件提到研究小组和所有资料将会转移到北方很远的另一个实验室里, 该实验室将用于研究"智域"的有关影响. 要进入实验室, 请使用核事故日期作为密码(ddmmyyyy).\n \n研究团队包括: N.A.列别捷夫, E.F.卡南查和V.I.苏斯洛夫.</text></string>
+
+	<string id="item_doc_jup_ug_name"><text>实验笔记本</text></string>
+	<string id="item_doc_jup_ug_desc"><text>这本笔记内容详细描述了一个评估psy辐射对"智域"影响的实验. 加勒比海的一组科学家收到了这个信号, 但是它被扭曲了. 信号以一种奇怪的方式改变了, 好像被某人纠正了一样. 一个可能的解释是, "智域"的理论是正确的, 这些变化正是"智域"的所作所为</text></string>
+
+	<string id="item_doc_mon_con_name"><text>原型武器报告</text></string>
+	<string id="item_doc_mon_con_name_desc"><text>文件描述了先进电磁武器的工作原理和其主要技术特性.\n文件里面有张纸条. \n上面写着: "文件必须交回到X8中央实验室. 我很忙, 所以你自己去送吧". - N.A.列别捷夫"</text></string>
+
+	<!-- NEW QUEST ITEMS -->
+
+	<string id="quest_item_1_name"><text>文件档案夹</text></string>
+	<string id="quest_item_1_desc"><text>一个旧档案夹, 装着几张泛黄的纸张, 上面有模糊的技术信息和圆珠笔写的笔记. </text></string>
+
+	<string id="quest_item_2_name"><text>侦察小组PDA</text></string>
+	<string id="quest_item_2_desc"><text>一台严重磨损的PDA, 内含重要的军方情报. 尽管历经沧桑, 设备仍可运行. </text></string>
+
+	<string id="quest_item_3_name"><text>可疑的手提箱</text></string>
+	<string id="quest_item_3_desc"><text>一个紧闭的手提箱, 装有用途可疑的"特殊"医疗物资. 不清楚它是如何被运进特异区的. </text></string>
+
+	<string id="quest_item_4_name"><text>老旧电子设备</text></string>
+	<string id="quest_item_4_desc"><text>一个用途不明的老旧电子设备. 看起来已经无法正常工作. </text></string>
+
+	<string id="quest_item_5_name"><text>给纪律团的情报U盘</text></string>
+	<string id="quest_item_5_desc"><text>内含关于自由团重要情报的U盘, 由潜伏特工搜集. 数据已加密. </text></string>
+
+	<string id="quest_item_6_name"><text>给自由团的情报U盘</text></string>
+	<string id="quest_item_6_desc"><text>内含关于纪律团重要情报的U盘, 由潜伏特工搜集. 数据已加密. </text></string>
+
+</string_table>

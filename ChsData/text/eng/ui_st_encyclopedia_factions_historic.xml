@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	
+	<string id="encyclopedia_factions_historic"><text>派系 (曾经存在过的) </text></string>
+	
+	<string id="encyclopedia_factions_historic_final_day"><text>终焉之日</text></string>
+	<string id="encyclopedia_factions_historic_final_day_text"><text>%c[0,153,255,255]终焉之日%c[0,140,140,140] 是科学家的一个派别, 也被称为%c[0,153,255,255]最后一天%c[0,140,140,140], 或作为"%c[0,153,255,255]野生潜行者%c[0,140,140,140]".\n
+			\n%c[0,0,255,30]信息%c[0,140,140,140]
+			\n他们相信, 这个区域最终会带来世界末日, 随着每一次通过的排放, 它会扩张并占据更多的土地. \n
+			\n除了他们出于研究目的而对狩猎被同化的潜行者的迷恋, 以及他们现在被遗忘的领导人被一个叫幽灵的潜行者暗杀外, 对他们的了解甚少. \n
+			\n由于他们的活动发生在清除了大部分晴空的发射之后不久, 他们可能是一个小的分裂团体-幸存者, 他们从他们所目睹的事情中变得精神错乱. </text></string>
+	
+	<string id="encyclopedia_factions_historic_isg"><text>ISG</text></string>
+	<string id="encyclopedia_factions_historic_isg_text"><text>%c[0,140,140,140]的%c[0,153,255,255]国际科学小组%c[0,140,140,140] 是为了研究特异区而成立的\n
+			\n%c[0,0,255,30]信息%c[0,140,140,140]
+			\n在临时安全区突然出现之后, 联合国成立了一个新的研究机构, 其唯一目的就是研究和解释这一奇怪的新现象. \n
+			\n在遥远的北方, 六个大型发电机周围的一个区域被认为是最有科学意义的, 因此被选为他们探险的地点. \n
+			\n他们的工作只持续了几个月, 却被他们从未知道要准备的问题所困扰. \n
+			\n研究人员会被看不见的异常现象吞噬, 或者被可怕的变异野生动物蹂躏;还有一些人会莫名其妙地消失, 几天后才精神恍惚地回来, 试图杀死他们的同事. \n
+			\n探险队最终在完成了很少的任务后被关闭, 并导致了令人无法接受的高死亡人数. \n
+			\n乌克兰政府没有被他们的失败所吓倒, 成立了一个研究所来继续他们的工作-现在通常被称为生态学家. </text></string>
+	
+	<string id="encyclopedia_factions_historic_renegade"><text>反叛者</text></string>
+	<string id="encyclopedia_factions_historic_renegade_text"><text>%c[0,153,255,255]叛徒%c[0,140,140,140] 是特异区里最卑鄙的跟踪狂\n
+			\n%c[0,0,255,30]信息%c[0,140,140,140]
+			\n他们没有道德和底线, 主要由那些犯下滔天罪行的潜行者组成, 他们的原始派系将他们驱逐出境. \n
+			\n他们唯一尊重的法则就是武力, 在特异区的边缘捕食弱者, 通常是那些太年轻、太缺乏经验、没有任何机会与他们对抗的人. \n
+			\n被众多敌人逼入沼泽, 面对昊天, 求生的欲望才迫使这些豺狼人联合起来, 自成一派. </text></string>
+	
+</string_table>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<!-- MUTANT BODY PARTS -->
+	<string id="mutant_boar_leg">
+		<text>Boar hoof</text>
+	</string>
+	<string id="mutant_boar_leg_description">
+		<text>Boar hoofs are often worn by some stalkers around their necks as a good luck charm. Whilst others believe they have more 'exotic' uses when ground into a fine powder.\n \n%c[0,153,255,255] • %c[0,140,140,140] common sample of mutated tissue</text>
+	</string>
+	<string id="mutant_burer_hand">
+		<text>Burer hand</text>
+	</string>
+	<string id="mutant_burer_hand_description">
+		<text>The hands of a burer are directly linked to their psychic abilities, able to move objects, shield themselves and cause shock-waves from a distance. Naturally they are of particular interest to the Ecologists, and are very valuable.\n \n%c[0,100,100,255] • %c[0,140,140,140] rare sample of mutated tissue</text>
+	</string>
+	<string id="mutant_cat_tail">
+		<text>Cat tail</text>
+	</string>
+	<string id="mutant_cat_tail_description">
+		<text>Cats in the Zone are believe to have evolved from local population of wild Lynx. Theirs tails are carried by stalkers as a symbol of awareness, giving them at least some value unlike those of their canine counterparts.\n \n%c[0,153,255,255] • %c[0,140,140,140] common sample of mutated tissue</text>
+	</string>
+	<string id="mutant_chimera_claw">
+		<text>Chimera claw</text>
+	</string>
+	<string id="mutant_chimera_claw_description">
+		<text>Whilst able to tear through several sheets of Kevlar without struggle, they are often worn down through such extreme use, and much like their teeth, are shed and replaced frequently making them an inexpensive commodity.\n \n%c[0,100,100,255] • %c[0,140,140,140] rare sample of mutated tissue</text>
+	</string>
+	<string id="mutant_chimera_head">
+		<text>Chimera pseudo-head</text>
+	</string>
+	<string id="mutant_chimera_head_description">
+		<text>The so-called pseudo-head is an underdeveloped secondary cranial structure located adjacent to the primary one. Its function is presumed to be related to psi-resonance stabilization and the partial duplication of neural centers, although it remains insufficiently studied.\n \n%c[0,100,100,255] • %c[0,140,140,140] rare sample of mutated tissue</text>
+	</string>
+	<!--<string id="mutant_controller_brain">
+		<text>Controller brain</text>
+	</string>
+	<string id="mutant_controller_brain_description">
+		<text>The brains of controllers are highly developed, able to take over the minds of other beings. For this very reason they are highly sought after by the Ecologists and can be sold for much more than most other mutant parts.\n \n%c[0,100,100,255] • %c[0,140,140,140] rare sample of mutated tissue</text>
+	</string>-->
+	<string id="mutant_controller_glas">
+		<text>Controller eye</text>
+	</string>
+	<string id="mutant_controller_glas_description">
+		<text>Surrounded by mutated tissue, the controller eye is not merely an organ of vision, but a tool of manipulation, a powerful instrument of mind control capable of affecting the human psyche. Highly valued by scientists.\n \n%c[0,100,100,255] • %c[0,140,140,140] rare sample of mutated tissue</text>
+	</string>
+	<string id="mutant_controller_hand">
+		<text>Controller hand</text>
+	</string>
+	<string id="mutant_controller_hand_description">
+		<text>A controller's hands are believed to assist its brain with some of its mental abilities, such as directing psychic bolt attacks. As such, they are just as highly sought after by the Ecologists, who value them equally as important as the controller's brain.\n \n%c[0,100,100,255] • %c[0,140,140,140] rare sample of mutated tissue</text>
+	</string>
+	<string id="mutant_dog_tail">
+		<text>Dog tail</text>
+	</string>
+	<string id="mutant_dog_tail_description">
+		<text>A long, hairless tail formerly attached to the rear end of a dog. With no real practical use, they are the cheapest of all mutant body parts found in the Zone.\n \n%c[0,153,255,255] • %c[0,140,140,140] common sample of mutated tissue</text>
+	</string>
+	<string id="mutant_flesh_eye">
+		<text>Flesh eye</text>
+	</string>
+	<string id="mutant_flesh_eye_description">
+		<text>Completely different from those of the farm pigs they descended from, the eyeball of a flesh is heavy, large and entirely brown in colour.\n \n%c[0,153,255,255] • %c[0,140,140,140] common sample of mutated tissue</text>
+	</string>
+	<string id="mutant_fracture_hand">
+		<text>Fracture hand</text>
+	</string>
+	<string id="mutant_fracture_hand_description">
+		<text>A hand which once belonged to a fracture. Whilst thin and very boney, it also has extraordinary long and pointy fingers.\n \n%c[0,153,255,255] • %c[0,140,140,140] common sample of mutated tissue</text>
+	</string>
+	<string id="mutant_krovosos_jaw">
+		<text>Bloodsucker tentacles</text>
+	</string>
+	<string id="mutant_krovosos_jaw_description">
+		<text>Tentacles from a bloodsucker produce a ferment that can dissolve through even the toughest mutant hides whilst simultaneously preventing blood from clotting. Many researchers, including the Ecologists, believe that they hold many secrets to great medical advances.\n \n%c[0,153,255,255] • %c[0,140,140,140] common sample of mutated tissue</text>
+	</string>
+	<string id="mutant_pseudogigant_eye">
+		<text>Pseudogiant eye</text>
+	</string>
+	<string id="mutant_pseudogigant_eye_description">
+		<text>A large, grotesque eyeball formerly belonging to a pseudogiant. It is interesting to note that a pseudogiant's eyeballs are usually two different sizes. While not particularly interesting, they can usually sell for a good price.\n \n%c[0,100,100,255] • %c[0,140,140,140] rare sample of mutated tissue</text>
+	</string>
+	<string id="mutant_pseudogigant_hand">
+		<text>Pseudogiant hand</text>
+	</string>
+	<string id="mutant_pseudogigant_hand_description">
+		<text>A large, muscled hand from a pseudogiant which are ironically one of the smallest body parts of the creature. Not very useful but hard to obtain, so they can still get a good price if sold to the right buyer.\n \n%c[0,100,100,255] • %c[0,140,140,140] rare sample of mutated tissue</text>
+	</string>
+	<string id="mutant_psevdodog_tail">
+		<text>Psuedodog tail</text>
+	</string>
+	<string id="mutant_psevdodog_tail_description">
+		<text>The fur covering the tail of a pseudodog is a great insulator and is often sewn into clothing and armoured suits when nearing the colder parts of the year.\n \n%c[0,153,255,255] • %c[0,140,140,140] common sample of mutated tissue</text>
+	</string>
+	<string id="mutant_snork_hand">
+		<text>Snork hand</text>
+	</string>
+	<string id="mutant_snork_hand_description">
+		<text>The severed hand of a snork. Not drastically different from that of a person, but entirely grey, and covered in blisters and open wounds.\n \n%c[0,153,255,255] • %c[0,140,140,140] common sample of mutated tissue</text>
+	</string>
+	<string id="mutant_snork_leg">
+		<text>Snork foot</text>
+	</string>
+	<string id="mutant_snork_leg_description">
+		<text>Highly elasticated tendons found in the feet and legs of snorks give them the ability to make extraordinarily long leaps, much further than regular human beings.\n \n%c[0,153,255,255] • %c[0,140,140,140] common sample of mutated tissue</text>
+	</string>
+	<string id="mutant_tushkano_head">
+		<text>Tushkano head</text>
+	</string>
+	<string id="mutant_tushkano_head_description">
+		<text>The eyes, ears, mouth and nose of a tushkano in a small, tiny package. Not very useful, nor very valuable.\n \n%c[0,153,255,255] • %c[0,140,140,140] common sample of mutated tissue</text>
+	</string>
+	<string id="mutant_zombi_hand">
+		<text>Zombie hand</text>
+	</string>
+	<string id="mutant_zombi_hand_description">
+		<text>A dirty and disgusting hand from a zombie. After losing all but their basic instincts, zombified stalkers resort to using their hands as weapons.\n \n%c[0,153,255,255] • %c[0,140,140,140] common sample of mutated tissue</text>
+	</string>
+
+	<!-- RAW MUTANT MEAT -->
+	<string id="mutant_boar_chop">
+		<text>Boar chop</text>
+	</string>
+	<string id="mutant_boar_chop_description">
+		<text>Much tougher to chew than their non-radioactive counterpart outside the Zone. Mutated boar chops will fetch a low but reasonable price.\n \n%c[0,153,255,255] • %c[0,140,140,140] meat of a low-grade mutant\n%c[0,204,0,51] • %c[0,140,140,140] poisonous food\n%c[0,204,0,51] • %c[0,140,140,140] radiation exposure: %c[0,170,170,170]~646 mSv</text>
+	</string>
+	<string id="mutant_chimera_meat">
+		<text>Chimera meat</text>
+	</string>
+	<string id="mutant_chimera_meat_description">
+		<text>A heavy slab of meat harvested from a chimera. Not many get the chance to feast upon such a horrifying beast, so naturally the meat is found sold at high prices.\n \n%c[0,153,255,255] • %c[0,140,140,140] meat of a high-grade mutant\n%c[0,204,0,51] • %c[0,140,140,140] poisonous food\n%c[0,204,0,51] • %c[0,140,140,140] radiation exposure: %c[0,170,170,170]~1165 mSv</text>
+	</string>
+	<string id="mutant_dog_meat">
+		<text>Dog meat</text>
+	</string>
+	<string id="mutant_dog_meat_description">
+		<text>Commonly harvested and traded in the Zone. Preferred over flesh meat because of its less bitter taste. Trades for a low but acceptable price.\n \n%c[0,153,255,255] • %c[0,140,140,140] meat of a low-grade mutant\n%c[0,204,0,51] • %c[0,140,140,140] poisonous food\n%c[0,204,0,51] • %c[0,140,140,140] radiation exposure: %c[0,170,170,170]~360 mSv</text>
+	</string>
+	<string id="mutant_flesh_meat">
+		<text>Flesh meat</text>
+	</string>
+	<string id="mutant_flesh_meat_description">
+		<text>Tough and bitter flesh meat is a frequently ate meal in the Zone. Inexpensive, but most stalkers would prefer overpriced canned goods given the choice.\n \n%c[0,153,255,255] • %c[0,140,140,140] meat of a low-grade mutant\n%c[0,204,0,51] • %c[0,140,140,140] poisonous food\n%c[0,204,0,51] • %c[0,140,140,140] radiation exposure: %c[0,170,170,170]~484 mSv</text>
+	</string>
+	<string id="mutant_krovosos_meat">
+		<text>Bloodsucker meat</text>
+	</string>
+	<string id="mutant_krovosos_meat_description">
+		<text>A stringy portion of bloodsucker meat. Despite the risks involved to kill one, it is often sold cheap because of its putrid taste.\n \n%c[0,153,255,255] • %c[0,140,140,140] meat of a high-grade mutant\n%c[0,204,0,51] • %c[0,140,140,140] poisonous food\n%c[0,204,0,51] • %c[0,140,140,140] radiation exposure: %c[0,170,170,170]~941 mSv</text>
+	</string>
+	<string id="mutant_psevdodog_meat">
+		<text>Pseudodog meat</text>
+	</string>
+	<string id="mutant_psevdodog_meat_description">
+		<text>Harder to obtain than dog meat, but tastes almost exactly the same. Most stalkers won't pay a substantial amount because of this.\n \n%c[0,153,255,255] • %c[0,140,140,140] meat of a low-grade mutant\n%c[0,204,0,51] • %c[0,140,140,140] poisonous food\n%c[0,204,0,51] • %c[0,140,140,140] radiation exposure: %c[0,170,170,170]~720 mSv</text>
+	</string>
+	<string id="mutant_tushkano_meat_cook">
+		<text>Cooked Tushkano Meat</text>
+	</string>
+	<string id="mutant_tushkano_meat_description">
+		<text>Whilst it comes in small portions there is also quite a large supply. Stalkers will only be willing to part with a small amount of rubles because of this.\n \n%c[0,153,255,255] • %c[0,140,140,140] meat of a low-grade mutant\n%c[0,204,0,51] • %c[0,140,140,140] poisonous food\n%c[0,204,0,51] • %c[0,140,140,140] radiation exposure: %c[0,170,170,170]~191 mSv</text>
+	</string>
+
+	<!-- COOKED MUTANT MEAT -->
+	<string id="mutant_boar_chop_cook">
+		<text>Cooked Boar Meat</text>
+	</string>
+	<string id="mutant_boar_chop_cook_description">
+		<text>The most popular meat in the Exclusion Zone. Quite nutritious and not heavily contaminated. Scientists have already conducted a lot of research on samples brought by stalkers, so the demand for such pieces of meat has fallen.\n \n%c[0,153,255,255] • %c[0,140,140,140] meat of a low-grade mutant\n%c[0,204,0,51] • %c[0,140,140,140] poisonous food\n%c[0,204,0,51] • %c[0,140,140,140] radiation exposure: %c[0,170,170,170]~323 mSv</text>
+	</string>
+	<string id="mutant_chimera_meat_cook">
+		<text>Cooked Chimera Meat</text>
+	</string>
+	<string id="mutant_chimera_meat_cook_description">
+		<text>A heavy piece of chimera meat. The chimera is considered one of the most dangerous creatures, so its meat is highly valued by veteran stalkers who are willing to buy it for a considerable price. Chefs use this meat as one of the key ingredients in the so-called "Hunter's Food". However, few recognize that chimera meat tastes any different from boar meat. It may interest scientists.\n \n%c[0,153,255,255] • %c[0,140,140,140] meat of a high-grade mutant\n%c[0,204,0,51] • %c[0,140,140,140] poisonous food\n%c[0,204,0,51] • %c[0,140,140,140] radiation exposure: %c[0,170,170,170]~585 mSv</text>
+	</string>
+	<string id="mutant_dog_meat_cook">
+		<text>Cooked Dog Meat</text>
+	</string>
+	<string id="mutant_dog_meat_cook_description">
+		<text>Mutant blind dog meat is used by many stalkers as a cheap alternative to the more popular boar meat. Scientists have already conducted enough research on samples brought by stalkers, so the demand for such pieces of meat has decreased.\n \n%c[0,153,255,255] • %c[0,140,140,140] meat of a low-grade mutant\n%c[0,204,0,51] • %c[0,140,140,140] poisonous food\n%c[0,204,0,51] • %c[0,140,140,140] radiation exposure: %c[0,170,170,170]~180 mSv</text>
+	</string>
+	<string id="mutant_flesh_meat_cook">
+		<text>Cooked Flesh Meat</text>
+	</string>
+	<string id="mutant_flesh_meat_cook_description">
+		<text>Quite a popular product in the Zone, flesh meat has a good taste and high nutritional value. Scientists have already conducted enough research on samples brought by stalkers, so the demand for such pieces of meat has decreased.\n \n%c[0,153,255,255] • %c[0,140,140,140] meat of a low-grade mutant\n%c[0,204,0,51] • %c[0,140,140,140] poisonous food\n%c[0,204,0,51] • %c[0,140,140,140] radiation exposure: %c[0,170,170,170]~245 mSv</text>
+	</string>
+	<string id="mutant_krovosos_meat_cook">
+		<text>Cooked Bloodsucker Meat</text>
+	</string>
+	<string id="mutant_krovosos_meat_cook_description">
+		<text>The meat of the bloodsucker is quite viscous and sticky, making it unsuitable for eating. Although bloodsuckers are deadly monsters, the price of their meat is not particularly high due to its limited use. It may interest scientists.\n \n%c[0,153,255,255] • %c[0,140,140,140] meat of a high-grade mutant\n%c[0,204,0,51] • %c[0,140,140,140] poisonous food\n%c[0,204,0,51] • %c[0,140,140,140] radiation exposure: %c[0,170,170,170]~470 mSv</text>
+	</string>
+	<string id="mutant_psevdodog_meat_cook">
+		<text>Cooked Pseudodog Meat</text>
+	</string>
+	<string id="mutant_psevdodog_meat_cook_description">
+		<text>Meat of the pseudodog is a very dietary product in the Zone. Quite tasty, with high nutritional value, stalkers often choose it in its roasted form. It may interest scientists.\n \n%c[0,153,255,255] • %c[0,140,140,140] meat of a low-grade mutant\n%c[0,204,0,51] • %c[0,140,140,140] poisonous food\n%c[0,204,0,51] • %c[0,140,140,140] radiation exposure: %c[0,170,170,170]~360 mSv</text>
+	</string>
+	<string id="mutant_tushkano_meat">
+		<text>Tushkano meat</text>
+	</string>
+	<string id="mutant_tushkano_meat_cook_description">
+		<text>A small piece of meat from the body of a mutated rodent. Cheap and commonly found food, which, as stalkers say, strengthens the heart muscle when cooked over a fire. May interest scientists.\n \n%c[0,153,255,255] • %c[0,140,140,140] meat of a low-grade mutant\n%c[0,204,0,51] • %c[0,140,140,140] poisonous food\n%c[0,204,0,51] • %c[0,140,140,140] radiation exposure: %c[0,170,170,170]~97 mSv</text>
+	</string>
+
+	<!-- COOKING INTERFACE -->
+	<string id="mutant_krovosos">
+		<text>Bloodsucker</text>
+	</string>
+	<string id="mutant_boar">
+		<text>Boar</text>
+	</string>
+	<string id="mutant_chimera">
+		<text>Chimera</text>
+	</string>
+	<string id="mutant_dog">
+		<text>Blind Dog</text>
+	</string>
+	<string id="mutant_flesh">
+		<text>Flesh</text>
+	</string>
+	<string id="mutant_pseudodog">
+		<text>Pseudodog</text>
+	</string>
+	<string id="mutant_tushkano">
+		<text>Tushkano</text>
+	</string>
+	<string id="mutant_save">
+		<text>Save</text>
+	</string>
+	<string id="mutant_back">
+		<text>Back</text>
+	</string>
+
+</string_table>

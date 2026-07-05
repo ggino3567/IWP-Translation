@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	
+	<string id="encyclopedia_options_gameplay"><text>游戏设置</text></string>
+	
+	<string id="encyclopedia_options_gameplay_aoe_pickup_mode"><text>连续拾取</text></string>
+	<string id="encyclopedia_options_gameplay_aoe_pickup_mode_text"><text>
+			这是 %c[0,153,255,255]"连续拾取"%c[0,140,140,140] 该选项允许从玩家拾取一定距离的地方上所存在的多个物品. \n
+			\n%c[0,0,255,30]消息提示:%c[0,140,140,140]
+			\n如果启用该选项, 玩家就可以通过摁下一次该按键然后一起拿上多个物品, 就像迷失地带-潜行者"普里皮亚季的召唤"一样.\n
+			\n默认情况下, 此选项处于禁用状态. 可以在游戏设置菜单中启用. 
+		</text></string>
+	
+	<string id="encyclopedia_options_gameplay_artefact_degradation"><text>降解神器</text></string>
+	<string id="encyclopedia_options_gameplay_artefact_degradation_text"><text>
+			这是 %c[0,153,255,255]"降解神器"%c[0,140,140,140] option enables the gradual loss of artifact properties.\n
+			\n%c[0,0,255,30]消息提示:%c[0,140,140,140]
+			\n该选项允许神器逐渐失去其特性——如果使用得越强烈, 那么它们的失去特性的速度就越快. 现在拥有最好的神器不只是寻找它们而结束, 而是为了刺激了进一步的搜索. 使用者必须找到这些惊人的异常构造, 这对于保持神器特性来说是必要的, 这让异常变成了不仅仅是提供快速利润的地方. \n
+			\n此选项可以在游戏设置菜单中启用. 默认情况下, 它是禁用的. 
+		</text></string>
+	
+	<string id="encyclopedia_options_gameplay_delayed_repairs"><text>延迟维修</text></string>
+	<string id="encyclopedia_options_gameplay_delayed_repairs_text"><text>
+			%c[0,153,255,255]延迟维修%c[0,140,140,140] 是指你将损坏的物品给予修理人员后, 需要额外等待一段时刻后才能收取被修理物品\n
+			\n%c[0,0,255,30]消息提示:%c[0,140,140,140]
+			\n如果启用了该选项, 每当你带给修理人员的破损的武器、服饰和头盔后他会将这些物品存放在一起, 直到所有物品的维修工作完成后再重新返还. \n
+			\n在与修理人员交谈时, 你可以了解到你的物品是否完全维修完毕, 如果没有, 可以查看还需要多长时间才能完成维修. \n
+			\n这为修复系统增添了真实感, 适合寻求更真实体验的玩家, 因为这会让游戏里中的修复工作不再是即时完成的, 并以此鼓励玩家主动使用修复和缝补套件. \n
+			\n此选项可以在游戏设置菜单中启用. 默认情况下, 它是禁用的. 
+		</text></string>
+	
+	<string id="encyclopedia_options_gameplay_difficulty"><text>苦难</text></string>
+	<string id="encyclopedia_options_gameplay_difficulty_text"><text>
+			%c[0,153,255,255]苦难模式%c[0,140,140,140] 在设置中选择了游戏难度\n
+			\n%c[0,0,255,30]消息提示:%c[0,140,140,140]
+			\n难度设置已经完全更新和更改, 因为令人困惑的名称和对游戏的不确定性使我们相信这需要进行根本性的改革. \n
+			\n本游戏玩法与"正常"难度水平近似于相平衡, 这是第一次游戏的推荐选择. \n
+			\n另外两个选项会让游戏变得更容易或更难, 选择第三个选项会将难度增加到最大, 使特异区对主角完全恶意. \n
+			\n%c[0,0,255,30]特征:%c[0,140,140,140]
+			\n%c[0,200,0,255]• %c[0,140,140,140]选择弹药和武器对生存至关重要. 
+			\n%c[0,200,0,255]• %c[0,140,140,140]出血比以前更危险. 
+			\n%c[0,200,0,255]• %c[0,140,140,140]高难度确实具有挑战性, 需要技巧. 
+			\n%c[0,200,0,255]• %c[0,140,140,140]低难度级别现在不再乏味, 而是应该达到中等的水平. 
+			\n%c[0,200,0,255]• %c[0,140,140,140]突变体变得非常危险, 应避免接触. 
+			\n%c[0,200,0,255]• %c[0,140,140,140]高质量的设备并不能保证使用正常. 
+		</text></string>	
+	
+	<string id="encyclopedia_options_gameplay_helicopter_patrols"><text>直升机巡逻</text></string>
+	<string id="encyclopedia_options_gameplay_helicopter_patrols_text"><text>
+			%c[0,153,255,255]直升机巡逻%c[0,140,140,140] 允许派系使用直升机在空中进行支援\n
+			\n%c[0,0,255,30]消息提示:%c[0,140,140,140]
+			\n当与敌方跟踪者 (包括玩家) 或者变种人交战时, 拥有直升机的派系将能够请求空中支援. \n
+			\n尽管外观令人生畏, 但直升机很容易因损坏尾桨而被击落. \n
+			\n直升机旋翼的声音会惹恼很多人 (很吵) , 可以关掉. \n
+			\n此选项可以在游戏设置菜单中关闭. 默认情况下, 它处于启用状态. \n
+			\n直升机一般巡逻的地点:\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]农业研究所\n%c[0,200,0,255]• %c[0,140,140,140]封锁线\n%c[0,200,0,255]• %c[0,140,140,140]黑暗山谷\n%c[0,200,0,255]• %c[0,140,140,140]沼泽\n%c[0,200,0,255]• %c[0,140,140,140]利曼斯克
+		</text></string>
+	
+	<string id="encyclopedia_options_gameplay_localisation"><text>文字语言</text></string>
+	<string id="encyclopedia_options_gameplay_localisation_text"><text>
+			%c[0,153,255,255]文字语言%c[0,140,140,140] -游戏语言选择.\n
+			\n%c[0,0,255,30]消息提示:%c[0,140,140,140]
+			\n语言可以在游戏过程中更改, 但许多文本 (语言包不存在的文件) 将保持不变. 最好在开始新游戏之前更改语言. \n
+			\n语言可以在游戏设置中更改. \n
+			\n%c[0,0,255,30]支持的语言:%c[0,140,140,140]
+			\n%c[0,200,0,255]• %c[0,140,140,140]英文: eng\n%c[0,200,0,255]• %c[0,140,140,140]俄文: rus\n%c[0200,0255]•%c[0140140]中文:chs
+		</text></string>
+	
+	<string id="encyclopedia_options_gameplay_online_exclusion"><text>延迟出现</text></string>
+	<string id="encyclopedia_options_gameplay_online_exclusion_text"><text>
+			这是 %c[0,153,255,255]"延迟出现"%c[0,140,140,140] 该选项会在主角周围创建了一个区域, 以防止变种人和其他潜行者者在玩家附近生成出现. \n
+			\n%c[0,0,255,30]消息提示:%c[0,140,140,140]
+			\n在探索位置的过程中, 靠近边缘和过渡点, 你可能会受到来自其他游戏关卡的敌人的攻击. 启用产卵排除后, 它们的出现会延迟, 直到您移动到安全距离. \n
+			\n请注意, 此系统仅在玩家周围运行. 任何已经存在于此地区特定位置的敌人在你接近时都不会消失. \n
+			\n可以使用游戏设置菜单调整产卵排除半径. 默认情况下, 它设置为25米. 
+		</text></string>
+	
+	<string id="encyclopedia_options_gameplay_population_factors"><text>群体数量</text></string>
+	<string id="encyclopedia_options_gameplay_population_factors_text"><text>
+			%c[0,153,255,255]群体数量%c[0,140,140,140] 是区域内存在的潜行者和突变体数量的系数. \n
+			\n%c[0,0,255,30]消息提示:%c[0,140,140,140]
+			\n潜行者和突变体数量的系数可以彼此独立调整, 允许玩家决定区域应该有多危险或多平静, 而无需修改游戏文件. \n
+			\n请注意, 只有在开始新游戏时, 调整效果才会立即显现. 如果在游戏过程中, 只有在现有的潜行者或突变体死亡并或多或少地重新生成出现后, 更改才会生效. \n
+			\n可以在游戏设置菜单中调整这些系数. 默认情况下, 它们被设置为0.5. 
+		</text></string>
+	
+	<string id="encyclopedia_options_gameplay_quicksave_count"><text>quicksave</text></string>
+	<string id="encyclopedia_options_gameplay_quicksave_count_text"><text>
+			%c[0,153,255,255]quicksave%c[0,140,140,140] 一个重要的特征——它们的数量可以不止一个. \n
+			\n%c[0,0,255,30]消息提示:%c[0,140,140,140]
+			\n在quicksave时, 文件名将会以序号为结尾. \n
+			\n这允许您的存档在开始被其他存档保存替换之前进行额外的多次保存. \n
+			\n此功能允许您回到一些不太成功的时刻之前. \n
+			\nquicksave的次数可以在游戏设置中设置, 默认为五次. 
+		</text></string>	
+	
+	<string id="encyclopedia_options_gameplay_radio_music"><text>无线电音乐</text></string>
+	<string id="encyclopedia_options_gameplay_radio_music_text"><text>
+			%c[0,153,255,255]"无线电音乐"%c[0,140,140,140] 允许在游戏世界的某些区域可以通过无线电播放音乐作品. \n
+			\n%c[0,0,255,30]消息提示:%c[0,140,140,140]
+			\n在该特异区的某些区域, 安装了无线电接收器, 每个接收器都会播放一组音乐曲目, 供潜行者进行娱乐. \n
+			\n此选项可以在游戏设置菜单中关闭. 默认情况下, 它处于启用状态. \n
+			\n特异区中无线电接收器工作的位置: \n
+			\n%c[0,200,0,255]• %c[0,140,140,140]农业研究所: 农业研究所综合设施 \n%c[0,200,0,255]• %c[0,140,140,140]封锁线: 西多罗维奇地堡\n%c[0,200,0,255]• %c[0,140,140,140]沼泽: 晴空基地\n%c[0,200,0,255]• %c[0,140,140,140]黑暗山谷: 北部工厂 factory\n%c[0,200,0,255]• %c[0,140,140,140]罗斯托克: "辐射 100" 酒吧\n%c[0,200,0,255]• %c[0,140,140,140]红森林: 护林员小屋
+		</text></string>
+	
+</string_table>

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	<!-- ESCORT SCIENTISTS FOR ECOLOG TECH TASK -->
+	<string id="jup_b6_scientist_tech_task_1_name"><text>护送科学家团队</text></string>
+	<string id="jup_b6_scientist_tech_task_1_text"><text>科学家雇佣你护送他们到特定地点进行研究. 成功完成研究后, 将他们安全送回基地. </text></string>
+	<string id="jup_b6_scientist_tech_task_1_about"><text>%c[ui_8]我们需要一位经验丰富的潜行者护送我们的同事前往野外地点, 并确保他们在测量期间的安全. 你能协助我们吗? </text></string>
+	<string id="jup_b6_scientist_tech_task_1_fetch_finish"><text>感谢你的保护, 潜行者. 请收下这个, 作为我们的一点心意. </text></string>
+
+	<!-- FIND ARTEFACT FOR ECOLOG TECH TASK -->
+	<string id="jup_b6_scientist_tech_task_2_name"><text>为科学家寻找%s稀有神器</text></string>
+	<string id="jup_b6_scientist_tech_task_2_text"><text>你被请求找回%s神器. 如果你弄到了一个, 就带回给图卡列夫. </text></string>
+	<string id="jup_b6_scientist_tech_task_2_about"><text>我们正在寻找特定类型的神器. 如果你有兴趣, 我会告诉你我们需要什么. </text></string>
+	<string id="jup_b6_scientist_tech_task_2_fetch_about"><text>%c[ui_8]我需要你给我们带回一个%s%c[ui_8]神器. 你听说过吗? 我们可以给你一些回报, 我想你会觉得有用的. </text></string>
+	<string id="jup_b6_scientist_tech_task_2_fetch_finish"><text>太好了! 你找到的正是我们寻找的东西. 谢谢, 潜行者, 这是承诺的报酬. </text></string>
+
+	<!-- FIND MUTANT PARTS FOR ECOLOG TECH TASK -->
+	<string id="jup_b6_scientist_tech_task_3_name"><text>为科学家寻找%s</text></string>
+	<string id="jup_b6_scientist_tech_task_3_text"><text>加林需要一个来自%s的组织样本. </text></string>
+	<string id="jup_b6_scientist_tech_task_3_about"><text>科学家们需要一个经验丰富的变异怪猎人处理一个案子. 我能指望你吗? </text></string>
+	<string id="jup_b6_scientist_tech_task_3_fetch_about"><text>%c[ui_8]我们的科学家正在为研究寻找特定的变异怪组织样本, 具体是...%s%c[ui_8]. 样本必须新鲜. 因此, 请尽快带着材料返回. </text></string>
+	<string id="jup_b6_scientist_tech_task_3_fetch_finish"><text>很棒的样本, 正是我需要的. 谢谢, 潜行者, 这是承诺的报酬. </text></string>
+
+
+	<!-- FIND RARE ARTEFACT FOR OZERSKIY TASK -->
+	<string id="jup_b6_scientist_biochemist_task_1_name"><text>为奥泽尔斯基寻找%s稀有神器</text></string>
+	<string id="jup_b6_scientist_biochemist_task_1_text"><text>奥泽尔斯基请求你寻找一个名为%s的稀有神器. </text></string>
+	<string id="jup_b6_scientist_biochemist_task_1_about"><text>为了研究, 不需要非常稀有的神器. 你愿意接手这项工作吗? </text></string>
+	<string id="jup_b6_scientist_biochemist_task_1_fetch_about"><text>%c[ui_8]听着, 年轻人, 我需要一个没有有害属性的稀有神器. 它叫做%s%c[ui_8]. 我相信以你的经验和特异区的了解, 你能办到. 你准备好帮助科学了吗? </text></string>
+	<string id="jup_b6_scientist_biochemist_task_1_fetch_finish"><text>你找到神器了? 太不可思议了! 这是你的报酬. </text></string>
+
+
+	<!-- ASSASSINATE MERC FOR YAR TASK -->
+	<string id="jup_b19_freedom_yar_task_1_name"><text>为亚尔猎杀赏金猎人</text></string>
+	<string id="jup_b19_freedom_yar_task_1_text"><text>亚尔需要除掉悬赏他脑袋的人. </text></string>
+	<string id="jup_b19_freedom_yar_task_1_about"><text>%c[ui_8]雇佣兵悬赏了我的脑袋. 不过这不是第一次了...我查明了是谁接的悬赏, 需要有人让他在特异区里消失. 你能帮忙吗? </text></string>
+	<string id="jup_b19_freedom_yar_task_1_finish"><text>谢谢, 潜行者! 这是你的报酬. </text></string>
+
+
+	<!-- HUNT MUTANTS FOR TRAPPER TASK -->
+	<string id="jup_b220_trapper_task_1_name"><text>为捕兽者清除变异怪</text></string>
+	<string id="jup_b220_trapper_task_1_text"><text>在此地点附近发现了变异怪, 使该区域对某些当地人变得危险. 你的任务是清除该区域内的变异怪威胁. 完成后向捕兽者报告. </text></string>
+	<string id="jup_b220_trapper_task_1_about"><text>%c[ui_8]我一直在找人帮忙清理亚诺夫周围地区发现的各种变异怪巢穴, 让这片区域更安全些. 你想接这活儿吗? \n\n%c[ui_orange][接受此任务后, 如果玩家前往无法进行此任务的地区, 任务将失败]</text></string>
+	<string id="jup_b220_trapper_task_1_finish"><text>谢谢你, 潜行者. 因为你, 这片区域对其他人来说会安全得多. 这是你的报酬. </text></string>
+
+	<!-- FIND MUTANT PARTS FOR TRAPPER TASK -->
+	<string id="jup_b220_trapper_task_2_name"><text>为捕兽者收集%s</text></string>
+	<string id="jup_b220_trapper_task_2_text"><text>捕兽者说如果我给他带回来一个%s, 他会付个好价钱. </text></string>
+	<string id="jup_b220_trapper_task_2_about"><text>我对一种特定类型的变异怪设了赏金. 有兴趣吗? </text></string>
+	<string id="jup_b220_trapper_task_2_fetch_about"><text>%c[ui_8]杀掉这种变异怪, 把它的%s%c[ui_8]带给我, 我会付你个好价钱, 潜行者. </text></string>
+	<string id="jup_b220_trapper_task_2_fetch_finish"><text>啊, 又除掉一个威胁, 也给营地添了个新装饰. 干得好, 潜行者. </text></string>
+
+	<!-- FIND WEAPON FOR TRAPPER TASK -->
+	<string id="jup_b220_trapper_task_3_name"><text>为捕兽者寻找%s</text></string>
+	<string id="jup_b220_trapper_task_3_text"><text>捕兽者正在寻找一把状况良好的特定枪械. 如果你找到了, 回去找他. </text></string>
+	<string id="jup_b220_trapper_task_3_about"><text>我手下一个捕兽者想买一把特定的枪, 但我这儿没有. 你能帮我找一把吗? </text></string>
+	<string id="jup_b220_trapper_task_3_fetch_about"><text>%c[ui_8]我需要一把%s%c[ui_8]. 想要它的捕兽者追踪的是危险的猎物, 所以需要枪的状况良好. 如果你能找到一把, 我会付你个好价钱. </text></string>
+	<string id="jup_b220_trapper_task_3_fetch_finish"><text>啊, 完美. 这个正合适. 这是我答应给你的钱. </text></string>
+
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR MECHANIC TASK -->
+	<string id="jup_b217_stalker_tech_task_1_name"><text>为尼特罗寻找%s</text></string>
+	<string id="jup_b217_stalker_tech_task_1_text"><text>尼特罗需要%s来安装基础装备升级, 如果你找到了任何, 应该带回来给他. </text></string>
+	<string id="jup_b217_stalker_tech_task_1_about"><text>我需要新工具, 潜行者, 是在特异区里很难弄到的东西. 如果你有兴趣帮忙, 我会告诉你我需要什么. </text></string>
+	<string id="jup_b217_stalker_tech_task_1_fetch_about"><text>%c[ui_8]我需要一套%s%c[ui_8]. 里面应该包含我需要的东西. 如果你能给我带一些回来, 我会很感激, 甚至从此给你打折. </text></string>
+	<string id="jup_b217_stalker_tech_task_1_fetch_finish"><text>完美! 这正是我需要的, 潜行者. 如果你需要调整任何装备, 现在我可以好好弄了. </text></string>
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR MECHANIC TASK -->
+	<string id="jup_b217_stalker_tech_task_2_name"><text>为尼特罗寻找%s</text></string>
+	<string id="jup_b217_stalker_tech_task_2_text"><text>%s是尼特罗安装高级装备升级所必需的, 如果你找到了任何, 应该带回来给他. </text></string>
+	<string id="jup_b217_stalker_tech_task_2_about"><text>你带给我的工具包很棒, 但并非包含了我需要的一切. 你觉得你能给我找一套更好的吗? </text></string>
+	<string id="jup_b217_stalker_tech_task_2_fetch_about"><text>%c[ui_8]我需要一套%c[ui_orange]%s%c[ui_8]. 我不确定你在哪里能弄到这样的工具, 但如果你能找到一套, 我很需要. </text></string>
+	<string id="jup_b217_stalker_tech_task_2_fetch_finish"><text>哇! 你给我找到了一套很棒的工具. 给, 我答应过给你一些钱作为回报. </text></string>
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR MECHANIC TASK -->
+	<string id="jup_b217_stalker_tech_task_3_name"><text>为尼特罗寻找%s</text></string>
+	<string id="jup_b217_stalker_tech_task_3_text"><text>%s是尼特罗安装专家级装备升级所必需的, 如果你找到了任何, 应该带回来给他. </text></string>
+	<string id="jup_b217_stalker_tech_task_3_about"><text>你带给我的工具包很棒, 但并非包含了我需要的一切. 你觉得你能给我找一套更好的吗? </text></string>
+	<string id="jup_b217_stalker_tech_task_3_fetch_about"><text>%c[ui_8]我需要一套%c[ui_orange]%s%c[ui_8]. 我不确定你在哪里能弄到这样的工具, 但如果你能找到一套, 我很需要. </text></string>
+	<string id="jup_b217_stalker_tech_task_3_fetch_finish"><text>哇! 你给我找到了一套很棒的工具. 给, 我答应过给你一些钱作为回报. </text></string>
+
+	<!-- GET ITEM FROM STASH FOR NITRO TASK -->
+	<string id="jup_b217_stalker_tech_task_4_name"><text>从藏匿点取回电子设备并带给尼特罗</text></string>
+	<string id="jup_b217_stalker_tech_task_4_text"><text>前往指定地点, 取回藏在藏匿点的电子设备, 并带给尼特罗. </text></string>
+	<string id="jup_b217_stalker_tech_task_4_about"><text>%c[ui_8]我喜欢捣鼓各种设备, 拆解伙计们从行动中带回来的电子元件. 但有时候他们会把找到的东西留在安全的地方, 如果不在他们路线上就会发坐标过来. 你能去取回来吗? 别担心, 不会让你白跑一趟的. </text></string>
+	<string id="jup_b217_stalker_tech_task_4_finish"><text>太好了! 给, 拿着, 就像我承诺的那样. </text></string>
+
+</string_table>

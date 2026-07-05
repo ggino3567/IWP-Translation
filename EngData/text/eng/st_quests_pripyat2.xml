@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<!-- ASSAULT TERRITORY 1 FOR MONOLITH LEADER TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_1_name">
+		<text>Eliminate the threat to the Monolith's servants' sanctuary</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_1_text">
+		<text>You have been tasked to clear an area from enemies of the Monolith. Report back to Rabbit after the job is done.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_1_about">
+		<text>%c[ui_8]Brother, I have a mission. The unbelievers are close. Head %c[ui_orange]South%c[ui_8] and destroy them. You may go.\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_1_finish">
+		<text>Mission complete? Good. The Monolith values the loyalty of its servants.</text>
+	</string>
+
+	<!-- ASSAULT TERRITORY 2 FOR MONOLITH LEADER TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_2_name">
+		<text>Eliminate enemies who threaten the Monolith</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_2_text">
+		<text>I have a mission of the highest importance. You must destroy the camp of enemies of the Monolith who dared to the almighty Monolith. Report back to Rabbit after the job is done.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_2_about">
+		<text>%c[ui_8]A mission of the highest importance, brother. Destroy the camp of the unbelievers who dared to approach %c[ui_orange]Chernobyl NPP%c[ui_8] - the sacred ground of the Monolith. A treachery that we will punish harshly. Delay is unacceptable! Depart.\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_2_finish">
+		<text>Good. The Monolith values the loyalty and valor of its servants.</text>
+	</string>
+
+	<!-- ASSAULT TERRITORY 3 FOR MONOLITH LEADER TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_3_name">
+		<text>Eliminate the enemies of the Monolith</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_3_text">
+		<text>You have been tasked to to eliminate the enemies of the Monolith at the specified location. Report back to Rabbit after the job is done.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_3_about">
+		<text>%c[ui_8]I have a mission for you, brother. Destroy the camp of the unbelievers so our brothers can establish themselves there. Are you prepared to serve?\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_3_finish">
+		<text>Did you succeed? Good. Praise Monolith.</text>
+	</string>
+
+	<!-- ASSAULT TERRITORY 4 FOR MONOLITH LEADER TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_4_name">
+		<text>Eliminate the enemies of the Monolith</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_4_text">
+		<text>You have been tasked to to eliminate the enemies of the Monolith at the specified location. Report back to Rabbit after the job is done.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_4_about">
+		<text>%c[ui_8]I have a mission for you, brother. Destroy the camp of the unbelievers so our brothers can establish themselves there. Are you prepared to serve?\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_4_finish">
+		<text>Did you succeed? Good. Praise Monolith.</text>
+	</string>
+
+	<!-- ASSASSINATION FOR MONOLITH LEADER TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_5_name">
+		<text>Kill the enemy of the Monolith</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_5_text">
+		<text>Find and eliminate the enemy of the Monolith who seeks to touch the Monolith.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_5_about">
+		<text>%c[ui_8]The Voice has pointed out the unbeliever who has scouted the path to the Monolith. Your mission is to destroy this worm who dared to seek to touch the Monolith! Depart.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_5_finish">
+		<text>You have done well. The brothers are proud of you.</text>
+	</string>
+
+    <!-- HEAD HUNTING FOR MONOLITH LEADER TASK -->
+    <string id="pri_monolith_monolith_trader_stalker_task_6_name">
+        <text>Vengeance upon the enemies of the Monolith!</text>
+    </string>
+    <string id="pri_monolith_monolith_trader_stalker_task_6_text">
+        <text>Collect %s from killed enemies of the Monolith for Rabbit.</text>
+    </string>
+    <string id="pri_monolith_monolith_trader_stalker_task_6_about">
+        <text>Deal with the enemies of the Monolith and bring their patches as proof.</text>
+    </string>
+    <string id="pri_monolith_monolith_trader_stalker_task_6_fetch_about">
+        <text>%c[ui_8]The unbelievers dared to approach and attack us. Several brothers have fallen in the name of the Monolith. Go and repay the unbelievers - destroy their comrades. %c[ui_orange]%s%c[ui_8] from their bodies will be proof that the will of the Monolith has been fulfilled.</text>
+    </string>
+    <string id="pri_monolith_monolith_trader_stalker_task_6_fetch_finish">
+        <text>You have succeeded, brother. Praise the Monolith.</text>
+    </string> 
+
+	<!-- FIND MUTANT MEAT FOR MONOLITH LEADER TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_7_name">
+		<text>Wild Game Meat for Rabbit</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_7_text">
+		<text>Hunt for and field dress %s. Return the meat to Rabbit so he may prepare it.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_7_about">
+		<text>Our provisions run low. You must go out into the Zone and hunt for meat so that your Monolith brothers may feast.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_7_fetch_about">
+		<text>%c[ui_8]Hunt for and bring us %c[ui_orange]%s%c[default]. Remember these creatures are a gift of the Zone. Kill them swiftly and give thanks. Return the meat to me when you have succeeded.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_7_fetch_finish">
+		<text>You have succeeded in your task. Well done.</text>
+	</string>
+
+	<!-- FIND ARTEFACT FOR MONOLITH LEADER TASK -->
+	<string id="pri_monolith_monolith_trader_stalker_task_8_name">
+		<text>Find the %s Artefact for Rabbit</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_8_text">
+		<text>Find the %s artefact. Bring it back to Rabbit so he may prepare it as an offering.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_8_about">
+		<text>We must find another artefact to give as an offering. Will you help serve the good of the Monolith?</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_8_fetch_about">
+		<text>%c[ui_8]We need an artifact to offer as a sacrifice to the Monolith. Find an artefact called %c[ui_orange]%s%c[default]. Bring it to me when you have succeeded so we may conduct the ceremony.</text>
+	</string>
+	<string id="pri_monolith_monolith_trader_stalker_task_8_fetch_finish">
+		<text>You serve the Monolith well. Join us tonight in the ceremonial offering.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR CLERIC TASK -->
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_name">
+		<text>Find %s for Cleric</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_text">
+		<text>%s are required by Cleric to install basic equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_about">
+		<text>I need you to do something for me. I need specific tools to tune our weapons.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_fetch_about">
+		<text>%c[ui_8]Okay, I need a set of %c[ui_orange]%s%c[ui_8]. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_1_fetch_finish">
+		<text>You've done well. Now go.</text>
+	</string>
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR CLERIC TASK -->
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_name">
+		<text>Find %s for Cleric</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_text">
+		<text>%s are required by Cleric to install advanced equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_about">
+		<text>I need some more tools; better tools. Can you find what I ask, again?</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_fetch_about">
+		<text>%c[ui_8]I need a set of %c[ui_orange]%s%c[ui_8]. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_2_fetch_finish">
+		<text>Good. The brothers are proud of you.</text>
+	</string>
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR CLERIC TASK -->
+	<string id="pri_monolith_monolith_mechanic_stalker_task_3_name">
+		<text>Find %s for Cleric</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_3_text">
+		<text>%s are required by Cleric to install expert equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_3_about">
+		<text>I need some more tools; better tools. Can you find what I ask, again?</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_3_fetch_about">
+		<text>%c[ui_8]I need a set of %c[ui_orange]%s%c[ui_8]. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_3_fetch_finish">
+		<text>Good. Praise Monolith.</text>
+	</string>
+
+	<!-- FIND WEAPON FOR CLERIC TASK -->
+	<string id="pri_monolith_monolith_mechanic_stalker_task_4_name">
+		<text>Find %s for Cleric</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_4_text">
+		<text>Cleric has requested a new rifle to add to the Monolith arsenal.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_4_about">
+		<text>I need a certain gun. Can you find it for me.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_4_fetch_about">
+		<text>%c[ui_8]I need a weapon, brother. I am seeking %c[ui_orange]%s%c[ui_8]. The state of the weapon must be worthy of the Monolith. %c[ui_orange]Gunsmith kit%c[ui_8] will allow you to improve its condition. Or I can assist, but in return, I will accept donations in honor of the Monolith...</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_4_fetch_finish">
+		<text>The Monolith values the loyalty of its servants..</text>
+	</string>
+
+	<!-- GET ITEM FROM STASH FOR MILITARY LEADER TASK -->
+	<string id="pri_monolith_monolith_mechanic_stalker_task_5_name">
+		<text>Take the folder from the stash and deliver it to Cleric</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_5_text">
+		<text>Go to the specified location, take the folder with documents from the stash, and bring it to Cleric.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_5_about">
+		<text>%c[ui_8]The enemies of the Monolith committed treachery and took what did not belong to them. The brothers made them talk and have learned where it's hidden. Go. Bring it back.</text>
+	</string>
+	<string id="pri_monolith_monolith_mechanic_stalker_task_5_finish">
+		<text>You did well. The Monolith guided you.</text>
+	</string>
+
+
+	<!-- FIND ALCOHOL FOR MONOLITH MEDIC TASK -->
+	<string id="pri_monolith_monolith_medic_stalker_task_1_name">
+		<text>Bring Alcohol for the Monolith medic</text>
+	</string>
+	<string id="pri_monolith_monolith_medic_stalker_task_1_text">
+		<text>Collect %s and bring it to the Monolith medic, so he can use it for wound disinfection.</text>
+	</string>
+	<string id="pri_monolith_monolith_medic_stalker_task_1_about">
+		<text>I need more alcohol for wound disinfection. I will pay you if you bring me some.</text>
+	</string>
+	<string id="pri_monolith_monolith_medic_stalker_task_1_fetch_about">
+		<text>%c[ui_8]I need more alcohol for wound disinfection. I will pay you well if you bring me some. %c[ui_orange]%s%c[default] would be ideal.</text>
+	</string>
+	<string id="pri_monolith_monolith_medic_stalker_task_1_fetch_finish">
+		<text>Perfect, exactly what I needed. Thank you!</text>
+	</string>
+
+	<!-- FIND RARE ARTEFACT FOR MONOLITH MEDIC TASK -->
+	<string id="pri_monolith_monolith_medic_stalker_task_2_name">
+		<text>Find the %s artefact for Physician</text>
+	</string>
+	<string id="pri_monolith_monolith_medic_stalker_task_2_text">
+		<text>Physician has asked you to find a rare artefact called the %s.</text>
+	</string>
+	<string id="pri_monolith_monolith_medic_stalker_task_2_about">
+		<text>We need an artifact that heals wounds. Find it.</text>
+	</string>
+	<string id="pri_monolith_monolith_medic_stalker_task_2_fetch_about">
+		<text>%c[ui_8]We need an artifact that heals wounds, called the %c[ui_orange]%s%c[ui_8]. You can find it - the Zone is on your side, brother. Now go.</text>
+	</string>
+	<string id="pri_monolith_monolith_medic_stalker_task_2_fetch_finish">
+		<text>Did you find it? Praise the Monolith.</text>
+	</string>
+
+</string_table>

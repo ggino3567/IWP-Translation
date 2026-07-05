@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+
+	<string id="zat_a2_stalker_barmen_actor_info_0"><text>跟我说说这里的生活吧. </text></string>
+	<string id="zat_a2_stalker_barmen_actor_info_1"><text>哎, 这话题太宽泛了..我尽量给你个答案. 问吧. </text></string>
+	<string id="zat_a2_stalker_barmen_actor_info_1111"><text>潜行者在这里做什么? </text></string>
+	<string id="zat_a2_stalker_barmen_actor_info_11111"><text>伙计, 这话你该问问自己. 他们从斯科多夫斯克号上岸探索地形、搜寻神器, 朝所有冲过来的东西开火还击. 回到船上就酗酒吹牛……在下次行动前享受休闲时光. 但等到排放来袭时, 场面可就完全不同了. 那时我们都缩在掩体里, 怀念那些没及时找到掩护的人……</text></string>
+	<string id="zat_a2_stalker_barmen_actor_info_1112"><text>是什么让潜行者来到了特异区的中心? </text></string>
+	<string id="zat_a2_stalker_barmen_actor_info_11121"><text>现在这是一个有趣的问题! 嗯, 当然. 有的人想和当年的淘金者一样找到神器然后赚一笔大的. 其他人则试图捕捉到关于绿洲的每一个新谣言. 还有一些人正在寻找所谓的许愿石. 好吧, 别忘了平庸的贪婪和好奇心......每个人都有自己的来这的理由. 你同样有自己的理由, 不是吗? </text></string>
+	<string id="zat_a2_stalker_barmen_actor_info_1113"><text>你是怎么来到这里的? </text></string>
+	<string id="zat_a2_stalker_barmen_actor_info_11131"><text>当焦脑器停止工作时, 我和松鸡一起来到了这块潮不唧唧的地......当然, 这些你不感兴趣, 是吧? ...至于我...我的主要业务是收各种稀奇古怪的小玩意, 然后倒送到外头去. 这确实是笔不错的生意；至于那些会买东西的人嘛——他们总是会对一些独一无二的东西感兴趣. 所以我决定给潜行者们折腾出一个能遮风挡雨的地盘, 方便我交易这些稀奇古怪又独一无二的特异区土特产. 当潜行者带着战利品和一身的疲惫回来时, 他想要什么? 当然是放松和社交! 他会在斯卡多夫斯克找到这一切他所需要的东西——但是不包括对象. </text></string>
+	<string id="zat_a2_stalker_barmen_actor_info_1114"><text>你怎么看待那些土匪? </text></string>
+	<string id="zat_a2_stalker_barmen_actor_info_11141"><text>怎么和你说好呢......原则上, 我对任何流浪到斯卡多夫斯克的人都没什么意见, 只要客人的行为举止至少有个人样. 毕竟, 那种贱到骨子里的人并不多......还有一些土匪 - 他们自己以前也是潜行者! 谁知道呢, 也许有一天这样的人会决定放弃黑暗拥抱光明呢? 我们都是普通人, 生活中任何事情都可能发生. </text></string>
+	<string id="zat_a2_stalker_barmen_actor_info_1115"><text>哦, 好吧. 没关系. </text></string>
+	<string id="zat_a2_stalker_barmen_actor_info_11151"><text>如果你这么说. </text></string>
+	
+	<string id="zat_b7_stalkers_victims_dialog_11"><text>你吃了吗, 潜行者. 我现在忙得很, 能不能等我忙完手头的事情之后再来好好聊聊? </text></string> 
+	
+	<string id="zat_b22_stalker_medic_start_1"><text>你好啊! 有什么我能帮到你的么? </text></string>
+	<string id="zat_b22_stalker_medic_need_health_care_0"><text>医生您能不能帮我看看,我不太舒服. </text></string>
+	<string id="zat_b22_stalker_medic_need_health_care_1"><text>让我看看. . . </text></string>
+	<string id="zat_b22_stalker_medic_need_health_care_2"><text>让我看看. . . 嗯. . . 你看着挺健康的. 身上没有伤口也没有辐射. 还觉得不舒服的话就去隔壁睡一觉拉倒. </text></string>
+	<string id="zat_b22_stalker_medic_need_health_care_11"><text>[更进一步的治疗...]</text></string>
+	<string id="zat_b22_stalker_medic_need_health_care_111"><text>那么, 现在好些了吗? </text></string>
+	
+	<string id="zat_b18_noah_start_11"><text>你是谁? </text></string>
+	<string id="zat_b18_noah_start_111"><text>哦, 潜行者. 我们已经见过面了. </text></string>
+	<string id="zat_b18_noah_start_1111"><text>我什么都不记得了......好的, 你想要什么? </text></string>
+	<string id="zat_b18_noah_start_112"><text>潜行者, 只是一个潜行者. </text></string>
+	<string id="zat_b18_noah_start_1121"><text>你终于意识到并来到了 "方舟"! ......</text></string>
+	<string id="zat_b18_noah_start_113"><text>这不关你的事. </text></string>
+	<string id="zat_b18_noah_start_21"><text>啊, 是你这小子......需要什么? </text></string>
+	
+	
+	<string id="zat_b3_stalker_tech_start_15"><text>你来对了......在这就应该随时保持你的枪处于完美状态. 如果你带一两瓶够劲的伏特加, 那么我会为你搞定所有的改造方案. 至少我会在霰弹枪上缝一个降落伞......</text></string>
+	<string id="zat_b3_stalker_tech_drink_1_0"><text>这里有伏特加 来整点不? </text></string>
+	<string id="zat_b3_stalker_tech_drink_1_2"><text>我戒了, 我不喝酒了. 当我看到"产品 No62"时, 我想 - 就这样吧, 我也受够这样的生活了......事情就是这样, 我因为喝多了酒捅出太多篓子了. 还有我的健康也因为酒精成了一坨浆糊......嗨.....	</text></string>
+	<string id="zat_b3_stalker_tech_drink_2_0"><text>再给我搞一瓶酒来</text></string>
+	<string id="zat_b3_stalker_tech_drink_3_0"><text>还有第三瓶伏特加呢......如果还能喝得下的话. </text></string>
+	
+</string_table>

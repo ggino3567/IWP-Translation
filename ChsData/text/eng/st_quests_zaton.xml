@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	<!-- FIND ARTEFACT FOR BEARD TASK -->
+	<string id="zat_a2_stalker_barmen_task_1_name"><text>清剿变种生物</text></string>
+	<string id="zat_a2_stalker_barmen_task_1_text"><text>变种生物正在暗中发育. 寻找他们, 让我们清理这个地区.</text></string>
+	<string id="zat_a2_stalker_barmen_task_1_about"><text>听, 听到了吗? 有一些变种生物在嚎叫. 安静点</text></string>
+	<string id="zat_a2_stalker_barmen_task_1_fetch_about"><text>%c[ui_8]我有些客户愿为稀有神器出高价...现在有个%c[ui_orange]%s%c[ui_8]神器的订单. 若你带来, 会付重金. 但动作快, 潜行者, 可能不止你一人在找它...</text></string>
+	<string id="zat_a2_stalker_barmen_task_1_fetch_finish"><text>猎运昌隆潜行者! 请你喝一杯! </text></string>
+
+
+	<!-- ASSASSINATION FOR OWL TASK -->
+	<string id="zat_b30_owl_stalker_trader_task_1_name"><text>为猫头鹰击杀军方人员</text></string>
+	<string id="zat_b30_owl_stalker_trader_task_1_text"><text>说服军方停止追捕一名潜行者同伴. </text></string>
+	<string id="zat_b30_owl_stalker_trader_task_1_about"><text>%c[ui_8]军方正在追捕一个人. 别问原因, 但我们需要帮助那可怜家伙. 我查到了追捕行动的负责人, 需要个擅长"艰难谈判"的专家——能"说服"猎人放过目标的人. 嗯, 你懂的...</text></string>
+	<string id="zat_b30_owl_stalker_trader_task_1_finish"><text>很好, 你杀了他. 任务完成. </text></string>
+
+
+	<!-- ELIMINATE MUTANTS FOR GONTA TASK -->
+	<string id="zat_b106_stalker_gonta_task_1_name"><text>为贡塔猎杀变异体</text></string>
+	<string id="zat_b106_stalker_gonta_task_1_text"><text>贡塔要我清理区域的变异体, 任务完成后汇报. </text></string>
+	<string id="zat_b106_stalker_gonta_task_1_about"><text>%c[ui_8]我正在这片区域猎杀变异体, 但数量还是太多, 我一个人忙不过来. 不介意有位经验丰富的猎人帮忙. 若你准备好协助, 我会把巢穴坐标发到你PDA. 清理完野兽后回来领赏. \n\n%c[ui_orange][若接取任务后前往无法进行此任务的地区, 任务将失败]</text></string>
+	<string id="zat_b106_stalker_gonta_task_1_finish"><text>哈哈! 干得好潜行者! </text></string>
+
+	<!-- FIND RARE MUTANT PARTS FOR GONTA TASK -->
+	<string id="zat_b106_stalker_gonta_task_2_name"><text>为贡塔收集%s</text></string>
+	<string id="zat_b106_stalker_gonta_task_2_text"><text>贡塔说如果我带给他%s会付重金. </text></string>
+	<string id="zat_b106_stalker_gonta_task_2_about"><text>我悬赏特定种类变异体. 有兴趣吗? </text></string>
+	<string id="zat_b106_stalker_gonta_task_2_fetch_about"><text>%c[ui_orange]%c[ui_8]我出高价清除危险变异体. 但需要生物死亡的证明. %c[ui_orange]%s%c[ui_8]能确认击杀. 接不接活? </text></string>
+	<string id="zat_b106_stalker_gonta_task_2_fetch_finish"><text>啊, 又清除一个威胁, 营地也添了新装饰. 干得好, 潜行者. </text></string>
+
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR CARDAN TASK -->
+	<string id="zat_a2_stalker_mechanic_task_1_name"><text>找到%s</text></string>
+	<string id="zat_a2_stalker_mechanic_task_1_text"><text>找到 %s 以进行基本改造, 将它们带回来.</text></string>
+	<string id="zat_a2_stalker_mechanic_task_1_about"><text>我不仅要多喝些酒, 我还需要一套好的工具, 潜行者. 如果你对帮我感兴趣, 来找我, 我会告诉你我需要什么.</text></string>
+	<string id="zat_a2_stalker_mechanic_task_1_fetch_about"><text>我需要一套基本工具.有了它我能干的事就多了.如果你能给我带一套回来, 我将不胜感激,今后你来我这都给你打折.</text></string>
+	<string id="zat_a2_stalker_mechanic_task_1_fetch_finish"><text>厉害啊, 潜行者. 你带来了我需要的, 感谢.</text></string>
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR CARDAN TASK -->
+	<string id="zat_a2_stalker_mechanic_task_2_name"><text>找到%s</text></string>
+	<string id="zat_a2_stalker_mechanic_task_2_text"><text>找到 %s 以进行高级改造, 将它们带回来.</text></string>
+	<string id="zat_a2_stalker_mechanic_task_2_about"><text>我真的需要更多的工具和伏特加. 伏特加很容易找到, 但是另一个就不一定了.所以我想从你那里得到更多更好的工具. 可以吗?</text></string>
+	<string id="zat_a2_stalker_mechanic_task_2_fetch_about"><text>我需要一套高级工具.有了它我能干的事就多了.如果你能给我带一套回来, 我将不胜感激,今后你来我这都给你打折.</text></string>
+	<string id="zat_a2_stalker_mechanic_task_2_fetch_finish"><text>神奇!你随时可以停下来喝一杯, 或者看看你的装备.</text></string>
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR CARDAN TASK -->
+	<string id="zat_a2_stalker_mechanic_task_3_name"><text>找到%s</text></string>
+	<string id="zat_a2_stalker_mechanic_task_3_text"><text>找到 %s 以进行专业改造, 将它们带回来.</text></string>
+	<string id="zat_a2_stalker_mechanic_task_3_about"><text>我真的需要更多的工具和伏特加. 伏特加很容易找到, 但是另一个就不一定了.所以我想从你那里得到更多更好的工具. 可以吗?</text></string>
+	<string id="zat_a2_stalker_mechanic_task_3_fetch_about"><text>我需要一套专业工具.有了它我能干的事就多了.如果你能给我带一套回来, 我将不胜感激,今后你来我这都给你打折.</text></string>
+	<string id="zat_a2_stalker_mechanic_task_3_fetch_finish"><text>神奇!随时停下来喝一杯, 或者看看你的装备.</text></string>
+
+	<!-- FIND DETECTORS FOR CARDAN TASK -->
+	<string id="zat_a2_stalker_mechanic_task_4_name"><text>为卡丹寻找探测器</text></string>
+	<string id="zat_a2_stalker_mechanic_task_4_text"><text>%s - 卡丹所需, 你应找些带回给他. </text></string>
+	<string id="zat_a2_stalker_mechanic_task_4_about"><text>我正在拆解旧电器获取零件. 也收购旧探测器. 收集几个带给我. </text></string>
+	<string id="zat_a2_stalker_mechanic_task_4_fetch_about"><text>%c[ui_8]我拆解旧电器获取零件. 也收购旧探测器. 若你找到些, 带到这儿来. 现在我需要几个%c[ui_orange]%s%c[ui_8]. 若你带来, 不会亏待你. </text></string>
+	<string id="zat_a2_stalker_mechanic_task_4_fetch_finish"><text>太好了! 拿着, 说好的报酬. </text></string>
+
+
+	<!-- FIND ALCOHOL FOR MEDIC TASK -->
+	<string id="zat_b22_stalker_medic_task_1_name"><text>带酒精给阿克塞尔</text></string>
+	<string id="zat_b22_stalker_medic_task_1_text"><text>取得%s并带给阿克塞尔, 供他用于伤口消毒. </text></string>
+	<string id="zat_b22_stalker_medic_task_1_about"><text>我需要更多酒精消毒伤口. 若你带些来会付酬. </text></string>
+	<string id="zat_b22_stalker_medic_task_1_fetch_about"><text>%c[ui_8]我需要更多酒精消毒伤口. 若你带些来会付重金. %c[ui_orange]%s%c[default]最理想. </text></string>
+	<string id="zat_b22_stalker_medic_task_1_fetch_finish"><text>完美, 正是我需要的. 谢谢你! </text></string>
+
+</string_table>

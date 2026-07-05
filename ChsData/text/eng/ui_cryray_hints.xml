@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+
+	<string id="ui_hint_difficulty"><text>影响玩家、变种生物和潜行者的伤害与生存能力. \n \n默认: %c[255,216,186,140]"潜行者"</text></string>
+	
+	<string id="ui_hint_hold_breath"><text>负责瞄准镜中的屏息机制. \n \n必须在控制选项中分配按键. \n \n默认: %c[255,216,186,140]"启用"</text></string>	
+	
+	<string id="ui_hint_suppression"><text>子弹从附近飞过的效果. \n \n默认: %c[255,216,186,140]"启用"</text></string>		
+	
+	<string id="ui_hint_important_save"><text>在不同地点之间切换时autosave. \n \n默认: %c[255,216,186,140]"启用"</text></string>	
+
+	<string id="ui_hint_show_tracers"><text>显示带有曳光效果的子弹轨迹. \n \n默认: %c[255,216,186,140]"启用"</text></string>	
+
+	<string id="ui_hint_dead_body_collision"><text>玩家与变种生物和潜行者尸体的物理碰撞处理. \n \n默认: %c[255,216,186,140]"玩家"</text></string>	
+
+	<string id="ui_hint_cop_pickup_mode"><text>允许玩家一次性拾取地面上位于一定距离内的多个物品. \n \n默认: %c[255,216,186,140]"禁用"</text></string>	
+
+	<string id="ui_hint_wallmarks"><text>在变种生物和潜行者身体上显示伤痕标记. \n \n默认: %c[255,216,186,140]"启用"</text></string>	
+
+	<string id="ui_hint_discord"><text>在您的Discord个人资料中显示游戏状态. \n \n默认: %c[255,216,186,140]"启用"</text></string>	
+
+	<string id="ui_hint_tips"><text>包含角色识别功能: 名称、所属阵营以及与玩家的关系 (当瞄准角色时, 若启用) . \n \n默认: %c[255,216,186,140]"启用"</text></string>	
+
+	<string id="ui_hint_show_crosshair"><text>显示瞄准镜的十字准星. \n \n默认: %c[255,216,186,140]"禁用"</text></string>	
+
+	<string id="ui_hint_dyn_crosshair"><text>将瞄准镜切换至动态模式 (十字准星会根据玩家动作改变大小) . \n \n默认: %c[255,216,186,140]"启用"</text></string>	
+
+	<string id="ui_hint_show_weapon"><text>第一人称视角下的手部模型、武器和物品显示. \n \n默认: %c[255,216,186,140]"启用"</text></string>	
+
+	<string id="ui_hint_crosshair_distance"><text>显示准星所指目标或物体的距离. \n \n默认: %c[255,216,186,140]"禁用"</text></string>	
+	
+	<string id="ui_hint_update_loot_pick_soc"><text>当您从尸体或箱子中拾取或移动物品时刷新物品栏格子. \n \n默认: %c[255,216,186,140]"启用"</text></string>	
+
+	<string id="ui_hint_mode_crosshair"><text>允许您选择十字准星的行为模式. \n \n默认: %c[255,216,186,140]"标准"</text></string>	
+
+	<string id="ui_hint_type_crosshair"><text>允许您选择十字准星的类型. \n \n默认: %c[255,216,186,140]"紧凑型"</text></string>	
+
+	<string id="ui_hint_hud_draw"><text>显示玩家的基础信息 (迷你地图、快捷栏、弹药数量及主角状态信息) . \n \n默认: %c[255,216,186,140]"启用"</text></string>	
+
+	<string id="ui_hint_debug_hud"><text>显示关于游戏玩法的各种调试信息 (仅适用于模组制作者) . \n \n默认: %c[255,216,186,140]"禁用"</text></string>	
+
+	<string id="ui_hint_localization_rus"><text>允许您选择所需的语言 (游戏过程中无法更改语言) . </text></string>
+	
+	<string id="ui_hint_localization_eng"><text>允许您选择您想要的语言 (您无法在游戏过程中更改语言) . </text></string>	
+
+	<string id="ui_hint_slot_hud"><text>显示神器栏位和当前伙伴的信息 (在主屏幕上) . \n \n默认: %c[255,216,186,140]"启用"</text></string>	
+
+	<string id="ui_hint_actor_hit"><text>负面效应对玩家的影响. \n \n默认: %c[255,216,186,140]"启用"</text></string>	
+
+	<string id="ui_hint_actor_bleeding"><text>流血或低生命值的效果. \n \n默认: %c[255,216,186,140]"启用"</text></string>	
+
+	<string id="ui_hint_show_enemy_health"><text>显示当前对手的生命值数量. \n \n默认: %c[255,216,186,140]"启用"</text></string>	
+
+	<string id="ui_hint_release_dropped_items"><text>随着时间的推移, 掉落的物品会从世界中移除. \n \n默认: %c[255,216,186,140]"启用"</text></string>	
+
+	<string id="ui_hint_radio_mod"><text>包括在游戏世界中特定位置通过收音机播放音乐. \n \n默认: %c[255,216,186,140]"启用"</text></string>	
+
+	<string id="ui_hint_mechanic_feature"><text>此选项负责物品的修理时间 (修理不是瞬时的, 直接取决于物品的状况) . \n \n默认: %c[255,216,186,140]"禁用"</text></string>	
+	
+	<string id="ui_hint_heli_engine_sound"><text>直升机旋翼的声音. \n \n默认: %c[255,216,186,140]"启用"</text></string>	
+
+	<string id="ui_hint_heli_spawn"><text>负责特异区中直升机的出现. \n \n默认: %c[255,216,186,140]"启用"</text></string>	
+
+	<string id="ui_hint_dynamic_news"><text>显示关于特异区中任何新闻的消息. \n \n默认: %c[255,216,186,140]"启用"</text></string>	
+
+	<string id="ui_hint_art_degrade"><text>随着时间的推移, 找到的神器如果挂在腰带上并以任何方式使用 (例如保护穿戴者免受有害影响) , 将会失去其属性. \n \n默认: %c[255,216,186,140]"禁用"</text></string>	
+
+	<string id="ui_hint_alife_mutant_pop"><text>特异区中变异种群的比例. \n \n默认: %c[255,216,186,140]"0.5"</text></string>	
+
+	<string id="ui_hint_alife_stalker_pop"><text>特异区中潜行者种群的比例. \n \n默认: %c[255,216,186,140]"0.5"</text></string>	
+
+	<string id="ui_hint_excl_dist"><text>防止变异体和其他潜行者在危险距离内刷新的距离. \n \n默认: %c[255,216,186,140]"50"</text></string>	
+
+	<string id="ui_hint_quicksave_cnt"><text>玩家可以进行的quicksave次数. \n \n默认: %c[255,216,186,140]"5"</text></string>	
+
+	<string id="ui_hint_char_portrait"><text>主角的初始肖像. </text></string>	
+
+	<string id="ui_hint_outfit_portrait"><text>根据您角色当前的装备相应更改原始肖像. \n \n默认: %c[255,216,186,140]"启用"</text></string>	
+
+	<string id="ui_hint_sim_on_all_levels"><text>包括整个特异区中的生命模拟 (A-life) , 而不仅仅是在与玩家当前所在位置相连的位置 (启用此选项后, 生命模拟变得极其不可预测、奇怪或不正确) . \n \n更改将在重启游戏或移动到另一个位置后生效. \n \n默认: %c[255,216,186,140]"禁用"</text></string>	
+
+	<string id="ui_hint_pdaoff"><text>如果"辐射风暴"或"精神风暴"开始, 则禁用PDA屏幕 (屏幕将显示错误和干扰) . \n \n默认: %c[255,216,186,140]"启用"</text></string>	
+
+	<string id="ui_hint_pdaoff1"><text>如果玩家位于地下位置, 则禁用PDA屏幕 (屏幕将显示错误和干扰) . \n \n默认: %c[255,216,186,140]"启用"</text></string>	
+	
+	<string id="ui_hint_fast_travel"><text>激活通过PDA使用特殊图标 (绿色房屋) 快速旅行的能力, 这些图标随着您探索游戏位置而解锁. \n \n更改将在以下情况后生效: 重启游戏、重启关卡或移动到另一个位置. \n \n默认: %c[255,216,186,140]"启用"</text></string>	
+
+</string_table>

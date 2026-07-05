@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<!-- RECAPTURE TERRITORY 1 FOR FREEDOM LEADER TASK -->
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_name">
+		<text>Recapture Abandoned village for Lukash</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_text">
+		<text>You have been tasked to defend a faction territory. Report back to Lukash after the job is done.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_about">
+		<text>%c[ui_8]I have an important mission if you are willing. Duty has taken over %c[ui_orange]Abandoned village%c[ui_8] and I need an infiltrator to reclaim it.\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_finish">
+		<text>Excellent. Well done.</text>
+	</string>
+
+	<!-- RECAPTURE TERRITORY 2 FOR FREEDOM LEADER TASK -->
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_name">
+		<text>Recapture Barrier for Lukash</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_text">
+		<text>Need to recapture Barrier and report back to Lukash after the job is done.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_about">
+		<text>%c[ui_8]There is a problem here! We lost the %c[ui_orange]Barrier%c[ui_8]. I need your help to get it back before Monolith invades.\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_finish">
+		<text>Is the enemy defeated? Good job!</text>
+	</string>
+
+	<!-- CAPTURE TERRITORY FOR FREEDOM LEADER TASK -->
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_name">
+		<text>Capture North-western outpost for Lukash</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_text">
+		<text>You have been tasked to capture North-western outpost and report back to Lukash after the job is done.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_about">
+		<text>%c[ui_8]There's a job. One of the camps of interest to Freedom is occupied by a enemy forces. It's the %c[ui_orange]North-western outpost%c[ui_8]. We need to fix this situation. So, what do you say, man? Will you help?\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_finish">
+		<text>The task is completed? Great job.</text>
+	</string>
+
+	<!-- GET ITEM FROM STASH FOR FREEDOM LEADER TASK -->
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_name">
+		<text>Take the USB stick from the stash and bring it to Lukash</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_text">
+		<text>Go to the specified location, take the USB stick from the stash, and bring it to Lukash.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_about">
+		<text>%c[ui_8]Our guy has infiltrated the enemy and is leaking useful intel to us. To avoid blowing his cover, he has to act carefully, avoiding contact with our fighters and leaving information in special drop points. I've got the coordinates of a stash where you need to retrieve a USB stick with the data. So, what do you say - you in?</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_finish">
+		<text>Great, you did well, man! Here's your reward.</text>
+	</string>
+
+
+	<!-- FIND ARTEFACT FOR FREEDOM TRADER TASK -->
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_name">
+		<text>Find the %s artefact for Skinflint</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_text">
+		<text>You have been asked to retrieve the %s artefact. Bring it back to Skinflint if you happen to get your hands on one.</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_about">
+		<text>We've got a job from our sponsors. We need an artefact. Would you like to help?</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_fetch_about">
+		<text>%c[ui_8]We've got a job from our sponsors. We need the %c[ui_orange]%s%c[ui_8] artefact, have you heard of it? Can you get it for us? And I will pay you well.</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_1_fetch_finish">
+		<text>Great job, stalker. Here's what I promised.</text>
+	</string>
+
+	<!-- ASSASSINATE MONOLITH FOR FREEDOM TRADER TASK -->
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_2_name">
+		<text>Assassinate one of Monolith for Skinflint</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_2_text">
+		<text>Skinflint has tasked you with finding and eliminating a member of Monolith.</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_2_about">
+		<text>%c[ui_8]There's a job... Dangerous, yeah. No matter how much we ask our people, no one wants to take it on, maybe you'll be the one to step up. The Monolith keeps breaking through the Barrier over and over again. We can barely hold them back. But I have an idea on how to stop it, at least for a while. We need someone to sneak into their territory and take one man, who, according to our intel, is coordinating the attacks. What do you say? Are there any real heroes left in the Zone?</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_2_finish">
+		<text>Ah, you survived! Man, you've got a set on you. Great job.</text>
+	</string>
+
+	<!-- ASSASSINATE DUTY FOR FREEDOM TRADER TASK -->
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_3_name">
+		<text>Assassinate one of Duty for Skinflint</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_3_text">
+		<text>Skinflint has tasked you with finding and eliminating one of the Duty.</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_3_about">
+		<text>%c[ui_8]There is a certain individual who has been very loud in his opposition to Freedom and needs to be quieted. Are you any good at shutting people up?</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_3_finish">
+		<text>Great! You do us proud. Here is what I promised.</text>
+	</string>
+
+	<!-- HUNT MUTANTS FOR FREEDOM TRADER TASK -->
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_4_name">
+		<text>Hunt Mutants for Skinflint</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_4_text">
+		<text>You have been tasked to eliminate the mutant threat. Report back after the job is done.</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_4_about">
+		<text>%c[ui_8]Mutants have been spotted nearby, making the area even more dangerous. I'm looking for someone to handle the cleanup. Can you help with this, man?\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_4_finish">
+		<text>Fantastic! Here is your reward.</text>
+	</string>
+
+	<!-- HEAD HUNTING FOR FREEDOM TRADER TASK -->
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_5_name">
+		<text>Long-standing feud</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_5_text">
+		<text>%s from killed Duty.</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_5_about">
+		<text>Kill several Duty stalkers and bring their patches as a prove.</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_5_fetch_about">
+		<text>%c[ui_8]I pay for the heads of our old enemies. %c[ui_orange]%s%c[ui_8] from a dozen of Duty will a proof that the Zone has gained more freedom.</text>
+	</string>
+	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_5_fetch_finish">
+		<text>Good job! Here is your payment.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR FREEDOM MECHANIC TASK -->
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_name">
+		<text>Find %s for Screw</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_text">
+		<text>%s are required by Screw to install basic equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_about">
+		<text>Yo, man. Are you interested in doing a job for me? I need specific tools to operate on weapons.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_fetch_about">
+		<text>%c[ui_8]Good, I need a %c[ui_orange]%s%c[ui_8]. I will pay you if you can bring a set back to me.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_fetch_finish">
+		<text>Thanks, man! I knew there was a reason I asked you. You look like a man who can get shit done.</text>
+	</string>
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR FREEDOM MECHANIC TASK -->
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_name">
+		<text>Find %s for Screw</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_text">
+		<text>%s are required by Screw to install advanced equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_about">
+		<text>Haha, I hate to ask. But I could really use more tools. You brought me what I have asked last time but I need a higher quality set. Can you help out again?</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_fetch_about">
+		<text>%c[ui_8]I need a set of %c[ui_orange]%s%c[ui_8]. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_fetch_finish">
+		<text>You keep this shit up, everyone around here is going to love you. Thanks, man.</text>
+	</string>
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR FREEDOM MECHANIC TASK -->
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_name">
+		<text>Find %s for Screw</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_text">
+		<text>%s are required by Screw to install expert equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_about">
+		<text>Haha, I hate to ask. But I could really use more tools. You brought me what I have asked last time but I need a higher quality set. Can you help out again?</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_fetch_about">
+		<text>%c[ui_8]I need a set of %c[ui_orange]%s%c[ui_8]. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_fetch_finish">
+		<text>You keep this shit up, everyone around here is going to love you. Thanks, man.</text>
+	</string>
+
+	<!-- FIND WEAPON FOR FREEDOM MECHANIC TASK -->
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_4_name">
+		<text>Find %s for Screw</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_4_text">
+		<text>Screw asked for %s. It needs to be in good condition.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_4_about">
+		<text>I need a certain gun to use it for spare parts. If you are interested in the job, I will give you more details. What would you say?</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_4_fetch_about">
+		<text>%c[ui_8]A job for a good guy is always available. I need different guns. Right now, I need %c[ui_orange]%s%c[ui_8] in good condition. If you get your hands on one, bring it here. If it's totally wrecked, no worries, we can fix it up. Use %c[ui_orange]gunsmith kit%c[ui_8] for that. If you don't have one, I can help, but, man, it's gonna cost you...</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_4_fetch_finish">
+		<text>Great! Exactly what I need.</text>
+	</string>
+
+
+	<!-- FIND RARE ARTEFACT FOR FREEDOM MEDIC TASK -->
+	<string id="mil_smart_terrain_7_7_freedom_medic_stalker_task_1_name">
+		<text>Find the %s artefact for Herbalist</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_medic_stalker_task_1_text">
+		<text>Herbalist has asked you to find a rare artefact called the %s.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_medic_stalker_task_1_about">
+		<text>We need an artifact - not just any, but one that heals and has no harmful effects. Bring it back, and I'll make sure you get paid well.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_medic_stalker_task_1_fetch_about">
+		<text>%c[ui_8]Listen, man, there's a job only someone who can walk through anomalies with their eyes closed can handle. We need an artifact - not just any, but one that heals and has no harmful effects. It's called the %c[ui_orange]%s%c[ui_8]. You've definitely heard of it, right? Bring it to me, and I'll make sure you get paid well.</text>
+	</string>
+	<string id="mil_smart_terrain_7_7_freedom_medic_stalker_task_1_fetch_finish">
+		<text>Great job, man! Here's your reward.</text>
+	</string>
+
+</string_table>

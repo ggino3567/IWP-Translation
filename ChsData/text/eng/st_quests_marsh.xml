@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	<!-- RECAPTURE TERRITORY 1 FOR CLEAR SKY LEADER TASK -->
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_1_name"><text>为晴空夺回泵站</text></string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_1_text"><text>夺取泵站控制权并归入晴空麾下, 任务完成后汇报. </text></string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_1_about"><text>%c[ui_8]我们有个小队失联一段时间了. 担心他们出了事. 去查看情况. 他们最后联络的地点是%c[ui_orange]泵站%c[ui_8]. 不会忘记这份人情! \n\n%c[ui_orange][若接取任务后前往无法进行此任务的地区, 任务将失败]</text></string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_1_finish"><text>任务完成了? 干得好. </text></string>
+
+	<!-- RECAPTURE TERRITORY 2 FOR CLEAR SKY LEADER TASK -->
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_2_name"><text>为晴空夺回旧教堂</text></string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_2_text"><text>夺回旧教堂区域控制权, 任务完成后汇报. </text></string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_2_about"><text>%c[ui_8]我们的巡逻队突然失联. 可能遭遇强盗或变异体. 需要人查清情况. 他们目的地是%c[ui_orange]旧教堂%c[ui_8]. 接不接任务? \n\n%c[ui_orange][若接取任务后前往无法进行此任务的地区, 任务将失败]</text></string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_2_finish"><text>干得漂亮! 这是你的报酬. </text></string>
+
+	<!-- ASSAULT TERRITORY 1 FOR CLEAR SKY LEADER TASK -->
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_3_name"><text>为晴空占领瞭望塔</text></string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_3_text"><text>夺取瞭望塔控制权, 任务完成后汇报. </text></string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_3_about"><text>%c[ui_8]渔村北边有座%c[ui_orange]瞭望塔%c[ui_8]被强盗占据. 他们会封锁通往营地的安全道路并快速侦察我们基地位置! 为保障营地安全, 必须控制该塔. 能帮忙吗? \n\n%c[ui_orange][若接取任务后前往无法进行此任务的地区, 任务将失败]</text></string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_3_finish"><text>干得漂亮! </text></string>
+
+	<!-- ASSAULT TERRITORY 2 FOR CLEAR SKY LEADER TASK -->
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_4_name"><text>为晴空清除军方营地</text></string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_4_text"><text>你被指派清除区域内的军方威胁. 任务完成后汇报. </text></string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_4_about"><text>%c[ui_8]我们开始遭遇军方骚扰. 他们封锁了沼泽多条安全路线, 让我们处境更糟. 前往%c[ui_orange]村庄废墟%c[ui_8]——他们的营地就在那儿, 解决掉他们. 怎么说? \n\n%c[ui_orange][若接取任务后前往无法进行此任务的地区, 任务将失败]</text></string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_4_finish"><text>太棒了! 这是你的酬金. 我会确保传话出去说那里又安全了. 谢谢你, 潜行者. </text></string>
+
+
+	<!-- DELIVER PDA FOR CLEAR SKY TRADER TASK -->
+	<string id="mar_base_owl_stalker_trader_task_1_name"><text>给明眼送个PDA</text></string>
+	<string id="mar_base_owl_stalker_trader_task_1_text"><text>将加密的 pda 送至封锁线</text></string>
+	<string id="mar_base_owl_stalker_trader_task_1_about"><text>伙计,你在找工作吗? 这个PDA需要送到封锁线新手村一个人的手里; 他的名字是明眼.钱他给你付. 当你从他那拿到钱后, 可以找他买些好点的武器, 他会给你打折的.</text></string>
+
+	<!-- DESTROY HELICOPTER FOR CLEAR SKY TRADER TASK -->
+	<string id="mar_base_owl_stalker_trader_task_2_name"><text>摧毁军用直升机</text></string>
+	<string id="mar_base_owl_stalker_trader_task_2_text"><text>孢子被袭击了,他希望你能把直升机打下来. 如果你搞定了,他会给你打折.</text></string>
+	<string id="mar_base_owl_stalker_trader_task_2_about"><text>那该死的直升机把我逼疯了, 一天到晚搁那嗡嗡嗡的跟蚊子一样! 我都想一炮给他干下来! 如果你能把他干掉,我会给你打折的,谢啦.</text></string>
+
+	<!-- ESCORT SCIENTISTS FOR CLEAR SKY TRADER TASK -->
+	<string id="mar_base_owl_stalker_trader_task_3_name"><text>护送科学家</text></string>
+	<string id="mar_base_owl_stalker_trader_task_3_text"><text>晴空科学家聘请你带领他们到一个特定的地点进行研究. 等待他们的研究成功地进行完, 并将他们安全地返回营地,你将得到一份可观的报酬.</text></string>
+	<string id="mar_base_owl_stalker_trader_task_3_about"><text>营地里有一些科学家, 需要一个有经验的潜行者带领他们前往一个可以进行研究的地方. 你能做到吗? 你的工作是让他们活着, 带领他们去目的地. 失败的话你的名声就臭了.</text></string>
+	<string id="mar_base_owl_stalker_trader_task_3_finish"><text>谢谢你潜行者.这是你应得的.</text></string>
+
+
+	<!-- HUNT MUTANTS FOR CLEAR SKY BARMEN TASK -->
+	<string id="mar_base_stalker_barmen_task_1_name"><text>消除变种生物威胁</text></string>
+	<string id="mar_base_stalker_barmen_task_1_text"><text>变种生物在这一片搭了个窝,这地方因此变得非常危险. 你已被要求清除这地方的变种生物威胁. 完成后回来向图书管理员汇报.</text></string>
+	<string id="mar_base_stalker_barmen_task_1_about"><text>你是个潜行者吗? 为了大沼泽的安全,干掉那块地方的所有变种生物.</text></string>
+	<string id="mar_base_stalker_barmen_task_1_finish"><text>厉害啊!这是给你的.谢谢你,潜行者.</text></string>
+
+	<!-- FIND MUTANT MEAT FOR CLEAR SKY BARMEN TASK -->
+	<string id="mar_base_stalker_barmen_task_2_name"><text>剿匪</text></string>
+	<string id="mar_base_stalker_barmen_task_2_text"><text>干掉当地的强盗威胁.工作完成后向图书管理员汇报.</text></string>
+	<string id="mar_base_stalker_barmen_task_2_about"><text>这地方有个大麻烦.那些杀人的暴徒们一直在袭击除了我们的营地以外的基地, 并试图侵占我们的领土. 要是他们成功了,我们穿越沼泽地的许多安全路线就走不了了,你能帮助我们吗?.</text></string>
+	<string id="mar_base_stalker_barmen_task_2_fetch_about"><text>%c[ui_8]口粮快见底了, 我得保证营地每个人填饱肚子. 有些弟兄偶尔会带一两只猎物回来. 但最近收获太少——所以要是你不忙又在附近活动的话, 我需要%c[ui_orange]%s%c[ui_8]. 我就在这厨房烹饪处理肉类. 记住激怒变异体会让肉质因肾上腺素变柴. 另外, 出血越少肉质越鲜美. 所以开枪时注意点, 懂了吗? </text></string>
+	<string id="mar_base_stalker_barmen_task_2_fetch_finish"><text>太好了, 你果然是个好猎手! 报酬给你准备好了. </text></string>
+
+
+	<!-- FIND LEVEL 1 TOOLS FOR CLEAR SKY MECHANIC TASK -->
+	<string id="mar_base_stalker_tech_task_1_name"><text>找到 %s</text></string>
+	<string id="mar_base_stalker_tech_task_1_text"><text>找到 %s 以进行基本改造, 将它们带回来</text></string>
+	<string id="mar_base_stalker_tech_task_1_about"><text>我需要一些新工具,潜行者, 一些不太可能会在特异区出现的工具. 你如果愿意帮我忙的话, 我就跟你好好讲讲.</text></string>
+	<string id="mar_base_stalker_tech_task_1_fetch_about"><text>我需要一套基本工具.有了它我能干的事就多了.如果你能给我带一套回来, 我将不胜感激,今后你来我这都给你打折.</text></string>
+	<string id="mar_base_stalker_tech_task_1_fetch_finish"><text>真棒, 老兄!在这里, 这是你的报酬</text></string>
+
+	<!-- FIND LEVEL 2 TOOLS FOR CLEAR SKY MECHANIC TASK -->
+	<string id="mar_base_stalker_tech_task_2_name"><text>找到 %s</text></string>
+	<string id="mar_base_stalker_tech_task_2_text"><text>找到 %s 以进行高级改造, 将它们带回来</text></string>
+	<string id="mar_base_stalker_tech_task_2_about"><text>我的生意现在很兴旺, 越来越多的潜行者来了, 他们有时要求我对他们的武器进行高级改装.但我需要更多的工具.你上次带来的工具箱已经不够用了. 我得要一个更高级的工具箱.如果你有兴趣,我细说一下.</text></string>
+	<string id="mar_base_stalker_tech_task_2_fetch_about"><text>我需要一套高级工具.有了它我能干的事就多了.如果你能给我带一套回来, 我将不胜感激,今后你来我这都给你打折.</text></string>
+	<string id="mar_base_stalker_tech_task_2_fetch_finish"><text>真棒, 老兄!还得是你啊!在这里, 这是你的报酬</text></string>
+
+	<!-- FIND LEVEL 3 TOOLS FOR CLEAR SKY MECHANIC TASK -->
+	<string id="mar_base_stalker_tech_task_3_name"><text>找到%s</text></string>
+	<string id="mar_base_stalker_tech_task_3_text"><text>找到 %s 以进行精细改造, 将它们带回来</text></string>
+	<string id="mar_base_stalker_tech_task_3_about"><text>我的生意现在很兴旺, 越来越多的潜行者来了, 他们有时要求我对他们的武器进行精细改装.但我需要更多的工具.你上次带来的工具箱已经不够用了. 我得要一个更高级的工具箱.如果你有兴趣,我细说一下.</text></string>
+	<string id="mar_base_stalker_tech_task_3_fetch_about"><text>我需要一套校准工具.有了它我能干的事就多了.如果你能给我带一套回来, 我将不胜感激,今后你来我这都给你打折.</text></string>
+	<string id="mar_base_stalker_tech_task_3_fetch_finish"><text>真棒, 老兄!还得是你啊!在这里, 这是你的报酬</text></string>
+
+	<!-- FIND DETECTORS FOR CLEAR SKY MECHANIC TASK -->
+	<string id="mar_base_stalker_tech_task_4_name"><text>为诺维科夫寻找探测器</text></string>
+	<string id="mar_base_stalker_tech_task_4_text"><text>%s - 诺维科夫所需, 你应找些带回给他. </text></string>
+	<string id="mar_base_stalker_tech_task_4_about"><text>我协助研究人员维护设备, 电子零件严重短缺. 只能拆各种破烂找晶体管. 旧探测器正合适. </text></string>
+	<string id="mar_base_stalker_tech_task_4_fetch_about"><text>%c[ui_8]我协助研究人员维护设备, 电子零件严重短缺——这沼泽地里还能从哪儿搞? 只能拆各种破烂找晶体管. 旧探测器正合适. 能帮我弄到...%c[ui_orange]%s%c[ui_8]吗? 带几个过来, 不会忘了报答你. </text></string>
+	<string id="mar_base_stalker_tech_task_4_fetch_finish"><text>太棒了, 兄弟! </text></string>
+
+
+	<!-- FIND ALCOHOL FOR CLEAR SKY MEDIC TASK -->
+	<string id="mar_smart_terrain_base_doctor_task_1_name"><text>带酒精给伊万·特罗德尼克</text></string>
+	<string id="mar_smart_terrain_base_doctor_task_1_text"><text>取得%s并带给伊万·特罗德尼克, 供他用于伤口消毒. </text></string>
+	<string id="mar_smart_terrain_base_doctor_task_1_about"><text>我需要更多酒精消毒伤口. 若你带些来会付酬. </text></string>
+	<string id="mar_smart_terrain_base_doctor_task_1_fetch_about"><text>%c[ui_8]我需要更多酒精消毒伤口. 若你带些来会付重金. %c[ui_orange]%s%c[default]最理想. </text></string>
+	<string id="mar_smart_terrain_base_doctor_task_1_fetch_finish"><text>完美, 正是我需要的. 谢谢你! </text></string>
+
+
+	<!-- ESCORT SCIENTISTS DIALOGS -->
+	<string id="ecolog_companion_task_1_start_dialog_1"><text>你是我们的向导吗?我会在你的PDA上标明目标位置.你打头阵,我们紧随其后.在我们完成分析后,护送我们安全返回.回到营地后再跟我说话.</text></string>
+	<string id="ecolog_companion_task_1_start_dialog_2"><text>好了吗?我们得走了, 我们等待的时间越长, 就越危险.</text></string>
+	<string id="ecolog_companion_task_1_complete"><text>谢谢你, 潜行者.这是你的报酬.</text></string>
+	<string id="ecolog_companion_task_1_actor_reply"><text>好,</text></string>
+
+
+	<!-- FIND SWAMP DOCTOR -->
+	<string id="mar_doctor_task"><text>特异区的秘密</text></string>
+	<string id="mar_doctor_task_0"><text>你来到特异区,试图解开她的许多奥秘,有一个人可能知道你寻求的答案是什么.他平时会在沼泽西北处的一个坑洞附近闲逛.到了晚上就会来基地休息.</text></string>
+
+	<!-- MARSH DOCTOR STASH IN PRIPYAT -->
+	<string id="cit_doctor_task"><text>波利西亚酒店</text></string>
+	<string id="cit_doctor_task_1"><text>神医给你的钥匙和坐标表明史特列洛克有一个藏身处,在普里皮亚季的波利西亚酒店.</text></string>
+	<string id="cit_doctor_task_2"><text>你在坐标中找到了酒店, 在这里的某个地方, 会有一个需要钥匙才能打开的地方</text></string>
+	<string id="cit_doctor_task_3"><text>一些散落的物品散落在地上,这里是被史特列洛克遗弃的藏身处.他们留下来的东西应该会是一段线索. 说不定对探索特异区的秘密有所帮助.</text></string>
+
+	<!-- MARSH DOCTOR VISIT LABS -->
+	<string id="st_main_1_search_agr_ug_name"><text>调查农业研究所地下</text></string>
+	<string id="st_main_1_search_agr_ug_text"><text>调查农业研究所地下并找到阴谋的确凿证据</text></string>
+	<string id="st_main_2_search_labx18_name"><text>调查实验室 X-18</text></string>
+	<string id="st_main_2_search_labx18_text"><text>调查实验室 X-18 并找到阴谋的确凿证据</text></string>
+	<string id="st_main_3_search_labx16_name"><text>调查实验室 X-16</text></string>
+	<string id="st_main_3_search_labx16_text"><text>调查实验室 X-16 并找到阴谋的确凿证据</text></string>
+	<string id="st_main_4_search_labx10_name"><text>调查实验室 X-19</text></string>
+	<string id="st_main_4_search_labx10_text"><text>调查实验室 X-19 并找到阴谋的确凿证据</text></string>
+	<string id="st_main_5_search_labx8_name"><text>调查实验室 X-8</text></string>
+	<string id="st_main_5_search_labx8_text"><text>调查实验室 X-8 并找到阴谋的确凿证据</text></string>
+	<string id="st_main_6_search_jup_ug_name"><text>调查木星地下通道</text></string>
+	<string id="st_main_6_search_jup_ug_text"><text>调查木星地下通道并找到阴谋的确凿证据</text></string>
+	<string id="st_main_7_search_mon_con_name"><text>调查切尔诺贝利核电站</text></string>
+	<string id="st_main_7_search_mon_con_text"><text>调查切尔诺贝利核电站并找到阴谋的确凿证据</text></string>
+
+</string_table>

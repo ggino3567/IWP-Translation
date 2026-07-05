@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+<string id="st_prop_contrast_bino"><text>高对比度滤镜  </text></string>
+<string id="st_prop_kratnost_bino"><text>放大倍率  </text></string>
+<string id="gunsl_binoc_up_upg_weight_name"><text>重量减轻  </text></string>
+<string id="gunsl_binoc_up_upg_weight_descr"><text>用轻质材料替换标准材料.   </text></string>
+<string id="gunsl_binoc_up_upg_10x_name"><text>放大倍率  </text></string>
+<string id="gunsl_binoc_up_upg_10x_descr"><text>增加瞄准镜的放大倍率, 以增强远距离的可见度.   </text></string>
+<string id="gunsl_binoc_up_upg_detect_name"><text>生命体探测器安装</text></string>
+<string id="gunsl_binoc_up_upg_detect_descr"><text>安装生命体探测器 (LFD) 以探测远距离生物.   </text></string>
+<string id="gunsl_binoc_up_upg_night_name"><text>高对比度滤镜  </text></string>
+<string id="gunsl_binoc_up_upg_night_descr"><text>在瞄准镜中安装高对比度滤镜, 以提升在昏暗条件下的可见度.   </text></string>
+</string_table>

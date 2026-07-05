@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	<string id="sar_monolith"><text>北方的召唤</text></string>
+	<string id="sar_monolith_0"><text>毁灭之愿</text></string>
+	<string id="sar_monolith_1"><text>北方有个声音一直在呼唤我. 我应该能在那里找到源头.</text></string>
+	<string id="sar_monolith_2"><text>呼唤我的声音来自许愿石, 我要石棺的某个地方找到它.</text></string>
+	<string id="sar_monolith_destroy"><text>石棺</text></string>
+	<string id="sar_monolith_destroy_0"><text>从发现的手稿中寻找出这儿发生的事</text></string>
+	<string id="sar_monolith_destroy_1"><text>摧毁PSI机器: 摧毁控制黑石的PSI产生器</text></string>
+    <string id="sar_monolith_destroy_2"><text>关闭C意识的电源</text></string>
+	    <string id="sar_monolith_destroy_3"><text>关掉异常发生器</text></string>
+</string_table>

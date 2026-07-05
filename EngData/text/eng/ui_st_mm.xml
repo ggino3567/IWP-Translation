@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ui_st_mp_create">
+		<text>Create</text>
+	</string>
+	<string id="ui_st_mp_login">
+		<text>Login</text>
+	</string>
+	<string id="ui_st_mp_logout">
+		<text>Logout</text>
+	</string>
+	<string id="Clear">
+		<text>Clear</text>
+	</string>
+	<string id="Cloudy">
+		<text>Cloudy</text>
+	</string>
+	<string id="Default">
+		<text>Default</text>
+	</string>
+	<string id="Extreme">
+		<text>Extreme</text>
+	</string>
+	<string id="High">
+		<text>High</text>
+	</string>
+	<string id="Low">
+		<text>Low</text>
+	</string>
+	<string id="Minimum">
+		<text>Minimum</text>
+	</string>
+	<string id="Night">
+		<text>Night</text>
+	</string>
+	<string id="Rain">
+		<text>Rain</text>
+	</string>
+	<string id="game type">
+		<text>Game Type</text>
+	</string>
+	<string id="gd_novice">
+		<text>Novice</text>
+	</string>
+	<string id="gd_stalker">
+		<text>Stalker</text>
+	</string>
+	<string id="gd_veteran">
+		<text>Veteran</text>
+	</string>
+	<string id="gd_master">
+		<text>Master</text>
+	</string>
+	<string id="icon">
+		<text>Icons</text>
+	</string>
+	<string id="map">
+		<text>Map</text>
+	</string>
+	<string id="st_opt_high">
+		<text>High</text>
+	</string>
+	<string id="st_opt_low">
+		<text>Low</text>
+	</string>
+	<string id="st_opt_medium">
+		<text>Medium</text>
+	</string>
+	<string id="st_opt_off">
+		<text>Off</text>
+	</string>
+	<string id="ui_mm_60_hz">
+		<text>60 Hz Frequency</text>
+	</string>
+	<string id="ui_mm_action">
+		<text>ACTION</text>
+	</string>
+	<string id="ui_mm_advanced">
+		<text>Advanced</text>
+	</string>
+	<string id="ui_mm_alternative">
+		<text>ALTERNATIVE</text>
+	</string>
+	<string id="ui_mm_anisotropic">
+		<text>Anisotropic Filtering</text>
+	</string>
+	<string id="ui_mm_apply">
+		<text>Apply</text>
+	</string>
+	<string id="ui_mm_back">
+		<text>Back</text>
+	</string>
+	<string id="ui_mm_blood">
+		<text>Blood</text>
+	</string>
+	<string id="ui_mm_brightness">
+		<text>Brightness</text>
+	</string>
+	<string id="ui_mm_cancel">
+		<text>Cancel</text>
+	</string>
+	<string id="ui_mm_check_updates">
+		<text>Check Updates</text>
+	</string>
+	<string id="ui_mm_contrast">
+		<text>Contrast</text>
+	</string>
+	<string id="ui_mm_controls">
+		<text>Controls</text>
+	</string>
+	<string id="ui_mm_credits">
+		<text>Credits</text>
+	</string>
+	<string id="ui_mm_crosshair_distance">
+		<text>Crosshair Distance</text>
+	</string>
+	<string id="ui_mm_default">
+		<text>Default</text>
+	</string>
+	<string id="ui_mm_delete">
+		<text>Delete</text>
+	</string>
+	<string id="ui_mm_delete_existing_file_q">
+		<text>Really delete?</text>
+	</string>
+	<string id="ui_mm_detail_density">
+		<text>Grass Density</text>
+	</string>
+	<string id="ui_mm_detail_radius">
+		<text>Grass Drawing Distance</text>
+	</string>
+	<string id="ui_mm_difficulty">
+		<text>Difficulty</text>
+	</string>
+	<string id="ui_mm_disconnect">
+		<text>Disconnect</text>
+	</string>
+	<string id="ui_mm_disconnect_message">
+		<text>Do you really want to disconnect?</text>
+	</string>
+	<string id="ui_mm_dof">
+		<text>Depth of Field</text>
+	</string>
+	<string id="ui_mm_dyn_crosshair">
+		<text>Dynamic Crosshair</text>
+	</string>
+	<string id="ui_mm_dynamic_music">
+		<text>Dynamic Music</text>
+	</string>
+	<string id="ui_mm_eax">
+		<text>Surround Sound (EAX)</text>
+	</string>
+	<string id="ui_mm_gameplay">
+		<text>Gameplay</text>
+	</string>
+	<string id="ui_mm_gamma">
+		<text>Gamma</text>
+	</string>
+	<string id="ui_mm_geometry_lod">
+		<text>Object Detail</text>
+	</string>
+	<string id="ui_mm_invert_mouse">
+		<text>Invert Mouse</text>
+	</string>
+	<string id="ui_mm_key">
+		<text>KEY</text>
+	</string>
+	<string id="ui_mm_keyboard_setup">
+		<text>Keyboard Setup</text>
+	</string>
+	<string id="ui_mm_last_save">
+		<text>Last Save</text>
+	</string>
+	<string id="ui_mm_light_distance">
+		<text>Light Distance</text>
+	</string>
+	<string id="ui_mm_load">
+		<text>Load</text>
+	</string>
+	<string id="ui_mm_load_game">
+		<text>Load Game</text>
+	</string>
+	<string id="ui_mm_logout">
+		<text>Logout from Profile</text>
+	</string>
+	<string id="ui_mm_master">
+		<text>Master</text>
+	</string>
+	<string id="ui_mm_master_volume">
+		<text>Master Volume</text>
+	</string>	
+	<string id="ui_mm_mouse_sense">
+		<text>Mouse Sensitivity</text>
+	</string>
+	<string id="ui_mm_msaa_alphatest">
+		<text>Smooth Alpha-tested Objects</text>
+	</string>
+	<string id="ui_mm_msaa_opt">
+		<text>Optimize Anti-aliasing</text>
+	</string>
+	<string id="ui_mm_multiplayer">
+		<text>Multiplayer</text>
+	</string>
+	<string id="ui_mm_multiplayer_n">
+		<text>Network Game</text>
+	</string>
+	<string id="ui_mm_music_volume">
+		<text>Music Volume</text>
+	</string>
+	<string id="ui_mm_need_restart">
+		<text>Changes will take effect only after game restart</text>
+	</string>
+	<string id="ui_mm_network_game">
+		<text>Network Game</text>
+	</string>
+	<string id="ui_mm_newgame">
+		<text>New Game</text>
+	</string>
+	<string id="ui_mm_novice">
+		<text>Novice</text>
+	</string>
+	<string id="ui_mm_npc_torch">
+		<text>NPC Flashlight</text>
+	</string>
+	<string id="ui_mm_options">
+		<text>Options</text>
+	</string>
+	<string id="ui_mm_options_n">
+		<text>Options</text>
+	</string>
+	<string id="ui_mm_weather_options">
+		<text>Weather</text>
+	</string>
+	<string id="ui_mm_particles_distance">
+		<text>Particle Distance</text>
+	</string>
+	<string id="ui_mm_quality_presets">
+		<text>Quality Settings</text>
+	</string>
+	<string id="ui_mm_quit2windows">
+		<text>Quit to Windows</text>
+	</string>
+	<string id="ui_mm_quit_game">
+		<text>Quit Game</text>
+	</string>
+	<string id="ui_mm_quit_game_message">
+		<text>Do you really want to quit the game?</text>
+	</string>
+	<string id="ui_mm_quit_windows_message">
+		<text>Do you really want to quit to Windows?</text>
+	</string>
+	<string id="ui_mm_r2_detail_bump">
+		<text>Detail Bump</text>
+	</string>
+	<string id="ui_mm_r2_steep_parallax">
+		<text>Steep Parallax</text>
+	</string>
+	<string id="ui_mm_r2_sun">
+		<text>Sun Shadow</text>
+	</string>
+	<string id="ui_mm_r2_sun_details">
+		<text>Grass Shadow</text>
+	</string>
+	<string id="ui_mm_r__actor_shadow">
+		<text>Player Shadow</text>
+	</string>
+	<string id="ui_mm_r2_sun_quality">
+		<text>Sun Quality</text>
+	</string>
+	<string id="ui_mm_r3_DX10_1">
+		<text>Use DX10.1</text>
+	</string>
+	<string id="ui_mm_r3_MSAA">
+		<text>Fullscreen Anti-aliasing</text>
+	</string>
+	<string id="ui_mm_r3_dynamic_wet_surfaces">
+		<text>Dynamic Wet Surfaces</text>
+	</string>
+	<string id="ui_mm_r3_gbuffer_opt">
+		<text>Optimize Geometry Buffer</text>
+	</string>
+	<string id="ui_mm_r3_volumetric_smoke">
+		<text>Volumetric Smoke</text>
+	</string>
+	<string id="ui_mm_render_2">
+		<text>Render-2</text>
+	</string>
+	<string id="ui_mm_renderer">
+		<text>Renderer Type</text>
+	</string>
+	<string id="ui_mm_resolution">
+		<text>Monitor Resolution</text>
+	</string>
+	<string id="ui_mm_return_game">
+		<text>Continue</text>
+	</string>
+	<string id="ui_mm_save">
+		<text>Save</text>
+	</string>
+	<string id="ui_mm_save_game">
+		<text>Save Game</text>
+	</string>
+	<string id="ui_mm_show_crosshair">
+		<text>Show Crosshair</text>
+	</string>
+	<string id="ui_mm_show_weapon">
+		<text>Show Weapon</text>
+	</string>
+	<string id="ui_mm_simply">
+		<text>Basic</text>
+	</string>
+	<string id="ui_mm_snd_device">
+		<text>Audio Device</text>
+	</string>
+	<string id="ui_mm_soft_particles">
+		<text>Soft Particles</text>
+	</string>
+	<string id="ui_mm_soft_water">
+		<text>Soft Water</text>
+	</string>
+	<string id="ui_mm_sound">
+		<text>Sound</text>
+	</string>
+	<string id="ui_mm_sound_quality">
+		<text>Sound Quality</text>
+	</string>
+	<string id="ui_mm_stalker">
+		<text>Stalker</text>
+	</string>
+	<string id="ui_mm_sun_quality">
+		<text>Shadow Quality</text>
+	</string>
+	<string id="ui_mm_sun_shafts">
+		<text>Sun Shafts</text>
+	</string>
+	<string id="ui_mm_supersample">
+		<text>Anti-aliasing</text>
+	</string>
+	<string id="ui_mm_switch_torch">
+		<text>NPC Flashlight</text>
+	</string>
+	<string id="ui_mm_texture_quality">
+		<text>Texture Quality</text>
+	</string>
+	<string id="ui_mm_tips">
+		<text>NPC Recognition</text>
+	</string>
+	<string id="ui_mm_veteran">
+		<text>Veteran</text>
+	</string>
+	<string id="ui_mm_video">
+		<text>Video</text>
+	</string>	
+	<string id="ui_mm_vis_distance">
+		<text>Visibility Distance</text>
+	</string>
+	<string id="ui_mm_volumetric_light">
+		<text>Volumetric Light</text>
+	</string>
+	<string id="ui_mm_vsync">
+		<text>Vertical Sync</text>
+	</string>
+	<string id="ui_st_reset">
+		<text>Reset</text>
+	</string>
+	<string id="ui_st_sell_all">
+		<text>Sell All</text>
+	</string>
+	<string id="version">
+		<text>Version</text>
+	</string>
+	<string id="ui_mm_crouch_toggle">
+		<text>Crouch Toggle</text>
+	</string>
+	<string id="ui_mm_important_save">
+		<text>Autosave</text>
+	</string>
+	<string id="ui_mm_r1_detail_textures">
+		<text>Detail Textures</text>
+	</string>
+	<string id="ui_mm_ssao_quality">
+		<text>SSAO Quality</text>
+	</string>
+	<string id="ui_mm_ssao_text">
+		<text>SSAO Mode</text>
+	</string>
+	<string id="ui_mm_ssao">
+		<text>Default</text>
+	</string>
+	<string id="ui_mm_hdao">
+		<text>HDAO</text>
+	</string>
+	<string id="ui_mm_hbao">
+		<text>HBAO</text>
+	</string>
+	<string id="ui_st_disable_hud">
+		<text>Enable HUD</text>
+	</string>
+	<string id="ui_mm_hud_draw">
+		<text>Enable HUD</text>
+	</string>
+	<string id="st_opt_extreme">
+		<text>Max High</text>
+	</string>
+	<string id="st_opt_ultra">
+		<text>Very High</text>
+	</string>
+	<string id="ui_mm_r4_enable_tessellation">
+		<text>Tessellation</text>
+	</string>
+	<string id="ui_mm_confirm_changes">
+		<text>Apply changes made? All changes will be reverted in</text>
+	</string>
+	<string id="st_cap_check_story">
+		<text>Mysteries of the Zone</text>
+	</string>
+	<string id="st_cap_check_survival">
+		<text>Survival mode</text>
+	</string>
+	<string id="st_cap_check_hardcore">
+		<text>Ironman mode</text>
+	</string>
+	<string id="st_cap_check_azazel_mode">
+		<text>Azazel mode</text>
+	</string>
+	<string id="ui_mm_debug_hud">
+		<text>Debug Hud</text>
+	</string>
+	<string id="ui_mm_dynamic_news">
+		<text>Dynamic News</text>
+	</string>
+	<string id="ui_mm_radio_mod">
+		<text>Radio Music</text>
+	</string>
+	<string id="ui_mm_mechanic_feature">
+		<text>Extended Repair</text>
+	</string>
+	<string id="ui_mm_big_head_mode">
+		<text>Big Head Mode</text>
+	</string>
+	<string id="ui_mm_heli_engine_sound">
+		<text>Helicopter Sound</text>
+	</string>
+	<string id="ui_mm_heli_spawn">
+		<text>Helicopter Spawn</text>
+	</string>
+	<string id="ui_mm_ai_die_in_anomaly">
+		<text>NPC Death in Anomalies</text>
+	</string>
+	<string id="ui_mm_art_degrade">
+		<text>Degrading Artifacts</text>
+	</string>
+	<string id="ui_mm_food_irradiate">
+		<text>Food Irradiation</text>
+	</string>
+	<string id="ui_mm_slot_hud">
+		<text>Advanced HUD</text>
+	</string>
+	<string id="ui_mm_weapon_hide">
+		<text>Hide Weapon Info</text>
+	</string>
+	<string id="ui_mm_excl_dist">
+		<text>Spawn Exclusion Radius</text>
+	</string>
+	<string id="ui_mm_char_portrait">
+		<text>Original Portrait</text>
+	</string>
+	<string id="ui_mm_outfit_portrait">
+		<text>Outfit Portrait</text>
+	</string>
+	<string id="ui_mm_show_enemy_health">
+		<text>Enemy Health</text>
+	</string>
+	<string id="ui_mm_quicksave_cnt">
+		<text>Quick Saves</text>
+	</string>
+	<string id="ui_mm_alife_mutant_pop">
+		<text>Mutant Population Factor</text>
+	</string>
+	<string id="ui_mm_alife_stalker_pop">
+		<text>Stalker Population Factor</text>
+	</string>
+	<string id="ui_mm_hud_fov">
+		<text>HUD</text>
+	</string>
+	<string id="ui_mm_fov">
+		<text>Field of View</text>
+	</string>
+	<string id="ui_mm_show_tracers">
+		<text>Bullet Tracers</text>
+	</string>
+	<string id="ui_mm_release_dropped_items">
+		<text>Delete Dropped Items</text>
+	</string>
+	<string id="ui_mm_localization">
+		<text>Localization</text>
+	</string>	
+	<string id="ui_dead_stalker">
+		<text>Dead stalker: %s</text>
+	</string>
+	<string id="ui_found_money">
+		<text>Money found</text>
+	</string>
+	<string id="ui_rub">
+		<text>rubs.</text>
+	</string>
+	<string id="ui_helicopter">
+		<text>Helicopter</text>
+	</string>
+</string_table>

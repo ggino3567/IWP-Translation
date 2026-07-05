@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+    <string id="ka_travel_dialog_ask">
+        <text>I need a reliable guide. Can that be arranged?</text>
+    </string>
+    <string id="ka_travel_dialog_response">
+        <text>No problem, but there are a few conditions: don't mess with the factions in those places and make sure you've been there before. So where do you need to go?</text>
+    </string>
+    <string id="ka_travel_dialog_nevermind">
+        <text>Nevermind. Nowhere anymore.</text>
+    </string>
+    <string id="ka_travel_dialog_accept">
+        <text>Deal.</text>
+    </string>
+    <string id="ka_travel_dialog_change">
+        <text>Actually, I need to go somewhere else...</text>
+    </string>
+    <string id="ka_travel_dialog_deny">
+        <text>Too expensive.</text>
+    </string>
+    <string id="ka_travel_dialog_cost">
+        <text>This will cost %c[255,255,165,0][%s RU]%c[default].</text>
+    </string>
+    
+    <string id="ka_travel_dialog_zaton">
+        <text>Zaton. "Skadovsk".</text>
+    </string>
+    <string id="ka_travel_dialog_jupiter">
+        <text>Jupiter outskirts. Scientist bunker.</text>
+    </string>
+    <string id="ka_travel_dialog_yantar">
+        <text>Yantar. Scientist camp.</text>
+    </string>
+    <string id="ka_travel_dialog_cordon">
+        <text>Cordon. Rookie village.</text>
+    </string>
+    <string id="ka_travel_dialog_bar">
+        <text>Rostok. "100 Rads" bar.</text>
+    </string>
+    <string id="ka_travel_dialog_warehouses">
+        <text>Army Warehouses. "Freedom" base.</text>
+    </string>
+    <string id="ka_travel_dialog_city">
+        <text>Dead City. "Kooptorg" shop.</text>
+    </string>
+    <string id="ka_travel_dialog_agroprom">
+        <text>Agroprom Research Institute.</text>
+    </string>
+    <string id="ka_travel_dialog_swamp">
+        <text>Swamps. "Clear Sky" base.</text>
+    </string>
+    <string id="ka_travel_dialog_darkvalley">
+        <text>Dark Valley. "Bandit" base.</text>
+    </string>    
+</string_table>

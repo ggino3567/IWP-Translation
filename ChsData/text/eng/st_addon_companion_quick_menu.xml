@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	<string id="st_addon_companion_quick_menu_tooFar"><text>我的小队听不见我. 我需要靠近些或通过PDA联系他们. </text></string>
+
+	<string id="st_addon_companion_quick_menu_followMe"><text>跟我来</text></string>
+	
+	<string id="st_addon_companion_quick_menu_waitHere"><text>在此等候</text></string>
+	
+	<string id="st_addon_companion_quick_menu_stopStealth"><text>停止潜行</text></string>
+	
+	<string id="st_addon_companion_quick_menu_stealth"><text>潜行</text></string>
+	
+	<string id="st_addon_companion_quick_menu_stayClose"><text>保持近距离</text></string>
+	
+	<string id="st_addon_companion_quick_menu_stayFar"><text>保持远距离</text></string>
+	
+	<string id="st_addon_companion_quick_menu_fireAtWill"><text>自由开火</text></string>
+	
+	<string id="st_addon_companion_quick_menu_ignoreCombatButHelpMe"><text>忽略战斗, 但帮助我</text></string>
+	
+	<string id="st_addon_companion_quick_menu_ignoreCombat"><text>忽略战斗</text></string>
+	
+	<string id="st_addon_companion_quick_menu_doNotLootCorpses"><text>不要搜刮尸体</text></string>
+	
+	<string id="st_addon_companion_quick_menu_lootCorpses"><text>搜刮尸体</text></string>
+	
+</string_table>

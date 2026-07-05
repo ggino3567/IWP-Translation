@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+        <string id="st_input_symbols">
+<text>qwertyuiopasdfghjklzxcvbnm.QWERTYUIOPASDFGHJKLZXCVBNM' _-1234567890</text>
+	</string>
+
+        <string id="st_output_symbols">
+<!-- valid symbols only -->
+<text>qwertyuiopasdfghjklzxcvbnm.QWERTYUIOPASDFGHJKLZXCVBNM' _-1234567890</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+
+	<string id="ui_st_abandoned_sawmill"><text>废弃锯木厂 (扎顿) </text></string>
+
+	<string id="ui_st_abandoned_school"><text>废弃学校 (死城) </text></string>
+
+	<string id="ui_st_abandoned_village"><text>废弃村庄 (陆军仓库) </text></string>
+
+	<string id="ui_st_brain_scorcher"><text>焦脑器 (雷达站) </text></string>
+
+	<string id="ui_st_cultural_center"><text>文化中心 (普里皮亚季) </text></string>
+
+	<string id="ui_st_construction_site"><text>建筑工地 (大荒野) </text></string>
+
+	<string id="ui_st_container_warehouse"><text>集装箱仓库 (木星地区) </text></string>
+
+	<string id="ui_st_eastern_checkpoint"><text>东部检查站 (卡车墓地) </text></string>
+
+	<string id="ui_st_eastern_factory"><text>东部工厂 (黑暗山谷) </text></string>
+
+	<string id="ui_st_factory_complex"><text>工厂综合楼 (农业研究所) </text></string>
+
+	<string id="ui_st_hermanns_bunker"><text>赫尔曼地堡 (木星地区) </text></string>
+
+	<string id="ui_st_hidden_base"><text>秘密基地 (大沼泽) </text></string>
+
+	<string id="ui_st_kopachy_village"><text>科帕奇村 (木星地区) </text></string>
+
+	<string id="ui_st_lodging_house"><text>宿舍楼 (罗斯托克) </text></string>
+
+	<string id="ui_st_machine_yard"><text>机械场 (大沼泽) </text></string>
+
+	<string id="ui_st_makeshift_barracks"><text>临时营房 (罗斯托克) </text></string>
+
+	<string id="ui_st_military_base"><text>军事基地 (陆军仓库) </text></string>
+
+	<string id="ui_st_northern_factory"><text>北部工厂 (黑暗山谷) </text></string>
+
+	<string id="ui_st_hideout"><text>藏身处 (市郊) </text></string>
+
+	<string id="ui_st_power_station"><text>发电站 (切尔诺贝利核电站) </text></string>
+
+	<string id="ui_st_processing_station"><text>处理站 (扎顿) </text></string>
+
+	<string id="ui_st_pumping_station"><text>泵站 (大沼泽) </text></string>
+	
+	<string id="ui_st_river_port"><text>河港 (市郊) </text></string>
+
+	<string id="ui_st_rookie_village"><text>新手村 (警戒线) </text></string>
+
+	<string id="ui_st_research_institute"><text>研究所 (农业研究所) </text></string>
+
+	<string id="ui_st_sakharovs_bunker"><text>萨哈罗夫地堡 (杨塔) </text></string>
+
+	<string id="ui_st_skadovsk_shipwreck"><text>斯卡多夫斯克沉船 (扎顿) </text></string>
+
+	<string id="ui_st_southern_checkpoint"><text>南部检查站 (警戒线) </text></string>
+
+	<string id="ui_st_sports_center"><text>体育中心 (死城) </text></string>
+
+	<string id="ui_st_train_hangar"><text>列车机库 (废弃区) </text></string>
+
+	<string id="ui_st_tunnel_entrance"><text>隧道入口 (木星地区) </text></string>
+
+	<string id="ui_st_tunnel_refuge"><text>隧道避难所 (农业研究所地下设施) </text></string>
+
+	<string id="ui_st_tuzla_outpost"><text>图兹拉前哨站 (大沼泽) </text></string>
+
+	<string id="ui_st_village_ruins"><text>村庄废墟 (大沼泽) </text></string>
+
+	<string id="ui_st_yanov_station"><text>亚诺夫车站 (木星地区) </text></string>
+	
+</string_table>

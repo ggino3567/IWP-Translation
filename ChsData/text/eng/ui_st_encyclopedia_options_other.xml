@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	
+	<string id="encyclopedia_options_other"><text>选项 (其他) </text></string>
+	
+	<string id="encyclopedia_options_other_azazel_mode"><text>魂 模式</text></string>
+	<string id="encyclopedia_options_other_azazel_mode_text"><text>
+			%c[0,153,255,255]魂模式%c[0,140,140,140] 本模式允许你在死后继续扮演其他角色. \n
+			\n%c[0,0,255,30]消息提示%c[0,140,140,140]
+			\n在魂模式中, 死亡不是结束-在玩家操控角色死亡后, 你将拥有一个之前由AI控制的随机潜行者的身体. \n
+			\n如果你在死亡时有其他同伴, 他们将被优先考虑作为新的玩家操控角色, 你将作为其中一员继续玩本游戏. \n
+			\n此模式只能从角色创建屏幕启用. 
+		</text></string>
+	
+	<string id="encyclopedia_options_other_ironman_mode"><text>铁人 模式</text></string>
+	<string id="encyclopedia_options_other_ironman_mode_text"><text>
+			%c[0,153,255,255]铁人 模式%c[0,140,140,140] 为游戏增加了一个间接的难度, 即角色死亡后, 你为其保存的所有游戏存档都会被删除. \n
+			\n%c[0,0,255,30]消息提示%c[0,140,140,140]
+			\n如果同时启用魂模式, 你所操控的角色死亡后将被允许继续切换到的任何人的身体来继续玩本游戏, 但为了已故角色进行的保存档案将照常删除. \n
+			\n请注意, 铁人模式下的所有存档都标记了一个特殊且唯一的标识符, 这样游戏就可以区分它们, 从而精准详细地删除全部相关的存档. \n
+			\n此模式只能从角色创建屏幕启用. 
+		</text></string>
+	
+	<string id="encyclopedia_options_other_story_mode"><text>故事 模式</text></string>
+	<string id="encyclopedia_options_other_story_mode_text"><text>
+			%c[0,153,255,255]故事模式%c[0,140,140,140] 启用基于切尔诺贝利阴影事件的非线性故事. \n
+			\n%c[0,0,255,30]消息提示%c[0,140,140,140]
+			\n启用此模式后, 您将以"特异区之谜"的故事情节开始游戏, 并执行关闭焦脑器和许愿石的任务. \n
+			\n要开始故事, 你需要找到一个隐藏在特异区内某个地方的重要人物, 在简短的对话后, 他将为您提供可以按任何顺序完成的多项任务. \n
+			\n此模式只能从角色创建屏幕启用. \n
+			\n%c[0,0,255,30]可用%c[0,140,140,140]
+			\n%c[0,200,0,255]• %c[0,140,140,140]晴空组织\n%c[0,200,0,255]• %c[0,140,140,140]纪律团\n%c[0,200,0,255]• %c[0,140,140,140]科学家\n%c[0,200,0,255]• %c[0,140,140,140]自由团\n%c[0,200,0,255]• %c[0,140,140,140]独行者\n%c[0,200,0,255]• %c[0,140,140,140]雇佣兵
+		</text></string>
+	
+	<string id="encyclopedia_options_other_survival_mode"><text>生存 模式</text></string>
+	<string id="encyclopedia_options_other_survival_mode_text"><text>
+			%c[0,153,255,255]生存模式%c[0,140,140,140] 将特异区变成狩猎场——在哪里你都是猎物. \n
+			\n%c[0,0,255,30]消息提示%c[0,140,140,140]
+			\n启用此模式后, 所有生物都会被僵尸化的潜行者或突变体取代, 他们会慢慢跌跌撞撞地朝你的位置走去, 并试图杀死你. \n
+			\n一个更突出的特色是僵尸本身, 僵尸化的潜行者失去了操作枪支等机械设备的能力. \n
+			\n只有少数商人和潜行者小队那可以找到物资, 这意味着你必须靠在世界上能找到的全部东西生存. \n
+			\n此模式只能从角色创建屏幕启用. 
+		</text></string>
+	
+	<string id="encyclopedia_options_other_campfire_mode"><text>篝火 模式</text></string>
+	<string id="encyclopedia_options_other_campfire_mode_text"><text>
+			%c[0,153,255,255]篝火模式%c[0,140,140,140] 仅在篝火周围提供保护. \n
+			\n%c[0,0,255,30]消息提示%c[0,140,140,140]
+			\n启用此模式后, 只有在点火后通过特殊菜单或在位置之间移动时通过autosave才能进行保存. 其他的保存方法均已禁用. \n
+			\n此模式只能从角色创建屏幕启用. 
+		</text></string>
+	
+</string_table>

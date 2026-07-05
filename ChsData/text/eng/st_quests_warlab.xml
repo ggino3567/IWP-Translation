@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	<string id="sar_perception"><text>北方之路</text></string>
+	<string id="sar_perception_1"><text>会见黑石身后的人</text></string>
+	<string id="sar_perception_2"><text>找出秘密实验室, 与幕后黑手见面</text></string>
+	<string id="sar_perception_3"><text>使用解码器打开门</text></string>
+	<string id="sar_perception_4"><text>击败哨卫进入房间</text></string>
+    <string id="sar_perception_5"><text>从文档中查找密码</text></string>		
+	<string id="warlab_kill_crazy_entity_title"><text>处理未知实体</text></string>
+	<string id="warlab_kill_crazy_entity_1"><text>与实体交谈</text></string>
+	<string id="warlab_kill_crazy_entity_2"><text>打开门并杀死秘密实验室的实体.</text></string>
+</string_table>

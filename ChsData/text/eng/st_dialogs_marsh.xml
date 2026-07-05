@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+    <string id="cit_doctor_hello_dialog_11"><text>嗯? 你想要什么? 等等? 史特列洛克? 是你吗?</text></string>
+    <string id="cit_doctor_hello_dialog_21"><text>让我告诉你我知道的一切.</text></string>
+    <string id="cit_doctor_main_dialog_0"><text>史特列洛克? 我想你可能认错人了. 我听说你有关于特异区的情报.</text></string>
+    <string id="cit_doctor_main_dialog_1"><text>你不是他? 哦. 我可能会有 '你要找的情报', 但我希望你能帮我办点事.</text></string>
+    <string id="cit_doctor_main_dialog_11"><text>当然可以, 你想让我怎么做</text></string>
+    <string id="cit_doctor_main_dialog_2"><text>多年来, 特异区对我的生活造成了很大的损害, 所以我选择在这里度过余生, 这里很安静, 但我更希望看到我的老朋友. \n我害怕史特列洛克死了, 很想当年与方和幽灵聊天的时候, 趁着我还有一点时间. 如果你能找到他们, 并把他们带到这里, 我会非常感激你的.</text></string>
+    <string id="cit_doctor_main_dialog_21"><text>你住在这多久了? 方和幽灵是传奇, 但他们俩早已死去.方被一个名叫疤脸的佣兵在陆军仓库杀死, 幽灵在一年前被发现死在杨塔下的实验室X-16.你真的不知道吗?.</text></string>
+    <string id="cit_doctor_main_dialog_3"><text>他们俩都死了? 你确定? 我只是...噢, 好吧...你想知道的什么?.</text></string>
+    <string id="cit_doctor_main_dialog_31"><text>真的, 你现在真的会这么轻易地告诉我吗? 你不会只是在浪费我的时间吧, 老登.</text></string>
+    <string id="cit_doctor_main_dialog_4"><text>别急! 我只是没料到他们会死. 当史特列洛克最后来拜访我时, 他给了我一个钥匙和一个在普里皮亚季的藏匿的坐标.\n他很久来没有回来了, 所以我怀疑他已经死了. 他说的特异区的真相在许愿石那里, 我不太了解它, 而且我也不太相信他. 来吧. 还有一件事...他用了大量的时间寻找C意识在地下实验室中藏下的阴谋, 有一些秘密我相信他可能已经找到了. 你或许也会在那里找到你的答案.</text></string>
+    <string id="cit_doctor_main_dialog_41"><text>明白了.谢谢, 感谢您的帮助.</text></string>
+    <string id="cit_doctor_main_dialog_5"><text>现在走吧, 让我一个人静静</text></string>
+    <string id="mar_base_owl_stalker_trader_start_dialog_1"><text>需要藏物点还是装备? 需要信息,还是说你想卖我信息?.</text></string>
+    <string id="mar_smart_terrain_base_doctor_need_health_care_0"><text>我需要医疗援助</text></string>
+    <string id="mar_smart_terrain_base_doctor_need_health_care_1"><text>好吧, 让我看看我能做什么</text></string>
+    <string id="mar_smart_terrain_base_doctor_need_health_care_11"><text>[继续...].</text></string>
+    <string id="mar_smart_terrain_base_doctor_need_health_care_111"><text>不是那么糟, 嗯?你可以走了</text></string>
+    <string id="mar_smart_terrain_base_doctor_need_health_care_2"><text>好的, 我看看...没有伤口? 也没有接受辐射过多的迹象.我想你身体完好无损;走吧.</text></string>
+    <string id="mar_smart_terrain_base_doctor_start_1"><text>嘿, 你是潜行者?</text></string>
+    <string id="marsh_stalker_barmen_start_dialog_1"><text>一张新面孔! 周围的人叫我图书管理员.我是当地的酒保.我很乐意回答你的任何问题. 有时我招工作, 会听到一些有趣的谣言.</text></string>
+    <string id="marsh_stalker_barmen_start_dialog_2"><text>嘿, 潜行者.你要做什么?.</text></string>
+    <string id="marsh_stalker_tech_start_1"><text>你好啊, 潜行者.要帮忙吗?在特异区中很难搞来能用的工具, 但我仍然可以修理你的武器并进行简要的升级.</text></string>
+    <string id="marsh_stalker_medic_background"><text>我?我曾经是一个导游, 管你信不信.我大多时间都待在沼泽地里, 但常常把潜行者带到离这里相当远的地区. 某个不同的时间, 他们在一个充满芦苇的沼泽中发现了一个佣兵. \n一天, 他忘了进出基地的路, 我带着他, 不超过五分钟, 从这里走到渔业哈姆雷特后面. 然后在短短的几个星期内, 他设法说服了我们的领导人, 带着大部分人进入核电站.\n不用说都知道, 在那场灾难过后我们的派系最终还是幸存了下来, 但它与我们的大多数人都没回来, 与我们曾经的领导人一起消失了. 现在我还在等待那个人, 我太想知道那儿究竟发生了什么, 那些人是否还活着. </text></string>
+    <string id="marsh_stalker_barman_background"><text>我是酒保. 我负责饮料, 食物, 并保持无线电播放. 这不是一个很热血的工作. 我在这里工作了很多年了. 在一次突袭中, 突然出现了一场史无前例的大风暴, 我因此被困在了这里. \n我试图带领部分幸存者走出北方, 但偶遇了一窝土匪, 成为为数不多的没有在路上被拉走的人之一. 在这个基地误打误撞的加入了晴空. 在头几个星期, 当我们的人在瞭望塔处击退了占领那儿的强盗和变种生物后.\n冷风得到了晋升, 成为了领导人. 当然我接受他, 毕竟能活下来就很不错了.</text></string>
+    <string id="marsh_stalker_trader_background"><text>我叫孢子, 我在一年前来到了这儿. 像每个人一样来到这儿寻找财富. 在某次外出时我遇到了明眼, 我发现我们有很多相同处, 因此我们成为了好兄弟. 我们有一个与外界联系的方法, 因此我们能够贩卖货物和出入特异区, 贩卖信息.\n当黑石死灰复燃的时候, 所有商人都被迫回到南方, 我们也一样. 直到我遇见冷, 明眼曾经是一个晴空的成员, 他也肯定知道. 因此这儿给了我们两个不错的路可以走, 通过沼泽地走私武器, 或者在这里老实干活.  \n在封锁线, 我听说他在新手村周围闲逛. 如果你想要一些很棒的装备, 可以去他那儿找找.</text></string>
+    <string id="marsh_stalker_tech_background"><text>我叫诺维科夫, 但有些人叫我灰烬. 我是技师, 他们的如果枪有问题, 就会过来找我. 很久以前, 冷风接管了这儿. 我还记得那场突袭时突然发生了场大风暴, 我刚好在木星周围, 因此在死前被一伙科学家所救, 为了报答恩情, 我留在那里工作了好几年, 直到有一天我听到基地重建和组织重组的消息.\n回来后, 我试着让我们和他们的家伙一起工作, 这样我们就可以进行我的老研究了. 如果你对他们的发明感兴趣可以去跟孢子聊聊. </text></string>
+    <string id="marsh_stalker_leader_background"><text>说来话长. 他们在这些地方叫我冷风, 我是晴空的领导者. 很久以前这里被用来分配地位, 直到我把这荣誉交给图书管理员了, 前领导和我们的部分成员被留在了核电站.\n经过漫长而激烈的讨论, 出现了一批新的支持者, 他们都认为我是最好的接班人.</text></string>
+	<string id="marsh_csky_history_ask1"><text>告诉我关于晴空的事情</text></string>
+	<string id="marsh_csky_history_ask2"><text>你想知道什么?</text></string>
+	<string id="marsh_csky_history_destroyed1"><text>派系不是毁灭了吗?</text></string>
+	<string id="marsh_csky_history_destroyed2"><text>差不多, 但我们设法度过了难关. 虽然我们大多数人都留在了核电站, 但不是所有人都死了. 许多人仍然在我们的其他领土上, 这些领土后来因大爆发而与我们和其他地区隔绝. \n当灾难结束后, 当时的沼泽里, 人们开始想着怎么破镜重圆重组晴空, 但这绝非易事. 部分潜行者在一夜之间变成了强盗, 其余的人试图逃离该地区回到我们的基地生活.\n我们接受了很多人, 我们每天都会给他们足够的食物, 因此过了一段时间, 我们的势力逐渐恢复, 我们开始需要一位新的领导人. 于是我承担了这个重担, 请我们的图书管理员在酒吧工作, 他在加入后不久就为自己赢得了相当大的名声. \n经过几个月与强盗的针锋相对的突袭, 我们设法消灭大部分的强盗, 但这并没有阻止军队渗入. 那架该死的直升机还在空中盘旋. \n</text></string>
+	<string id="st_discount_marsh"><text>从画眉鸟 (晴空商人) 那里得到了商品折扣.</text></string>	
+</string_table>

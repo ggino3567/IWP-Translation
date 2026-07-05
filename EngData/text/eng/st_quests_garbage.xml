@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<!-- HUNT MUTANTS FOR TRADER TASK -->
+	<string id="garbage_trader_task_1_name">
+		<text>Kill the mutants for Kalyvan</text>
+	</string>
+	<string id="garbage_trader_task_1_text">
+		<text>Clear out the local mutants' lair.</text>
+	</string>
+	<string id="garbage_trader_task_1_about">
+		<text>%c[ui_8]The beasts in the area have multiplied, howling all day long, driving me crazy! My head will soon turn square from their cries! Anyways, if you kill off those creatures, I won't begrudge you the reward. At the same time, you'll collect some trophies, and maybe I'll find something I like among them.\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="garbage_trader_task_1_finish">
+		<text>Already completed the safari? Great, collect your reward.</text>
+	</string>
+
+	<!-- FIND MUTANT PART FOR TRADER TASK -->
+	<string id="garbage_trader_task_2_name">
+		<text>Get %s for Kalyvan</text>
+	</string>
+	<string id="garbage_trader_task_2_text">
+		<text>Get mutant parts: %s</text>
+	</string>
+	<string id="garbage_trader_task_2_about">
+		<text>There's an order for a small batch of regular mutant parts. It's a piece of cake. Interested?</text>
+	</string>
+	<string id="garbage_trader_task_2_fetch_about">
+		<text>%c[ui_8]There is an order for a small batch of standard mutant parts, namely... %c[ui_orange]%s%c[ui_8]. Once you've gathered everything you need, bring it here.</text>
+	</string>
+	<string id="garbage_trader_task_2_fetch_finish">
+		<text>Well done. Here's your money.</text>
+	</string>
+
+	<!-- FIND RARE MUTANT PART FOR TRADER TASK -->
+	<string id="garbage_trader_task_3_name">
+		<text>Obtain %s for Kalyvan</text>
+	</string>
+	<string id="garbage_trader_task_3_text">
+		<text>Obtain a rare mutant part: %s</text>
+	</string>
+	<string id="garbage_trader_task_3_about">
+		<text>An order has come in for a rare mutant part. The reward is relative to its rarity. What do you say?</text>
+	</string>
+	<string id="garbage_trader_task_3_fetch_about">
+		<text>%c[ui_8]An order has come in for a rare mutant part, namely... %c[ui_orange]%s%c[ui_8]. It will take a little effort, but I think you can do it. If you find it, I'll be waiting.</text>
+	</string>
+	<string id="garbage_trader_task_3_fetch_finish">
+		<text>I was already thinking about canceling the order. Here's your money.</text>
+	</string>
+
+	<!-- FIND WEAPON FOR TRADER TASK -->
+	<string id="garbage_trader_task_4_name">
+		<text>Find %s for Kalyvan</text>
+	</string>
+	<string id="garbage_trader_task_4_text">
+		<text>Kalyvan asked for a %s to be brought to him. The weapon must be in working order, at the very least.</text>
+	</string>
+	<string id="garbage_trader_task_4_about">
+		<text>There's an order for a small batch of working firearms. It doesn't matter who needs them or why. The main thing is that the guns need to be in working order if you want any reward at all, but I don't care about the rest. Are you in?</text>
+	</string>
+	<string id="garbage_trader_task_4_fetch_about">
+		<text>%c[ui_8]There is an order for a small batch of working firearms. It doesn't matter who needs them or why. Right now, I need %c[ui_orange]%s%c[ui_8] in working condition if you want any reward at all, but I don't care about the rest. If you find any, bring them to me.</text>
+	</string>
+	<string id="garbage_trader_task_4_fetch_finish">
+		<text>Here, this is what you need. Keep your share.</text>
+	</string>
+</string_table>

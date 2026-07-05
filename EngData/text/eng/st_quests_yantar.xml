@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<!-- FIND DETECTORS FOR KRUGLOV TASK -->
+	<string id="yan_ecolog_kruglov_task_1_name">
+		<text>Find detectors for Kruglov</text>
+	</string>
+	<string id="yan_ecolog_kruglov_task_1_text">
+		<text>%s - required by Kruglov, you should find some and bring them back to him.</text>
+	</string>
+	<string id="yan_ecolog_kruglov_task_1_about">
+		<text>In the conditions of the Zone, our instruments and electronics wear out significantly faster than expected, which forces us to dismantle unnecessary equipment for spare parts. For this purpose, I pay for old detectors.</text>
+	</string>
+	<string id="yan_ecolog_kruglov_task_1_fetch_about">
+		<text>%c[ui_8]In the conditions of the Zone, our instruments and electronics wear out significantly faster than anticipated. Transistors and diodes fail with regular frequency, forcing us to dismantle unnecessary equipment for spare parts. Old detectors fit perfectly here. I need, say, one of those %c[ui_orange]%s%c[ui_8]. Bring me a couple, and I will make sure to pay.</text>
+	</string>
+	<string id="yan_ecolog_kruglov_task_1_fetch_finish">
+		<text>Great! Thank you for your assistance.</text>
+	</string>
+
+
+	<!-- ESCORT SEMENOV -->
+	<string id="yan_ecolog_semenov_task_1_name">
+		<text>Escort Semenov</text>
+	</string>
+	<string id="yan_ecolog_semenov_task_1_text">
+		<text>You need to escort Semenov, find and shoot a few mutants so the scientist can take fresh tissue samples and scan the bodies.</text>
+	</string>
+	<string id="yan_ecolog_semenov_task_1_about">
+		<text>%c[ui_8]Could you assist me with my research? I need to collect tissue samples from mutants - let's say, from five different individuals. Your task: shoot the mutant and, of course, ensure my safety while I take the samples and conduct the scans. I will compensate you for your efforts.</text>
+	</string>
+	<string id="yan_ecolog_semenov_task_1_finish">
+		<text>Thank you for your assistance, friend. I have all the tissue samples I need. Here is your payment... Come back and see me again some time.</text>
+	</string>
+
+
+	<!-- FIND ARTEFACT FOR SAKHAROV TASK -->
+	<string id="yan_stalker_sakharov_task_1_name">
+		<text>Find the %s Artefact for Sakharov</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_1_text">
+		<text>You have been asked to retrieve the %s artefact. Bring it back to Sakharov if you happen to get your hands on one.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_1_about">
+		<text>You have a chance to contribute to science. I need some artifact samples for research. If you're interested, I'll tell you more about it.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_1_fetch_about">
+		<text>%c[ui_8]You have a chance to contribute to science. I need some artifact samples for research. Currently, I am looking for the %c[ui_orange]%s%c[ui_8]. Perhaps you've heard of it, young man. If you can find and bring it to me, you will be handsomely rewarded.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_1_fetch_finish">
+		<text>Thank you, young man. You have made a tremendous contribution to science.</text>
+	</string>
+
+	<!-- FIND MUTANT PART FOR SAKHAROV TASK -->
+	<string id="yan_stalker_sakharov_task_2_name">
+		<text>Find %s for Sakharov</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_2_text">
+		<text>Sakharov needs a tissue sample from a %s.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_2_about">
+		<text>I need some mutant tissue samples for research. If you're interested, I'll tell you more about it.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_2_fetch_about">
+		<text>%c[ui_8]I need some mutant tissue samples for research, specifically... %c[ui_orange]%s%c[ui_8]. Keep in mind, they need to be as fresh as possible. Once you've gathered everything needed, come back here.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_2_fetch_finish">
+		<text>Thank you, young man. You have no idea how valuable these studies could turn out to be.</text>
+	</string>
+
+	<!-- FIND RARE MUTANT PART FOR SAKHAROV TASK -->
+	<string id="yan_stalker_sakharov_task_3_name">
+		<text>Find %s for Sakharov</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_3_text">
+		<text>Sakharov needs a tissue sample from a %s.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_3_about">
+		<text>For scientific research, I need a tissue sample from a particular mutant. If you're interested, I'll tell you more about it.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_3_fetch_about">
+		<text>%c[ui_8]For scientific research, I need a tissue sample from a particular mutant, specifically... %c[ui_orange]%s%c[ui_8]. I understand that this creature is extremely dangerous, and you will be risking your life, but think of the tremendous benefit you could bring to science and humanity! Once you have the sample, return here as soon as possible. Your reward will be waiting for you.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_3_fetch_finish">
+		<text>Thank you, young man. Your contribution to the research is invaluable!</text>
+	</string>
+
+
+	<!-- WAIT FOR PSI HELMET CALIBRATION TASK -->
+	<string id="yan_stalker_sakharov_psi_helmet_upgrade_name">
+		<text>Pick up Psi-Helmet</text>
+	</string>
+	<string id="yan_stalker_sakharov_psi_helmet_upgrade_text">
+		<text>Professor Sakharov has agreed to recalibrate the psi-protection helmet. He asked you to come back to pick it up in a couple days.</text>
+	</string>
+
+
+	<!-- TURN OFF MIRACLE MACHINE TASK -->
+	<string id="brain_machine_deactivate_name">
+		<text>Disable the Miracle Machine</text>
+	</string>
+	<string id="brain_machine_deactivate_text">
+		<text>The Miracle Machine prevents stalkers from travelling between Yantar and the Dead City. Disabling it will require advanced psi-protective equipment.</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	<!--ASSAULT TERRITORY FOR MERC LEADER TASK-->
+	<string id="cit_killers_merc_trader_stalker_task_1_name"><text>合同杀手</text></string>
+	<string id="cit_killers_merc_trader_stalker_task_1_text"><text>你已经签订了一份刺杀合同标.完成任务后回来拿钱</text></string>
+	<string id="cit_killers_merc_trader_stalker_task_1_about"><text>我们的承包商有一份悬赏名单.我们寻求志愿人员执行这些悬赏任务, 赏金不会少的.你有兴趣吗?.</text></string>
+	<string id="cit_killers_merc_trader_stalker_task_1_finish"><text>目标死了?钱拿去.</text></string>
+
+	<!--FIND ARTIFACT FOR MERC LEADER TASK-->
+	<string id="cit_killers_merc_trader_stalker_task_2_name"><text>灭绝后患</text></string>
+	<string id="cit_killers_merc_trader_stalker_task_2_text"><text>清除该地区任何存在的敌对威胁</text></string>
+	<string id="cit_killers_merc_trader_stalker_task_2_about"><text>我在寻找一个合适的人.来清除目标地区里任何存在的敌对威胁.</text></string>
+	<string id="cit_killers_merc_trader_stalker_task_2_fetch_about"><text>%c[ui_8]有个%c[ui_orange]%s%c[ui_8]神器的合约. 我不管你怎么弄到, 但必须完成. 有兴趣吗? </text></string>
+	<string id="cit_killers_merc_trader_stalker_task_2_fetch_finish"><text>干得漂亮. 这是你的分成. </text></string>
+
+	<!-- ASSASSINATE STALKER FOR MERC LEADER TASK -->
+	<string id="cit_killers_merc_trader_stalker_task_3_name"><text>独行者刺杀合约</text></string>
+	<string id="cit_killers_merc_trader_stalker_task_3_text"><text>你被委托寻找并清除目标. 任务完成后返回领酬. </text></string>
+	<string id="cit_killers_merc_trader_stalker_task_3_about"><text>%c[ui_8]雇主前几天发来新任务清单, 总得有人处理. 不想失去客户信任对吧? 总之你的任务是找到并做掉一个人. 他是谁不重要. 若好奇, 我可以把详情发你PDA. </text></string>
+	<string id="cit_killers_merc_trader_stalker_task_3_finish"><text>搞定了? 很好. 这是你的分成. </text></string>
+
+	<!--ASSASSINATE DUTY FOR MERC LEADER TASK-->
+	<string id="cit_killers_merc_trader_stalker_task_4_name"><text>纪律团刺杀合约</text></string>
+	<string id="cit_killers_merc_trader_stalker_task_4_text"><text>你被委托寻找并清除特殊目标. 任务完成后返回领酬. </text></string>
+	<string id="cit_killers_merc_trader_stalker_task_4_about"><text>%c[ui_8]大客户的又一个活儿. 需要做掉一个纪律团的. 老规矩——找到并清除. 接不接? </text></string>
+	<string id="cit_killers_merc_trader_stalker_task_4_finish"><text>很好. 这是你的酬劳. </text></string>
+
+	<!--ASSASSINATE FREEDOM FOR MERC LEADER TASK-->
+	<string id="cit_killers_merc_trader_stalker_task_5_name"><text>自由团刺杀合约</text></string>
+	<string id="cit_killers_merc_trader_stalker_task_5_text"><text>你被委托寻找并清除特殊目标. 任务完成后返回领酬. </text></string>
+	<string id="cit_killers_merc_trader_stalker_task_5_about"><text>%c[ui_8]又一个任务. 这次是做掉一个自由团的. 必须顺利解决, 不想失去客户信任对吧? 若感兴趣, 我可以发详情. </text></string>
+	<string id="cit_killers_merc_trader_stalker_task_5_finish"><text>搞定了? 很好. 这是你的分成. </text></string>
+
+	<!-- HEAD HUNTING FOR MERC LEADER TASK -->
+	<string id="cit_killers_merc_trader_stalker_task_6_name"><text>惩戒任务</text></string>
+	<string id="cit_killers_merc_trader_stalker_task_6_text"><text>从击杀敌人身上取得的%s. </text></string>
+	<string id="cit_killers_merc_trader_stalker_task_6_about"><text>杀死数名敌对潜行者并以他们的臂章为证. </text></string>
+	<string id="cit_killers_merc_trader_stalker_task_6_fetch_about"><text>%c[ui_8]我们一个小队遭袭. 几个弟兄没挺过来. 得给个警告——让所有人知道惹我们的下场. 我要你带回一堆%c[ui_orange]%s%c[ui_8]作为惩戒行动成功的证明. 接不接? </text></string>
+	<string id="cit_killers_merc_trader_stalker_task_6_fetch_finish"><text>干得好! 下次他们会三思了. </text></string>
+
+	<!-- FIND MUTANT MEAT FOR MERC LEADER TASK -->
+	<string id="cit_killers_merc_trader_stalker_task_7_name"><text>为杜什曼寻找野味肉</text></string>
+	<string id="cit_killers_merc_trader_stalker_task_7_text"><text>取得%s并带给杜什曼, 让弟兄们吃上烤肉. </text></string>
+	<string id="cit_killers_merc_trader_stalker_task_7_about"><text>弟兄们抱怨吃腻了干粮. 妈的, 我也想尝尝带血的嫩牛排! 不想去打猎弄点鲜肉回来吗? </text></string>
+	<string id="cit_killers_merc_trader_stalker_task_7_fetch_about"><text>%c[ui_8]弟兄们抱怨吃腻了干粮. 妈的, 我也想尝尝带血的嫩牛排! 不想去打猎弄点鲜肉回来吗? %c[ui_orange]%s%c[default]——这就够用了. </text></string>
+	<string id="cit_killers_merc_trader_stalker_task_7_fetch_finish"><text>完美——新鲜肉排! 终于不用啃那些破罐头了. </text></string>
+
+
+	<!-- FIND LEVEL 1 TOOLS FOR MERC MECHANIC TASK -->
+	<string id="cit_killers_merc_mechanic_stalker_task_1_name"><text>找到%s</text></string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_text"><text>找到 %s 以进行基本改造, 将它们带回来</text></string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_about"><text>我有一个工作要给你.如果你能给我带来一些新的工具, 我就付你钱.你能做到吗?.</text></string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_fetch_about"><text>好.我需要一个%s.它包含一些枪油和工具.如果你能给我带来一个完整的基本工具箱, 我会付给你酬劳的.</text></string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_fetch_finish"><text>对, 对.这就是我一直在找的, 谢谢!.</text></string>
+
+	<!-- FIND LEVEL 2 TOOLS FOR MERC MECHANIC TASK -->
+	<string id="cit_killers_merc_mechanic_stalker_task_2_name"><text>找到%s</text></string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_text"><text>找到 %s 以进行高级改造, 将它们带回来</text></string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_about"><text>我还有一个要求.你带给我的工具箱很不错, 但它的工具不太全.你能找到更好的一套吗?</text></string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_fetch_about"><text>我需要一个%s.我不确定你能不能找到, 但如果你能找到, 我会付给你酬劳的.</text></string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_fetch_finish"><text>你他妈真神了.谢谢.</text></string>
+
+	<!-- FIND LEVEL 3 TOOLS FOR MERC MECHANIC TASK -->
+	<string id="cit_killers_merc_mechanic_stalker_task_3_name"><text>找到%s</text></string>
+	<string id="cit_killers_merc_mechanic_stalker_task_3_text"><text>找到 %s 以进行专业改造, 将它们带回来</text></string>
+	<string id="cit_killers_merc_mechanic_stalker_task_3_about"><text>我还有一个要求.你带给我的工具箱很不错, 但它的工具不太全.你能找到更好的一套吗?</text></string>
+	<string id="cit_killers_merc_mechanic_stalker_task_3_fetch_about"><text>我需要一个%s.我不确定你能不能找到, 但如果你能找到, 我会付给你酬劳的.</text></string>
+	<string id="cit_killers_merc_mechanic_stalker_task_3_fetch_finish"><text>你他妈真神了.谢谢.</text></string>
+
+	<!-- FIND WEAPON FOR MERC MECHANIC TASK -->
+	<string id="cit_killers_merc_mechanic_stalker_task_4_name"><text>为霍格寻找%s</text></string>
+	<string id="cit_killers_merc_mechanic_stalker_task_4_text"><text>霍格需要完好无损的%s</text></string>
+	<string id="cit_killers_merc_mechanic_stalker_task_4_about"><text>我为工作寻找各种枪支. 若你有兴趣, 我会提供详情. 意下如何? </text></string>
+	<string id="cit_killers_merc_mechanic_stalker_task_4_fetch_about"><text>%c[ui_8]我为工作寻找枪支. 现在需要完好无损的%c[ui_orange]%s%c[ui_8]. 会付重金. 若枪状态差, 用%c[ui_orange]枪匠工具包%c[ui_8]. 若你是废物, 带来我修——但要收费. </text></string>
+	<string id="cit_killers_merc_mechanic_stalker_task_4_fetch_finish"><text>完美. 正是我需要的. 这是你的报酬. </text></string>
+
+
+	<!-- GET ITEM FROM STASH FOR MERC MEDIC TASK -->
+	<string id="cit_killers_merc_medic_stalker_task_1_name"><text>从藏匿点取回箱子带给外科医生</text></string>
+	<string id="cit_killers_merc_medic_stalker_task_1_text"><text>前往指定地点, 从藏匿点取出箱子并带给外科医生. </text></string>
+	<string id="cit_killers_merc_medic_stalker_task_1_about"><text>%c[ui_8]听着伙计, 我在等重要货物, 包括...某些医疗用品. 送货员照例到不了——他把货藏起来发了坐标. 你去把箱子取来给我, 就付酬. 但记住——里面东西与你无关. 接不接? </text></string>
+	<string id="cit_killers_merc_medic_stalker_task_1_finish"><text>太好了, 干得好. 拿着, 这是你应得的份. </text></string>
+
+</string_table>

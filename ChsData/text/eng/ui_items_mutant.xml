@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+
+	<!-- MUTANT BODY PARTS -->
+	<string id="mutant_boar_leg"><text>野猪蹄子</text></string>
+	<string id="mutant_boar_leg_description"><text>野猪蹄子常被潜行者们戴在脖子上当作幸运符.而其他潜行者认为这东西磨成细粉后有着"独特"的用途.</text></string>
+	<string id="mutant_burer_hand"><text>狂暴侏儒的手</text></string>
+	<string id="mutant_burer_hand_description"><text>狂暴侏儒的手与他们的精神能力直接相关,能够移动物体,保护自己并在远处产生冲击波.自然,科学家对它们特别感兴趣,而且非常珍贵.</text></string>
+	<string id="mutant_cat_tail"><text>猫尾巴</text></string>
+	<string id="mutant_cat_tail_description"><text>据信,特异区里的猫是由当地的野生猞猁进化而来的.它们的尾巴被潜行者带在身上,当作意识的象征,这使它们与同类犬科动物不同,至少具有一定的价值</text></string>
+	<string id="mutant_chimera_claw"><text>奇美拉爪</text></string>
+	<string id="mutant_chimera_claw_description"><text>虽然它们能毫不费力地撕裂数张凯夫拉,但在如此极端的使用情况下,它们往往会磨损,就像它们的牙齿一样,会经常脱落和更换,从而成为一种廉价商品.</text></string>
+	<string id="mutant_chimera_head"><text>奇美拉伪首</text></string>
+	<string id="mutant_chimera_head_description"><text>所谓伪首是指位于主颅骨旁发育不全的次级颅骨结构. 其功能被认为与灵能共振稳定及神经中枢部分复制有关, 但相关研究仍不充分. \n \n%c[0,100,100,255] • %c[0,140,140,140] 稀有变异组织样本</text></string>
+	<!--<string id="mutant_controller_brain">
+		<text>Controller brain</text>
+	</string>
+	<string id="mutant_controller_brain_description">
+		<text>The brains of controllers are highly developed, able to take over the minds of other beings. For this very reason they are highly sought after by the Ecologists and can be sold for much more than most other mutant parts.\n \n%c[0,100,100,255] • %c[0,140,140,140] rare sample of mutated tissue</text>
+	</string>-->
+	<string id="mutant_controller_glas"><text>脑波怪眼球</text></string>
+	<string id="mutant_controller_glas_description"><text>被变异组织包裹的脑波怪眼球不仅是视觉器官, 更是能够影响人类心智的精神操控工具. 深受科学家重视. \n \n%c[0,100,100,255] • %c[0,140,140,140] 稀有变异组织样本</text></string>
+	<string id="mutant_controller_hand"><text>脑波怪的手</text></string>
+	<string id="mutant_controller_hand_description"><text>脑波怪的手被认为是辅助它的精神能力的,比如为精神攻击提供指引,因此科学家们十分珍惜此物,视其与脑波怪的大脑同等重要</text></string>
+	<string id="mutant_dog_tail"><text>狗尾巴</text></string>
+	<string id="mutant_dog_tail_description"><text>一条长且无毛的狗尾巴.没有什么实际用途,它是特异区找得到的最便宜的突变怪物的身体部分.</text></string>
+	<string id="mutant_flesh_eye"><text>豚兽眼睛</text></string>
+	<string id="mutant_flesh_eye_description"><text>与他们的祖先家养猪完全不同,豚兽的眼球又重又大,而且是完全的棕色</text></string>
+	<string id="mutant_fracture_hand"><text>长臂怪人的手</text></string>
+	<string id="mutant_fracture_hand_description"><text>一只长臂怪人的手,瘦骨嶙峋,有着长而尖的手指</text></string>
+	<string id="mutant_krovosos_jaw"><text>吸血怪触手</text></string>
+	<string id="mutant_krovosos_jaw_description"><text>吸血怪的触手产生一种能够消解哪怕是最厚的突变怪物皮的酶,同时能够防止血液凝结,许多研究者,包括科学家,都认为其中的秘密能帮助医学进步.</text></string>
+	<string id="mutant_pseudogigant_eye"><text>大脚怪的眼睛</text></string>
+	<string id="mutant_pseudogigant_eye_description"><text>原属于大脚怪的怪异大眼球.有趣的是,大脚怪的眼球通常一大一小,虽然不是特别有趣,但通常能卖个好价钱.</text></string>
+	<string id="mutant_pseudogigant_hand"><text>大脚怪的手</text></string>
+	<string id="mutant_pseudogigant_hand_description"><text>来自大脚怪的一只巨大的,长满肌肉的手,却是这种生物身上最小的部分了,用处不大但是很难获取,所以在正确的买家那仍然能买个不错的价钱</text></string>
+	<string id="mutant_psevdodog_tail"><text>地狱犬尾巴</text></string>
+	<string id="mutant_psevdodog_tail_description"><text>地狱犬尾巴上覆盖的皮毛是一种很好的保温材料,在接近寒冷季节时,经常被缝在衣服和护甲上.</text></string>
+	<string id="mutant_snork_hand"><text>史诺克手掌</text></string>
+	<string id="mutant_snork_hand_description"><text>史诺克的断掌. 与人类手掌差异不大, 但整体呈灰色, 布满水疱和开放性伤口. \n \n%c[0,153,255,255] • %c[0,140,140,140] 普通变异组织样本</text></string>
+	<string id="mutant_snork_leg"><text>史诺克的脚</text></string>
+	<string id="mutant_snork_leg_description"><text>史诺克的脚和腿上的肌腱具有很高的弹性,这使它们能够进行超长的跳跃,比普通人跳得远得多.</text></string>
+	<string id="mutant_tushkano_head"><text>变异老鼠头</text></string>
+	<string id="mutant_tushkano_head_description"><text>变异老鼠的眼睛,耳朵,嘴巴,鼻子,四个部位一次满足,没什么用,也不值钱</text></string>
+	<string id="mutant_zombi_hand"><text>僵尸手掌</text></string>
+	<string id="mutant_zombi_hand_description"><text>来自僵尸的污秽手掌. 丧失全部本能后, 僵尸化潜行者会将手掌作为武器使用. \n \n%c[0,153,255,255] • %c[0,140,140,140] 普通变异组织样本</text></string>
+
+	<!-- RAW MUTANT MEAT -->
+	<string id="mutant_boar_chop"><text>变异野猪肉排</text></string>
+	<string id="mutant_boar_chop_description"><text>比特异区外的非放射性同类更难咀嚼.变异野猪排的价格低廉但合理.</text></string>
+	<string id="mutant_chimera_meat"><text>奇美拉肉</text></string>
+	<string id="mutant_chimera_meat_description"><text>从奇美拉身上收获的厚厚的一块肉.很少有人有机会享用如此可怕的野兽,这些肉的价格自然也很高</text></string>
+	<string id="mutant_dog_meat"><text>狗肉</text></string>
+	<string id="mutant_dog_meat_description"><text>频繁在特异区被取得并交易的肉,相比豚兽肉更受欢迎,因为口味不像豚兽肉那么苦.商人收购的价格较低,但可以接受.</text></string>
+	<string id="mutant_flesh_meat"><text>豚兽肉</text></string>
+	<string id="mutant_flesh_meat_description"><text>又硬又苦的豚兽肉是特异区常吃的食物.较贵,但是大部分潜行者下笔下来都会选择要价过高的罐装食物,如果有得选的话.</text></string>
+	<string id="mutant_krovosos_meat"><text>吸血怪肉</text></string>
+	<string id="mutant_krovosos_meat_description"><text>吸血怪的肉.尽管捕杀吸血怪有一定的风险,但由于其腐臭的味道,往往被廉价出售.</text></string>
+	<string id="mutant_psevdodog_meat"><text>地狱犬肉</text></string>
+	<string id="mutant_psevdodog_meat_description"><text>比普通的狗肉更难获取,但是尝起来还是一样的.大多数潜行者不会花大钱来买下这东西</text></string>
+	<string id="mutant_tushkano_meat_cook"><text>烤熟的变异老鼠肉</text></string>
+	<string id="mutant_tushkano_meat_description"><text>虽然一份很小,但是十分普遍,潜行者只会花很少的钱来买下.</text></string>
+
+	<!-- COOKED MUTANT MEAT -->
+	<string id="mutant_boar_chop_cook"><text>烤熟的变异野猪肉</text></string>
+	<string id="mutant_boar_chop_cook_description"><text>特异区内最受欢迎的肉类.营养相当丰富,污染也不严重.科学家们已经对潜行者带来的样本进行了足够的研究,因此对这种肉的需求量有所下降.\n \n%c[0,153,255,255] ՠ%c[0,140,140,140] "低来源"的突变体肉\n%c[0,204,0,51] ՠ%c[0,140,140,140] 有毒的食物\n%c[0,204,0,51] ՠ%c[0,140,140,140]辐射: %c[0,170,170,170] ~323 微西弗</text></string>
+	<string id="mutant_chimera_meat_cook"><text>烤熟的奇美拉肉</text></string>
+	<string id="mutant_chimera_meat_cook_description"><text>一大块奇美拉肉,奇美拉被公认为最危险的生物之一,所以它的肉被经验丰富的潜行者所珍惜,他们愿意花大价钱买下.厨子们用这种肉当作"猎人的食物"的关键原料之一,但是,大多数人觉得奇美拉肉吃起来跟野猪肉区别不大,科学家可能会对这个感兴趣.n \n%c[0,153,255,255] ՠ%c[0,140,140,140] "高来源"的突变体肉\n%c\n%c[0,204,0,51] ՠ%c[0,140,140,140] 有毒的食物\n%c[0,204,0,51] ՠ%c[0,140,140,140] 辐射: %c[0,170,170,170] ~585 微西弗</text></string>
+	<string id="mutant_dog_meat_cook"><text>烤熟的狗肉</text></string>
+	<string id="mutant_dog_meat_cook_description"><text>很多潜行者会用狗肉来代替更受欢迎的野猪肉,作为廉价替代品,科学家已经对潜行者带来的样品进行了足够的研究,因此对此类肉块的需求已经减少.\n \n%c[0,153,255,255] ՠ%c[0,140,140,140] "低来源"的突变体肉\n%c[0,204,0,51] ՠ%c[0,140,140,140] 有毒的食物\n%c[0,204,0,51] ՠ%c[0,140,140,140] 辐射: %c[0,170,170,170] ~180 微西弗</text></string>
+	<string id="mutant_flesh_meat_cook"><text>烤熟的豚兽肉</text></string>
+	<string id="mutant_flesh_meat_cook_description"><text>特异区很受欢迎的产物,豚兽肉口感不错,营养价值也很高.科学家已经对这种肉的样本做了足够多的实验了,因此对此类肉块的需求已经减少.\n \n%c[0,153,255,255] ՠ%c[0,140,140,140] "低来源"的突变体肉\n%c\n%c[0,204,0,51] ՠ%c[0,140,140,140] 有毒的食物\n%c\n%c[0,204,0,51] ՠ%c[0,140,140,140] 辐射: %c[0,170,170,170] ~245 微西弗</text></string>
+	<string id="mutant_krovosos_meat_cook"><text>烤熟的吸血怪肉</text></string>
+	<string id="mutant_krovosos_meat_cook_description"><text>吸血怪的肉相当粘稠,不适合食用.虽然吸血怪是致命的怪物,但由于用途有限,其肉的价格并不特别高.这可能会引起科学家的兴趣.\n \n%c[0,153,255,255] ՠ%c[0,140,140,140] "高来源"的突变体肉\n%c[0,204,0,51] ՠ%c[0,140,140,140] 有毒的食物\n%c[0,204,0,51] ՠ%c[0,140,140,140]辐射: %c[0,170,170,170] ~470 微西弗</text></string>
+	<string id="mutant_psevdodog_meat_cook"><text>烤熟的地狱犬肉</text></string>
+	<string id="mutant_psevdodog_meat_cook_description"><text>地狱犬的肉是特异区很有营养的食物.十分可口,具有高营养价值,潜行者们会选择把它烤熟.科学家可能会对这个感兴趣.\n \n%c[0,153,255,255] ՠ%c[0,140,140,140] "低来源"的突变体肉\n%c[0,204,0,51] ՠ%c[0,140,140,140] 有毒的食物\n%c[0,204,0,51] ՠ%c[0,140,140,140] 辐射: %c[0,170,170,170] ~360 微西弗</text></string>
+	<string id="mutant_tushkano_meat"><text>变异老鼠肉</text></string>
+	<string id="mutant_tushkano_meat_cook_description"><text>一小块变异老鼠身上的肉.便宜且多见的食物,潜行者们说在火上烤过后能加强心脏的肌肉,科学家可能会对这个感兴趣.\n \n%c[0,153,255,255] ՠ%c[0,140,140,140] "低来源"的突变体肉\n%c[0,204,0,51] ՠ%c[0,140,140,140] 有毒的食物\n%c[0,204,0,51] ՠ%c[0,140,140,140] 辐射: %c[0,170,170,170] ~97 微西弗</text></string>
+
+	<!-- COOKING INTERFACE -->
+	<string id="mutant_krovosos"><text>吸血怪</text></string>
+	<string id="mutant_boar"><text>野猪</text></string>
+	<string id="mutant_chimera"><text>奇美拉</text></string>
+	<string id="mutant_dog"><text>盲犬</text></string>
+	<string id="mutant_flesh"><text>豚兽</text></string>
+	<string id="mutant_pseudodog"><text>地狱犬</text></string>
+	<string id="mutant_tushkano"><text>变异老鼠</text></string>
+	<string id="mutant_save"><text>保存</text></string>
+	<string id="mutant_back"><text>返回</text></string>
+
+</string_table>

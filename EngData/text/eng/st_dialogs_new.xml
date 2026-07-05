@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<!-- Medic general -->
+	<string id="st_dm_medic_general_text_0">
+		<text>I need medical assistance.</text>
+	</string>
+	<string id="st_dm_medic_general_text_1_0">
+		<text>I can treat all your injuries for a price. I have a special serum that will put you back on your feet in no time. Unless you're irradiated - that, the serum cannot fix. Still, I could flush all that glowing shit out of you with another treatment for a separate fee.\nSo, what have you decided?</text>
+	</string>
+	<string id="st_dm_medic_general_text_1_1">
+		<text>Ah, of course, can't even keep yourself in one piece. Let's see...</text>
+	</string>
+	<string id="st_dm_medic_general_text_1_2">
+		<text>Huh? Right, come on over.</text>
+	</string>
+	<string id="st_dm_medic_general_text_1_3">
+		<text>Yeah, I'll fix you up... for a fee.</text>
+	</string>
+	<string id="st_dm_medic_general_text_10_0">
+		<text>You don't have any wounds or show signs of radiation sickness. You should be good to go.</text>
+	</string>
+	<string id="st_dm_medic_general_text_10_1">
+		<text>I'll take a look... Hmm... You look fine to me.</text>
+	</string>
+	<string id="st_dm_medic_general_text_10_2">
+		<text>Hmm... Hands and feet are okay... head is in place... Yeah, you're alright.</text>
+	</string>
+	<string id="st_dm_medic_general_text_10_3">
+		<text>Dude, you're healthier than a bloodsucker.</text>
+	</string>
+	<string id="st_dm_medic_general_text_10_4">
+		<text>Don't be ridiculous. You're okay.</text>
+	</string>
+	<string id="st_dm_medic_general_text_2">
+		<text>Heal my wounds. %c[ui_orange][%s RU]</text>
+	</string>
+	<string id="st_dm_medic_general_text_3">
+		<text>Get the radiation out of me. %c[ui_orange][%s RU]</text>
+	</string>
+	<string id="st_dm_medic_general_text_4">
+		<text>Fuck it, I need to be in a good shape. %c[ui_orange][%s RU]</text>
+	</string>
+	<string id="st_dm_medic_general_text_5">
+		<text>You know what, Doc? Fix yourself!</text>
+	</string>	
+	<string id="st_dm_medic_general_text_6">
+		<text>Here you go, stay safe next time.</text>
+	</string>
+	<string id="st_dm_medic_general_text_7">
+		<text>Up to you.</text>
+	</string>
+<!-- Nimble general -->
+	<string id="request_to_no_go_nimble_bar_0">
+		<text>What interesting stuff do you have in those rooms behind the guard?</text>
+	</string>
+	<string id="request_to_no_go_nimble_bar_1">
+		<text>Not what, but who. There's a seasoned guy there, he can get you any unique gear you want. But you can't go there now, first I have to make sure I can trust you, meaning your reputation must be %c[ui_orange]good%c[ui_8].</text>
+	</string>
+	<string id="request_to_no_go_nimble_bar_1_0">
+		<text>So, can I go see this person now?</text>
+	</string>
+	<string id="request_to_no_go_nimble_bar_1_1">
+		<text>Hmm, okay. I'll let Garik know. That guy's name is Nimble. Straight ahead and to the right down the corridor.</text>
+	</string>
+	<string id="request_to_no_go_nimble_bar_2_0">
+		<text>What interesting stuff do you have in those rooms behind the guard?</text>
+	</string>
+	<string id="request_to_no_go_nimble_bar_2_1">
+		<text>Not what, but who. There's a guy there, experienced, he can get you some unique gear. Hmm, I know you as a reliable person with a good reputation. You can tell Garik to let you through to see this guy they call Nimble. Straight ahead and to the right down the corridor.</text>
+	</string>
+	<string id="request_go_to_nimble">
+		<text>I need to pass.</text>
+	</string>	
+	<string id="st_nimble_supplies">
+		<text>Within the next two days, the assortment of most traders will be replenished with new items.</text>
+	</string>	
+	<string id="st_medic_supplies">
+		<text>Within the next two days, the assortment of all medics and barmens (Beard and Librarian) will be improved.</text>
+	</string>
+	<string id="zat_b18_request_trade_0">
+		<text>I hear you're a merchant?</text>
+	</string>	
+	<string id="zat_b18_request_trade_1">
+		<text>It's true. But my trade isn't for everyone. If you can prove yourself as a skilled artifact hunter, then come and trade with me.\n\n%c[ui_orange][to trade the Geologist achievement must be unlocked]</text>
+	</string>
+	<string id="st_dolg_elite_supplies">
+        <text>For your dedicated service to the cause of Duty, you have earned the respect of your comrades. Over the next two days, you will have access to an elite assortment.</text>
+	</string>
+    <string id="st_bandit_elite_supplies">
+        <text>You really saved the day, bro! Over the next two days, you'll get some top-notch goods from our dealers.</text>
+	</string>
+    <string id="st_ecolog_elite_supplies">
+        <text>Your assistance in the research work has not gone unnoticed. Over the next two days, you will gain access to special scientific supplies.</text>
+	</string>
+    <string id="st_freedom_elite_supplies">
+        <text>Well done, man, in the name of Freedom! Over the next two days, you'll have access to the best guns and gear from our merchants.</text>
+	</string>
+    <string id="st_killer_elite_supplies">
+        <text>You work cleanly and quietly. Your clients are satisfied - you've earned access to elite supplies. Come by in the next couple of days.</text>
+	</string>
+    <string id="st_army_elite_supplies">
+        <text>By order of the command, you are commended for exemplary performance of your duties. Over the next two days, you will have access to elite army supplies.</text>
+	</string>
+    <string id="st_monolith_elite_supplies">
+        <text>You have served Monolith well! You will now have access to the elite assortment over for the next two days.</text>
+	</string>
+    <string id="st_stalker_elite_supplies">
+        <text>Your reputation as a reliable stalker precedes you. Over the next two days, merchants will offer you a special assortment.</text>
+    </string>
+	<string id="st_csky_elite_supplies">
+        <text>The balance in the Zone has been preserved thanks to your actions. Over the next two days, you will be granted access to special equipment from Clear Sky.</text>
+    </string>
+	<string id="radio_trader_on">
+		<text>Turn on the radio.</text>
+	</string>	
+	<string id="radio_trader_off">
+		<text>Turn off the radio.</text>
+	</string>
+	<string id="radio_trader_end">
+		<text>...</text>
+	</string>	
+</string_table>

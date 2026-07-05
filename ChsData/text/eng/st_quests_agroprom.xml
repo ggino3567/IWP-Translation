@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	<!-- RECAPTURE TERRITORY FOR MILITARY LEADER TASK -->
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_1_name"><text>为库兹涅佐夫夺回领地</text></string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_1_text"><text>你受命夺回失守的领土. </text></string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_1_about"><text>%c[ui_8]我们有一支巡逻队失联了. 我需要你前往%c[ui_orange]警戒线%c[ui_8]的老火车桥附近查明情况. 你准备好了吗? \n\n%c[ui_orange][接受任务后若玩家进入无法执行该任务的地区, 任务将失败]</text></string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_1_finish"><text>任务完成了? 太好了! </text></string>
+
+	<!-- ASSAULT TERRITORY 1 FOR MILITARY LEADER TASK -->
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_name"><text>为库兹涅佐夫保卫军方领地</text></string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_text"><text>你被指派带队清剿未经授权人员. </text></string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_about"><text>%c[ui_8]接到报告称%c[ui_orange]农业研究所工厂%c[ui_8]出现大量敌对势力. 需要志愿者清除该区域的未经授权人员. 准备好了吗? \n\n%c[ui_orange][接受任务后若玩家进入无法执行该任务的地区, 任务将失败]</text></string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_finish"><text>干得好. 继续保持, 你将会获得嘉奖. </text></string>
+
+	<!-- ASSAULT TERRITORY 2 FOR MILITARY LEADER TASK -->
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_3_name"><text>为库兹涅佐夫突袭领地</text></string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_3_text"><text>你受命占领领土并消灭敌军. </text></string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_3_about"><text>%c[ui_8]我方巡逻队报告有敌军正逼近我们的一处营地. 现招募志愿者前往%c[ui_orange]大沼泽%c[ui_8]歼灭敌军. 绝不能让我们在那里的营地陷入危险. \n\n%c[ui_orange][接受任务后若玩家进入无法执行该任务的地区, 任务将失败]</text></string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_3_finish"><text>任务完成了? 干得好. </text></string>
+
+	<!--  ASSAULT TERRITORY 3 FOR MILITARY LEADER TASK -->
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_name"><text>为库兹涅佐夫消灭雇佣兵小队</text></string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_text"><text>你受命消灭一队雇佣兵. </text></string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_about"><text>%c[ui_8]一支与我们无关的专业武装力量在特异区的活动越发频繁. 我们的任务是阻止他们的行动. 情报显示了一处雇佣兵营地位置. 你的任务是在%c[ui_orange]大荒野%c[ui_8]消灭他们的队伍. 准备好执行任务了吗? \n\n%c[ui_orange][接受任务后若玩家进入无法执行该任务的地区, 任务将失败]</text></string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_finish"><text>任务完成了? 太好了! </text></string>
+
+	<!-- GET ITEM FROM STASH FOR MILITARY LEADER TASK -->
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_5_name"><text>从藏匿点取回PDA并交付给库兹涅佐夫</text></string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_5_text"><text>前往指定地点, 从藏匿点取回载有情报数据的PDA, 交给库兹涅佐夫. </text></string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_5_about"><text>%c[ui_8]我们一支小队带着指挥部的重要情报返回时遭遇伏击. 在失去联系前, 队员们提供了隐藏情报PDA的坐标. 需要志愿者前往该地点取回设备. </text></string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_5_finish"><text>任务完成了? 干得好! </text></string>
+
+
+	<!-- ASSASSINATION FOR MILITARY TRADER TASK -->
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_1_name"><text>进攻</text></string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_1_text"><text>你被指派去领导一项攻击任务, 干掉任何入侵者</text></string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_1_about"><text>指挥官最近对其他派系的崛起很上心.他想让你去干掉那个地区的入侵者.时刻保持警惕.</text></string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_1_finish"><text>厉害啊.去那边找领导, 我相信奖励少不了你的.</text></string>
+
+	<!-- HUNT MUTANTS FOR MILITARY TRADER TASK -->
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_2_name"><text>夺取领土</text></string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_2_text"><text>你需要夺取这片区域内的领土</text></string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_2_about"><text>我们小队需要去夺取一片领土, 但人手不够, 你要加入我们吗?</text></string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_2_finish"><text>任务已完成?干得好.我会将你的成功告诉指挥官的.</text></string>	
+
+	<!-- HEAD HUNTING FOR MILITARY TRADER TASK -->
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_3_name"><text>刺杀敌方目标</text></string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_3_text"><text>你被指派去杀死一个敌对的目标</text></string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_3_about"><text>总部有一个刺杀名单, 而他们就在特异区.如果你能干掉名单中的任何一个人, 他们就会给你很高的报酬.你准备好了吗?.</text></string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_3_fetch_about"><text>%c[ui_8]我们的一个前哨站遭敌军袭击. 他们造成我方多人伤亡. 需要对敌占区进行突袭. 带回十来个%c[ui_orange]%s%c[ui_8]作为行动证明. </text></string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_3_fetch_finish"><text>任务完成了? 干得漂亮! </text></string>
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR MILITARY MECHANIC TASK -->
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_name"><text>找到%s</text></string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_text"><text>%s 是进行基本改造的前提, 把他们带回来</text></string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_about"><text>嘿, 我能请你帮个忙吗?如果你感兴趣的话, 我就跟你仔细讲讲.</text></string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_fetch_about"><text>我需要一套基本工具.有了它我能干的事就多了.如果你能给我带一套回来, 我将不胜感激,今后你来我这都给你打折.</text></string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_fetch_finish"><text>帅!这正是我要的.太谢谢你了.</text></string>
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR MILITARY MECHANIC TASK -->
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_name"><text>找到%s</text></string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_text"><text>%s 是进行高级改造的前提, 把他们带回来</text></string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_about"><text>好吧, 我需要更多的工具.但他们可能有点难找到.你能帮帮我吗?.</text></string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_fetch_about"><text>我需要一套高级工具.有了它我能干的事就多了.如果你能给我带一套回来, 我将不胜感激,今后你来我这都给你打折.</text></string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_fetch_finish"><text>酷!如果你要修理你的装备, 随时回来.</text></string>
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR MILITARY MECHANIC TASK -->
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_3_name"><text>发现%s</text></string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_3_text"><text>%s 是进行专业改造的前提, 把他们带回来</text></string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_3_about"><text>我需要更多的工具.但他们可能有点难找到.你能帮帮我吗?.</text></string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_3_fetch_about"><text>我要一套校准工具.有了它我能干的事就多了.如果你能给我带一套回来, 我将不胜感激,今后你来我这都给你打折.</text></string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_3_fetch_finish"><text>你真厉害啊!如果你要保养你的装备, 随时回来.</text></string>
+
+	<!-- FIND WEAPON FOR MILITARY MECHANIC TASK -->
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_4_name"><text>为基里洛夫寻找%s</text></string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_4_text"><text>基里洛夫需要一把%s. 必须保持完好状态. </text></string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_4_about"><text>我需要一把特定的枪. 如果你对这活儿感兴趣, 我会提供更多细节. 你意下如何? </text></string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_4_fetch_about"><text>%c[ui_8]我需要一把特定的枪来开展工作. 目前我正在寻找状态良好的%c[ui_orange]%s%c[ui_8]. 我相信你一定能找到. 要改善枪械状态, 可以使用%c[ui_orange]枪匠工具箱%c[ui_8]或带给我修理, 但后者不是免费的. </text></string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_4_fetch_finish"><text>太好了! 正是我需要的. </text></string>
+
+	<!-- FIND ALCOHOL FOR MILITARY MEDIC TASK -->
+	<string id="agr_smart_terrain_1_6_army_medic_stalker_task_1_name"><text>为罗戈维茨中尉带酒精</text></string>
+	<string id="agr_smart_terrain_1_6_army_medic_stalker_task_1_text"><text>获取%s并交给罗戈维茨中尉, 供他用于伤口消毒. </text></string>
+	<string id="agr_smart_terrain_1_6_army_medic_stalker_task_1_about"><text>我需要更多酒精来消毒伤口. 如果你能带些过来, 我会付钱. </text></string>
+	<string id="agr_smart_terrain_1_6_army_medic_stalker_task_1_fetch_about"><text>%c[ui_8]指挥官以所谓的"预防性需求"没收了我大部分酒精储备. 剩下的可能连处理弟兄们伤口或消毒工具都不够. 如果你能带些替代品来, 我会付钱. %c[ui_orange]%s%c[default]就最合适不过了. </text></string>
+	<string id="agr_smart_terrain_1_6_army_medic_stalker_task_1_fetch_finish"><text>完美, 正是我需要的. 谢谢你! </text></string>
+
+</string_table>

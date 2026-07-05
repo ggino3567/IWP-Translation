@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<!-- ESCORT SCIENTISTS FOR ECOLOG TECH TASK -->
+	<string id="jup_b6_scientist_tech_task_1_name">
+		<text>Escort the Scientists</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_1_text">
+		<text>Scientists have hired you to guide them to a specific location for study. Once their research has been successfully conducted, return them safely to camp.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_1_about">
+		<text>%c[ui_8]We require an experienced stalker to escort our colleagues to the field site and ensure their safety during the measurements. Would you be able to assist us?</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_1_fetch_finish">
+		<text>Thank you for your protection, stalker. Please, take this as a token of our gratitude.</text>
+	</string>
+
+	<!-- FIND ARTEFACT FOR ECOLOG TECH TASK -->
+	<string id="jup_b6_scientist_tech_task_2_name">
+		<text>Find the %s rare Artefact for Scientists</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_2_text">
+		<text>You have been asked to retrieve the %s artefact. Bring it back to Tukarev if you happen to get your hands on one.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_2_about">
+		<text>We are looking for certain kinds of artefacts. If you are interested, I will tell you what we need.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_2_fetch_about">
+		<text>%c[ui_8]I need you to bring us back an artefact %c[ui_orange]%s%c[ui_8]. You ever heard of it? We have something we can give you in return that I think you will find useful.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_2_fetch_finish">
+		<text>Great! You've found exactly what we are looking for. Thanks, stalker, here's the promised reward.</text>
+	</string>
+
+	<!-- FIND MUTANT PARTS FOR ECOLOG TECH TASK -->
+	<string id="jup_b6_scientist_tech_task_3_name">
+		<text>Find %s for Scientists</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_3_text">
+		<text>Garin needs a tissue sample from a %s.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_3_about">
+		<text>The scientists need an experienced mutant hunter for a case. Can I count on you?</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_3_fetch_about">
+		<text>%c[ui_8]Our scientists are looking for certain mutant tissue samples for research, specifically... %c[ui_orange]%s%c[ui_8]. It is crucial that the sample is fresh. Therefore, return with the material as soon as possible.</text>
+	</string>
+	<string id="jup_b6_scientist_tech_task_3_fetch_finish">
+		<text>Great samples, just what I needed. Thanks, stalker, here's the promised reward.</text>
+	</string>
+
+
+	<!-- FIND RARE ARTEFACT FOR OZERSKIY TASK -->
+	<string id="jup_b6_scientist_biochemist_task_1_name">
+		<text>Find the %s rare Artefact for Ozersky</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_task_1_text">
+		<text>Ozersky has asked you to find a rare artefact called the %s.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_task_1_about">
+		<text>Для исследований не нужен очень редкий артефакт. Вы возьмётесь за эту работу?</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_task_1_fetch_about">
+		<text>%c[ui_8]Listen, young man, I need a rare artifact that has no harmful properties. It’s called the %c[ui_orange]%s%c[ui_8]. I’m sure a stalker with your experience and knowledge of the Zone can handle it. Are you ready to help science? </text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_task_1_fetch_finish">
+		<text>You found the artifact? Incredible! Here’s your reward.</text>
+	</string>
+
+
+	<!-- ASSASSINATE MERC FOR YAR TASK -->
+	<string id="jup_b19_freedom_yar_task_1_name">
+		<text>Hunt Bounty Hunter for Yar</text>
+	</string>
+	<string id="jup_b19_freedom_yar_task_1_text">
+		<text>Yar needs a bounty taken off his head.</text>
+	</string>
+	<string id="jup_b19_freedom_yar_task_1_about">
+		<text>%c[ui_8]Mercenaries has put a price on my head. Not the first time though... I figured out who took the bounty and need someone who let him to get lost in the Zone. Can you help me?</text>
+	</string>
+	<string id="jup_b19_freedom_yar_task_1_finish">
+		<text>Thank you stalker! Here is your payment.</text>
+	</string>
+
+
+	<!-- HUNT MUTANTS FOR TRAPPER TASK -->
+	<string id="jup_b220_trapper_task_1_name">
+		<text>Eliminate Mutants for Trapper</text>
+	</string>
+	<string id="jup_b220_trapper_task_1_text">
+		<text>Mutants have been spotted near this location making the area dangerous for some of the locals. You have been tasked to eliminate the mutant threat within the area. Report back to Trapper after the job is done.</text>
+	</string>
+	<string id="jup_b220_trapper_task_1_about">
+		<text>%c[ui_8]I've been looking for someone to help keep the area around Yanov a bit safer by depopulating the various mutant lairs found in area. Would you like the job?\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="jup_b220_trapper_task_1_finish">
+		<text>Thank you, stalker. The area will be much safer for others because of you. Here is your payment.</text>
+	</string>
+
+	<!-- FIND MUTANT PARTS FOR TRAPPER TASK -->
+	<string id="jup_b220_trapper_task_2_name">
+		<text>Collect %s for Trapper</text>
+	</string>
+	<string id="jup_b220_trapper_task_2_text">
+		<text>Trapper says he will pay well if I can bring him a %s.</text>
+	</string>
+	<string id="jup_b220_trapper_task_2_about">
+		<text>I have a bounty out on a particular type of mutant. Are you interested?</text>
+	</string>
+	<string id="jup_b220_trapper_task_2_fetch_about">
+		<text>%c[ui_8]Kill this mutant and bring me its %c[ui_orange]%s%c[ui_8] and I will pay you well, stalker.</text>
+	</string>
+	<string id="jup_b220_trapper_task_2_fetch_finish">
+		<text>Ah, another threat eliminated and a new decoration for the camp. Well done, stalker.</text>
+	</string>
+
+	<!-- FIND WEAPON FOR TRAPPER TASK -->
+	<string id="jup_b220_trapper_task_3_name">
+		<text>Find %s for Trapper</text>
+	</string>
+	<string id="jup_b220_trapper_task_3_text">
+		<text>Trapper is looking for a specific firearm in good condition. Return to him if you find one.</text>
+	</string>
+	<string id="jup_b220_trapper_task_3_about">
+		<text>One of my trappers is in the market for a specific firearm that I don't have available. Would you be able to track one down for me?</text>
+	</string>
+	<string id="jup_b220_trapper_task_3_fetch_about">
+		<text>%c[ui_8]I need a %c[ui_orange]%s%c[ui_8]. The trapper who wants it goes after dangerous game so he needs it to be in good condition. I can pay you well if you find one.</text>
+	</string>
+	<string id="jup_b220_trapper_task_3_fetch_finish">
+		<text>Ah, perfect. This will do nicely. Here is the money I promised you.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR MECHANIC TASK -->
+	<string id="jup_b217_stalker_tech_task_1_name">
+		<text>Find %s for Nitro</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_1_text">
+		<text>%s are required by Nitro to install basic equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_1_about">
+		<text>I need new tools, stalker, something that is hard to come by in the Zone. If you are interested in helping me out, I will tell you what I need.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_1_fetch_about">
+		<text>%c[ui_8]I need a set of %c[ui_orange]%s%c[ui_8]. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_1_fetch_finish">
+		<text>Perfect! This is just what I need, stalker. If you need any of your equipment fine-tuned, now I can do it properly.</text>
+	</string>
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR MECHANIC TASK -->
+	<string id="jup_b217_stalker_tech_task_2_name">
+		<text>Find %s for Nitro</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_2_text">
+		<text>%s are required by Nitro to install advanced equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_2_about">
+		<text>The toolkit you brought me is great, but it doesn't have everything I need. Do you think you can find me a better set?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_2_fetch_about">
+		<text>%c[ui_8]I need an %c[ui_orange]%s%c[ui_8]. I'm not sure where you can get one of these, but if you can find one, I need it.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_2_fetch_finish">
+		<text>Whoa! You found a nice set of tools for me. Here, I promised you some money in return.</text>
+	</string>
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR MECHANIC TASK -->
+	<string id="jup_b217_stalker_tech_task_3_name">
+		<text>Find %s for Nitro</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_3_text">
+		<text>%s are required by Nitro to install expert equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_3_about">
+		<text>The toolkit you brought me is great, but it doesn't have everything I need. Do you think you can find me a better set?</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_3_fetch_about">
+		<text>%c[ui_8]I need an %c[ui_orange]%s%c[ui_8]. I'm not sure where you can get one of these, but if you can find one, I need it.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_3_fetch_finish">
+		<text>Whoa! You found a nice set of tools for me. Here, I promised you some money in return.</text>
+	</string>
+
+	<!-- GET ITEM FROM STASH FOR NITRO TASK -->
+	<string id="jup_b217_stalker_tech_task_4_name">
+		<text>Take the electronic devices from the stash and bring them to Nitro</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_4_text">
+		<text>Go to the specified location, take the electronics left in the stash, and bring them to Nitro.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_4_about">
+		<text>%c[ui_8]I love tinkering with all kinds of equipment and taking apart the electronics that the guys bring from their raids. But sometimes they just leave what they find in a safe place and send the coordinates if it's not on their way. Can you go and grab it and bring it back? Don't worry, you'll be rewarded for the effort.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_task_4_finish">
+		<text>Great! Here, take it, just as I promised.</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+<!-- Medic general -->
+	<string id="st_dm_medic_general_text_0"><text>我需要医疗援助.</text></string>
+	<string id="st_dm_medic_general_text_1_0"><text>我可以为你治疗所有的伤病,只收取一定的费用.我有一种特殊的血清,能让你马上恢复健康 除非你被辐照了,否则血清无法修复.不过,我还可以用另一种治疗方法,把你身上那些发光的东西都冲掉,但要另外付费.那么,你决定了吗?</text></string>
+	<string id="st_dm_medic_general_text_1_1"><text>啊,当然了,连自己都不能保持完整.让我看看...</text></string>
+	<string id="st_dm_medic_general_text_1_2"><text>嗯?好了,过来吧!</text></string>
+	<string id="st_dm_medic_general_text_1_3"><text>是的,我会帮你......但要收费.</text></string>
+	<string id="st_dm_medic_general_text_10_0"><text>你没有任何伤口,也没有辐射病的迹象.你应该没事了</text></string>
+	<string id="st_dm_medic_general_text_10_1"><text>我去看看... 嗯... 你看起来很好.</text></string>
+	<string id="st_dm_medic_general_text_10_2"><text>嗯...手脚没问题......头没问题......是的,你没事.</text></string>
+	<string id="st_dm_medic_general_text_10_3"><text>我嘞个老兄,你简直比吸血鬼还健康.</text></string>
+	<string id="st_dm_medic_general_text_10_4"><text>别傻了,你没事的!</text></string>
+	<string id="st_dm_medic_general_text_2"><text>治愈我的伤口. %c[255,255,165,0][%s RU]</text></string>
+	<string id="st_dm_medic_general_text_3"><text>把辐射从我身上弄走. %c[255,255,165,0][%s RU]</text></string>
+	<string id="st_dm_medic_general_text_4"><text>去他妈的,我得保持良好状态. %c[255,255,165,0][%s RU]</text></string>
+	<string id="st_dm_medic_general_text_5"><text>你知道吗,医生?你自己解决吧!</text></string>	
+	<string id="st_dm_medic_general_text_6"><text>给你,下次注意安全.</text></string>
+	<string id="st_dm_medic_general_text_7"><text>由你决定.</text></string>
+<!-- Nimble general -->
+	<string id="request_to_no_go_nimble_bar_0"><text>守卫身后的房间里有什么有趣的东西? </text></string>
+	<string id="request_to_no_go_nimble_bar_1"><text>不是什么东西, 而是什么人. 那里有个经验老到的家伙, 他能给你搞到任何你想要的独特装备. 但你现在还不能过去, 我得先确认能信任你, 也就是说你的声望必须%c[ui_orange]良好%c[ui_8]. </text></string>
+	<string id="request_to_no_go_nimble_bar_1_0"><text>那我现在能去见这个人了吗? </text></string>
+	<string id="request_to_no_go_nimble_bar_1_1"><text>嗯, 好吧. 我会通知加里克. 那家伙叫尼姆博. 沿着走廊直走然后右转. </text></string>
+	<string id="request_to_no_go_nimble_bar_2_0"><text>守卫身后的房间里有什么有趣的东西? </text></string>
+	<string id="request_to_no_go_nimble_bar_2_1"><text>不是什么东西, 而是什么人. 那里有个经验丰富的家伙, 他能给你搞到些独特装备. 嗯, 我知道你是个可靠的人, 声望不错. 你可以让加里克放你过去见那个叫尼姆博的家伙. 沿着走廊直走然后右转. </text></string>
+	<string id="request_go_to_nimble"><text>我需要通过. </text></string>	
+	<string id="st_nimble_supplies"><text>未来两天内, 大多数商人的货物种类将会补充新物品. </text></string>	
+	<string id="st_medic_supplies"><text>未来两天内, 所有医生和酒保 (大胡子和图书管理员) 的货物种类将会提升. </text></string>
+	<string id="zat_b18_request_trade_0"><text>听说你是个商人? </text></string>	
+	<string id="zat_b18_request_trade_1"><text>没错. 但我的买卖不是对所有人都开放的. 如果你能证明自己是个熟练的神器猎人, 那就来和我交易吧. \n\n%c[ui_orange][需要解锁地质学家成就才能交易]</text></string>
+	<string id="st_dolg_elite_supplies"><text>你为纪律团事业做出的奉献赢得了同志们的尊重. 未来两天内, 你将能接触到精英级别的货物. </text></string>
+    <string id="st_bandit_elite_supplies"><text>兄弟, 你可真是帮了大忙! 未来两天里, 我们的供应商会给你提供些顶尖货色. </text></string>
+    <string id="st_ecolog_elite_supplies"><text>你在研究工作中的协助没有被忽视. 未来两天内, 你将获得特殊科学物资的购买权限. </text></string>
+    <string id="st_freedom_elite_supplies"><text>以自由团的名义干得漂亮, 伙计! 未来两天里, 我们的商人会向你开放最好的枪械和装备. </text></string>
+    <string id="st_killer_elite_supplies"><text>你做事利落又安静. 你的客户很满意——你已获得精英物资的购买权. 这两天过来看看吧. </text></string>
+    <string id="st_army_elite_supplies"><text>根据指挥部命令, 你因出色完成任务受到表彰. 未来两天内, 你将能获得军方的精英级补给. </text></string>
+    <string id="st_monolith_elite_supplies"><text>你为黑石忠诚服务! 未来两天内将为你开放精英物资购买权限. </text></string>
+    <string id="st_stalker_elite_supplies"><text>你作为可靠潜行者的名声早有耳闻. 未来两天内, 商人们会为你提供特殊种类的货物. </text></string>
+	<string id="st_csky_elite_supplies"><text>多亏你的行动, 特异区的平衡得以维持. 未来两天内, 晴空组织将为你开放特殊物资的购买权限. </text></string>
+	<string id="radio_trader_on"><text>打开收音机. </text></string>	
+	<string id="radio_trader_off"><text>关闭收音机. </text></string>
+	<string id="radio_trader_end"><text>...</text></string>	
+</string_table>

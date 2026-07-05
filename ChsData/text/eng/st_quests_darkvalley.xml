@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	<!-- ASSASSINATE DUTY OR MILITARY FOR BANDIT LEADER TASK -->
+	<string id="zat_b7_bandit_boss_sultan_task_1_name"><text>为苏丹清除目标</text></string>
+	<string id="zat_b7_bandit_boss_sultan_task_1_text"><text>找到并清除目标, 然后返回苏丹处领取报酬. </text></string>
+	<string id="zat_b7_bandit_boss_sultan_task_1_about"><text>%c[ui_8]特异区里不少家伙惹毛过我或对我不敬. 有些混球要么欠我钱, 要么搞砸了交易. 这些渣滓就是该被踩死的耗子. 愿意接活的话, 我给你他们的资料, 你可以用GPS追踪. </text></string>
+	<string id="zat_b7_bandit_boss_sultan_task_1_finish"><text>干得漂亮! 这点小意思算辛苦费. </text></string>
+
+	<!-- ASSASSINATE BANDIT FOR BANDIT LEADER TASK -->
+	<string id="zat_b7_bandit_boss_sultan_task_2_name"><text>为苏丹清除强盗</text></string>
+	<string id="zat_b7_bandit_boss_sultan_task_2_text"><text>苏丹委托你执行暗杀. 找到并清除目标后返回他处领赏. </text></string>
+	<string id="zat_b7_bandit_boss_sultan_task_2_about"><text>%c[ui_8]有个活儿, 你是最合适的人选. 有个底层混混太吵吵. 以为背后说我坏话就能出名, 想把我搞下台. 这种不敬? 在讲规矩的爷们中间行不通. 你把这杂种处理掉——不会让你白忙. 确保做得安静. 别留烂摊子. \n\n%c[ui_orange][此任务需击杀友好或中立潜行者, 会导致声望下降. 目击者可能敌视并攻击玩家]</text></string>
+	<string id="zat_b7_bandit_boss_sultan_task_2_finish"><text>很好, 你清除了那杂种! 这是答应你的报酬. </text></string>
+
+	<!-- ASSASSINATE CLEAR SKY OR STALKER FOR BANDIT LEADER TASK -->
+	<string id="zat_b7_bandit_boss_sultan_task_3_name"><text>为苏丹清除潜行者</text></string>
+	<string id="zat_b7_bandit_boss_sultan_task_3_text"><text>苏丹委托你执行暗杀. 找到并清除目标后返回他处领赏. </text></string>
+	<string id="zat_b7_bandit_boss_sultan_task_3_about"><text>%c[ui_8]我有个惹毛我的名单. 要你做了他们. 怎么说? </text></string>
+	<string id="zat_b7_bandit_boss_sultan_task_3_finish"><text>很好, 你清除了那杂种! 这是答应你的报酬. </text></string>
+
+
+	<!-- DEFEND TERRITORY FOR BANDIT TRADER TASK -->
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_name"><text>消除变种生物威胁</text></string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_text"><text>变种生物在这一片搭了个窝,这地方因此变得非常危险. 你已被要求清除这地方的变种生物威胁. 完成后回来向领导汇报.</text></string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_about"><text>我一直在找一个厉害的潜行者,来清理这几个地方的变种生物.那些潜行者不会来这里,他们一个个全是怂蛋.如果我们不做的话,特异区就要没人了.</text></string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_finish"><text>厉害啊! 这是你的报酬.</text></string>
+
+	<!-- ASSAULT TERRITORY 1 FOR BANDIT TRADER TASK -->
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_name"><text>消除威胁</text></string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_text"><text>你需要完成消除对领土的威胁的任务.工作完成后, 回来向奥利维斯报告.</text></string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_about"><text>那群婊子在我们的领地扎了窝.老板给了我命令, 让我招募一个潜行者, 跟这些人"打个招呼".你能行吗?</text></string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_finish"><text>厉害啊!这是你的报酬.</text></string>
+
+	<!-- ESCORT RAIDERS FOR BANDIT TRADER TASK -->
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_name"><text>占领领土</text></string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_text"><text>逐一击破, 占领领土, 好让我们势力强大起来.</text></string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_about"><text>有几个家伙建立了一个小队来抢夺我们的土地, 以他们的领导人为首要目标, 杀掉他, 报酬好说.</text></string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_finish"><text>好了?拿去吧.</text></string>
+
+	<!-- HUNT MUTANTS FOR BANDIT TRADER TASK -->
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_name"><text>赏金杀手</text></string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_text"><text>有人悬赏了一个目标, 你需要去杀了他</text></string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_about"><text>我有赏金目标.我要你把他们干死.</text></string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_finish"><text>好,我总算摆脱他了!这是我先前许诺你的.</text></string>
+
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR BANDIT MECHANIC -->
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_name"><text>找到%s</text></string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_text"><text>找到 %s 以进行基本改造, 将它们带回来</text></string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_about"><text>我急需新工具, 伙计. 我用这些生锈的工具什么也干不了.如果你感兴趣的话, 我就细说一下.</text></string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_fetch_about"><text>我需要一套基本工具.有了它我能干的事就多了.如果你能给我带一套回来, 我将不胜感激,今后你来我这都给你打折.</text></string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_fetch_finish"><text>完美!这正是我要的, 伙计.</text></string>
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR BANDIT MECHANIC -->
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_name"><text>找到%s</text></string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_text"><text>找到 %s 以进行高级改造, 将它们带回来</text></string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_about"><text>你给我带来的工具箱很棒, 但还不够. 我认为你能找到更好的一套.</text></string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_fetch_about"><text>我需要%s.我不确定你能否得到, 但如果你能找到, 赏金不会少</text></string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_fetch_finish"><text>你又找到了!厉害啊, 伙计.</text></string>
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR BANDIT MECHANIC -->
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_name"><text>找到%s</text></string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_text"><text>找到 %s 以进行专业改造, 将它们带回来</text></string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_about"><text>你给我带来的工具箱很棒, 但我还需要更多.你认为你能找到更好的一套吗?.</text></string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_fetch_about"><text>我需要%s.我不确定你能否得到, 但如果你能找到, 酬劳好说</text></string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_fetch_finish"><text>你又找到了!厉害啊.</text></string>
+
+	<!-- FIND WEAPON FOR BANDIT MECHANIC TASK -->
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_4_name"><text>为林匹德寻找%s</text></string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_4_text"><text>林匹德需要%s. 必须完好无损. </text></string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_4_about"><text>我需要把特定枪支. 有兴趣接活的话会提供详情. 意下如何? </text></string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_4_fetch_about"><text>%c[ui_8]正给弟兄们配装备. 需要几把枪拆零件. 现在需要%c[ui_orange]%s%c[ui_8], 最好完好无损. 找到就带来. 要是坏了就用%c[ui_orange]枪匠工具包%c[ui_8]修好. 或者我帮忙, 但要收费. </text></string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_4_fetch_finish"><text>太好了! 正是我需要的. </text></string>
+
+
+	<!-- FIND ALCOHOL FOR BANDIT MEDIC TASK -->
+	<string id="val_smart_terrain_7_4_bandit_medic_stalker_task_1_name"><text>带酒精给手术刀</text></string>
+	<string id="val_smart_terrain_7_4_bandit_medic_stalker_task_1_text"><text>取得%s并带给手术刀, 供他用于伤口消毒. </text></string>
+	<string id="val_smart_terrain_7_4_bandit_medic_stalker_task_1_about"><text>弟兄们把我消毒酒精全喝光了. 有人被划伤的话连处理伤口的东西都没有. 碰到烈酒就带到这儿来. </text></string>
+	<string id="val_smart_terrain_7_4_bandit_medic_stalker_task_1_fetch_about"><text>%c[ui_8]听着兄弟, 弟兄们给个硬汉庆生——搞得有点大. 问题是他们把老子消毒用的酒精全干完了. 要是有人被划伤, 咱们连处理伤口的玩意儿都没有. 你要是碰到任何烈酒, 带到这儿来——钱不会少你的. %c[ui_orange]%s%c[default]就最合适. </text></string>
+	<string id="val_smart_terrain_7_4_bandit_medic_stalker_task_1_fetch_finish"><text>干得好! 拿着——说好的报酬</text></string>
+
+
+	<!-- RAID COMPANION DIALOGUES -->
+	<string id="bandit_companion_task_1_start_dialog_1"><text>你打头阵, 我们跟紧你. 看好后面,别被偷袭了.</text></string>
+	<string id="bandit_companion_task_1_start_dialog_2"><text>我们该动身了, 不干架我手痒.记住, 咱们是为战利品来的!.</text></string>
+	<string id="bandit_companion_task_1_complete"><text>干得好.这是你的报酬.</text></string>
+	<string id="bandit_companion_task_1_actor_reply"><text>好.</text></string>
+
+</string_table>

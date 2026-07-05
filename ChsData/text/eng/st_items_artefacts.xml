@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+
+	<string id="st_artefact_needed"><text>需要神器"螺丝"或"指南针"</text></string>
+
+	<string id="st_artefact_broken"><text>神器已放电</text></string>	
+		
+	<string id="st_af_medusa_name"><text>水母</text></string>
+	<string id="st_af_medusa_descr"><text>这种引力装置可以吸引和吸收放射性粒子,减轻辐射对人体的影响.在"区"内非常常见,在"区"外也被非正式地用于治疗特殊情况下的急性辐射病.\n \n%c[0,1,255,255]•%c[default] 等级: 1</text></string>
+	<string id="st_af_vyvert_name"><text>扳手</text></string>
+	<string id="st_af_vyvert_descr"><text>这种形状怪异的神器出现在重力活动增强的地方.它可以像海绵一样吸收放射性元素,保护人体免受外界辐射和已经进入体内的放射性粒子的伤害.\n \n%c[0,1,255,255]•%c[default] 等级: 2</text></string>
+	<string id="st_af_cristall_flower_name"><text>石花</text></string>
+	<string id="st_af_cristall_flower_descr"><text>这件神器是由一种类似花岗岩的石头组成,由于受到极强的重力作用而变形,形成了迄今为止科学界无法解释的结晶体.可以对超自然现象提供适度的保护,具有放射性.\n \n%c[0,1,255,255]•%c[default] 等级: 1</text></string>
+	
+	<string id="st_af_night_star_name"><text>夜星</text></string>
+	<string id="st_af_night_star_descr"><text>这个会发光的神器可以产生局部定向低重力场.潜行者广泛使用它与类似的神器重力(Gravi)一起增加最大负荷.产生辐射.\n \n%c[0,1,255,255]•%c[default] 等级: 2</text></string>
+	<string id="st_af_cocoon_name"><text>"茧"</text></string>
+	<string id="st_af_cocoon_descr"><text>具有引力性质的神器.它能大大减轻所携带物品的重量,深受潜行者的青睐.放射性.\n \n%c[0,1,255,255]•%c[default] 等级: 2</text></string>
+	<string id="st_af_gravi_name"><text>重力</text></string>
+	<string id="st_af_gravi_descr"><text>重力是由金属物质在长期重力作用下形成的.这使它能够维持反重力场,许多潜行者用它来减轻背包的重量.产生辐射.\n \n%c[0,1,255,255]•%c[default] 等级: 3</text></string>
+	<string id="st_af_cell_name"><text>"细胞"</text></string>
+	<string id="st_af_cell_descr"><text>该神器会产生一个局部引力场,大大降低重力.它相当罕见,但仍可在引力活动异常的地方找到.\n \n%c[0,1,255,255]•%c[default] 等级: 3</text></string>
+	<string id="st_af_gold_fish_name"><text>金鱼</text></string>
+	<string id="st_af_gold_fish_descr"><text>金鱼是大量引力场相互作用的结果,它能产生强大的内部定向引力场,使其范围内的物品几乎失重.这件神器对减轻携带重量最有效,这也解释了为什么它总是需求量很大.产生辐射.\n \n%c[0,1,255,255]•%c[default] 等级: 3</text></string>
+	
+	<string id="st_af_fountain_name"><text>"喷泉"</text></string>
+	<string id="st_af_fountain_descr"><text>尽管没有任何明显的引力效应,"喷泉 "却能阻止周围小范围内的物体移动.根据科学家们的一种理论,这是由于该神器产生了一种未知的场.有趣的是,移动物体的速度越快,"不老之泉 "的效果就越明显,这使得潜行者将其作为一种保护元素.放射性.\n \n%c[0,1,255,255]•%c[default] 等级: 2</text></string>
+	<string id="st_af_spaika_name"><text>"活化石"</text></string>
+	<string id="st_af_spaika_descr"><text>外观类似于化石形成.它的特性与神器"喷泉"相似,但更为明显,因此科学家对它特别感兴趣.具有放射性.\n \n%c[0,1,255,255]•%c[default] 等级: 3</text></string>
+	<string id="st_af_signet_name"><text>"印章"</text></string>
+	<string id="st_af_signet_descr"><text>潜行者也称这件神器为 "护身符".它的特性包括能在一个小半径范围内产生一个强大但未经研究的场,减少进入其作用区域的任何移动物体的动能.放射性.\n \n%c[0,1,255,255]•%c[default] 等级: 4</text></string>
+	<string id="st_af_repei_name"><text>"光环"</text></string>
+	<string id="st_af_repei_descr"><text>通常由引力类型的异常现象产生.虽然不能说它具有特别宝贵的特性,但它对身体没有任何有害影响,而且也不失神性,因此吸引了许多潜行者.\n \n%c[0,1,255,255]•%c[default] 等级: 2</text></string>
+	<string id="st_af_bat_name"><text>"蝙蝠"</text></string>
+	<string id="st_af_bat_descr"><text>一种异常形态,磁性与超高密度金属相似.不过,它的比质量相对较低.能产生相当强大的引力场.由于难以探测,因此被认为是罕见的.令人惊讶的是,这种神器完全没有放射性.\n \n%c[0,1,255,255]•%c[default] 等级: 3</text></string>
+	<string id="st_af_sun_name"><text>"太阳"</text></string>
+	<string id="st_af_sun_descr"><text>这是一个非常罕见的重力和热异常共生体.据推测,它是神器"砂岩"和 "重力"的合金.尽管"太阳"具有许多有用的特征,但值得注意的是,它是一种放射性极强的神器.\n \n%c[0,1,255,255]•%c[default] 等级: 3</text></string>
+	<string id="st_af_ear_name"><text>"心脏"</text></string>
+	<string id="st_af_ear_descr"><text>很难说这件神器为什么会被命名为"心脏": 是因为它的外观,还是因为它具有极佳的疗效.但更令人吃惊的是,"心脏"所具有的特性绝对不是引力异常产物的典型特征,这再次说明人类对"区"内运作机制的了解还很遥远.\n \n%c[0,1,255,255]•%c[default] 等级: 3</text></string>
+	<string id="st_af_chelust_name"><text>"链条"</text></string>
+	<string id="st_af_chelust_descr"><text>典型的重力异常产物,具有典型的特性.它不能抵御诱导辐射,但能有效降低已接受的辐射剂量.\n \n%c[0,1,255,255]•%c[default] 等级: 3</text></string>
+	<string id="st_af_atom_name"><text>"原子"</text></string>
+	<string id="st_af_atom_descr"><text>一个罕见美丽的异常形态.它看起来更像是一颗行星的模型,四颗卫星沿着中心对称排列在一条轨道上.然而,除了不寻常的外表,它还具有一系列宝贵的特性.极强的放射性.\n \n%c[0,1,255,255]•%c[default] 等级: 3</text></string>
+
+	
+	<string id="st_af_lighthouse_name"><text>"灯塔"</text></string>
+	<string id="st_af_lighthouse_descr"><text>一种超密度物质.当暴露在放射性环境中时,它会释放出一团无色气体,具有很强的中和作用.然而,不小心处理这种神器会导致严重的健康后果,甚至死亡.\n \n%c[0,1,255,255]•%c[default] 等级: 4</text></string>
+	
+	<string id="st_af_cristall_name"><text>水晶</text></string>
+	<string id="st_af_cristall_descr"><text>这种神器形成于热活动剧烈的异常区域.主动消耗过多热量,但始终保持凉爽的触感.产生辐射.\n \n%c[0,1,255,255]•%c[default] 等级: 1</text></string>
+	<string id="st_af_fireball_name"><text>火球</text></string>
+	<string id="st_af_fireball_descr"><text>尽管火球是一种热能神器,但在使用时也不必担心被烧伤.这件神器的价值在于它能在小范围内保持75华氏度的温度,几乎不受周围环境的影响.产生辐射.\n \n%c[0,1,255,255]•%c[default] 等级: 1</text></string>
+	<string id="st_af_fire_loop_name"><text>"火圈"</text></string>
+	<string id="st_af_fire_loop_descr"><text>产生这种神器的必要条件是受到热异常的影响并靠近它.它能够在小半径范围内降低温度,因此是一种很好的热保护元件.\n \n%c[0,1,255,255]•%c[default] 等级: 3</text></string>
+	
+	<string id="st_af_dummy_glassbeads_name"><text>妈妈的项链</text></string>
+	<string id="st_af_dummy_glassbeads_descr"><text>对科学家来说,关于这件神器的许多事情仍然是个谜.与此同时,可以肯定的是,在其较厚的部分,脉冲产生的辐射会迫使开放性伤口的血液更快地凝结,形成保护性血痂.该装置最明显的效果之一就是提高了止血速度.产生辐射.\n \n%c[0,1,255,255]•%c[default] 等级: 2</text></string>
+	<string id="st_af_eye_name"><text>眼睛</text></string>
+	<string id="st_af_eye_descr"><text>这种类似于人类眼睛的神器可以大大提高人体的新陈代谢,帮助伤口快速愈合.有经验的潜行者说,"眼睛"还能带来好运.产生辐射.\n \n%c[0,1,255,255]•%c[default] 等级: 3</text></string>
+	<string id="st_af_fire_name"><text>火焰</text></string>
+	<string id="st_af_fire_descr"><text>这种神器在高热活动区域形成.它能产生强大的红外线辐射,强化新陈代谢过程,在持有者眼前愈合伤口.由于这种神器非常稀有,因此价值极高.发出辐射.\n \n%c[0,1,255,255]•%c[default] 等级: 3</text></string>
+	
+	<string id="st_af_zhelch_name"><text>"朱玉"</text></string>
+	<string id="st_af_zhelch_descr"><text>具有明显的治疗功效.对整个机体有益.对人体的作用机制尚不清楚.由于不含有害辐射且难以检测,因此这种神器尤为珍贵.\n \n%c[0,1,255,255]•%c[default] 等级: 4</text></string>
+	<string id="st_af_sandstone_name"><text>"砂岩"</text></string>
+	<string id="st_af_sandstone_descr"><text>对肌肉组织具有强大的修复作用.结合对呼吸系统的稳定作用,它还能增强RNA的生物合成、细胞功能和酶元素(包括细胞膜的成分),并刺激DNA复制和细胞分裂.这种作用的来源尚不完全清楚.放射性.\n \n%c[0,1,255,255]•%c[default] 等级: 4</text></string>
+	
+	<string id="st_af_blood_name"><text>血石</text></string>
+	<string id="st_af_blood_descr"><text>由植物、土壤和动物碎屑压缩和化石形成的淡红色物质.可部分中和化学毒物.可发出辐射.\n \n%c[0,1,255,255]•%c[default] 等级: 1</text></string>
+	<string id="st_af_mincer_meat_name"><text>肉块</text></string>
+	<string id="st_af_mincer_meat_descr"><text>这种有机神器由变形、变异的动物组织组成.当被置于化学污染区时,"肉块"会将空气中的化学物质转化为粘液.会发出辐射.\n \n%c[0,1,255,255]•%c[default] 等级: 1</text></string>
+	<string id="st_af_kislushka_name"><text>"夜光"</text></string>
+	<string id="st_af_kislushka_descr"><text>球形中空构造,类似透明羊皮纸.内部闪烁着微弱的翡翠色光芒.由于它能中和对人类最有害的化学物质,因此深受潜行者的喜爱.\n \n%c[0,1,255,255]•%c[default] 等级: 3</text></string>
+	
+	<string id="st_af_soul_name"><text>灵魂</text></string>
+	<string id="st_af_soul_descr"><text>一种独特的有机神器,具有同样独特的特性.它能以某种方式提高人体从各种损伤中恢复的整体速度,同时不会加速毒素的积累.由于它的功效和迷人的外观,这种神器是一件珍贵的收藏品.产生辐射.\n \n%c[0,1,255,255]•%c[default] 等级: 2</text></string>
+	<string id="st_af_fuzz_kolobok_name"><text>海胆</text></string>
+	<string id="st_af_fuzz_kolobok_descr"><text>薄膜是一种在受到化学物质污染的地区形成的相对罕见的神器,因其能够在短短几分钟内治愈任何类型的伤口而备受推崇.由于不明原因,科学家们在潜行者中散布谣言,说这件神器会与携带者的遗传密码相互作用.产生辐射.\n \n%c[0,1,255,255]•%c[default] 等级: 2</text></string>
+	<string id="st_af_glass_name"><text>萤火虫</text></string>
+	<string id="st_af_glass_descr"><text>萤火虫与科学未知领域相互作用,大大加快了生物组织和器官的再生速度,并使新陈代谢过程正常化.这件神器可以让一个重伤的潜行者在几秒钟内重新站起来.遗憾的是,萤火虫极为罕见.产生辐射.\n \n%c[0,1,255,255]•%c[default] 等级: 3</text></string>
+	<string id="st_af_black_angel_name"><text>黑天使</text></string>
+	<string id="st_af_black_angel_descr"><text>这种神器是一种根.它能大大加快生物体内组织和器官的再生,但如果使用不当,其强烈的放射性背景可能会使所有的积极效果化为乌有.\n \n%c[0,1,255,255]•%c[default] 等级: 4</text></string>
+	
+	<string id="st_af_baloon_name"><text>气泡</text></string>
+	<string id="st_af_baloon_descr"><text>这种神器是由几种中空有机物组成的化合物,能释放出一种气体物质,可以中和体内的放射性粒子,而不会对人体造成伤害.由于它的功效,这种神器的需求量很大.\n \n%c[0,1,255,255]•%c[default] 等级: 3</text></string>
+	<string id="st_af_grapes_name"><text>"葡萄"</text></string>
+	<string id="st_af_grapes_descr"><text>一块熔融的绿色树脂.由于受到各种异常影响和辐射,它具有强大的无线电吸收特性.它的独特之处并不在于它是放射性核素的 "黑洞",而在于它能够成倍地加快任何同位素的半衰期.简单地说,它是一个真正的辐射利用者.\n \n%c[0,1,255,255]•%c[default] 等级: 4</text></string>
+	<string id="st_af_skull_miser_name"><text>"吝啬鬼的头颅"</text></string>
+	<string id="st_af_skull_miser_descr"><text>一个有趣的球形神器,内含大量未知物质,其特性可对人体产生有益影响.根据科学家的观察,它绝对无害,因此对"区"外的潜行者和客户都很有吸引力.\n \n%c[0,1,255,255]•%c[default] 等级: 1</text></string>
+	<string id="st_af_star_phantom_name"><text>"幻影星辰"</text></string>
+	<string id="st_af_star_phantom_descr"><text>它是一种异常形态,是一种装在透明脉动外壳中的等离子物质.它对人体有独特的治疗、再生和辐射保护作用.由于其价值不菲,它是潜行者猎杀的目标.\n \n%c[0,1,255,255]•%c[default] 等级: 3</text></string>
+	<string id="st_af_medallion_name"><text>"勋章"</text></string>
+	<string id="st_af_medallion_descr"><text>它是一个小直径的箍,有四个流线型三角形的连接部分,每个部分都有两对相反的电荷,可以任意改变它们在结构上的位置.该装置的特性具有保护性.它有两个带相反电荷的极点,在相互作用时会产生空间不均匀性.这种"穹顶"的相对硬度由能吸收所有外部异常影响能量的化合物来保证.高放射性.\n \n%c[0,1,255,255]•%c[default] 等级: 3</text></string>
+	<string id="st_af_peas_name"><text>"月亮"</text></string>
+	<string id="st_af_peas_descr"><text>该神器具有相当奇怪的特性.一方面,它能莫名其妙地多次加速组织再生,另一方面,它又能防止开放性伤口的血液凝结.在潜行者中,有因它的作用而导致血友病死亡的案例,因此该神器名声不佳,尤其是在新手中.不过,经验丰富的潜行者很快就意识到,这些负面影响可以通过其他具有止血功能的神器或及时服用必要的药物来弥补.\n \n%c[0,1,255,255]•%c[default] 等级: 3</text></string>
+	
+	<string id="st_af_electra_sparkler_name"><text>电火花</text></string>
+	<string id="st_af_electra_sparkler_descr"><text>它是静电伪影家族中的杰出代表,能平滑电场密度的波动.产生辐射.\n \n%c[0,1,255,255]•%c[default] 等级: 1</text></string>
+	<string id="st_af_electra_flash_name"><text>闪光</text></string>
+	<string id="st_af_electra_flash_descr"><text>这件静电神器具有强大的电流吸收能力,随后会将电流释放出来.闪光能够保护其携带者免受高达5000伏特的电击.产生辐射.\n \n%c[0,1,255,255]•%c[default] 等级: 1</text></string>
+	<string id="st_af_electra_moonlight_name"><text>月光</text></string>
+	<string id="st_af_electra_moonlight_descr"><text>这种独特的静电神器可以在超自然现象波的影响下产生共鸣.潜行者已经学会了如何微调该装置,使其与主要发射源产生反相共振,从而完全或显著地中和它们的影响.产生辐射.\n \n%c[0,1,255,255]•%c[default] 等级: 2</text></string>
+	
+	<string id="st_af_dummy_battery_name"><text>电池</text></string>
+	<string id="st_af_dummy_battery_descr"><text>这种神器的成分包括静电元素,但科学家尚未确定其形成所需的确切物理条件.该神器在"区"内很受欢迎,因其充满活力的特性而受到"区"内居民和游客的重视,但长时间使用会使身体疲劳.发产生辐射.\n \n%c[0,1,255,255]•%c[default] 等级: 2</text></string>
+	<string id="st_af_generator_name"><text>"发电机"</text></string>
+	<string id="st_af_generator_descr"><text>该神器能产生微弱的电流,对肌肉系统产生刺激作用,从而降低疲劳阈值.\n \n%c[0,1,255,255]•%c[default] 等级: 2</text></string>
+	<string id="st_af_dummy_dummy_name"><text>贝壳</text></string>
+	<string id="st_af_dummy_dummy_descr"><text>对科学家来说,关于这件神器的许多事情仍然是个谜.与此同时,可以肯定的是,在其较厚的部分,脉冲产生的辐射会迫使开放性伤口的血液更快地凝结,形成保护性血痂.该装置最明显的效果之一就是提高了止血速度.发射辐射.\n \n%c[0,1,255,255]•%c[default] 等级: 3</text></string>
+	<string id="st_af_ice_name"><text>雪花</text></string>
+	<string id="st_af_ice_descr"><text>乍一看,这个神器很像薄膜.有些人声称它实际上就是薄膜,暴露在强大的电场中会增强其特性.由于其独特的属性,这件神器可以大大增强携带者的肌肉张力.发射辐射.\n \n%c[0,1,255,255]•%c[default] 等级: 3</text></string>
+	
+	<string id="st_af_mica_name"><text>云母</text></string>
+	<string id="st_af_mica_descr"><text>存在于电活动增加的区域.它的作用性质仍是一个谜,尤其是它能部分中和超自然辐射对人体的影响.具有放射性.</text></string>
+	<string id="st_af_slug_name"><text>"蛞蝓"</text></string>
+	<string id="st_af_slug_descr"><text>电性神器.有效中和超能力辐射对人类心灵的影响.放射性.</text></string>
+	<string id="st_af_ball_name"><text>"球"</text></string>
+	<string id="st_af_ball_descr"><text>关于这种球形神器的形成条件,目前还没有确切的数据,它也因此而得名.不过,实践表明,它最常出现在电活动增加的区域.它具有中和超自然辐射负面影响的特性,即使人类长时间接触它也不会受到影响.放射性.\n \n%c[0,1,255,255]•%c[default] 等级: 3</text></string>
+	<string id="st_af_fonar_name"><text>"灯笼"</text></string>
+	<string id="st_af_fonar_descr"><text>一件因能量坍缩而失去几乎所有特性的神器.它能发出光和反重力能量,因此在科学上具有一定的意义.\n \n%c[0,1,255,255]•%c[default] 等级: 1</text></string>
+	<string id="st_af_tapeworm_name"><text>"绦虫"</text></string>
+	<string id="st_af_tapeworm_descr"><text>从本质上讲,这是一种纯净的二氧化硅,只考虑到物质的原子质量.然而,它与天然石英的不同之处不仅在于其饱和的玻璃色泽,还在于其机械特性.这种石英碎片形成类似 "埃莱克特拉 "的异常群,具有复杂的内部电流系统和外部介电特性.\n \n%c[0,1,255,255]•%c[default] 等级: 2</text></string>
+	<string id="st_af_moh_name"><text>"青苔"</text></string>
+	<string id="st_af_moh_descr"><text>这种神器奇怪地结合了引力异常和电异常产物的典型特性,尽管众所周知它只在电异常中产生.\n \n%c[0,1,255,255]•%c[default] 等级: 2</text></string>
+	<string id="st_af_serofim_name"><text>"电解体"</text></string>
+	<string id="st_af_serofim_descr"><text>一种罕见的电磁神器.产生对人体有益的短期电脉冲.改善整体健康以及细胞和组织的新陈代谢.它是一种双重作用的新陈代谢调节剂,通过刺激各种化学组的新陈代谢和加速肌肉生长,促进身体快速恢复.\n \n%c[0,1,255,255]•%c[default] 等级: 4</text></string>
+	<string id="st_af_elektron_name"><text>"电子"</text></string>
+	<string id="st_af_elektron_descr"><text>与许多其他神器相比,"电子"没有任何有用的特性.相反,由于其质量异常巨大,运输起来相当困难.然而,恰恰是这种质量和难以探测的特性,使得这件文物显得尤为珍贵.科学实验室不惜重金购买这种标本.\n \n%c[0,1,255,255]•%c[default] 等级: 3</text></string>
+
+	<string id="st_af_kogot_name"><text>"爪子"</text></string>
+	<string id="st_af_kogot_descr"><text>一种由静电异常形成的美丽的玻璃状物质.尽管它外表美观,但却隐藏着巨大的健康隐患,尽管它具有极佳的止血特性.\n \n%c[0,1,255,255]•%c[default] 等级: 4</text></string>
+
+	<string id="st_af_vaselisk_name"><text>"玄武岩"</text></string>
+	<string id="st_af_vaselisk_descr"><text>它是"区"内为数不多的能有效保护主人免受各种物理冲击的神器之一.\n \n%c[0,1,255,255]•%c[default] 等级: 4</text></string>
+
+	<string id="st_af_geliy_name"><text>"氦核"</text></string>
+	<string id="st_af_geliy_descr"><text>是静电神器的杰出代表(字面意思).能释放出对人体有益的气体物质.由于其功效显著,因此需求量很大.\n \n%c[0,1,255,255]•%c[default] 等级: 4</text></string>
+
+	<string id="st_af_gimlet_name"><text>"螺丝钻"</text></string>
+	<string id="st_af_gimlet_descr"><text>最神秘且未经研究的神器装置.它的主要价值在于其传送特性,可以轻松简单地传送到任何地方.有传言说,这样的神器属于传奇的向导.\n \n%c[0,1,255,255]•%c[default] 等级: 4</text></string>
+	
+	<string id="st_compass"><text>指南针</text></string>
+	<string id="st_compass_descr"><text>这是一件罕见的神器,已经有好几年没有被发现了.这件神器可以定位异常场中的缺口.据说它可以帮助人们穿越最复杂的异常场,完全不受伤害,或传送到任何地方.然而,很少有人知道如何正确使用它.\n \n%c[0,1,255,255]•%c[default] 等级: 4</text></string>
+	<string id="st_oasis_heart"><text>绿洲之心</text></string>
+	<string id="st_oasis_heart_descr"><text>这件文物曾在传说中的绿洲中心被发现.看来,"绿洲之心"是一种结晶植物,具有绿洲的治疗特性.但与绿洲本身不同的是,这件文物具有极强的放射性.\n \n%c[0,1,255,255]•%c[default] 等级: 4</text></string>
+	<string id="st_af_dragon_eye_name"><text>龙眼</text></string>
+	<string id="st_af_dragon_eye_descr"><text>它大大减轻了背包的重量,并具有极佳的再生特性.由于其极为稀有和高效,因此需求量很大.\n \n%c[0,1,255,255]•%c[default] 等级: 4</text></string>
+
+	<string id="st_af_monolith_name"><text>黑石</text></string>
+	<string id="st_af_monolith_descr"><text>一种能在任何类型的损伤后大大提高人体整体组织再生速度的神器.它能在自身周围产生强大的重力场,在局部减少重力的影响.具有高度放射性.该神器的来源被蒙上了一层神秘的面纱.\n \n%c[0,1,255,255]•%c[default] 等级: 4</text></string>
+	
+	<string id="af_drops"><text>水滴</text></string>
+	<string id="st_af-drops_descr"><text>在燃烧器异常点的高温下形成.从外观上看,它就像一种撕裂状的阴暗化合物,表面光亮,布满裂缝.\n \n%c[0,1,255,255]•%c[default] 等级: 1</text></string>
+	<string id="af_ameba_slime"><text>史莱姆</text></string>
+	<string id="st_af_ameba_slime_descr"><text>可以肯定的是,这件神器是由被称为"水果拳"的异常点制造的.带在腰带上时,伤口流血较少,但主人的身体更容易受到各种烧伤.\n \n%c[0,1,255,255]•%c[default] 等级: 1</text></string>
+	<string id="af_ameba_slug"><text>弹头</text></string>
+	<string id="st_af_ameba_slug_descr"><text>由"水果拳"异常现象形成.它能增强血液的凝固性,从而弥补了该神器的负面特性.这种神器并不常见,而且价格不菲.\n \n%c[0,1,255,255]•%c[default] 等级: 2</text></string>
+	<string id="af_ameba_mica"><text>云母</text></string>
+	<string id="st_af_ameba_mica_descr"><text>异常现象"水果拳"能够在最罕见、最极端的物理条件集合中创造出这样的神器.其结果是一个半透明的坚硬物体.这是一件稀有而昂贵的神器.\n \n%c[0,1,255,255]•%c[default] 等级: 3</text></string>
+	<string id="af_dummy_spring"><text>弹簧</text></string>
+	<string id="st_af_dummy_spring_descr"><text>根据一些研究理论家的观点,这种神器是电池和壳牌的混合体.\n \n%c[0,1,255,255]•%c[default] 等级: 2</text></string>
+	<string id="af_dummy_pellicle"><text>鳞片</text></string>
+	<string id="st_af_dummy_pellicle_descr"><text>这种神器非常罕见,许多研究人员甚至无法想象这种物质会存在于自然环境中.散发酸性化学成分.\n \n%c[0,1,255,255]•%c[default] 等级: 4</text></string>
+	<string id="af_rusty_thorn"><text>荆棘</text></string>
+	<string id="st_af_rusty_thorn_descr"><text>异常点烧焦的绒毛和一个粗心的潜行者的身体相互作用的结果.荆棘神器无论如何都会戳伤主人的身体.但它也有助于清除体内的放射性核素.相当普及和便宜.\n \n%c[0,1,255,255]•%c[default] 等级: 1</text></string>
+	<string id="af_rusty_kristall"><text>水晶刺</text></string>
+	<string id="st_af_rusty_kristall_descr"><text>在异常烧焦的绒毛中结晶.自然将辐射从生物体中排出.即通过耳朵和一定量的血液.血液也可能通过开口流失.该产品广泛使用且效果显著,这也是其在神器市场上价格稳定的原因.\n \n%c[0,1,255,255]•%c[default] 等级: 2</text></string>
+		<string id="af_rusty_sea_urchin"><text>海胆</text></string>
+	<string id="st_af_rusty_sea_urchin_descr"><text>烧焦的绒毛这种异常点很少出现.血压升高,身体就会排出大量红血球.但储存的辐射也会随之排出体外.萨哈罗夫在题为"稀有神器成分的电离和极化"的基础研究中指出,这种形成的成分具有临界稳定性,在未来十年内,在实验室条件下制造出这种神器是不现实的.\n \n%c[0,1,255,255]•%c[default] 等级: 3</text></string>
+    <string id="st_af_gauss_name"><text>"高斯"</text></string>
+	<string id="st_af_gauss_descr"><text>有传言称,黑石成员使用这些粒子为他们的同名武器充电.最近,一个绰号为"伦"的潜行者发现了这件神器.这件神器蕴含着能量.许多人都对这个神秘的东西感到困惑.\n \n%c[0,1,255,255]•%c[default] 等级: 3</text></string>
+	<string id="st_amk_yoyo_name"><text>"蘑菇伞"</text></string>
+	<string id="st_amk_yoyo_descr"><text>从外观上看,它就像两个长得一模一样的蘑菇伞,这可能就是它被称为蘑菇伞的原因.\n \n%c[0,1,255,255]•%c[default] 等级: 2</text></string>
+	<string id="st_amk_snezhok_name"><text>"雪球"</text></string>
+	<string id="st_amk_snezhok_descr"><text>外观小巧,具有放射性,能轻微加速伤口愈合.\n \n%c[0,1,255,255]•%c[default] 等级: 1</text></string>
+	<string id="st_af_setka_name"><text>"生命熔炉"</text></string>
+	<string id="st_af_setka_descr"><text>该神器的起源尚不完全清楚.它能很好地愈合伤口,尽管在愈合时会发出明显的嗡嗡声.这种背景噪音并没有增加它在应用中的受欢迎程度.\n \n%c[0,1,255,255]•%c[default] 等级: 3</text></string>
+	<string id="st_amk_ice_s_name"><text>"冰柱"</text></string>
+	<string id="st_amk_ice_s_descr"><text>这种神器通常由重力异常点产生.它可以抵御PSI的攻击.\n \n%c[0,1,255,255]•%c[default] 等级: 2</text></string>
+	<string id="st_af_plenka_name"><text>"奶嘴"</text></string>
+	<string id="st_af_plenka_descr"><text>这件神器的外形酷似奶嘴.因其特性而备受重视.\n \n%c[0,1,255,255]•%c[default] 等级: 2</text></string>
+    <string id="st_af_wish_name"><text>"梦想"</text></string>
+	<string id="st_af_wish_descr"><text>受到"大土地"收藏家的重视.补充资本的好方法.\n \n%c[0,1,255,255]•%c[default] 等级: 4</text></string>
+	<string id="st_af_cristal_drops_name"><text>"水晶滴"</text></string>
+	<string id="st_af_cristal_drops_descr"><text>这种神器形成于冬季.高度压缩的冰雪块,形状像一滴眼泪.增强对辐射的抵抗力.此外,神器还能强化主人的皮肤,使其刀枪不入.\n \n%c[0,1,255,255]•%c[default] 等级: 2</text></string>
+	<string id="st_af_black_name"><text>"黑石"</text></string>
+	<string id="st_af_black_descr"><text>真是一件神奇的东西."黑石"保护主人免于许多麻烦,但同时也会慢慢杀死他们.一些潜行者怀疑这件神器是许愿石的碎片.\n \n%c[0,1,255,255]•%c[default] 等级: 4</text></string>
+	<string id="st_af_kashtan_name"><text>"栗子"</text></string>
+	<string id="st_af_kashtan_descr"><text>在含金属物质受到长时间引力影响的情况下,就会形成这种神器.它可以在自身周围维持一个小型反重力场.许多潜行者用它来大大减轻背包的重量.具有放射性.\n \n%c[0,1,255,255]•%c[default] 等级: 2</text></string>
+	<string id="st_af_izumrud_name"><text>"绿宝石"</text></string>
+	<string id="st_af_izumrud_descr"><text>在"区"里是非常稀有和昂贵的神器.类似水晶,但颜色是绿色的.在它的主人周围会形成一层不易察觉的绿色铜锈.不,这不是病!所有这些都能增加你的热防护能力,还能给你的背包增加一点空间 只有少数几个人发现了这件神器.\n \n%c[0,1,255,255]•%c[default] 等级: 4</text></string>
+	<string id="st_mincer_izumrud_name"><text>"绿宝石碎片"</text></string>
+	<string id="st_mincer_izumrud_descr"><text>只有在"区"深处的放射性异常点才能找到这种神器.可防止热灼伤和化学灼伤.缺点: 具有放射性.\n \n%c[0,1,255,255]•%c[default] 等级: 2</text></string>
+	<string id="st_af_zelonka_name"><text>"泽兰卡"</text></string>
+	<string id="st_af_zelonka_descr"><text>一种具有骨骼结构的明亮球形物体.可吸收辐射,加速组织再生和血液凝固.由于没有负面特性,"泽兰卡"具有很高的价值.\n \n%c[0,1,255,255]•%c[default] 等级: 3</text></string>
+	<string id="st_amk_bud_bright_name"><text>"红百合"</text></string>
+	<string id="st_amk_bud_bright_descr"><text>这种不寻常的花朵生长在某些电气异常的地方.有几位潜行者幸运地找到了这件工艺品.价值很高,但会发出辐射.\n \n%c[0,1,255,255]•%c[default] 等级: 3</text></string>
+	<string id="st_amk_grib_sapfir_name"><text>"蟾蜍凳"</text></string>
+	<string id="st_amk_grib_sapfir_descr"><text>这件神器会释放出孢子,嵌入潜行者的身体.孢子以跟潜行者的血液为食,稍微削弱了生物体的力量.尽管如此,这是一种奇特的共生形式--人工制品会系统地清除体内的放射性核素,增强对有害化学物质的抵抗力.这种接触的长期影响尚不清楚.\n \n%c[0,1,255,255]•%c[default] 等级: 2</text></string>
+</string_table>

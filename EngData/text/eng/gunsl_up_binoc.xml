@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="st_prop_contrast_bino">
+     <text>High-contrast filter</text>
+</string>
+<string id="st_prop_kratnost_bino">
+     <text>Magnification</text>
+</string>
+<string id="gunsl_binoc_up_upg_weight_name">
+     <text>Weight reduction</text>
+</string>
+<string id="gunsl_binoc_up_upg_weight_descr">
+     <text>Replacement of standard materials with lightweight ones.</text>
+</string>
+<string id="gunsl_binoc_up_upg_10x_name">
+     <text>Magnification</text>
+</string>
+<string id="gunsl_binoc_up_upg_10x_descr">
+     <text>Increased magnification of the scope to enhance visibility at long distances.</text>
+</string>
+<string id="gunsl_binoc_up_upg_detect_name">
+     <text>Life form detector installation</text>
+</string>
+<string id="gunsl_binoc_up_upg_detect_descr">
+     <text>Installation of a Life Form Detector (LFD) to detect living creatures at a distance.</text>
+</string>
+<string id="gunsl_binoc_up_upg_night_name">
+     <text>High-contrast filter</text>
+</string>
+<string id="gunsl_binoc_up_upg_night_descr">
+     <text>Installation of a high-contrast filter in the scope for better visibility in twilight conditions.</text>
+</string>
+</string_table>

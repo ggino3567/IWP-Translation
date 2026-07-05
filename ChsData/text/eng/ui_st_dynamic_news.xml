@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	<string id="ui_st_dyn_news_death_stalker_news"><text>显示潜行者报告其他潜行者的死亡</text></string>
+	<string id="ui_st_dyn_news_death_mutant_news"><text>显示潜行者报告变异怪物的死亡</text></string>
+	<string id="ui_st_dyn_news_generic_death_news"><text>显示死亡报告 (旧版)</text></string>
+	<string id="ui_st_dyn_news_death_report_news"><text>显示死亡报告 (讣告)</text></string>
+	<string id="ui_st_dyn_news_tips_news"><text>显示提示新闻</text></string>
+	<string id="ui_st_dyn_news_kill_wounded_news"><text>显示受伤的潜行者/人质威胁</text></string>
+	<string id="ui_st_dyn_news_found_artifact_news"><text>显示潜行者宣告发现神器</text></string>
+	<string id="ui_st_dyn_news_heli_call_news"><text>显示直升机请求</text></string>
+	<string id="ui_st_dyn_news_loot_news"><text>显示搜刮报告</text></string>
+	<string id="ui_st_dyn_news_stash_news"><text>显示愤怒的藏匿点主人的回应</text></string>
+	
+	<string id="ui_st_dyn_news_reaction_news"><text>显示对各种东西的反应</text></string>
+	
+	<string id="ui_st_dyn_news_weather_news"><text>显示天气消息</text></string>
+	<string id="ui_st_dyn_news_time_news"><text>显示事件消息</text></string>
+	<string id="ui_st_dyn_news_nearby_activity_news"><text>显示附近的活动的报告</text></string>
+	<string id="ui_st_dyn_news_dumb_zombie_news"><text>显示僵尸的交流尝试</text></string>
+	
+	<string id="ui_st_dyn_news_bounty_news"><text>显示赏金流言</text></string>
+	
+	<string id="ui_st_dyn_news_random_msg_news"><text>显示随机消息</text></string>
+	<string id="ui_st_dyn_news_factions_report_news"><text>显示派系消息</text></string>
+	<string id="ui_st_dyn_news_zone_activity_news"><text>显示全特异区的派系报告</text></string>
+	<string id="ui_st_dyn_news_found_dead_news"><text>显示找到尸体的报告</text></string>
+	<string id="ui_st_dyn_news_surge_news"><text>显示即将到来的电磁风暴报告</text></string>
+	
+	<string id="ui_st_dyn_news_companions_news"><text>显示同伴消息</text></string>
+	
+	
+	<string id="ui_st_dyn_news_cycle_of_companions_news"><text>同伴闲聊时间循环 (秒)</text></string>
+	<string id="ui_st_dyn_news_cycle_of_task_news"><text>任务消息的时间循环 (秒)</text></string>
+	<string id="ui_st_dyn_news_cycle_of_random_news"><text>随即消息的时间循环 (秒)</text></string>
+	<string id="ui_st_dyn_news_cycle_of_special_news"><text>特殊消息的时间循环 (秒)</text></string>
+	
+	<string id="ui_st_dyn_news_message_duration"><text>消息在HUD上的持续时间 (秒)</text></string>
+	
+	<string id="ui_st_dyn_news_space_news_event"><text>--( 报告 )--</text></string>
+	<string id="ui_st_dyn_news_space_news_reaction"><text>--( 反应 )--</text></string>
+	<string id="ui_st_dyn_news_space_news_special"><text>--( 特殊消息 )--</text></string>
+	<string id="ui_st_dyn_news_space_news_task"><text>--( 任务消息 )--</text></string>
+	<string id="ui_st_dyn_news_space_news_random"><text>--( 随机消息 )--</text></string>
+	<string id="ui_st_dyn_news_space_news_companion"><text>--( 同伴闲聊 )--</text></string>
+	
+	<string id="ui_st_dyn_news_btn_access"><text>进入设置菜单的按钮</text></string>
+	<string id="ui_st_dyn_news_btn_call"><text>呼出new settings.txt的菜单</text></string>
+</string_table>

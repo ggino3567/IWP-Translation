@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--===========================================================
+<
+< GENERAL TEXT  STRINGS FOR TASKS
+<	CoC 1.3.11
+<
+<	Modified by: DoctorX
+<	March 18, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- FIND SUPPLIES FOR STALKER, CLEAR SKY, DUTY, OR ECOG TASK -->
+	<string id="simulation_task_1_name"><text>搞到%s</text></string>
+	<string id="simulation_task_1_text"><text>一个伙计让我整点%s</text></string>
+	<string id="simulation_task_1_about"><text>我现在很缺补给, 如果你碰巧有或能给我搞来一些, 我感激不尽.</text></string>
+	<string id="simulation_task_1_fetch_about"><text>我现在很缺 %s. 你有吗? 你要搞来就回来找我.</text></string>
+	<string id="simulation_task_1_fetch_finish"><text>谢谢!</text></string>
+
+
+	<!-- FIND SUPPLIES FOR FREEDOM OR MERC TASK -->
+	<string id="simulation_task_2_name"><text>搞到%s</text></string>
+	<string id="simulation_task_2_text"><text>一个伙计让我整点%s</text></string>
+	<string id="simulation_task_2_about"><text>老兄.能帮我一个忙吗?真的很急. </text></string>
+	<string id="simulation_task_2_fetch_about"><text>我现在很缺 %s. 你有吗? 你要搞来就回来找我.</text></string>
+	<string id="simulation_task_2_fetch_finish"><text>真棒, 老兄.感谢!.</text></string>
+
+
+	<!-- FIND MUTANT MEAT FOR STALKER, CLEAR SKY, MERC, FREEDOM, OR BANDIT TASK -->
+	<string id="simulation_task_3_name"><text>狩猎</text></string>
+	<string id="simulation_task_3_text"><text>有个潜行者有独门秘方,会做特异区特供十全大补汤, 将%s带给他</text></string>
+	<string id="simulation_task_3_about"><text>老兄, 你尝过变种生物的肉吗?很多家伙碰都不会碰一下——除非是饿的受不了了, 但我就好这一口.你会打猎吗?</text></string>
+	<string id="simulation_task_3_fetch_about"><text>如果你能给我一些%s, 我就能把它做成一顿大餐.说的我都流口水了. </text></string>
+	<string id="simulation_task_3_fetch_finish"><text>啊哈! 今晚开荤!谢谢潜行者.噢,这里, 我有一些很不错的弹药,但跟我的枪口径不合, 给你了. 对了,要不然你等一会?我请你吃点?</text></string>
+
+
+	<!-- FIND ARTEFACT FOR STALKER TASK -->
+	<string id="simulation_task_4_name"><text>寻找%s</text></string>
+	<string id="simulation_task_4_text"><text>一个伙计想用步枪交换一个%s.</text></string>
+	<string id="simulation_task_4_about"><text>你擅长摸神器吗?</text></string>
+	<string id="simulation_task_4_fetch_about"><text>如果你碰巧找到一个%s, 告诉我. 虽然我付不起你的钱, 但我有一把很好的步枪, 我想你会喜欢的.</text></string>
+	<string id="simulation_task_4_fetch_finish"><text>好! 你不知道我花了多长时间才搞到的这把步枪, 虽然它有时候很烂, 但算是一把很不错的枪了</text></string>
+
+
+	<!-- FIND WEAPON FOR STALKER TASK -->
+	<string id="simulation_task_5_name"><text>找到%s</text></string>
+	<string id="simulation_task_5_text"><text>潜行者想要一把完好的%s</text></string>
+	<string id="simulation_task_5_about"><text>唉,我的藏物点被抢了......我丢了我最喜欢的步枪.你能帮我找到一把新的吗?.</text></string>
+	<string id="simulation_task_5_fetch_about"><text>我要一把%s. 我最爱那支步枪.如果你能找到我一把新的,钱少不了你的.</text></string>
+	<string id="simulation_task_5_fetch_finish"><text>谢谢你潜行者!我欠你一个人情.等我回来就告诉你我是怎么干死那群敢抢我藏物点的傻狗的!</text></string>
+
+
+	<!-- FIND WEAPON FOR DUTY, MERC, CLEAR SKY, OR MILITARY TASK -->
+	<string id="simulation_task_6_name"><text>找到%s</text></string>
+	<string id="simulation_task_6_text"><text>搞来一把%s</text></string>
+	<string id="simulation_task_6_about"><text>妈的, 我手上这把枪跟屎一样, 没开几枪就卡壳了, 你给我弄一把新的吗?</text></string>
+	<string id="simulation_task_6_fetch_about"><text>帮我搞一把%s. 感激不尽</text></string>
+	<string id="simulation_task_6_fetch_finish"><text>非常好! 看看,多漂亮一宝贝.报酬给你.</text></string>
+
+
+	<!-- HOSTAGE RESCUE FOR STALKER TASK -->
+	<string id="simulation_task_7_name"><text>一年逛两次绑匪之家</text></string>
+	<string id="simulation_task_7_text"><text>一个潜行者的好友被一帮强盗绑架了.要我去救他.</text></string>
+	<string id="simulation_task_7_about"><text>我遇到大麻烦了伙计.我的朋友被抢了, 还被他们俘虏.我真的不知道该怎么办.你能帮我救出我的朋友吗?.</text></string>
+	<string id="simulation_task_7_finish"><text>你做到了, 太谢谢你了, 潜行者. 很高兴看到我的朋友还活着!这里是您的酬劳:</text></string>
+
+
+	<!-- HOSTAGE RESCUE FOR DUTY TASK -->
+	<string id="simulation_task_8_name"><text>营救同志</text></string>
+	<string id="simulation_task_8_text"><text>我受命营救被扣为人质的纪律团成员</text></string>
+	<string id="simulation_task_8_about"><text>潜行者, 我们的同志受伤被绑架了! 你能帮我们救出我们的朋友吗?.</text></string>
+	<string id="simulation_task_8_finish"><text>谢谢你, 潜行者.很好, 你救了我们的战友!这里是您的酬劳:</text></string>
+
+
+	<!-- HOSTAGE RESCUE FOR FREEDOM TASK -->
+	<string id="simulation_task_9_name"><text>救出伙计</text></string>
+	<string id="simulation_task_9_text"><text>我被任务解救被扣为人质的自由团成员</text></string>
+	<string id="simulation_task_9_about"><text>潜行者, 我们的伙计受伤, 被绑架了!你能帮我们救出我们的朋友吗?.</text></string>
+	<string id="simulation_task_9_finish"><text>你做到了!谢谢你, 潜行者.很高兴看到我的朋友还活着!这里是您的酬劳:</text></string>
+
+
+	<!-- HOSTAGE RESCUE FOR ECOG TASK -->
+	<string id="simulation_task_10_name"><text>救出蛋头</text></string>
+	<string id="simulation_task_10_text"><text>营救一群被强盗绑架的科学家</text></string>
+	<string id="simulation_task_10_about"><text>帮帮忙! 我的同事被绑架了.你能去救救他吗?.</text></string>
+	<string id="simulation_task_10_finish"><text>谢谢你, 潜行者.我的同事活着回来了!这是我们的心意,还请笑纳.</text></string>
+
+
+	<!-- ASSASSINATION  FOR STALKER TASK -->
+	<string id="simulation_task_11_name"><text>逆转赏金</text></string>
+	<string id="simulation_task_11_text"><text>一个潜行者, 有人叫我摘下他的脑袋</text></string>
+	<string id="simulation_task_11_about"><text>帮我! 有些混蛋居然悬赏我. 帮我, 我会付给你双倍的赏金.</text></string>
+	<string id="simulation_task_11_finish"><text>噢, 谢谢你, 潜行者!这是你的酬劳.我终于可以睡个安稳觉了!.</text></string>
+
+
+	<!-- VENGEANCE  FOR STALKER TASK -->
+	<string id="simulation_task_12_name"><text>血海深仇</text></string>
+	<string id="simulation_task_12_text"><text>一个潜行者要我为他去世的朋友报仇</text></string>
+	<string id="simulation_task_12_about"><text>昨晚一个强盗偷偷溜进我们的营地, 杀害了我的朋友.这种渣滓不该活着的.杀了他, 潜行者.作为报答, 我会给你我被害朋友的武器.</text></string>
+	<string id="simulation_task_12_finish"><text>谢谢潜行者, 你是个好战士.陪我一起喝一点吧.敬我那九泉之下的弟弟.</text></string>
+
+
+	<!-- FIND SUPPLIES FOR BANDIT TASK -->
+	<string id="simulation_task_13_name"><text>找到%s</text></string>
+	<string id="simulation_task_13_text"><text>找到%s给潜行者</text></string>
+	<string id="simulation_task_13_about"><text>你想换一些战利品吗?</text></string>
+	<string id="simulation_task_13_fetch_about"><text>我得到了一些好东西, 但我需要你拿一些%s交换</text></string>
+	<string id="simulation_task_13_fetch_finish"><text>谢谢!</text></string>
+
+
+	<!-- FIND SUPPLIES FOR MILITARY TASK -->
+	<string id="simulation_task_14_name"><text>找到%s</text></string>
+	<string id="simulation_task_14_text"><text>找到%s给潜行者</text></string>
+	<string id="simulation_task_14_about"><text>你要交易?</text></string>
+	<string id="simulation_task_14_fetch_about"><text>偷偷告诉你,我给搞来了一些额外的弹药, 但需要你拿一些%s来交换</text></string>
+	<string id="simulation_task_14_fetch_finish"><text>谢谢!</text></string>
+
+
+	<!-- FIND ARTEFACT FOR MILITARY TASK -->
+	<string id="simulation_task_15_name"><text>找到%s</text></string>
+	<string id="simulation_task_15_text"><text>有人想用步枪换取%s</text></string>
+	<string id="simulation_task_15_about"><text>我知道这是违反制度的,但我很快就要回家了,我想带个纪念品回去.你能帮我找一件神器吗?.</text></string>
+	<string id="simulation_task_15_fetch_about"><text>我想要一个%s.如果你能找到的话,我就把我的步枪给你.</text></string>
+	<string id="simulation_task_15_fetch_finish"><text>真棒!我说话算话.别跟指挥官说啊.</text></string>
+
+
+	<!-- FIND WEAPON FOR BANDIT TASK -->
+	<string id="simulation_task_16_name"><text>获取%s</text></string>
+	<string id="simulation_task_16_text"><text>我需要一把%s, 这把枪陪了我很久,这几天因为他有点旧了,所以我就把它放在藏物点里了, 结果仅仅半天, 它就被人摸跑了.</text></string>
+	<string id="simulation_task_16_about"><text>听着, 我需要一只步枪, 你懂我意思吗?</text></string>
+	<string id="simulation_task_16_fetch_about"><text>我需要一个%s, 不管你是买, 偷还是抢, 只要给我. 我付给你双倍的钱.</text></string>
+	<string id="simulation_task_16_fetch_finish"><text>厉害啊!这是我的诺言.</text></string>
+
+
+	<!-- ASSASINATION  FOR MILITARY TASK -->
+	<string id="simulation_task_17_name"><text>赌局</text></string>
+	<string id="simulation_task_17_text"><text>一个战友用他的步枪打赌我不能刺杀一个高价值的目标</text></string>
+	<string id="simulation_task_17_about"><text>看见PDA上的排名了吗?告诉你,上面有个人可厉害了,而我碰巧知道他的位置. 我用我的步枪打赌, 你连他身上一根毛都碰不到.</text></string>
+	<string id="simulation_task_17_finish"><text>真的?你真做到了?见鬼, 早知道我就不跟你打赌了.行吧, 再见了, 我的步枪.</text></string>
+
+
+	<!-- ASSASSINATION  FOR MERC OR BANDIT TASK -->
+	<string id="simulation_task_18_name"><text>合约</text></string>
+	<string id="simulation_task_18_text"><text>你接了个合约, 他要你杀一个人</text></string>
+	<string id="simulation_task_18_about"><text>我快忙死了.我接了太多合约.你能帮我完成一个吗?赏金你九我一.</text></string>
+	<string id="simulation_task_18_finish"><text>厉害啊! 这是你的酬劳</text></string>
+
+
+	<!-- FIND MUTANT PARTS FOR CLEAR SKY, DUTY, FREEDOM, MERC, MILITARY AND STALKER TASK -->
+	<string id="simulation_task_19_name"><text>寻找组织样本: %s</text></string>
+	<string id="simulation_task_19_text"><text>获取组织样本的合约, 即%s</text></string>
+	<string id="simulation_task_19_about"><text>听着兄弟, 我和科学家签了合约——要给他们弄些变异体组织, 但现在没法去打猎. 能帮个忙吗? </text></string>
+	<string id="simulation_task_19_fetch_about"><text>%c[ui_8]听着兄弟, 我和科学家签了合约——要给他们弄些变异体组织. 但上次进特异区我的装备损耗严重, 弹匣里只剩几发子弹叮当响. 现在最没法干的就是打猎, 又不想毁掉和书呆子们的信誉. 能帮把手吗? %c[ui_orange]%s%c[ui_8]——这就是我要的. 他们会付的报酬我分你一半. </text></string>
+	<string id="simulation_task_19_fetch_finish"><text>太感谢了兄弟, 你可帮大忙了. 拿着, 说好的一半. </text></string>
+
+
+	<!-- HOSTAGE INTERACTION  TEXT -->
+	<string id="hostage_companion_task_1_start_dialog_1"><text>你是谁?你是来帮我的吗,潜行者?</text></string>
+	<string id="hostage_companion_task_1_actor_reply"><text>想活下去就跟紧我!</text></string>
+
+
+	<!-- NIMBLE SPECIAL ORDER TEXT -->
+	<string id="esc_2_12_nimble_items_get_order_name"><text>特殊订单: 收货</text></string>
+	<string id="esc_2_12_nimble_items_get_order_text"><text>货到了,来拿吧.</text></string>
+	<string id="esc_2_12_nimble_items_wait_order_name"><text>特殊订单: 等待</text></string>
+	<string id="esc_2_12_nimble_items_wait_order_text"><text>订单派出去了,耐心等几天吧.</text></string>
+
+
+	<!-- SURGE HIDE MESSAGES -->
+	<string id="hide_from_surge_message"><text>注意! 一场风暴即将到来!</text></string>
+	<string id="hide_from_surge_descr_1_a"><text>风暴迫在眉睫, 立即进入庇护所!</text></string>
+	<string id="hide_from_surge_descr_2_a"><text>在风暴过程中不准离开庇护所!</text></string>
+	<string id="hide_from_surge_name_1"><text>风暴: 寻找庇护所</text></string>
+	<string id="hide_from_surge_name_2"><text>风暴: 留在庇护所里</text></string>
+
+
+	<!-- ATMOSFEAR RADIOACTIVE FALLOUT MESSAGES -->
+	<string id="hide_from_fallout_rad_message_caption"><text>注意!</text></string>
+	<string id="hide_from_fallout_rad_message"><text>放射性尘埃开始</text></string>
+	<string id="hide_from_fallout_rad_descr_1_a"><text>放射性尘埃是致命的.你应该尽快找个庇护所.</text></string>
+	<string id="hide_from_fallout_rad_descr_2_a"><text>你不该在放射性尘埃发生过程中离开庇护所</text></string>
+	<string id="hide_from_fallout_rad_name_1"><text>放射性尘埃: 寻找庇护所</text></string>
+	<string id="hide_from_fallout_rad_name_2"><text>放射性尘埃: 留在庇护里</text></string>
+	<string id="end_fallout_rad_message_caption"><text>注意!</text></string>
+	<string id="end_fallout_rad_message"><text>放射性尘埃已结束</text></string>
+
+
+	<!-- ATMOSFEAR CHEMICAL FALLOUT MESSAGES -->
+	<string id="hide_from_fallout_acid_message_caption"><text>注意!</text></string>
+	<string id="hide_from_fallout_acid_message"><text>化学尘埃开始</text></string>
+	<string id="hide_from_fallout_acid_descr_1_a"><text>化学尘埃很危险.你应该尽快找个庇护所.</text></string>
+	<string id="hide_from_fallout_acid_descr_2_a"><text>你不该在化学尘埃发生过程中离开庇护所</text></string>
+	<string id="hide_from_fallout_acid_name_1"><text>化学尘埃: 寻找庇护所</text></string>
+	<string id="hide_from_fallout_acid_name_2"><text>化学尘埃: 留在庇护里</text></string>
+	<string id="end_fallout_acid_message_caption"><text>注意!</text></string>
+	<string id="end_fallout_acid_message"><text>化学尘埃已结束</text></string>
+
+
+	<!-- ATMOSFEAR PSI STORM MESSAGES -->
+	<string id="hide_from_psi_storm_message_caption"><text>注意!</text></string>
+	<string id="hide_from_psi_storm_message"><text>PSI风暴开始</text></string>
+	<string id="hide_from_psi_storm_descr_1_a"><text>PSI风暴迫在眉睫, 立即进入庇护所!</text></string>
+	<string id="hide_from_psi_storm_descr_2_a"><text>你不该在PSI风暴期间离开庇护所</text></string>
+	<string id="hide_from_psi_storm_name_1"><text>PSI风暴: 寻找庇护所</text></string>
+	<string id="hide_from_psi_storm_name_2"><text>PSI风暴: 留在庇护所里</text></string>
+	<string id="end_psi_storm_caption"><text>注意!</text></string>
+	<string id="end_psi_storm_message"><text>PSI风暴已经结束</text></string>
+
+
+	<!-- YANTAR MIRACLE MACHINE MESSAGES -->
+	<string id="tips_labx16switcher_press"><text>关掉奇迹发生器($$ACTION_USE$$)</text></string>
+	
+	<!-- FACTION BASE DEFENSE VS MUTANTS -->
+    <string id="faction_base_defense_name"><text>抵御变种生物</text></string>
+	<string id="faction_base_defense_yantar_name"><text>与科学家一起对付僵尸潜行者</text></string>
+	<string id="faction_base_defense_text"><text>变种生物在攻击基地, 快跟我们一起抵御他们!</text></string>
+	<string id="faction_base_defense_yantar_text"><text>僵尸潜行者在对移动实验室发起攻击,快来帮忙保卫实验室! 刚刚开始的风暴并不会影响你. 在移动实验室的屋顶可以找到固定式机枪.</text></string>
+
+</string_table>

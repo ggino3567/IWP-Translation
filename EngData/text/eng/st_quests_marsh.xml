@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<!-- RECAPTURE TERRITORY 1 FOR CLEAR SKY LEADER TASK -->
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_1_name">
+		<text>Reclaim Pumping Station for Clear Sky</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_1_text">
+		<text>Take the Pump station under Clear Sky control and report upon completing the task.</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_1_about">
+		<text>%c[ui_8]We haven't heard from one of the groups for a while. I'm afraid something's happened to them. Check what's going on. The last place they made contact was the %c[ui_orange]Pump station%c[ui_8]. I won't forget this favor!\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_1_finish">
+		<text>The task is done? Good job.</text>
+	</string>
+
+	<!-- RECAPTURE TERRITORY 2 FOR CLEAR SKY LEADER TASK -->
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_2_name">
+		<text>>Reclaim Old church for Clear Sky</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_2_text">
+		<text>Reclaim control for Old church area and report upon completing the task.</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_2_about">
+		<text>%c[ui_8]One of our patrol groups has stopped making contact. They might have run into bandits or mutants. I need someone to find out what happened. The location they were heading to was the %c[ui_orange]Old Church%c[ui_8]. Are you up for the task?.\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_2_finish">
+		<text>Excellent work! Here is your reward.</text>
+	</string>
+
+	<!-- ASSAULT TERRITORY 1 FOR CLEAR SKY LEADER TASK -->
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_3_name">
+		<text>Capture Lookout Tower for Clear Sky</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_3_text">
+		<text>Take the Lookout Tower under control and report upon completing the task.</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_3_about">
+		<text>%c[ui_8]North of the Fishing hamlet there's a %c[ui_orange]Lookout tower%c[ui_8] occupied by bandits. They'll block the safe road to the camp and quickly scout the location of our base! To ensure the camp's safety, we need to take control of the tower. Can you help?.\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_3_finish">
+		<text>Excellent work!</text>
+	</string>
+
+	<!-- ASSAULT TERRITORY 2 FOR CLEAR SKY LEADER TASK -->
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_4_name">
+		<text>Eliminate Military Camp for Clear Sky</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_4_text">
+		<text>You have been tasked to eliminate the military threat within the area. Report back after the job is done.</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_4_about">
+		<text>%c[ui_8]We've started having problems with the military. They've blocked many of the safe routes through the swamps, which has made our situation worse. Head to the %c[ui_orange]Village ruins%c[ui_8], that's where their camp is, and get rid of them. So, what do you say?\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_4_finish">
+		<text>Fantastic! Here is your payment. I'll make sure to pass the word around that it's safe there once again. Thank you, stalker.</text>
+	</string>
+
+
+	<!-- DELIVER PDA FOR CLEAR SKY TRADER TASK -->
+	<string id="mar_base_owl_stalker_trader_task_1_name">
+		<text>Deliver PDA to Nimble</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_1_text">
+		<text>Spore needs you to deliver an encrypted PDA to Nimble in Bar.</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_1_about">
+		<text>%c[ui_8]Okay, hotshot. Need a job? This PDA needs delivered to a dude who hangs out at the bar; his name is Nimble. He will compensate you on delivery. Don't drop it in a puddle or some dumb shit like that... Or I'll have your ass. While you are there check out what he has to offer, he can get his hands on some nice equipment... For a price.</text>
+	</string>
+
+	<!-- DESTROY HELICOPTER FOR CLEAR SKY TRADER TASK -->
+	<string id="mar_base_owl_stalker_trader_task_2_name">
+		<text>Destroy the Military Helicopter</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_2_text">
+		<text>Spore is fed up and wants you to destroy the helicopter. He will offer you a discount if you follow through.</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_2_about">
+		<text>%c[ui_8]That damn chopper is driving me nuts. I have bad tinnitus and every time that fucking thing is patrolling the southern border it makes my ears scream! Makes me want to bludgeon a baby flesh! Down the fucking thing and I'll give you a discount, please, before I kill somebody.</text>
+	</string>
+
+	<!-- ESCORT SCIENTISTS FOR CLEAR SKY TRADER TASK -->
+	<string id="mar_base_owl_stalker_trader_task_3_name">
+		<text>Escort the Scientists</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_3_text">
+		<text>Clear Sky scientists have hired you to guide them to a specific location for study. Once their research has been successfully conducted, return them safely to camp; where you will be compensated.</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_3_about">
+		<text>%c[ui_8]Scientists here in camp need an experienced stalker to lead them out into the field for study. Are you up for it? Your job is to keep them alive and guide them to their destination. Failure will give you a bad reputation around here.</text>
+	</string>
+	<string id="mar_base_owl_stalker_trader_task_3_finish">
+		<text>Thank you stalker. You may have this as payment for your services.</text>
+	</string>
+
+
+	<!-- HUNT MUTANTS FOR CLEAR SKY BARMEN TASK -->
+	<string id="mar_base_stalker_barmen_task_1_name">
+		<text>Eliminate Mutant Threat for Librarian</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_1_text">
+		<text>Mutants have been spotted near this location making the area dangerous for some of the locals. You have been tasked to eliminate the mutant threat within the area. Report back to Librarian after the job is done.</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_1_about">
+		<text>%c[ui_8]Are you an avid hunter? We've been looking for someone to keep the marshes a bit safer by clearing out mutants in areas that our faction frequents. Would you like the job?\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_1_finish">
+		<text>Fantastic! Here is your payment. I'll make sure to pass the word around that it's safe there once again. Thank you, stalker.</text>
+	</string>
+
+	<!-- FIND MUTANT MEAT FOR CLEAR SKY BARMEN TASK -->
+	<string id="mar_base_stalker_barmen_task_2_name">
+		<text>Wild Game Meat for Librarian</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_2_text">
+		<text>Field dress freshly dead mutants to collect game meat. Then deliver %s to Librarian in the Clear Sky base camp.</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_2_about">
+		<text>If you are good with a rifle and not afraid of a few mutants, then I have a job for you. Are you interested?</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_2_fetch_about">
+		<text>%c[ui_8]Rations are running low and I need to keep everyone in camp's bellies full. Some of the guys bring me back a kill or two every now and again. But it's been slow lately - So if you aren't too busy and you are out and about, I need %c[ui_orange]%s%c[ui_8]. I cook and process the meat, right here in my kitchen. Keep in mind that getting the mutants all riled up makes the meat tough because of the adrenaline. Also, the lesser the bleeding, the better the meat tastes. So, just be careful with your shots, okay?</text>
+	</string>
+	<string id="mar_base_stalker_barmen_task_2_fetch_finish">
+		<text>Great, you are a good hunter after all! I have payment for you.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 1 TOOLS FOR CLEAR SKY MECHANIC TASK -->
+	<string id="mar_base_stalker_tech_task_1_name">
+		<text>Find %s for Novikov</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_1_text">
+		<text>%s are required by Novikov to install basic equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_1_about">
+		<text>It's really hard to come by tools here in the Zone. I would be able to perform upgrades on a greater variety of equipment if I can just get my hands on some new tools. If you are interested, I will tell you what I need.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_1_fetch_about">
+		<text>%c[ui_8]I need a set of %c[ui_orange]%s%c[ui_8]. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_1_fetch_finish">
+		<text>Awesome, man! Here, let me throw some money at you.</text>
+	</string>
+
+	<!-- FIND LEVEL 2 TOOLS FOR CLEAR SKY MECHANIC TASK -->
+	<string id="mar_base_stalker_tech_task_2_name">
+		<text>Find %s for Novikov</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_2_text">
+		<text>%s are required by Novikov to install advanced equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_2_about">
+		<text>I could really use more tools. You brought me some good shit last time but I need a higher quality set. If you are interested, I will tell you what I need.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_2_fetch_about">
+		<text>%c[ui_8]I need a set of %c[ui_orange]%s%c[ui_8]. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_2_fetch_finish">
+		<text>Awesome, man! You came through for me once again! Here, let me throw some money at you.</text>
+	</string>
+
+	<!-- FIND LEVEL 3 TOOLS FOR CLEAR SKY MECHANIC TASK -->
+	<string id="mar_base_stalker_tech_task_3_name">
+		<text>Find %s for Novikov</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_3_text">
+		<text>%s are required by Novikov to install expert equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_3_about">
+		<text>I could really use more tools. You brought me some good shit last time but I need a higher quality set. If you are interested, I will tell you what I need.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_3_fetch_about">
+		<text>%c[ui_8]I need a set of %c[ui_orange]%s%c[ui_8]. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_3_fetch_finish">
+		<text>Awesome, man! You came through for me once again! Here, let me throw some money at you.</text>
+	</string>
+
+	<!-- FIND DETECTORS FOR CLEAR SKY MECHANIC TASK -->
+	<string id="mar_base_stalker_tech_task_4_name">
+		<text>Find detectors for Novikov</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_4_text">
+		<text>%s - required by Novikov, you should find some and bring them back to him.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_4_about">
+		<text>I help our researchers with the equipment, and I'm damn short on electronic parts. So I have to take apart all sorts of junk looking for transistors. Old detectors will do just fine for this.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_4_fetch_about">
+		<text>%c[ui_8]I help our researchers with the equipment, and I’m damn short on electronic parts - where else are they going to come from in our swamp? So I have to take apart all sorts of junk looking for transistors. Old detectors will do just fine for this. Can you get me... %c[ui_orange]%s%c[ui_8]? Bring me a couple of those, and I won’t forget to repay you.</text>
+	</string>
+	<string id="mar_base_stalker_tech_task_4_fetch_finish">
+		<text>Awesome, man!</text>
+	</string>
+
+
+	<!-- FIND ALCOHOL FOR CLEAR SKY MEDIC TASK -->
+	<string id="mar_smart_terrain_base_doctor_task_1_name">
+		<text>Bring Alcohol for Ivan Trodnik</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_task_1_text">
+		<text>%s get it and bring it to Ivan Trodnik, so he can use it for wound disinfection.</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_task_1_about">
+		<text>I need more alcohol for wound disinfection. I will pay you if you bring me some.</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_task_1_fetch_about">
+		<text>%c[ui_8]I need more alcohol for wound disinfection. I will pay you well if you bring me some. %c[ui_orange]%s%c[default] would be ideal.</text>
+	</string>
+	<string id="mar_smart_terrain_base_doctor_task_1_fetch_finish">
+		<text>Perfect, exactly what I needed. Thank you!</text>
+	</string>
+
+
+	<!-- ESCORT SCIENTISTS DIALOGS -->
+	<string id="ecolog_companion_task_1_start_dialog_1">
+		<text>You are our guide? I will mark the location on your PDA. Lead the way and we will follow. After we complete our analysis escort us back safely. Speak to me again when we return to camp.</text>
+	</string>
+	<string id="ecolog_companion_task_1_start_dialog_2">
+		<text>Yes? We should get moving, the longer we wait around the more dangerous it gets.</text>
+	</string>
+	<string id="ecolog_companion_task_1_complete">
+		<text>Thank you, stalker. You did your job well. Here is your payment.</text>
+	</string>
+	<string id="ecolog_companion_task_1_actor_reply">
+		<text>Okay.</text>
+	</string>
+
+
+	<!-- FIND SWAMP DOCTOR -->
+	<string id="mar_doctor_task">
+		<text>Mysteries of the Zone</text>
+	</string>
+	<string id="mar_doctor_task_0">
+		<text>You came to the Zone seeking to unravel its many mysteries, a familiar face may hold the answers that you seek.</text>
+	</string>
+
+	<!-- MARSH DOCTOR STASH IN PRIPYAT -->
+	<string id="cit_doctor_task">
+		<text>The Hotel Polissya</text>
+	</string>
+	<string id="cit_doctor_task_1">
+		<text>The key and coordinates the doctor gave you indicates that Strelok has hidden a stash in a room at the Hotel Polissya in Pripyat.</text>
+	</string>
+	<string id="cit_doctor_task_2">
+		<text>You have found the hotel at the coordinates you were given, around here somewhere should be the room matching the inscription on the key.</text>
+	</string>
+	<string id="cit_doctor_task_3">
+		<text>A few scattered items are littered about the room left abandoned by Strelok. They should be investigated for potential clues.</text>
+	</string>
+
+	<!-- MARSH DOCTOR VISIT LABS -->
+	<string id="st_main_1_search_agr_ug_name">
+		<text>Investigate Agroprom Underground</text>
+	</string>
+	<string id="st_main_1_search_agr_ug_text">
+		<text>Investigate Agroprom Underground and search for hard evidence of a conspiracy.</text>
+	</string>
+	<string id="st_main_2_search_labx18_name">
+		<text>Investigate Lab X-18</text>
+	</string>
+	<string id="st_main_2_search_labx18_text">
+		<text>Investigate Lab X-18 and search for hard evidence of a conspiracy.</text>
+	</string>
+	<string id="st_main_3_search_labx16_name">
+		<text>Investigate Lab X-16</text>
+	</string>
+	<string id="st_main_3_search_labx16_text">
+		<text>Investigate Lab X-16 and search for hard evidence of a conspiracy.</text>
+	</string>
+	<string id="st_main_4_search_labx10_name">
+		<text>Investigate Lab X-19</text>
+	</string>
+	<string id="st_main_4_search_labx10_text">
+		<text>Investigate Lab X-19 and search for hard evidence of a conspiracy.</text>
+	</string>
+	<string id="st_main_5_search_labx8_name">
+		<text>Investigate Lab X-8</text>
+	</string>
+	<string id="st_main_5_search_labx8_text">
+		<text>Investigate Lab X-8 and search for hard evidence  of a conspiracy.</text>
+	</string>
+	<string id="st_main_6_search_jup_ug_name">
+		<text>Investigate Jupiter Underground</text>
+	</string>
+	<string id="st_main_6_search_jup_ug_text">
+		<text>Investigate Jupiter Underground and search for hard evidence of a conspiracy.</text>
+	</string>
+	<string id="st_main_7_search_mon_con_name">
+		<text>Investigate Chernobyl NPP</text>
+	</string>
+	<string id="st_main_7_search_mon_con_text">
+		<text>Investigate Chernobyl NPP and search for hard evidence of a conspiracy.</text>
+	</string>
+
+</string_table>

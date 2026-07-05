@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	
+	<string id="st_achievement_1_name"><text>口袋沉甸甸</text></string>
+	<string id="st_achievement_1_hint"><text>商人可能会向你提供更稀有昂贵的商品. 你还将获得向导和医疗服务的折扣. </text></string>
+	<string id="st_achievement_1_descr"><text>通过交易、掠夺和偷窃, 你积累了一小笔财富. 你的个人资产广为人知, 商人们会青睐你的光顾. </text></string>
+	<string id="st_achievement_1_unlock"><text>你已解锁"口袋沉甸甸"成就. </text></string>
+	
+	<string id="st_achievement_2_name"><text>放射疗法</text></string>
+	<string id="st_achievement_2_hint"><text>你有几率在排放和心灵风暴中幸存. </text></string>
+	<string id="st_achievement_2_descr"><text>奇怪的是, 你不再因逼近的排放声响而感到困扰. 你认为它们或许会对你更加宽容. </text></string>
+	<string id="st_achievement_2_unlock"><text>你已解锁"放射疗法"成就. </text></string>
+	
+	<string id="st_achievement_3_name"><text>信息贩子</text></string>
+	<string id="st_achievement_3_hint"><text>现在每交付一台PDA给商人, 他们都会支付你一笔小额额外奖金. 同时, 搜索NPC获得的金钱奖励也略有提升. </text></string>
+	<string id="st_achievement_3_descr"><text>无论买卖, 对许多人而言信息都与神器同等珍贵. 有传言称你是这种商品的可靠来源. </text></string>
+	<string id="st_achievement_3_unlock"><text>你已解锁"信息贩子"成就. </text></string>
+	
+	<string id="st_achievement_4_name"><text>杜伽自由</text></string>
+	<string id="st_achievement_4_hint"><text>通过杨塔和雷达站的路径现在更容易通行. 提升你与所有中立或友好阵营的等级、声望和关系. </text></string>
+	<string id="st_achievement_4_descr"><text>目睹鲁莽实验给特异区带来的后果后, 你开始亲手采取行动. 自从关闭奇迹机器和焦脑器后, 通过杨塔和雷达站的路径现已开放. 因此, 许多此前保持低调的老练潜行者正涌回特异区中心. </text></string>
+	<string id="st_achievement_4_unlock"><text>你已解锁"杜伽自由"成就. </text></string>
+	
+	<string id="st_achievement_5_name"><text>精于解剖</text></string>
+	<string id="st_achievement_5_hint"><text>现在有较小几率能从被杀死的突变体身上额外解剖出身体部位. </text></string>
+	<string id="st_achievement_5_descr"><text>特异区的野生动物理应畏惧你——倒在你手下的生物远超寻常. 最近你注意到血腥收获变得比往常更加丰厚. </text></string>
+	<string id="st_achievement_5_unlock"><text>你已解锁"精于解剖"成就. </text></string>
+	
+	<string id="st_achievement_6_name"><text>银或铅</text></string>
+	<string id="st_achievement_6_hint"><text>某个神秘人向你提供了两个独特藏匿点的坐标. 投降的潜行者偶尔会透露第二个藏匿点的位置. </text></string>
+	<string id="st_achievement_6_descr"><text>尸体与弹壳在你经过的路上随处可见. 你留下的故事声名狼藉. 你常疑惑为何有人将财物置于生命之上. 或许情况很快会开始改变. </text></string>
+	<string id="st_achievement_6_unlock"><text>你已解锁"银或铅"成就. </text></string>
+	
+	<string id="st_achievement_7_name"><text>机械化战争</text></string>
+	<string id="st_achievement_7_hint"><text>你现在能在除林务员外的技师处完全升级装备, 且维修包与缝纫包的使用效率显著提升. </text></string>
+	<string id="st_achievement_7_descr"><text>林务员的服务从不便宜, 但至少现在他有了竞争者. 那位机械师应当能善用你带给他的工具, 且维修包与缝纫包的使用效率显著提升. </text></string>
+	<string id="st_achievement_7_unlock"><text>你已解锁"机械化战争"成就. </text></string>
+	
+	<string id="st_achievement_8_name"><text>旅行家</text></string>
+	<string id="st_achievement_8_hint"><!-- <text>You recall seeing some curious stashes during earlier journeys.</text> --><text>匿名消息源向你发送了数个独特藏匿点的坐标. </text></string>
+	<string id="st_achievement_8_descr"><text>尽管危险重重, 你已探索了特异区所有可抵达的区域. 从大沼泽的幽暗深处到卡车墓地的金属迷宫——你对特异区了如指掌. </text></string>
+	<string id="st_achievement_8_unlock"><text>你已解锁"旅行家"成就. </text></string>
+	
+	<string id="st_achievement_9_name"><text>拾荒者</text></string>
+	<string id="st_achievement_9_hint"><text>你未来发现藏匿点的运气略有提升. </text></string>
+	<string id="st_achievement_9_descr"><text>他们的就是你的, 至少你乐于这么想. 你擅长发现他人的藏匿点. 尽管偶有不幸, 但总体而言你感觉运气正在好转. </text></string>
+	<string id="st_achievement_9_unlock"><text>你已解锁"拾荒者"成就. </text></string>
+	
+	<string id="st_achievement_10_name"><text>完美主义者</text></string>
+	<string id="st_achievement_10_hint"><text>所有可获取成就已全部解锁. </text></string>
+	<string id="st_achievement_10_descr"><text>凡可达成者皆已达成. 你比特异区本身更了解这片土地. 尽管困难重重, 面对所有威胁——你依然屹立不倒. </text></string>
+	<string id="st_achievement_10_unlock"><text>你已解锁"完美主义者"成就. </text></string>
+	
+	<string id="st_achievement_11_name"><text>一厢情愿</text></string>
+	<string id="st_achievement_11_hint"><text>你的等级与声望大幅提升. </text></string>
+	<string id="st_achievement_11_descr"><text>起初你听闻谣言, 继而亲眼见证, 最终亲手摧毁. 总有人质疑你的功绩, 但事实不容争辩. 许愿器已不复存在. </text></string>
+	<string id="st_achievement_11_unlock"><text>你已解锁"一厢情愿"成就. </text></string>
+	
+	<string id="st_achievement_12_name"><text>脚踏实地</text></string>
+	<string id="st_achievement_12_hint"><text>Mi-2直升机将替换被摧毁的Mi-24. </text></string>
+	<string id="st_achievement_12_descr"><text>飞得越高摔得越重. 不愿再浪费更多昂贵装备后, 特异区的直升机现在似乎都是更脆弱的型号. 但击落它们的诱惑丝毫不减. </text></string>
+	<string id="st_achievement_12_unlock"><text>你已解锁"脚踏实地"成就. </text></string>
+	
+	<string id="st_achievement_13_name"><text>地质学家</text></string>
+	<string id="st_achievement_13_hint"><text>神器刷新几率提高. </text></string>
+	<string id="st_achievement_13_descr"><text>嗡鸣、呼啸、喷涌——特异区的异常现象不再令你恐惧. 历经众多成功探索后, 你不禁注意到神器数量似乎比以往更多. </text></string>
+	<string id="st_achievement_13_unlock"><text>你已解锁"地质学家"成就. </text></string>
+	
+	<string id="st_achievement_14_name"><text>长老</text></string>
+	<string id="st_achievement_14_hint"><text>你可招募更多潜行者作为同伴. </text></string>
+	<string id="st_achievement_14_descr"><text>直升机毁灭者. PDA递交者. 你的经历与能力传说响彻整个特异区. 你已成为不朽传奇；你的故事将永远在特异区的无数篝火边传颂. </text></string>
+	<string id="st_achievement_14_unlock"><text>你已解锁"长老"成就. </text></string>
+	
+	<string id="st_achievement_15_name"><text>学者</text></string>
+	<string id="st_achievement_15_hint"><text>提示</text></string>
+	<string id="st_achievement_15_descr"><text>描述. </text></string>
+	<string id="st_achievement_15_unlock"><text>你已解锁"学者"成就. </text></string>
+	<string id="st_achievement_16_descr"><text>因摄入多种食物与饮品, 你的身体对基本需求 (睡眠、进食、饮水) 的依赖程度降低. </text></string>
+	<string id="st_achievement_16_name"><text>泰勒·楚本</text></string>
+	<string id="st_achievement_16_unlock"><text>你已解锁"泰勒·楚本"成就. </text></string>
+	<string id="st_achievement_16_hint"><text>对睡眠、食物和水的需求减少. </text></string>
+</string_table>

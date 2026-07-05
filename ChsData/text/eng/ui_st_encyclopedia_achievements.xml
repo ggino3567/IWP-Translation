@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	
+	<string id="encyclopedia_achievements"><text>成就</text></string>
+	
+	<string id="encyclopedia_achievements_completionist"><text>完美主义者</text></string>
+	<string id="encyclopedia_achievements_completionist_text"><text>%c[0,153,255,255]完美主义者%c[0,140,140,140] 要求您解锁所有其他可用成就. \n
+			\n%c[0,0,255,30]奖励%c[0,140,140,140]
+			\n与您通常解锁成就时相比, 等级点数增加一倍. </text></string>
+	
+	<string id="encyclopedia_achievements_down_to_earth"><text>肘落黑鹰</text></string>
+	<string id="encyclopedia_achievements_down_to_earth_text"><text>%c[0,153,255,255]肘落黑鹰%c[0,140,140,140] 要求您使用通常武器击落三次直升机, 如使用RPG或RG6, 则仅需击落一次. \n
+			\n%c[0,0,255,30]奖励%c[0,140,140,140]
+			\n米-24"雌鹿"直升机将逐渐被较弱的米-2"重步兵"取代. </text></string>
+	
+	<string id="encyclopedia_achievements_duga_free"><text>解放杜加</text></string>
+	<string id="encyclopedia_achievements_duga_free_text"><text>%c[0,153,255,255]解放杜加%c[0,140,140,140] 需要你关闭奇迹发生器和焦脑器\n
+			\n%c[0,0,255,30]奖励%c[0,140,140,140]
+			\n在所述PSI场发射器被禁用后, 杨塔和雷达站将会更容易通过. </text></string>
+	
+	<string id="encyclopedia_achievements_geologist"><text>地质学家</text></string>
+	<string id="encyclopedia_achievements_geologist_text"><text>%c[0,153,255,255]地质学家%c[0,140,140,140] 需要你找到至少50件神器\n
+			\n%c[0,0,255,30]信息%c[0,140,140,140]
+			\n神器检测需要一个探测器, 大多数商人都愿意出售它. \n通过在异常点附近使用它们, 你有可能发现神器. \n
+			\n%c[0,0,255,30]奖励%c[0,140,140,140]
+			\n在异常点中的神器产生率将略微增加. </text></string>
+	
+	<string id="encyclopedia_achievements_heavy_pockets"><text>土豪</text></string>
+	<string id="encyclopedia_achievements_heavy_pockets_text"><text>%c[0,153,255,255]土豪%c[0,140,140,140] 你需要拥有650,000 RU. \n
+			\n%c[0,0,255,30]奖励%c[0,140,140,140]
+			\n大多数商人会开始为你提供特殊的物品, 而与你和他们阵营的关系无关. </text></string>
+	
+	<string id="encyclopedia_achievements_infopreneur"><text>情报员</text></string>
+	<string id="encyclopedia_achievements_infopreneur_text"><text>%c[0,153,255,255]情报员%c[0,140,140,140] 要求您向情报贩子交付至少50台PDA. \n
+			\n%c[0,0,255,30]信息%c[0,140,140,140]
+			\nPDA可以在潜行者尸体中找到, 并且可以卖给情报贩子. \n
+			\n%c[0,0,255,30]奖励%c[0,140,140,140]
+			\n你今后卖给情报贩子的PDA价值会略微增加. </text></string>
+	
+	<string id="encyclopedia_achievements_mechanized_warfare"><text>机械化战争</text></string>
+	<string id="encyclopedia_achievements_mechanized_warfare_text"><text>%c[0,153,255,255]机械化战争%c[0,140,140,140] 要求您将所有3套工具交付给一名技术人员. \n
+			\n%c[0,0,255,30]信息%c[0,140,140,140]
+			\n基本的、高级的和专业的工具大多可以在藏物点找到, 但有时也可以在某些商人处买到. \n
+			\n%c[0,0,255,30]奖励%c[0,140,140,140]
+			\n枪械修理箱和缝纫工具包修理性能略微增加. </text></string>
+	
+	<string id="encyclopedia_achievements_patriarch"><text>老祖</text></string>
+	<string id="encyclopedia_achievements_patriarch_text"><text>%c[0,153,255,255]老祖%c[0,140,140,140] 要求你达到尽可能高的级别\n
+			\n%c[0,0,255,30]信息%c[0,140,140,140]
+			\n等级可以通过你在特异区中的几乎每一个动作来获得. \n在功能类别中可以找到一篇解释等级及其工作原理的文章. \n
+			\n%c[0,0,255,30]奖励%c[0,140,140,140]
+			\n您将能够在常规限制之外招募2名额外的同伴. </text></string>
+	
+	<string id="encyclopedia_achievements_radiotherapy"><text>放疗</text></string>
+	<string id="encyclopedia_achievements_radiotherapy_text"><text>%c[0,153,255,255]放疗%c[0,140,140,140] 需要你撑过25次风暴和25次PSI风暴\n
+			\n%c[0,0,255,30]信息%c[0,140,140,140]
+			\n通过单个天气选择来更好地和更长的时间间隔, 可以通过更快的时间分配来实现. \n
+			\n这两个功能都可以在游戏过程中随时切换, 但需要启用才能获得此成就. \n
+			\n%c[0,0,255,30]奖励%c[0,140,140,140]
+			\n你有概率在风暴和PSI风暴中幸存. </text></string>
+	
+	<string id="encyclopedia_achievements_rag_and_bone"><text>破布和骨头</text></string>
+	<string id="encyclopedia_achievements_rag_and_bone_text"><text>%c[0,153,255,255]破布和骨头%c[0,140,140,140] 要求你摸到至少100个藏匿点. \n
+			\n%c[0,0,255,30]信息%c[0,140,140,140]
+			\n藏物点几乎可以在任何时候在特异区的任何地方找到, 但在完成任务后收到的坐标将在您的地图上标记它们. \n
+			\n%c[0,0,255,30]奖励%c[0,140,140,140]
+			\n在新生成的藏物点中发现的物品的最大总价值将略有增加. </text></string>
+	
+	<string id="encyclopedia_achievements_silver_or_lead"><text>银或铅</text></string>
+	<string id="encyclopedia_achievements_silver_or_lead_text"><text>%c[0,153,255,255]银或铅%c[0,140,140,140] 要求你要么杀死500个潜行者, 要么让50个潜行者向你投降. \n
+			\n%c[0,0,255,30]信息%c[0,140,140,140]
+			\n这个成就一般通过正常的游戏来达成, 但是如果你故意试图解锁它, 请注意不要杀死中立或友好的潜行者——如果你还在乎你的名誉的话. \n
+			\n%c[0,0,255,30]奖励%c[0,140,140,140]
+			\n投降的潜行者有时可能会给您其他藏物点的坐标. </text></string>
+	
+	<string id="encyclopedia_achievements_tourist"><text>旅游</text></string>
+	<string id="encyclopedia_achievements_tourist_text"><text>%c[0,153,255,255]旅游%c[0,140,140,140] 要求你抵达过所有的区域 (32个) . \n
+			\n%c[0,0,255,30]奖励%c[0,140,140,140]
+			\n你将收到3个独特的藏匿点的坐标. </text></string>
+	
+	<string id="encyclopedia_achievements_well_dressed"><text>解剖大师</text></string>
+	<string id="encyclopedia_achievements_well_dressed_text"><text>%c[0,153,255,255]扒皮大师%c[0,140,140,140] 要求你要么杀死500个变种生物, 要么解剖250个变种生物. \n
+			\n%c[0,0,255,30]奖励%c[0,140,140,140]
+			\n在解剖变种生物时, 你有时会得到额外的部分. </text></string>
+	
+	<string id="encyclopedia_achievements_wishful_thinking"><text>一厢情愿</text></string>
+	<string id="encyclopedia_achievements_wishful_thinking_text"><text>%c[0,153,255,255]一厢情愿%c[0,140,140,140] 需要你击败10波许愿石的幻象. \n
+			\n%c[0,0,255,30]奖励%c[0,140,140,140]
+			\n你的等级和声望都会大幅提升. </text></string>
+	
+</string_table>

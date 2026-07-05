@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+	
+	<string id="encyclopedia_factions_other"><text>派系 (其他) </text></string>
+	
+	<string id="encyclopedia_factions_other_zombified"><text>僵尸</text></string>
+	<string id="encyclopedia_factions_other_zombified_text"><text>%c[0,153,255,255]僵尸化%c[0,140,140,140] 潜行者是那些被强大的心灵感应场影响的人. \n
+			\n%c[0,0,255,30]信息%c[0,140,140,140]
+			\n这些生物缺乏大脑的高级功能, 只依靠非条件反射, 无法进行有意识的活动, 对疼痛有很高的反应. \n
+			\n一个僵尸化的潜行者的精神和身体健康会随着时间的推移逐渐恶化, 最终失去他们最后的人性, 成为被称为僵尸的突变体. \n
+			\n与变种生物不同的是, 异化的潜行者能够使用武器和工具, 并且经常被看到成群结队地一起工作, 或者与黑石的士兵一起工作. </text></string>
+	
+</string_table>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<!--ASSAULT TERRITORY FOR MERC LEADER TASK-->
+	<string id="cit_killers_merc_trader_stalker_task_1_name">
+		<text>Assault Territory for Dushman</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_1_text">
+		<text>Clear the area of any and all hostile threats.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_1_about">
+		<text>%c[ui_8]Enemies have been spotted in our zone. I need you to lead the assault. Your job is to clear the area of all hostiles. Time's short - move out.\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_1_finish">
+		<text>Excellent work. You are a fine warrior.</text>
+	</string>
+
+	<!--FIND ARTIFACT FOR MERC LEADER TASK-->
+	<string id="cit_killers_merc_trader_stalker_task_2_name">
+		<text>Find the %s Artifact for Dushman</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_2_text">
+		<text>There is a contract for %s Artifact.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_2_about">
+		<text>There is a contract for an Artifact. Are you interested?</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_2_fetch_about">
+		<text>%c[ui_8]There is a contract for %c[ui_orange]%s%c[ui_8] Artifact. I don't care where are you going to get it but the job must be done. Are you interested?</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_2_fetch_finish">
+		<text>Excellent work. Here your percentage.</text>
+	</string>
+
+	<!-- ASSASSINATE STALKER FOR MERC LEADER TASK -->
+	<string id="cit_killers_merc_trader_stalker_task_3_name">
+		<text>Kill Loner Contract</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_3_text">
+		<text>You have been contracted to find and eliminate a target. Return for payment when the task is complete.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_3_about">
+		<text>%c[ui_8]Our employer sent over a new list of jobs the other day, and someone's gotta deal with all this. We don't want to lose our clients' trust, right? Anyway, your task is to find and take out one guy. Doesn't matter who he is. If you're curious, I can send the details to your PDA.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_3_finish">
+		<text>It is done? Great. Here your percentage.</text>
+	</string>
+
+	<!--ASSASSINATE DUTY FOR MERC LEADER TASK-->
+	<string id="cit_killers_merc_trader_stalker_task_4_name">
+		<text>Kill Duty Contract</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_4_text">
+		<text>You have been contracted to find and eliminate a special target. Return for payment when the task is complete.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_4_about">
+		<text>%c[ui_8]Another job from a big client. We need to take out one of the Duty. Same as always – find and eliminate. You taking the job?</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_4_finish">
+		<text>Great. Here is your money for the work done.</text>
+	</string>
+
+	<!--ASSASSINATE FREEDOM FOR MERC LEADER TASK-->
+	<string id="cit_killers_merc_trader_stalker_task_5_name">
+		<text>Kill Freedom Contract</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_5_text">
+		<text>You have been contracted to find and eliminate a special target. Return for payment when the task is complete.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_5_about">
+		<text>%c[ui_8]Another job. This time, it's to take out one of the Freedom. Everything needs to go smoothly, we don't want to lose our clients' trust, right? If you're interested, I can send the details.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_5_finish">
+		<text>It is done? Great. Here your percentage.</text>
+	</string>
+
+	<!-- HEAD HUNTING FOR MERC LEADER TASK -->
+	<string id="cit_killers_merc_trader_stalker_task_6_name">
+		<text>Punishment Mission</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_6_text">
+		<text>%s from killed enemy.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_6_about">
+		<text>Kill several enemy stalkers and bring their patches as a prove.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_6_fetch_about">
+		<text>%c[ui_8]One of our squads got hit. A few guys didn't make it. We need to send a message - show what happens to anyone who crosses us. I want you to bring a pile of %c[ui_orange]%s%c[ui_8] as proof this punishment op was a success. Are you on it?</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_6_fetch_finish">
+		<text>Good job! They will think twice next time.</text>
+	</string>
+
+	<!-- FIND MUTANT MEAT FOR MERC LEADER TASK -->
+	<string id="cit_killers_merc_trader_stalker_task_7_name">
+		<text>Wild Game Meat for Dushman</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_7_text">
+		<text>%s get it and bring it to Dushman, so the guys can eat some grilled meat.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_7_about">
+		<text>The guys are complaining they're sick of eating dry rations. Hell, I wouldn't mind a juicy steak with blood! Don't you wanna go on a safari and bring back some fresh meat?</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_7_fetch_about">
+		<text>%c[ui_8]The guys are complaining they're sick of eating dry rations. Hell, I wouldn't mind a juicy steak with blood! Don't you wanna go on a safari and bring back some fresh meat? %c[ui_orange]%s%c[default] - that'll do just fine.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_7_fetch_finish">
+		<text>Perfect - fresh meat! Finally, something other than those stupid cans.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 1 TOOLS FOR MERC MECHANIC TASK -->
+	<string id="cit_killers_merc_mechanic_stalker_task_1_name">
+		<text>Find %s for Hog</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_text">
+		<text>%s are required by Hog to install basic equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_about">
+		<text>I have a proposition for you. If you can bring me some new tools, you will receive payment. Are you up for it?</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_fetch_about">
+		<text>%c[ui_8]Good. I've been looking all over for a %c[ui_orange]%s%c[ui_8]. It should contain some oil and tools I need to do work on firearms. I will pay you for one of these toolkits if you can bring a full set back to me.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_1_fetch_finish">
+		<text>Right, on. This is what I've been looking for, thank!</text>
+	</string>
+
+	<!-- FIND LEVEL 2 TOOLS FOR MERC MECHANIC TASK -->
+	<string id="cit_killers_merc_mechanic_stalker_task_2_name">
+		<text>Find %s for Hog</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_text">
+		<text>%s are required by Hog to install advanced equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_about">
+		<text>I have another proposition. The toolkit you brought me is working out good, but it doesn't have everything I need. Do you think you can find me a better set?</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_fetch_about">
+		<text>%c[ui_8]I need an %c[ui_orange]%s%c[ui_8]. I'm not sure where you can get one of these, but if you can find one, I need it.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_2_fetch_finish">
+		<text>Everything I need is here. Thank you.</text>
+	</string>
+
+	<!-- FIND LEVEL 3 TOOLS FOR MERC MECHANIC TASK -->
+	<string id="cit_killers_merc_mechanic_stalker_task_3_name">
+		<text>Find %s for Hog</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_3_text">
+		<text>%s are required by Hog to install expert equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_3_about">
+		<text>I have another proposition. The toolkit you brought me is working out good, but it doesn't have everything I need. Do you think you can find me a better set?</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_3_fetch_about">
+		<text>%c[ui_8]You've helped me a lot already, but I still need an %c[ui_orange]%s%c[ui_8]. If I have that tools, I would be able to upgrade your equipment to the highest standard. If you find it anywhere, then bring it here.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_3_fetch_finish">
+		<text>Everything I need is here. Thank you.</text>
+	</string>
+
+	<!-- FIND WEAPON FOR MERC MECHANIC TASK -->
+	<string id="cit_killers_merc_mechanic_stalker_task_4_name">
+		<text>Find %s for Hog</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_4_text">
+		<text>Good condition %s are required by Hog</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_4_about">
+		<text>I am looking for different guns for my work. If you are interested in the job, I will give you more details. What would you say?</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_4_fetch_about">
+		<text>%c[ui_8]I am looking for guns for work. Right now, I need %c[ui_orange]%s%c[ui_8] in good shape. I will pay well. If the gun's in bad shape, use a %c[ui_orange]Gunsmith kit%c[ui_8]. And if you're a screw-up, bring it to me to fix - but it won't be free.</text>
+	</string>
+	<string id="cit_killers_merc_mechanic_stalker_task_4_fetch_finish">
+		<text>Perfect. Just what I needed. Here's your payment.</text>
+	</string>
+
+
+	<!-- GET ITEM FROM STASH FOR MERC MEDIC TASK -->
+	<string id="cit_killers_merc_medic_stalker_task_1_name">
+		<text>Take the case from the stash and bring it to Surgeon</text>
+	</string>
+	<string id="cit_killers_merc_medic_stalker_task_1_text">
+		<text>Go to the specified location, take the case from the stash, and bring it to Surgeon.</text>
+	</string>
+	<string id="cit_killers_merc_medic_stalker_task_1_about">
+		<text>%c[ui_8]Listen up, buddy. I'm expecting an important delivery that includes... some medical supplies. The courier, as usual, couldn't make it to us - he stashed the goods and sent the coordinates. I'll pay you if you go, grab the case, and bring it to me. But mark my words - what's inside is none of your business. You in?</text>
+	</string>
+	<string id="cit_killers_merc_medic_stalker_task_1_finish">
+		<text>Excellent, well done. Here, you've earned your share.</text>
+	</string>
+
+</string_table>

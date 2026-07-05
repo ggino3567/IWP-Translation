@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<!-- ASSASSINATE DUTY OR MILITARY FOR BANDIT LEADER TASK -->
+	<string id="zat_b7_bandit_boss_sultan_task_1_name">
+		<text>Eliminate Target for Sultan</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_1_text">
+		<text>Find and eliminate the target then return to Sultan for payment.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_1_about">
+		<text>%c[ui_8]There are many people in the Zone who have rubbed me the wrong way or shown me disrespect. Some of these pricks either owe me money or fucked up some deal. These people are nothing but rats that need stomped out. If you are up for the task, I will give you their information so that you can track them through GPS.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_1_finish">
+		<text>Great work! Here's a little something for your trouble.</text>
+	</string>
+
+	<!-- ASSASSINATE BANDIT FOR BANDIT LEADER TASK -->
+	<string id="zat_b7_bandit_boss_sultan_task_2_name">
+		<text>Eliminate Bandit for Sultan</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_2_text">
+		<text>Sultan has contracted you to run a hit. Find and eliminate the target then return to him for payment.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_2_about">
+		<text>%c[ui_8]I got a job, and you're the perfect guy for it. There's a low-level punk making too much noise. Thinks he can make a name running his mouth behind my back, trying to knock me down. That kind of disrespect? That's not how things work among men who live by a code. You take care of this mutt - and you won't walk away empty-handed. Just make sure he goes down quiet. No mess.\n\n%c[ui_orange][This task involves killing a friendly or neutral stalker, which will result in a loss of reputation. Witnesses may disapprove and could attack the player]</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_2_finish">
+		<text>Good, you got rid of that asshole! Here is what I promised.</text>
+	</string>
+
+	<!-- ASSASSINATE CLEAR SKY OR STALKER FOR BANDIT LEADER TASK -->
+	<string id="zat_b7_bandit_boss_sultan_task_3_name">
+		<text>Eliminate Stalker for Sultan</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_3_text">
+		<text>Sultan has contracted you to run a hit. Find and eliminate the target then return to him for payment.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_3_about">
+		<text>%c[ui_8]I have a list of people who have rubbed me the wrong way. I want you to rub them out. What do you say?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_3_finish">
+		<text>Good, you got rid of that asshole! Here is what I promised.</text>
+	</string>
+
+
+	<!-- DEFEND TERRITORY FOR BANDIT TRADER TASK -->
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_name">
+		<text>Eliminate Enemy Threat for Olivius</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_text">
+		<text>You have been tasked to eliminate a territorial threat within the area. Report back to Olivius after the job is done.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_about">
+		<text>%c[ui_8]Bitches are moving into our territory. The boss gave me orders to recruit a low life with enough balls to reclaim some of these camps. What do you say? Do you have enough hair on your chest?\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_1_finish">
+		<text>Fantastic! Here is your payment. I'll make sure to put a good word in for you with the boss.</text>
+	</string>
+
+	<!-- ASSAULT TERRITORY 1 FOR BANDIT TRADER TASK -->
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_name">
+		<text>Assault Enemy Camp for Olivius</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_text">
+		<text>You have been tasked to assault the area. Report back to Olivius after the job is done.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_about">
+		<text>%c[ui_8]Listen, pal, got a job for you. The local stalkers have gone completely out of line. They're refusing to share their cut from the artifacts they find. I don't think I need to explain what needs to be done with them. We must give 'em a lesson they learn the hard way. Take these punks down, and you won't walk away empty-handed.\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_2_finish">
+		<text>Good job! Here is your money.</text>
+	</string>
+
+	<!-- ESCORT RAIDERS FOR BANDIT TRADER TASK -->
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_name">
+		<text>Chiki-Briki i v Damke</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_text">
+		<text>Get the upper hand on local stalkers by relieving them of their valuables long enough until your band of merry men are satisfied.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_about">
+		<text>%c[ui_8]There are a few guys who are looking for another to join up with them for a while. They need a scout to take them out looking for prime targets and will pay you once your job is done.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_3_finish">
+		<text>Nice take, eh? Here is your cut.</text>
+	</string>
+
+	<!-- HUNT MUTANTS FOR BANDIT TRADER TASK -->
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_name">
+		<text>Eliminate Mutant Threat for Olivius</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_text">
+		<text>Mutants have been spotted near this location making the area dangerous. You have been tasked to eliminate the mutant threat within the area. Report back to Olivius after the job is done.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_about">
+		<text>%c[ui_8]We've been looking for someone with enough balls to clear out mutants in a few places. Stalkers aren't coming around here because they are too afraid. If we don't do something about it we won't have anyone left to "borrow" any goods from, then we will have to move out of this territory.\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_task_4_finish">
+		<text>Fantastic! Here is your payment. I'll make sure to put a good word in for you with the boss.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR BANDIT MECHANIC -->
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_name">
+		<text>Find %s for Limpid</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_text">
+		<text>%s are required by Limpid to install basic equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_about">
+		<text>I'm in desperate need of new tools, man.  I can't do anything with the rusty shit I have and I'm running out of gun oil. If you are interested in helping me out, I will tell you what I need.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_fetch_about">
+		<text>%c[ui_8]I need a set of %c[ui_orange]%s%c[ui_8]. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_1_fetch_finish">
+		<text>Perfect! This is just what I need, man. I can properly upgrade gear now!</text>
+	</string>
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR BANDIT MECHANIC -->
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_name">
+		<text>Find %s for Limpid</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_text">
+		<text>%s are required by Limpid to install advanced equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_about">
+		<text>The toolkit you brought me is great, but it doesn't have everything I need. Do you think you can find me a better set?</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_fetch_about">
+		<text>%c[ui_8]I need an %c[ui_orange]%s%c[ui_8]. I'm not sure where you can get one of these, but if you can find one, I need it.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_2_fetch_finish">
+		<text>You followed through again! Good deal, man, here is some money.</text>
+	</string>
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR BANDIT MECHANIC -->
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_name">
+		<text>Find %s for Limpid</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_text">
+		<text>%s are required by Limpid to install expert equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_about">
+		<text>The toolkit you brought me is great, but it doesn't have everything I need. Do you think you can find me a better set?</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_fetch_about">
+		<text>%c[ui_8]I need an %c[ui_orange]%s%c[ui_8]. I'm not sure where you can get one of these, but if you can find one, I need it.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_3_fetch_finish">
+		<text>You followed through again! Good deal, man, here is some money.</text>
+	</string>
+
+	<!-- FIND WEAPON FOR BANDIT MECHANIC TASK -->
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_4_name">
+		<text>Find %s for Limpid</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_4_text">
+		<text>Limpid asked for %s. It needs to be in good condition.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_4_about">
+		<text>I need a certain gun. If you are interested in the job, I will give you more details. What would you say?</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_4_fetch_about">
+		<text>%c[ui_8]I'm setting up the guys with some gear. For that, I need a few guns, gotta strip some parts. Right now, I need %c[ui_orange]%s%c[ui_8], and it better be in good shape. If you find one, bring it here. And if it's busted, use a %c[ui_orange]Gunsmith kit%c[ui_8] to fix it up. Or I can help, but it won't be for free.</text>
+	</string>
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_task_4_fetch_finish">
+		<text>Great! Exactly what I need.</text>
+	</string>
+
+
+	<!-- FIND ALCOHOL FOR BANDIT MEDIC TASK -->
+	<string id="val_smart_terrain_7_4_bandit_medic_stalker_task_1_name">
+		<text>Bring Alcohol for Scalpel</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_medic_stalker_task_1_text">
+		<text>%s get it and bring it to Scalpel, so he can use it for wound disinfection.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_medic_stalker_task_1_about">
+		<text>Boys knocked back all my rubbing alcohol. If someone gets sliced up, we won't have jack to treat the wound. If you run into any spirits, bring it here.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_medic_stalker_task_1_fetch_about">
+		<text>%c[ui_8]Listen, bro, the boys ran a birthday for a solid man - proper blowout. Problem is they knocked back all my rubbing alcohol. If someone gets sliced up, we won't have jack to treat the wound. If you run into any spirits, bring it here - I won't short you on cash. %c[ui_orange]%s%c[default] would be perfect.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_medic_stalker_task_1_fetch_finish">
+		<text>Good job! Here - like I promised</text>
+	</string>
+
+
+	<!-- RAID COMPANION DIALOGUES -->
+	<string id="bandit_companion_task_1_start_dialog_1">
+		<text>Lead the way and we will follow. You will get your cut when we are done. Just make sure we are the ones doing the looting and watch our backs.</text>
+	</string>
+	<string id="bandit_companion_task_1_start_dialog_2">
+		<text>We should get moving - my trigger finger is getting itchy. Just remember, we get the loot!</text>
+	</string>
+	<string id="bandit_companion_task_1_complete">
+		<text>You did your job well. Here is your cut.</text>
+	</string>
+	<string id="bandit_companion_task_1_actor_reply">
+		<text>Okay.</text>
+	</string>
+
+</string_table>

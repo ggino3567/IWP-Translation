@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<!-- PDA -->
+	<string id="pda_btn_encyclopedia">
+		<text>Guide</text>
+	</string>
+
+	<string id="pda_btn_encyclopedia_hint">
+		<text>Read</text>
+	</string>
+
+	<!-- Interface components -->
+	<string id="pda_encyclopedia_title">
+		<text>Stalker Guide</text>
+	</string>
+
+	<string id="pda_encyclopedia_image_checkbox">
+		<text>Image above text</text>
+	</string>
+
+	<string id="pda_encyclopedia_message_checkbox">
+		<text>Messages</text>
+	</string>
+
+	<!-- Messages -->
+	<string id="pda_encyclopedia_notify">
+		<text>Article added: %s, %s</text>
+	</string>
+
+	<!-- Locked articles -->
+	<string id="pda_encyclopedia_locked">
+		<text>"Unknown"</text>
+	</string>
+
+	<string id="pda_encyclopedia_locked_text">
+		<text>
+			You have not unlocked this article yet.\n
+			\nArticles can be unlocked by:\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]visiting locations and anomalies;
+			\n%c[0,200,0,255]• %c[0,140,140,140]collecting hunting trophies and artifacts;
+			\n%c[0,200,0,255]• %c[0,140,140,140]interacting with stalkers, items, and the environment.
+		</text>
+	</string>
+	
+</string_table>

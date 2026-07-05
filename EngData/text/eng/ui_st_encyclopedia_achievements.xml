@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	
+	<string id="encyclopedia_achievements">
+		<text>Achievements</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_completionist">
+		<text>Completionist</text>
+	</string>
+	<string id="encyclopedia_achievements_completionist_text">
+		<text>
+			%c[0,153,255,255]Completionist%c[0,140,140,140] requires you to unlock all other available achievements.\n
+			\n%c[0,0,255,30]Rewards%c[0,140,140,140]
+			\nDouble the amount of rank points compared to when you normally unlock an achievement.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_down_to_earth">
+		<text>Down to Earth</text>
+	</string>
+	<string id="encyclopedia_achievements_down_to_earth_text">
+		<text>
+			%c[0,153,255,255]Down to Earth%c[0,140,140,140] requires you to destroy either 3 helicopters with small arms, or just the 1 if you use an explosive weapon such as the RPG or RG-6.\n
+			\n%c[0,0,255,30]Rewards%c[0,140,140,140]
+			\nMi-24 "Hind" helicopters will gradually be replaced with the weaker Mi-2 "Hoplite".
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_duga_free">
+		<text>Duga Free</text>
+	</string>
+	<string id="encyclopedia_achievements_duga_free_text">
+		<text>
+			%c[0,153,255,255]Duga Free%c[0,140,140,140] requires you to disable both the Miracle Machine and the Brain Scorcher.\n
+			\n%c[0,0,255,30]Information%c[0,140,140,140]
+			\nYou managed to disable the psi-field emitters at Yantar and Radar. As a result, many seasoned stalkers who had previously kept a low profile will rush back to the center of the Zone.\n
+			\n%c[0,0,255,30]Rewards%c[0,140,140,140]
+			\nIncrease your rank, reputation, and relations with all neutral or friendly factions.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_geologist">
+		<text>Geologist</text>
+	</string>
+	<string id="encyclopedia_achievements_geologist_text">
+		<text>
+			%c[0,153,255,255]Geologist%c[0,140,140,140] requires you to detect a minimum of 75 artefacts.\n
+			\n%c[0,0,255,30]Information%c[0,140,140,140]
+			\nArtefact detection requires a detector, which are sold by most traders.\nBy using them near an anomaly, there is a chance you may detect an artefact.\n
+			\n%c[0,0,255,30]Rewards%c[0,140,140,140]
+			\nRespawn rates for artefacts found in anomalies will be slightly increased. It will also become possible to discover (or buy from Noah, at Zaton) ultra-rare and understudied artifact specimens.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_heavy_pockets">
+		<text>Heavy Pockets</text>
+	</string>
+	<string id="encyclopedia_achievements_heavy_pockets_text">
+		<text>
+			%c[0,153,255,255]Heavy Pockets%c[0,140,140,140] requires you to possess 750,000 RU at any one moment.\n
+			\n%c[0,0,255,30]Rewards%c[0,140,140,140]
+			\nMost traders will begin to offer you special supplies, but only if you have a good relationship with their faction (1500 relationship points in your PDA). You will also receive discounts for the services of guides and medics.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_infopreneur">
+		<text>Infopreneur</text>
+	</string>
+	<string id="encyclopedia_achievements_infopreneur_text">
+		<text>
+			%c[0,153,255,255]Infopreneur%c[0,140,140,140] requires to you deliver a minimum of 50 PDAs to information brokers.\n
+			\n%c[0,0,255,30]Information%c[0,140,140,140]
+			\nPDAs can be found on the bodies of dead stalkers, and can be traded to information brokers by telling them you have information to sell.\n
+			\n%c[0,0,255,30]Rewards%c[0,140,140,140]
+			\nInformation brokers will offer you a slightly increased reward for any future PDAs you bring them. Also, the monetary reward for searching NPCs wil be slightly increased.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_mechanized_warfare">
+		<text>Mechanized Warfare</text>
+	</string>
+	<string id="encyclopedia_achievements_mechanized_warfare_text">
+		<text>
+			%c[0,153,255,255]Mechanized Warfare%c[0,140,140,140] requires you to deliver all 3 sets of tools to a single technician.\n
+			\n%c[0,0,255,30]Information%c[0,140,140,140]
+			\nTools of all types can be found in stashes or with Forester's trading services. In addition to the monetary reward for delivering tools, the technician will offer discounts for services.\n
+			\n%c[0,0,255,30]Rewards%c[0,140,140,140]
+			\nGunsmith and sewing kits will repair weapons and outfits slightly more than before.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_patriarch">
+		<text>Patriarch</text>
+	</string>
+	<string id="encyclopedia_achievements_patriarch_text">
+		<text>
+			%c[0,153,255,255]Patriarch%c[0,140,140,140] you have to reach the rank of "Master".\n
+			\n%c[0,0,255,30]Information%c[0,140,140,140]
+			\nRank can be earned through almost every action that you can take in the Zone.\nAn article explaining ranks and how they work can be found in the features category.\n
+			\n%c[0,0,255,30]Rewards%c[0,140,140,140]
+			\nYou will be able to recruit 2 additional companions above the regular limit.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_radiotherapy">
+		<text>Radiotherapy</text>
+	</string>
+	<string id="encyclopedia_achievements_radiotherapy_text">
+		<text>
+			%c[0,153,255,255]Radiotherapy%c[0,140,140,140] requires you to survive 20 emissions and 20 psi-storms.\n
+			\n%c[0,0,255,30]Information%c[0,140,140,140]
+			\nEmissions and psi-storms occur at random intervals, which can be altered through the weather options section of the main menu.\n
+			\nBoth of these features can be toggled at any time during a playthrough, but will need to be enabled in order for you to earn this achievement.\n
+			\n%c[0,0,255,30]Rewards%c[0,140,140,140]
+			\nThere is a small chance that you will survive an emission or a psi-storm without taking cover.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_rag_and_bone">
+		<text>Rag and Bone</text>
+	</string>
+	<string id="encyclopedia_achievements_rag_and_bone_text">
+		<text>
+			%c[0,153,255,255]Rag and Bone%c[0,140,140,140] requires you to loot (at least partially) a minimum of 125 stashes.\n
+			\n%c[0,0,255,30]Information%c[0,140,140,140]
+			\nStashes can be found almost anywhere in the Zone at any time. Also receiving their coordinates after completing tasks or searching the corpses of stalkers will mark them on your map.\n
+			\n%c[0,0,255,30]Rewards%c[0,140,140,140]
+			\nThe maximum total value of items found in newly generated stashes will be slightly increased. Slightly increased chance of getting stashes for quests and when searching NPCs along with this, (the chance of finding more valuable items in these stashes will be increased).
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_silver_or_lead">
+		<text>Silver or Lead</text>
+	</string>
+	<string id="encyclopedia_achievements_silver_or_lead_text">
+		<text>
+			%c[0,153,255,255]Silver or Lead%c[0,140,140,140] requires you to either kill 500 stalkers, or make 25 stalkers surrender to you.\n
+			\n%c[0,0,255,30]Information%c[0,140,140,140]
+			\nThe requirements for this achievement will likely be met through normal gameplay, but if you are deliberately trying to unlock it, be careful not to kill neutral or friendly stalkers if you value your reputation.\n
+			\n%c[0,0,255,30]Rewards%c[0,140,140,140]
+			\nYou will receive coordinates for 2 unique stashes. Surrendering stalkers may sometimes give you coordinates to an additional stash location.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_tourist">
+		<text>Tourist</text>
+	</string>
+	<string id="encyclopedia_achievements_tourist_text">
+		<text>
+			%c[0,153,255,255]Tourist%c[0,140,140,140] requires you to visit all 32 levels in the Zone.\n
+			\n%c[0,0,255,30]Rewards%c[0,140,140,140]
+			\nYou will receive coordinates for 2 unique stashes.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_well_dressed">
+		<text>Well Dressed</text>
+	</string>
+	<string id="encyclopedia_achievements_well_dressed_text">
+		<text>
+			%c[0,153,255,255]Well Dressed%c[0,140,140,140] requires you to either kill 500 mutants, or field dress 250 mutant parts.\n
+			\n%c[0,0,255,30]Rewards%c[0,140,140,140]
+			\nYou may sometimes receive additional mutant parts when field dressing.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_wishful_thinking">
+		<text>Wishful Thinking</text>
+	</string>
+	<string id="encyclopedia_achievements_wishful_thinking_text">
+		<text>
+			%c[0,153,255,255]Wishful Thinking%c[0,140,140,140] requires you to defeat all 10 waves of the Wish Granter's illusions.\n
+			\n%c[0,0,255,30]Rewards%c[0,140,140,140]
+			\nYou will receive a major increase to both your rank and reputation.
+		</text>
+	</string>
+	
+</string_table>

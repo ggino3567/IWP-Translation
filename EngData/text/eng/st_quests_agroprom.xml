@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<!-- RECAPTURE TERRITORY FOR MILITARY LEADER TASK -->
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_1_name">
+		<text>Recapture Territory for Kuznetsov</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_1_text">
+		<text>You have been ordered to recapture lost territory.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_1_about">
+		<text>%c[ui_8]We have lost one of our patrols. I need you to head to %c[ui_orange]Cordon%c[ui_8] near the old train bridge and find out what happened. Are you ready for this?\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_1_finish">
+		<text>The job is done? Great!</text>
+	</string>
+
+	<!-- ASSAULT TERRITORY 1 FOR MILITARY LEADER TASK -->
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_name">
+		<text>Protect Military Territory for Kuznetsov</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_text">
+		<text>You have been assigned to lead an assault to clear out any unauthorized individuals.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_about">
+		<text>%c[ui_8]There was a report about a huge number of hostile forces at the %c[ui_orange]Agroprom factory%c[ui_8]. I need volunteers to clear the area from unauthorized personnel. Are you ready?\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_2_finish">
+		<text>Great job. Keep it up you'll be in line for a commendation.</text>
+	</string>
+
+	<!-- ASSAULT TERRITORY 2 FOR MILITARY LEADER TASK -->
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_3_name">
+		<text>Assault Territory for Kuznetsov</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_3_text">
+		<text>You have been ordered to capture territory and eliminate enemy forces.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_3_about">
+		<text>%c[ui_8]Our patrol reported enemy forces approaching one of our camps. I am looking for volunteers that are willing to head to the %c[ui_orange]Swamps%c[ui_8] and destroy the enemy forces. We can not allow our camp there to be in danger.\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_3_finish">
+		<text>The task is done? Good job.</text>
+	</string>
+
+	<!--  ASSAULT TERRITORY 3 FOR MILITARY LEADER TASK -->
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_name">
+		<text>Eliminate mercenary squad for Kuznetsov</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_text">
+		<text>You have been ordered to eliminate a group of mercenaries.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_about">
+		<text>%c[ui_8]The activities of a professional armed force, one with which we have no connection, have become more frequent in the Zone. Our task is to stop their activities. Intelligence reported the location of one of the mercenary camps. Your task is to destroy their squad at the %c[ui_orange]Wild Territory%c[ui_8]. Are you ready for the mission?\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_4_finish">
+		<text>The task is completed? Great!</text>
+	</string>
+
+	<!-- GET ITEM FROM STASH FOR MILITARY LEADER TASK -->
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_5_name">
+		<text>Take the PDA from the stash and deliver it to Kuznetsov</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_5_text">
+		<text>Go to the specified location, take the PDA with intelligence data from the stash, and bring it to Kuznetsov.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_5_about">
+		<text>%c[ui_8]One of our teams was returning with intelligence important to the command and ran into an ambush. Before we lost contact with them, the guys provided the coordinates of where they hid the PDA with the information. I need a volunteer to go to the location and retrieve the device.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_5_finish">
+		<text>Mission accomplished? Well done!</text>
+	</string>
+
+
+	<!-- ASSASSINATION FOR MILITARY TRADER TASK -->
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_1_name">
+		<text>Capture Enemy Target for Spooner</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_1_text">
+		<text>You have been assigned a hostile target to capture or kill.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_1_about">
+		<text>%c[ui_8]HQ has a list of the most wanted individuals in the Zone. If you can get to any of them, there will be a bonus in your next paycheck. Are you up for the job?</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_1_finish">
+		<text>Outstanding work! The commander will be pleased.</text>
+	</string>
+
+	<!-- HUNT MUTANTS FOR MILITARY TRADER TASK -->
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_2_name">
+		<text>Eliminate Mutants for Spooner</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_2_text">
+		<text>Mutants have been spotted nearby. The task is to eliminate the mutant threat and report back after the job is done.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_2_about">
+		<text>%c[ui_8]There are too many mutants around. They howl all night and the commander is furious! I am looking for a volunteer to take care of them. Do you have the courage to do it?\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_2_finish">
+		<text>Great work! The commander will be pleased.</text>
+	</string>	
+
+	<!-- HEAD HUNTING FOR MILITARY TRADER TASK -->
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_3_name">
+		<text>Take revenge on the enemy!</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_3_text">
+		<text>%s from enemy dead bodies for Spooner.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_3_about">
+		<text>Take a revenge on the enemy faction and bring the patches from the dead bodies.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_3_fetch_about">
+		<text>%c[ui_8]One of our outposts was attacked by the enemy. They wounded and killed many of our men. We need a raid into enemy territory. Bring a dozen %c[ui_orange]%s%c[ui_8] as proof of success.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_trader_stalker_task_3_fetch_finish">
+		<text>The task is done? Excellent work!</text>
+	</string>
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR MILITARY MECHANIC TASK -->
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_name">
+		<text>Find %s for Kirilov</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_text">
+		<text>%s are required by Kirilov to install basic equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_about">
+		<text>Hey, can I ask you a favour? If you are interested in helping me out, I will tell you what I need.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_fetch_about">
+		<text>%c[ui_8]I need a set of %c[ui_orange]%s%c[ui_8]. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_1_fetch_finish">
+		<text>Great! You brought exactly what I've asked. Thanks.</text>
+	</string>
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR MILITARY MECHANIC TASK -->
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_name">
+		<text>Find %s for Kirilov</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_text">
+		<text>%s are required by Kirilov to install advanced equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_about">
+		<text>Alright, If you are up for it, I need more tools. But they may be a bit harder to find. Can you do this for me?</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_fetch_about">
+		<text>%c[ui_8]I need a set of %c[ui_orange]%s%c[ui_8]. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_2_fetch_finish">
+		<text>Great! Come back any time if you need me to take a look at your gear.</text>
+	</string>
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR MILITARY MECHANIC TASK -->
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_3_name">
+		<text>Find %s for Kirilov</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_3_text">
+		<text>%s are required by Kirilov to install expert equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_3_about">
+		<text>Alright, If you are up for it, I need more tools. But they may be a bit harder to find. Can you do this for me?</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_3_fetch_about">
+		<text>%c[ui_8]I need a set of %c[ui_orange]%s%c[ui_8]. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_3_fetch_finish">
+		<text>Great! Come back any time if you need me to take a look at your gear.</text>
+	</string>
+
+	<!-- FIND WEAPON FOR MILITARY MECHANIC TASK -->
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_4_name">
+		<text>Find %s for Kirilov</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_4_text">
+		<text>Kirilov asked for a %s. It needs to be in good condition.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_4_about">
+		<text>I need a certain gun. If you are interested in the job, I will give you more details. What would you say?</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_4_fetch_about">
+		<text>%c[ui_8]I need a certain gun to use it for my work. At the moment I am looking for a good condition %c[ui_orange]%s%c[ui_8]. I am sure, you will be able to find one. To improve the gun's condition, use a %c[ui_orange]Gunsmith kit%c[ui_8] or bring it to me for fixing, but it won't be free.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_task_4_fetch_finish">
+		<text>Great! Exactly what I need.</text>
+	</string>
+
+	<!-- FIND ALCOHOL FOR MILITARY MEDIC TASK -->
+	<string id="agr_smart_terrain_1_6_army_medic_stalker_task_1_name">
+		<text>Bring Alcohol for Lieutenant Rogovets</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_medic_stalker_task_1_text">
+		<text>Get %s and bring it to Lieutenant Rogovets, so he can use it for wound disinfection.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_medic_stalker_task_1_about">
+		<text>I need more alcohol for wound disinfection. I will pay you if you bring me some.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_medic_stalker_task_1_fetch_about">
+		<text>%c[ui_8]The CO confiscated most of my alcohol stash for his so-called 'preventive needs'. What's left might not even cover treating the boys' wounds or for sterilizing tools. I'll pay if you bring something to replace it. %c[ui_orange]%s%c[default] would be perfect.</text>
+	</string>
+	<string id="agr_smart_terrain_1_6_army_medic_stalker_task_1_fetch_finish">
+		<text>Perfect, exactly what I needed. Thank you!</text>
+	</string>
+
+</string_table>

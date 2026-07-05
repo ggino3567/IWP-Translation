@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+<!--------------------------- val_smart_terrain_7_4_bandit_trader_stalker -->
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_start_dialog_1"><text>嘿兄弟! 我这儿有点货要出, 要是感兴趣还能介绍几单活. 这片的弟兄们干完买卖都来找我销赃!   </text></string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_start_dialog_2"><text>嘿, 老兄. 需要什么? 找活干吗?   </text></string>
+<!---------------------------- val_smart_terrain_7_3_bandit_mechanic_stalker --->
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_start_dialog_1"><text>今天要啥? 保证给你修得妥妥的. 对了, 要是找到加密PDA我高价收.   </text></string>
+	
+	<!-- Sultan, moved from Zaton to Dark Valley -->
+	
+	<string id="zat_b7_bandit_boss_sultan_intro_0"><text>记好了, 我是苏丹. 这儿发生的事要么归我管, 迟早也得归我管. 想混得舒坦就得跟我干. 不然有你好受的. 规矩就这样, 兄弟.   </text></string>
+	<string id="zat_b7_bandit_boss_sultan_about_0"><text>说说你在这儿混的经历?   </text></string>
+	<string id="zat_b7_bandit_boss_sultan_about_1"><text>肯定不是逛公园那么轻松...具体想打听啥?   </text></string>
+	<string id="zat_b7_bandit_boss_sultan_about_1111"><text>你在这具体干啥?   </text></string>
+	<string id="zat_b7_bandit_boss_sultan_about_11111"><text>罩着潜行者们. 你得承认大半家伙像小屁孩多过像爷们. 带着傻逼梦想来特异区当英雄, 要么就是在外面混不下去. 根本不知道等着你们的是啥——基本都是死神. 我们就管这种人. 在废弃区逮到菜鸟, 缴了装备扔回警戒线. 有脑子的回外面去, 有胆再来的就受我们保护然后交税. 跟你说, 没人敢踩我们地盘——军方不行, 雇佣兵不行, 突变体更不行.   </text></string>
+	<string id="zat_b7_bandit_boss_sultan_about_1112"><text>怎么想到来特异区中心?   </text></string>
+	<string id="zat_b7_bandit_boss_sultan_about_11121"><text>用腿走来的呗. 不为潜行者还能为啥? 没我们维持秩序早他妈乱套了. 你捡到归你, 但谁交平安税? 比如你们有人在异常点捞货, 我们放哨防突变体. 他完事儿出来就得抽成...当是治安管理费懂吧.   </text></string>
+	<string id="zat_b7_bandit_boss_sultan_about_1113"><text>你怎么当上老大的?   </text></string>
+	<string id="zat_b7_bandit_boss_sultan_about_11131"><text>从哪儿说起呢...得回溯到高中时代. 有个铁哥们, 算是死党. 整天一起抽烟喝酒瞎混. 但这家伙越来越追求刺激. 先是吸大麻, 后来搞海洛因, 有钱了又磕可卡因. 我劝他"托利安你趁早戒了吧", 不听. 有次买到劣质货就完了. 我找到那些毒贩给兄弟报了仇...结果被通缉, 坐牢, 帮派火并, 肚子上挨刀...出狱后做生意又被抓...再放出来就彻底离开那摊烂事来特异区. 熬了几个月就升上来了. 现在管着这儿, 维护本地秩序.   </text></string>
+	<string id="zat_b7_bandit_boss_sultan_about_1114"><text>你对潜行者们怎么看?   </text></string>
+	<string id="zat_b7_bandit_boss_sultan_about_11141"><text>人各有命. 有些软蛋待不了一周, 有些能赚钱...还有些是在警戒线两边都混不下去的老实人. 第一种我们抢光, 第二种收税. 最后那种嘛...尽量井水不犯河水. 可惜没法一眼分清...  </text></string>
+	<string id="zat_b7_bandit_boss_sultan_about_1115"><text>你为什么坐...那个位置?   </text></string>
+	<string id="zat_b7_bandit_boss_sultan_about_11151"><text>你妈卖逼的烂脸得排队一个月才轮得上. 还想问更蠢的问题吗?   </text></string>
+	<string id="zat_b7_bandit_boss_sultan_about_1116"><text>哦, 算了. 当我没问.   </text></string>
+	<string id="zat_b7_bandit_boss_sultan_about_11161"><text>随你便. </text></string>
+	
+</string_table>

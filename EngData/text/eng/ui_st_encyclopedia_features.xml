@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	
+	<string id="encyclopedia_features">
+		<text>Game Features</text>
+	</string>
+	
+	<string id="encyclopedia_features_companions">
+		<text>Companions</text>
+	</string>
+	<string id="encyclopedia_features_companions_text">
+		<text>
+			%c[0,153,255,255]Companions%c[0,140,140,140] are stalkers you choose to be your travel partners and squad members.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nTraveling through the Zone alone is dangerous, so most stalkers form small groups of three to four people.\n
+			\nThis game feature allows you to assemble your own team. By talking to the leaders of other squads, you can persuade them to explore the Zone with you.\n
+			\nThe only requirement is that the squad leader must be on friendly terms with you. Their rank must not exceed yours by more than one level. The number of people in your squad must not exceed the maximum limit.\n
+			\nIn special cases, some important characters, like Fanatic, can become your companions, aiding in the completion of certain tasks.\n
+			\nInformation about companions can be viewed in the corresponding tab in the PDA. There you can also give them orders (both to the whole group and to individual members) and influence their behavior.\n
+			\nThe same can be done using the «special menu», whose key is customisable under «Controls» in the game's options menu.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_guide">
+		<text>Guide</text>
+	</string>
+	<string id="encyclopedia_features_guide_text">
+		<text>
+			The %c[0,153,255,255]Guide%c[0,140,140,140] is a comprehensive manual for the game.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nIt was created to explain the features and mechanics of the game.\n
+			\nArticles are sorted by categories, and all tutorials are available from the start of the game.\n
+			\nOther articles need to be unlocked as you progress through the game.\n
+			\nUnlocking articles slightly increases a player's rank.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_map_spots">
+		<text>Map</text>
+	</string>
+	<string id="encyclopedia_features_map_spots_text">
+		<text>
+			%c[0,153,255,255]The Map%c[0,140,140,140] of the Zone displays not only the terrain but also points of special interest.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nMany places and objects have their own markers, making the map easier to read and freeing you from having to remember a lot of information.\n
+			\nYou can create your own custom markers. Double-click on the selected spot on the map and enter the name that will be displayed when hovering over it. These markers can be renamed or deleted later by right-clicking on them and selecting the appropriate context option.\n
+			\n%c[0,0,255,30]Controls:%c[0,140,140,140]
+			\nDisplaying anomalous areas, important objects (traders, technicians, sleeping places, etc.) can be toggled on or off using the buttons at the top of the map.\n
+			\nRegardless of the specified settings, markers for stalkers and other moving objects are always visible on the mini-map.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_rank">
+		<text>Rank</text>
+	</string>
+	<string id="encyclopedia_features_rank_text">
+		<text>
+			%c[0,153,255,255]Rank%c[0,140,140,140] is a rating system based on the stalker's activity in the Zone.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nActions you perform throughout the game are recorded, each adding a different number of points.\n
+			\nAs they accumulate, your rank will gradually change. To reach the next level, you will need 1000 more points than for the previous one.\n
+			\nMost actions are recorded on the statistics page of the PDA, which also tracks the current top 100 leading stalkers.\n
+			\n%c[0,0,255,30]There are eight rank levels:%c[0,140,140,140]
+			\n%c[0,200,0,255]• %c[0,140,140,140]“Rookie”: 0\n%c[0,200,0,255]• %c[0,140,140,140]“Trainee”: 1000\n%c[0,200,0,255]• %c[0,140,140,140]“Experienced”: 3,000\n%c[0,200,0,255]• %c[0,140,140,140]“Professional”: 6,000\n%c[0,200,0,255]• %c[0,140,140,140]“Veteran”: 10,000\n%c[0,200,0,255]• %c[0,140,140,140]“Expert”: 15,000\n%c[0,200,0,255]• %c[0,140,140,140]“Master”: 21,000\n%c[0,200,0,255]• %c[0,140,140,140]“Legend”: 28,000
+		</text>
+	</string>	
+	
+	<string id="encyclopedia_features_reputation">
+		<text>Reputation</text>
+	</string>
+	<string id="encyclopedia_features_reputation_text">
+		<text>
+			%c[0,153,255,255]Reputation%c[0,140,140,140] gives an idea of how a stalker interacts with other stalkers.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nReputation is similar to rank but differs in that it is non-linear - it can both increase and decrease - and is tied to your relationships with other stalkers rather than your activity in the game.\n
+			\nThe simplest ways to increase your reputation are: completing tasks, providing first aid to the wounded, and eliminating enemies of your faction. The simplest ways to lose it are failing or refusing tasks and killing neutral or friendly stalkers.\n
+			\nIt should be noted that reputation is an individual characteristic. It should not be confused with relationships between factions.\n
+			\n%c[0,0,255,30]There are nine reputation categories:%c[0,140,140,140]
+			\n%c[0,200,0,255]• %c[0,140,140,140]"Terrible": -2,000\n%c[0,200,0,255]• %c[0,140,140,140]"Dreary": -1,500\n%c[0,200,0,255]• %c[0,140,140,140]"Awful": -1,000\n%c[0,200,0,255]• %c[0,140,140,140]"Bad": -500\n%c[0,200,0,255]• %c[0,140,140,140]"Neutral": 0\n%c[0,200,0,255]• %c[0,140,140,140]"Good": 500\n%c[0,200,0,255]• %c[0,140,140,140]"Great": 1,000\n%c[0,200,0,255]• %c[0,140,140,140]"Brilliant": 1,500\n%c[0,200,0,255]• %c[0,140,140,140]"Excellent": 2,000
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_stashes">
+		<text>Stashes</text>
+	</string>
+	<string id="encyclopedia_features_stashes_text">
+		<text>
+			%c[0,153,255,255]Stashes%c[0,140,140,140] are personal supplies of stalkers stored in hidden places.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nMany stalkers store spare ammunition, food, and medicine in well-hidden boxes, backpacks, and other suitable objects.\n
+			\nOften the information about the stash's location dies with its owner, resulting in the Zone always having stashes waiting to be discovered.\n
+			\nTraders often give stash coordinates as payment for good work. Captives may give up their personal stashes in hopes of buying their own lives.\n
+			\nThe stashes you create will never be looted by other stalkers - your items will always be safe.\n
+			\nThe type and/or status of a stash can be easily determined by looking at its icon on the map or by hovering your mouse cursor over it.\n
+			\n%c[0,0,223,8]• %c[0,140,140,140]Green: A regular stash\n%c[0,181,0,231]• %c[0,140,140,140]Purple: Stash for the task\n%c[0,222,27,3]• %c[0,140,140,140]Red: Player stash\n%c[0,222,173,3]• %c[0,140,140,140]Yellow: Unique stash
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_detectors">
+		<text>Detectors</text>
+	</string>
+	<string id="encyclopedia_features_detectors_text">
+		<text>
+			%c[0,153,255,255]Detectors%c[0,140,140,140] - a special device that helps in detecting artefacts as well as anomalies and radiation hotspots.\n
+			\n%c[0,0,255,30]Information:\n%c[0,140,140,140]
+			\n%c[0,153,255,255]"Echo"%c[0,140,140,140] - obsolete model of anomalous activity detector. Reacts with a sound signal when anomalous particles enter a special chamber, when approaching anomalies; in addition, it can register the presence of artefacts and measure the distance to the nearest one. The distance to the artefact is determined by the frequency of the sound that is emitted. The artefact search mode is activated by lifting the antenna cover on the front panel of the device. Due to the simplicity of design it is able to find only the most common artefacts.\n
+			\n%c[0,153,255,255]"Bear"%c[0,140,140,140] - anomalous activity detector of the last generation. It is equipped with a locator of anomalous formations and a LED panel for displaying the direction to the artefact, and is able not only to detect artefacts, but also to determine the distance to them. The artefact search mode is switched on by lifting the antenna cover on the front side of the device. Unfortunately, a somewhat outdated list of detected artefacts is embedded in the device at the hardware level.\n
+			\n%c[0,153,255,255]"Veles"%c[0,140,140,140] - a new generation detector-scanner used by scientists. Thanks to three advanced recording cameras, the location of the artefact relative to the detector is shown on a special screen. Capable of detecting radiation and the presence of anomalies. The artefact search mode is activated by raising the indicator board on the front of the device: in this mode it can detect all artefacts known to science.\n
+			\n%c[0,153,255,255]"Svarog"%c[0,140,140,140] - prototype of an anomalous zone scanner with extended functionality. A programme has been added to detect static zones of anomalous activity, which are available in the database; at the same time, the possibility of artefact detection has been retained. The location of anomalous zones and artefacts relative to the detector are displayed on a special screen. The artefact search programme, which is activated by raising the display indicator on the front of the instrument, has been improved; in theory it can detect anomalous formations not yet known to science.\n
+			\n%c[0,0,255,30]Identification:%c[0,140,140,140]
+			\nDetectors are divided into four ranks. The higher the rank, the more rare and expensive artefacts the detector can detect. The artefacts themselves are classified according to the same principle.\n
+			\n%c[0,200,0,255]• %c[0,140,140,140]"Echo": Rank 1\n%c[0,200,0,255]• %c[0,140,140,140]"Bear": Ranks 1-2\n%c[0,200,0,255]• %c[0,140,140,140]"Veles": Ranks 1-3\n%c[0,200,0,255]• %c[0,140,140,140]"Svarog": Ranks 1-4
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_controls">
+		<text>Controls</text>
+	</string>
+	<string id="encyclopedia_features_controls_text">
+		<text>
+			%c[0,153,255,255]The control settings%c[0,140,140,140] now include the following %c[0,0,255,30]new features:\n%c[0,140,140,140]
+			\n%c[0,200,0,255]• %c[0,140,140,140]quick knife strike;
+			\n%c[0,200,0,255]• %c[0,140,140,140]quick grenade throw;
+			\n%c[0,200,0,255]• %c[0,140,140,140]quick bolt throw;
+			\n%c[0,200,0,255]• %c[0,140,140,140]alternative aiming (if an optical sight is installed);
+			\n%c[0,200,0,255]• %c[0,140,140,140]wiping the helmet mask (gas mask);
+			\n%c[0,200,0,255]• %c[0,140,140,140]unloading all weapons in the inventory (weapons in slots are excluded);
+			\n%c[0,200,0,255]• %c[0,140,140,140]radial menu for selecting hand grenades;			
+			\n%c[0,200,0,255]• %c[0,140,140,140]companion menu (for quickly issuing commands);
+			\n%c[0,200,0,255]• %c[0,140,140,140]campfire cooking menu;
+			\n%c[0,200,0,255]• %c[0,140,140,140]enable/disable the minimap and interface;
+			\n%c[0,200,0,255]• %c[0,140,140,140]enable/disable the compass (appears when the compass add-on is enabled);
+			\n%c[0,200,0,255]• %c[0,140,140,140]enable/disable the helmet visor;
+			\n%c[0,200,0,255]• %c[0,140,140,140]temporary display of the interface;
+			\n%c[0,200,0,255]• %c[0,140,140,140]holding breath while aiming;
+			\n%c[0,200,0,255]• %c[0,140,140,140]ability to drop the backpack (RBS);
+			\n%c[0,200,0,255]• %c[0,140,140,140]ability to change the minimap zoom level;
+			\n%c[0,200,0,255]• %c[0,140,140,140]ability to clear a specific key binding in the control options (hover over the desired key and press RMB);
+			\n%c[0,200,0,255]• %c[0,140,140,140]ability to change how the sprint key works (like in the original—press once—or like in modern games—hold);
+			\n%c[0,200,0,255]• %c[0,140,140,140]ability to transfer multiple items at once (hold Left CTRL or Left ALT or Left SHIFT + double-click LMB on the desired item).
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_travels">
+		<text>Fast travels</text>
+	</string>
+	<string id="encyclopedia_features_travels_text">
+		<text>
+			%c[0,153,255,255]Fast travels%c[0,140,140,140] - is the ability to travel instantly to designated points.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nThis type of movement is made for the player's convenience when exploring the world of the game.\n
+			\nFast travels are made through the global map in the PDA by clicking on special icons (green house), which are opened when exploring certain territories.\n
+			\n%c[0,0,255,30]How it works:%c[0,140,140,140]
+			\nTravel between locations requires a "special" artifact (the artifact itself does not need to be placed on the belt to be able to travel) and the "Charge" of the artifact itself will decrease when travel (if the charge is less than 5%, fast travel between locations will become unavailable), but no artifact is required to travel within the current location.\n
+			\nInformation on the approximate location of "special" artifacts can be found in this guidebook.\n
+			\n%c[0,0,255,30]Additional information:%c[0,140,140,140]
+			\nIt is also possible to move with the help of a special dialog at merchants. The cost of this move is calculated automatically, and the move itself is possible only on those locations where there are merchants.			
+		</text>
+	</string>
+
+	<string id="encyclopedia_features_repair">
+		<text>Equipment repair</text>
+	</string>
+	<string id="encyclopedia_features_repair_text">
+		<text>
+			%c[0,153,255,255]Equipment repair%c[0,140,140,140] - is the ability to restore the durability of your gear (in several ways).\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nIn addition to the technicians' original repairs, there is now the option to repair with repair kits (for weapons) and sewing kits (for equipment).\n
+			\nTo repair an item with a repair kit, you need to drag and drop the repair kit (sewing kit) onto the item you need (weapon or equipment).\n
+			\n%c[0,0,255,30]Features:%c[0,140,140,140]
+			\nRepair through technicians allows you to restore the item's durability up to 100%, and through repair kits only up to 75% (if you get the achievement "Mechanized Warfare", then the maximum percentage of recovery will be 90%), and the repair kits themselves have a maximum of three uses. But if the item's durability drops to 5% or lower, the item cannot be repaired in any way.\n
+			\nTechnicians also have tasks to find tools. For each completed task, you will receive a cash reward and a discount on repairs and improvements. Tools can be found in normal stashes (random chance), in stashes for quests (35% chance), in the corpses of technicians (the further north you go, the better the type of tools and the higher the chance of appearance) and in the sale at the "Forester" (the higher the player's rank, the higher the chance of appearance in the sale, but the prices are very high).
+		</text>
+	</string>	
+	
+	<string id="encyclopedia_features_trade">
+		<text>Trade</text>
+	</string>
+	<string id="encyclopedia_features_trade_text">
+		<text>
+			%c[0,153,255,255]Trade%c[0,140,140,140] - is the ability to sell or buy (or donate) almost anything.\n
+			\n%c[0,0,255,30]Information:%c[0,140,140,140]
+			\nA player can sell items if their condition is at least 50%, and buy items without any restrictions on condition or quantity. Sometimes rare items may appear on sale, but with a very low chance.\n
+			\n%c[0,0,255,30]Features:%c[0,140,140,140]
+			\nThe assortment of regular traders improves along with the player's rank (a message about the improvement of the assortment will be displayed on the screen), and a unique assortment will only appear after receiving the "Heavy Pockets" achievement and having good relations with the trader's faction (i.e., the value in the "Relations" tab in the PDA must be 1500, for the "Monolith" faction, the value is 1000).\n
+			\n%c[0,153,255,255]The unique assortment%c[0,140,140,140] is available from the following traders: Nimble, Forester, Sultan, Kuznetsov, Noah and Rabbit. It also improves along with the player's rank (a message about the improvement of the assortment will be displayed on the screen).\n		
+			\nDiscounts from traders improve as your relationship with that trader's faction increases (maximum discounts are achieved when the value in the "Relationships" tab in the PDA is 1500, for the "Monolith" faction, the value is 1000), but there are exceptions: Forester and Noah do not offer discounts.\n		
+			\n%c[0,0,255,30]Additional information:%c[0,140,140,140]
+			\nThere is also an option to gift most items to NPCs. Each gifted item increases reputation a little bit, the received reputation depends on the condition of the item (if it is an outfit or weapon), but if the condition of the item is less than 10% (and it is not an outfit or weapon), the received reputation will be equal to one.
+		</text>
+	</string>	
+	
+</string_table>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<!-- FIND ARTEFACT FOR BEARD TASK -->
+	<string id="zat_a2_stalker_barmen_task_1_name">
+		<text>Find the %s rare Artefact for Beard</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_task_1_text">
+		<text>Beard wants you to find the %s artefact for him.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_task_1_about">
+		<text>I have a list of clients who pay good money for rare artifacts. Do you want to try to get one for me?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_task_1_fetch_about">
+		<text>%c[ui_8]I have a list of clients who pay good money for rare artifacts... Right now, there's an order for the %c[ui_orange]%s%c[ui_8] artifact. If you bring it to me, I'll pay well. But hurry up, stalker, you might not be the only one hunting for it...</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_task_1_fetch_finish">
+		<text>Good hunting stalker! Have a drink on the house!</text>
+	</string>
+
+
+	<!-- ASSASSINATION FOR OWL TASK -->
+	<string id="zat_b30_owl_stalker_trader_task_1_name">
+		<text>Kill Military for Owl</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_task_1_text">
+		<text>Convince the military to call off his search for a fellow stalker.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_task_1_about">
+		<text>%c[ui_8]There's one person the military is after. Don't ask why, but we need to help the poor guy. I found out who's in charge of the search, and I need a specialist in tough negotiations - someone who can "convince" the hunter to leave the man alone. Well, you get it...</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_task_1_finish">
+		<text>Well, you killed him. That's the job done.</text>
+	</string>
+
+
+	<!-- ELIMINATE MUTANTS FOR GONTA TASK -->
+	<string id="zat_b106_stalker_gonta_task_1_name">
+		<text>Hunt Mutants for Gonta</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_task_1_text">
+		<text>Gonta asked me to clear the area of mutants and report back after the job is done.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_task_1_about">
+		<text>%c[ui_8]I'm hunting mutants in this area, but there are still a lot of them around, and I'm having trouble keeping up. I wouldn't mind the help of an experienced hunter. If you're ready to help, I'll send the lair coordinates to your PDA. Once you've cleared out the beasts, come back for your reward.\n\n%c[ui_orange][This task will fail if after taking it, the player goes to a location where this task is not available]</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_task_1_finish">
+		<text>Haha! Well done stalker!</text>
+	</string>
+
+	<!-- FIND RARE MUTANT PARTS FOR GONTA TASK -->
+	<string id="zat_b106_stalker_gonta_task_2_name">
+		<text>Collect %s for Gonta</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_task_2_text">
+		<text>Gonta says he will pay well if I can bring him a %s.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_task_2_about">
+		<text>I have a bounty out on a particular type of mutant. Are you interested?</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_task_2_fetch_about">
+		<text>%c[ui_8]I pay extra for eliminating dangerous mutants. But I need the proof of the creature's death. A %c[ui_orange]%s%c[ui_8] will confirm the kill. Are you up for the job?.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_task_2_fetch_finish">
+		<text>Ah, another threat eliminated and a new decoration for the camp. Well done, stalker.</text>
+	</string>
+
+
+	<!-- FIND LEVEL 1 TOOLKIT FOR CARDAN TASK -->
+	<string id="zat_a2_stalker_mechanic_task_1_name">
+		<text>Find %s for Cardan</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_1_text">
+		<text>%s are required by Cardan to install basic equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_1_about">
+		<text>Not only do I need some more booze I can really use a good set of tools, stalker. If you are interested in helping me out, I will tell you what I need.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_1_fetch_about">
+		<text>%c[ui_8]I need a set of %c[ui_orange]%s%c[ui_8]. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_1_fetch_finish">
+		<text>Great, stalker. You brought exactly what I've asked. Thanks.</text>
+	</string>
+
+	<!-- FIND LEVEL 2 TOOLKIT FOR CARDAN TASK -->
+	<string id="zat_a2_stalker_mechanic_task_2_name">
+		<text>Find %s for Cardan</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_2_text">
+		<text>%s are required by Cardan to install advanced equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_2_about">
+		<text>I could really use more tools and vodka. But the vodka is easy to find. What I need from you is more tools; better tools. Can you do this for me?</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_2_fetch_about">
+		<text>%c[ui_8]I need a set of %c[ui_orange]%s%c[ui_8]. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_2_fetch_finish">
+		<text>Fantastic! Feel free to stop by any time for a drink or if you need me to take a look at your gear.</text>
+	</string>
+
+	<!-- FIND LEVEL 3 TOOLKIT FOR CARDAN TASK -->
+	<string id="zat_a2_stalker_mechanic_task_3_name">
+		<text>Find %s for Cardan</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_3_text">
+		<text>%s are required by Cardan to install expert equipment upgrades, you should bring them back to him if you find any.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_3_about">
+		<text>I could really use more tools and vodka. But the vodka is easy to find. What I need from you is more tools; better tools. Can you do this for me?</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_3_fetch_about">
+		<text>%c[ui_8]I need a set of %c[ui_orange]%s%c[ui_8]. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_3_fetch_finish">
+		<text>Fantastic! Feel free to stop by any time for a drink or if you need me to take a look at your gear.</text>
+	</string>
+
+	<!-- FIND DETECTORS FOR CARDAN TASK -->
+	<string id="zat_a2_stalker_mechanic_task_4_name">
+		<text>Find detectors for Cardan</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_4_text">
+		<text>%s - required by Cardan, you should find some and bring them back to him.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_4_about">
+		<text>Я разбираю старую электронику на запчасти. Плачу, в том числе, и за старые детекторы. Соберёшь пару таких тащи мне.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_4_fetch_about">
+		<text>%c[ui_8]I take apart old electronics for spare parts. I pay for old detectors as well. If you find some, bring them here. Right now I need a couple of %c[ui_orange]%s%c[ui_8]. If you bring it, I'll make it worth your while.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_4_fetch_finish">
+		<text>Great! Here you go, just like I promised.</text>
+	</string>
+
+
+	<!-- FIND ALCOHOL FOR MEDIC TASK -->
+	<string id="zat_b22_stalker_medic_task_1_name">
+		<text>Bring Alcohol for Axel</text>
+	</string>
+	<string id="zat_b22_stalker_medic_task_1_text">
+		<text>%s get it and bring it to Axel, so he can use it for wound disinfection.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_task_1_about">
+		<text>I need more alcohol for wound disinfection. I will pay you if you bring me some.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_task_1_fetch_about">
+		<text>%c[ui_8]I need more alcohol for wound disinfection. I will pay you well if you bring me some. %c[ui_orange]%s%c[default] would be ideal.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_task_1_fetch_finish">
+		<text>Perfect, exactly what I needed. Thank you!</text>
+	</string>
+
+</string_table>

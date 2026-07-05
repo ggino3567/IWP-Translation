@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="ui_st_sleep">
+		<text>At critical fatigue, a character needs 8 hours of sleep</text>
+	</string>
+	
+	<string id="ui_mm_menu_clicks">
+		<text>Click sounds in the menu</text>
+	</string>	
+	
+	<string id="ui_mm_hold_breath">
+		<text>Breath holding</text>
+	</string>
+	
+	<string id="ui_mm_suppression">
+		<text>Suppression Effect</text>
+	</string>	
+
+	<string id="ui_st_move_items">
+		<text>To move or purchase multiple items at a time, hold left CTRL or left ALT or left SHIFT + Double-click the LMB on the desired item</text>
+	</string>
+	
+	<string id="st_new_game_msg">
+		<text>Before starting the game, it is strongly recommended to read the "FAQ" and "Features, tips and drawbacks" files (in the Readme ENG folder), as well as the "Guide" in the PDA. Have a good game!</text>
+	</string>	
+	
+	<string id="ui_st_unbind">
+		<text>To reset a particular key, move the cursor over it and press %c[255,216,186,140]RMB</text>
+	</string>	
+	
+	<string id="ui_st_defaults">
+		<text>To reset all settings, delete %c[255,216,186,140]user.ltx %c[default]file from the %c[255,216,186,140]datafiles %c[default]folder.\n \nThere are also tooltips for most options (hover your cursor over the option name)</text>
+	</string>		
+	
+	<string id="ui_st_hint_opt">
+		<text>Some options in this section, will only become available after the gameplay has started</text>
+	</string>	
+	
+	<string id="ui_mm_cryray_static_geom">
+		<text>Optimization of stat. objects</text>
+	</string>
+	
+	<string id="ui_mm_cryray_static_geom_hint">
+		<text>Responsible for the range of visibility of static (stationary) objects. The higher the value, the smaller the range of visibility.\n \nDefault: %c[255,216,186,140]"1"\n \n%c[default]Effect on FPS: %c[ui_green]low</text>
+	</string>		
+	
+	<string id="ui_mm_cryray_dynamic_geom">
+		<text>Optimization of dyn. objects</text>
+	</string>	
+	
+	<string id="ui_mm_cryray_dynamic_geom_hint">
+		<text>Responsible for the range of visibility of dynamic (moving) objects. The higher the value, the smaller the range of visibility.\n \nDefault: %c[255,216,186,140]"1"\n \n%c[default]Effect on FPS: %c[ui_green]low</text>
+	</string>		
+	
+	<string id="ui_mm_cryray_graphics_opt_3">
+		<text>Distant Texture Quality</text>
+	</string>
+	
+	<string id="ui_mm_cryray_graphics_opt_3_hint">
+		<text>Responsible for the quality and range of texture rendering at a distance.\n \nDefault: %c[255,216,186,140]"62"\n \n%c[default]Effect on FPS: %c[ui_green]very low</text>
+	</string>	
+	
+	<string id="ui_mm_cryray_graphics_opt_5">
+		<text>Anisotropic Filtering</text>
+	</string>
+	
+	<string id="ui_mm_cryray_graphics_opt_5_hint">
+		<text>It is a technology that improves the display of textures when they are placed in the field of view at an oblique angle or at a distance.\n \nDefault: %c[255,216,186,140]"8"\n \n%c[default]Effect on FPS: %c[ui_green]low</text>
+	</string>		
+	
+	<string id="ui_mm_cryray_graphics_opt_9">
+		<text>Anti-Aliasing Type</text>
+	</string>
+	
+	<string id="ui_mm_cryray_graphics_opt_9_hint">
+		<text>It is a technology that reduces «jagged» edges (aliasing) on objects, making lines and contours look smoother and more realistic.\n \nDefault: %c[255,216,186,140]"Disabled"\n \n%c[default]Effect on FPS: %c[ui_orange]high</text>
+	</string>		
+	
+	<string id="ui_mm_cryray_graphics_opt_20">
+		<text>Sun Rays</text>
+	</string>
+	
+	<string id="ui_mm_cryray_graphics_opt_20_hint">
+		<text>This option is responsible for displaying volumetric rays from sunlight.\n \nDefault: %c[255,216,186,140]"Volumetric"\n \n%c[default]Effect on FPS: %c[ui_yellow]medium</text>
+	</string>	
+	
+	<string id="ui_mm_cryray_graphics_opt_24">
+		<text>FPS Counter</text>
+	</string>
+	
+	<string id="ui_mm_cryray_graphics_opt_24_hint">
+		<text>Display the FPS counter in the lower left corner of the screen.\n \nDefault: %c[255,216,186,140]"Enabled"</text>
+	</string>		
+	
+	<string id="ui_mm_cryray_graphics_opt_33">
+		<text>Player Shadow</text>
+	</string>
+	
+	<string id="ui_mm_cryray_graphics_opt_33_hint">
+		<text>This option is responsible for displaying the player's shadow.\n \nDefault: %c[255,216,186,140]"Disabled"\n \n%c[default]Effect on FPS: %c[ui_green]very low</text>
+	</string>	
+	
+	<string id="ui_mm_cryray_graphics_opt_34">
+		<text>Grass Shadow</text>
+	</string>
+	
+	<string id="ui_mm_cryray_graphics_opt_34_hint">
+		<text>This option is responsible for displaying grass shadows.\n \nDefault: %c[255,216,186,140]"Disabled"\n \n%c[default]Effect on FPS: %c[ui_green]low</text>
+	</string>
+	
+	<string id="ui_mm_cryray_graphics_opt_101">
+		<text>DoF in Scope</text>
+	</string>
+	
+	<string id="ui_mm_cryray_graphics_opt_101_hint">
+		<text>Responsible for blurring the image while aiming.\n \nDefault: %c[255,216,186,140]"Disabled"</text>
+	</string>	
+	
+	<string id="ui_mm_cryray_graphics_opt_102">
+		<text>DoF in Reload</text>
+	</string>
+	
+	<string id="ui_mm_cryray_graphics_opt_102_hint">
+		<text>Responsible for blurring the image during reloading.\n \nDefault: %c[255,216,186,140]"Enabled"</text>
+	</string>		
+	
+	<string id="ui_mm_cryray_graphics_opt_103">
+		<text>DoF for Weather</text>
+	</string>
+	
+	<string id="ui_mm_cryray_graphics_opt_103_hint">
+		<text>Responsible for blurring the image on the horizon.\n \nDefault: %c[255,216,186,140]"Enabled"</text>
+	</string>	
+	
+	<string id="ui_mm_cryray_graphics_opt_104">
+		<text>Vertical Sync</text>
+	</string>
+	
+	<string id="ui_mm_cryray_graphics_opt_104_hint">
+		<text>This is a technology designed to eliminate image tearing. It synchronizes the refresh rate of the monitor image with the frame rate of the game.\n \nDefault: %c[255,216,186,140]"Disabled"</text>
+	</string>	
+	
+	<string id="ui_mm_cryray_dof_animator">
+		<text>DoF for Items</text>
+	</string>
+
+	<string id="ui_mm_cryray_dof_animator_hint">
+		<text>Responsible for blurring the image while playing animations of items (medicine, provisions, etc.).\n \nDefault: %c[255,216,186,140]"Enabled"</text>
+	</string>	
+	
+	<string id="ui_mm_cryray_3d_scopes">
+		<text>PiP Scopes</text>
+	</string>
+	
+	<string id="ui_mm_cryray_3d_scopes_hint">
+		<text>Enables display of PiP (picture in picture) scopes.\n \nDefault: %c[255,216,186,140]"Enabled"\n \n%c[default]Effect on FPS: %c[ui_red]very high</text>
+	</string>				
+	
+	<string id="ui_mm_cryray_mipbias">
+		<text>Texture Sharpness</text>
+	</string>
+	
+	<string id="ui_mm_cryray_mipbias_hint">
+		<text>Affects the level of detail and clarity of textures applied to 3D-models and surfaces in the game world.\n \nDefault: %c[255,216,186,140]"0"\n \n%c[default]Effect on FPS: %c[ui_green]very low</text>
+	</string>
+
+	<string id="ui_mm_cryray_mask_hud">
+		<text>Gas mask shader</text>
+	</string>	
+
+	<string id="ui_mm_cryray_mask_hud_hint">
+		<text>Responsible for displaying the "fogged edges" and raindrop effect when wearing helmets or suits with a built-in helmet.\n \nDefault: %c[255,216,186,140]"Enabled"\n \n%c[default]Effect on FPS: %c[ui_yellow]medium</text>
+	</string>		
+	
+	<string id="ui_mm_need_restart_level">
+		<text>To apply changes, a level restart is needed. You can save and load the current game progress</text>
+	</string>
+	
+	<string id="sunshafts_off">
+		<text>Disabled</text>
+	</string>
+	
+	<string id="sunshafts_screen_space">
+		<text>Screen Space</text>
+	</string>
+	
+	<string id="sunshafts_volumetric">
+		<text>Volumetric</text>
+	</string>
+	
+	<string id="sunshafts_combine">
+		<text>Screen Space + Volumetric</text>
+	</string>
+	
+	<string id="ui_mm_monitor">
+		<text>Window Mode</text>
+	</string>	
+	
+	<string id="windowed">
+		<text>Windowed</text>
+	</string>
+	
+	<string id="windowed_borderless">
+		<text>Borderless</text>
+	</string>
+	
+	<string id="fullscreen">
+		<text>Fullscreen</text>
+	</string>
+	
+	<string id="off">
+		<text>Disabled</text>
+	</string>
+	
+	<string id="ui_mm_cryray_map_zoom">
+		<text>Minimap Scale</text>
+	</string>
+	
+	<string id="fxaa">
+		<text>FXAA</text>
+	</string>
+	
+	<string id="smaa">
+		<text>SMAA</text>
+	</string>
+	
+	<string id="ui_mm_pdaoff">
+		<text>Disable PDA during Emission</text>
+	</string>
+	
+	<string id="ui_mm_pdaoff1">
+		<text>Disable PDA in undergrounds</text>
+	</string>
+	
+	<string id="ui_mm_sprint">
+		<text>Sprint by Holding</text>
+	</string>
+	
+	<string id="ui_mm_lookout">
+		<text>Tilts on Press</text>
+	</string>		
+	
+	<string id="ui_mm_gameplay_ui">
+		<text>Interface</text>
+	</string>
+	
+	<string id="ui_mm_fov_scope">
+		<text>Scope FOV</text>
+	</string>
+	
+	<string id="ui_mm_dead_body_collision">
+		<text>Body Collision</text>											
+	</string>
+	
+	<string id="ui_mm_actor_hit">
+		<text>Wound Effect</text>
+	</string>
+	
+	<string id="ui_mm_actor_bleeding">
+		<text>Bleeding Effect</text>
+	</string>
+	
+	<string id="ui_mm_actor_effects">
+		<text>Well-being Effects</text>
+	</string>
+	
+	<string id="ui_mm_actor_death_first_eye">
+		<text>First-person Death</text>
+	</string>
+	
+	<string id="ui_mm_cop_pickup_mode">
+		<text>Pick up All Items</text>
+	</string>
+	
+	<string id="ui_mm_update_loot_pick_soc">
+		<text>Inventory Update</text>
+	</string>
+	
+	<string id="ui_mm_wallmarks">
+		<text>Bullet Marks on Bodies</text>
+	</string>
+	
+	<string id="ui_mm_mode_crosshair">
+		<text>Crosshair Mode</text>
+	</string>
+	
+	<string id="standart_crosshair">
+		<text>standard</text>
+	</string>
+	
+	<string id="collide_crosshair">
+		<text>collision</text>
+	</string>
+	
+	<string id="inertion_crosshair">
+		<text>inertia</text>
+	</string>
+	
+	<string id="ui_mm_type_crosshair">
+		<text>Crosshair Type</text>
+	</string>
+	
+	<string id="type_crosshair_0">
+		<text>standard</text>
+	</string>
+	
+	<string id="type_crosshair_1">
+		<text>dot</text>
+	</string>
+	
+	<string id="type_crosshair_2">
+		<text>compact</text>
+	</string>
+	
+	<string id="type_crosshair_3">
+		<text>compact alt.</text>
+	</string>
+	
+	<string id="ui_mm_disable_minimap">
+		<text>Disable minimap</text>
+	</string>
+	
+	<string id="actor_only">
+		<text>player</text>
+	</string>
+	
+	<string id="full">
+		<text>all</text>
+	</string>
+	
+	<string id="af_deterioration_cond">
+		<text>Charge Loss</text>
+	</string>
+
+	<string id="npc_dead_character_use">
+		<text>Search Corpse ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="monster_dead_character_use">
+		<text>Examine ($$ACTION_USE$$)</text>
+	</string>
+	
+	<string id="ui_inv_thirst">
+		<text>Saturation</text>
+	</string>
+	
+	<string id="ui_inv_sleep">
+		<text>Vigor</text>
+	</string>
+	
+	<string id="st_pda_change_spot_hint">
+		<text>Change Label Name</text>
+	</string>
+	
+	<string id="st_pda_delete_spot">
+		<text>Delete Label</text>
+	</string>
+	
+	<string id="st_zone">
+		<text>Map Updated: %s</text>
+	</string>
+	
+	<string id="ui_mm_discord">
+		<text>Discord Integration</text>
+	</string>
+	
+	<string id="ui_mm_fast_travel">
+		<text>Fast travels</text>
+	</string>	
+	
+	<string id="st_ui_pda_companion">
+		<text>Companion</text>
+	</string>
+	
+	<string id="ui_mm_aim_toggle">
+		<text>Aim on Press</text>
+	</string>
+	
+	<string id="ui_minimap_alpha">
+		<text>Minimap opacity</text>
+	</string>
+	
+	<string id="ui_camera_shake">
+		<text>Camera shake</text>
+	</string>	
+	
+	<string id="ui_mm_render_setup">
+		<text>Image settings</text>
+	</string>
+	
+	<string id="ui_mm_fov_setup">
+		<text>Camera settings</text>
+	</string>
+	
+	<string id="ui_mm_other_setup">
+		<text>Minimap settings</text>
+	</string>	
+	
+	<string id="ui_mm_sound_base">
+		<text>Main settings</text>
+	</string>
+	
+	<string id="ui_mm_sound_other">
+		<text>Additional settings</text>
+	</string>
+	
+	<string id="ui_mm_mouse_sense_aim">
+		<text>Sensitivity of 3D lens</text>
+	</string>
+	
+	<string id="st_loading_shaders_cryray_engine">
+		<text>Loading Shaders...</text>
+	</string>
+	
+	<string id="st_loading_geometry_cryray_engine">
+		<text>Loading Geometry...</text>
+	</string>
+	
+	<string id="st_loading_spatial_db_cryray_engine">
+		<text>Loading Spatial Database...</text>
+	</string>
+	
+	<string id="st_loading_details_cryray_engine">
+		<text>Loading Location Details...</text>
+	</string>
+	
+	<string id="st_loading_cform_cryray_engine">
+		<text>Loading Geometry Shapes...</text>
+	</string>
+	
+	<string id="st_creating_new_game_cryray_engine">
+		<text>Creating New Game...</text>
+	</string>
+	
+	<string id="st_loading_alife_simulator_cryray_engine">
+		<text>Loading A-Life Simulation...</text>
+	</string>
+	
+	<string id="st_client_synchronising_cryray_engine">
+		<text>Object Synchronization...</text>
+	</string>
+	
+	<string id="st_loading_ai_objects_cryray_engine">
+		<text>Loading Live Object Logic...</text>
+	</string>	
+	
+	<string id="st_client_spawning_cryray_engine">
+		<text>Client Synchronization...</text>
+	</string>
+	
+	<string id="st_loading_textures_cryray_engine">
+		<text>Loading Textures...</text>
+	</string>
+	
+	<string id="st_server_starting_cryray_engine">
+		<text>Server Start...</text>
+	</string>
+	
+	<string id="st_loading_lights_cryray_engine">
+		<text>Loading Light...</text>
+	</string>
+	
+	<string id="st_loading_saved_game_cryray_engine">
+		<text>Loading Save:</text>
+	</string>	
+	
+	<string id="st_task_info">
+		<text>Additional information:</text>
+	</string>		
+
+</string_table>
